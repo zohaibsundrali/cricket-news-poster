@@ -1,0 +1,77 @@
+name: "Publish approved post"
+
+on:
+  schedule:
+    # Every 15 minutes: picks up Telegram approve/reject button presses and
+    # uploads anything that was approved since the last run.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with generate.yml: the two workflows both commit data/state.json, so
+# they must never run at the same time. Queue instead of cancelling.
+concurrency:
+  group: cricket-state
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # No Playwright and no fonts here: this job never renders a card. It only
+      # reads Telegram button presses and uploads an already-rendered image, so
+      # keeping it lean makes the every-15-minutes schedule cheap.
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Publish approved post
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_APP_ID: ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          FB_API_VERSION: ${{ vars.FB_API_VERSION }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          AUTO_APPROVE: ${{ vars.AUTO_APPROVE }}
+          APPROVAL_TIMEOUT_HOURS: ${{ vars.APPROVAL_TIMEOUT_HOURS }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
+        run: python publish.py
+
+      # Must run even on failure: publish.py advances telegram_offset and marks
+      # posts as published before any later step can fail. Losing that state
+      # would re-process the same approval tap and double-post to Facebook.
+      - name: Commit state
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore: state update [skip ci]"
+            git push
+          fi

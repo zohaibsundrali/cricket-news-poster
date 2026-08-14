@@ -1,0 +1,6 @@
+requests>=2.32          # services/http.py — every outbound HTTP call (Graph API, Telegram, feeds)
+feedparser>=6.0         # pipeline/discover.py — parses the RSS feeds in config.FEEDS
+trafilatura>=1.12       # pipeline/extract.py — pulls the article body out of a news page
+jinja2>=3.1             # pipeline/render.py — fills the HTML card template
+playwright>=1.47        # pipeline/render.py — screenshots the card to a 1080x1080 PNG
+python-dotenv>=1.0      # config.py — loads a local .env during development (unused in CI)

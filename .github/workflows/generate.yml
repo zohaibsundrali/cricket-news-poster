@@ -1,0 +1,109 @@
+name: "Generate cricket post"
+
+on:
+  schedule:
+    # Cron is UTC. Pakistan is UTC+5, so these are
+    # 07:00, 10:00, 13:00, 16:00, 19:00 and 22:00 Pakistan time.
+    - cron: "0 2,5,8,11,14,17 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run the pipeline but do not send anything to Telegram/Facebook"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+# Shared with publish.yml: the two workflows both commit data/state.json, so
+# they must never run at the same time. Queue instead of cancelling — a
+# cancelled publish could drop an already-approved post.
+concurrency:
+  group: cricket-state
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
+      - name: Install Chromium for Playwright
+        run: playwright install --with-deps chromium
+
+      - name: Cache fonts
+        uses: actions/cache@v4
+        with:
+          path: assets/fonts
+          key: ${{ runner.os }}-fonts-${{ hashFiles('config.py') }}
+          restore-keys: |
+            ${{ runner.os }}-fonts-
+
+      - name: Fetch fonts
+        run: python scripts/fetch_fonts.py
+
+      - name: Generate post
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_APP_ID: ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          FB_API_VERSION: ${{ vars.FB_API_VERSION }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          AUTO_APPROVE: ${{ vars.AUTO_APPROVE }}
+          APPROVAL_TIMEOUT_HOURS: ${{ vars.APPROVAL_TIMEOUT_HOURS }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
+          BRAND_NAME: ${{ vars.BRAND_NAME }}
+          BRAND_HANDLE: ${{ vars.BRAND_HANDLE }}
+          BRAND_ACCENT: ${{ vars.BRAND_ACCENT }}
+          BRAND_DEEP: ${{ vars.BRAND_DEEP }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: python generate.py
+
+      # Runs even when generate.py exits non-zero. The script saves state before
+      # it gives up (articles marked seen, failure recorded), and losing that
+      # would make the next run retry the exact same broken articles. The job
+      # still reports red, because the failed step above already failed it.
+      - name: Commit state
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore: state update [skip ci]"
+            git push
+          fi

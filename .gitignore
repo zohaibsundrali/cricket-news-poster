@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local secrets — never commit this; use GitHub Actions Secrets in CI
+.env
+
+# Generated output
+build/
+data/images/
+*.log
+
+# Fonts are fetched by scripts/fetch_fonts.py in CI and cached there.
+# They are large binaries, so they are not committed to this public repo.
+assets/fonts/*.ttf
+
+# NOTE: data/state.json is deliberately NOT ignored.
+# It is this project's database — the workflows commit it back to the repo
+# after every run so posted/seen/pending state survives between runs.

@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="utf-8">
+<style>
+  /* ------------------------------------------------------------------
+     Fonts are fetched into assets/fonts by scripts/fetch_fonts.py and
+     injected here as absolute file:// URLs so Chromium can shape Urdu.
+     Nastaliq is used for display type only — it is gorgeous but hard to
+     read small. Naskh carries the body text, which is how Pakistani news
+     outlets set their pages.
+     ------------------------------------------------------------------ */
+  @font-face {
+    font-family: 'Nastaliq';
+    src: url('{{ font_nastaliq }}') format('truetype');
+    font-weight: 400 700;
+  }
+  @font-face {
+    font-family: 'Naskh';
+    src: url('{{ font_naskh }}') format('truetype');
+    font-weight: 400 700;
+  }
+  @font-face {
+    font-family: 'InterVar';
+    src: url('{{ font_latin }}') format('truetype');
+    font-weight: 100 900;
+  }
+
+  :root {
+    --accent: {{ accent }};
+    --accent-soft: {{ accent }}26;
+    --deep: {{ deep }};
+    --ink: #FFFFFF;
+    --ink-dim: rgba(255, 255, 255, 0.78);
+    --ink-faint: rgba(255, 255, 255, 0.50);
+    --pad: 76px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    width: {{ width }}px;
+    height: {{ height }}px;
+    overflow: hidden;
+  }
+
+  body {
+    background: var(--deep);
+    /* Inter first, Naskh second: per-glyph fallback means Latin text and ASCII
+       digits pick up Inter while every Arabic glyph falls through to Naskh.
+       The reverse order makes scores render in Naskh's serif Latin, which
+       clashes badly with the rest of the card. */
+    font-family: 'InterVar', 'Naskh', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* ---------------- background stack ---------------- */
+  .stage {
+    position: relative;
+    width: {{ width }}px;
+    height: {{ height }}px;
+    overflow: hidden;
+    background:
+      radial-gradient(120% 90% at 82% 6%, rgba(245, 197, 66, 0.13) 0%, rgba(245, 197, 66, 0) 55%),
+      radial-gradient(95% 80% at 8% 92%, rgba(20, 138, 92, 0.28) 0%, rgba(20, 138, 92, 0) 60%),
+      linear-gradient(158deg, #08200f 0%, #05170f 42%, var(--deep) 100%);
+  }
+
+  /* fine diagonal turf texture — barely visible, kills the "flat CSS" look */
+  .stage::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      -38deg,
+      rgba(255, 255, 255, 0.030) 0px,
+      rgba(255, 255, 255, 0.030) 1px,
+      transparent 1px,
+      transparent 13px
+    );
+    pointer-events: none;
+  }
+
+  /* vignette so the corners fall away and the type pops */
+  .stage::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(75% 62% at 50% 45%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.55) 100%);
+    pointer-events: none;
+  }
+
+  .ball {
+    position: absolute;
+    bottom: -170px;
+    left: -140px;
+    width: 620px;
+    height: 620px;
+    opacity: 0.05;
+    transform: rotate(-14deg);
+    pointer-events: none;
+  }
+
+  .topbar {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 7px;
+    background: linear-gradient(90deg, var(--accent) 0%, #7ad0a0 48%, transparent 100%);
+  }
+
+  .content {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: var(--pad);
+    padding-top: 62px;
+  }
+
+  /* ---------------- header ---------------- */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 26px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+  }
+
+  .brand { display: flex; align-items: center; gap: 18px; }
+
+  .mark {
+    width: 62px; height: 62px;
+    border-radius: 50%;
+    display: grid; place-items: center;
+    background: linear-gradient(145deg, var(--accent), #d99f1d);
+    box-shadow: 0 6px 22px rgba(245, 197, 66, 0.28);
+    overflow: hidden;
+    flex: none;
+  }
+  .mark img { width: 100%; height: 100%; object-fit: cover; }
+  .mark svg { width: 36px; height: 36px; }
+
+  .brand-text { display: flex; flex-direction: column; gap: 3px; }
+  .brand-name {
+    font-family: 'InterVar', 'Naskh', sans-serif;
+    font-size: 31px; font-weight: 700;
+    color: var(--ink); line-height: 1.35;
+  }
+  .brand-handle {
+    font-family: 'InterVar', sans-serif;
+    font-size: 19px; font-weight: 500;
+    color: var(--ink-faint); letter-spacing: 0.03em;
+    direction: ltr;
+  }
+
+  .chip {
+    font-family: 'InterVar', 'Naskh', sans-serif;
+    font-size: 25px; font-weight: 700;
+    color: #06170e;
+    background: var(--accent);
+    padding: 9px 26px 13px;
+    border-radius: 999px;
+    line-height: 1.2;
+    white-space: nowrap;
+    box-shadow: 0 4px 18px rgba(245, 197, 66, 0.22);
+  }
+
+  /* ---------------- headline + summary ---------------- */
+  main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 0;
+    padding: 18px 0 26px;
+  }
+
+  #headline {
+    font-family: 'InterVar', 'Nastaliq', serif;
+    font-weight: 600;
+    font-size: 74px;             /* shrunk to fit by the script below */
+    line-height: 2.02;           /* Nastaliq needs generous leading or it clips */
+    color: var(--ink);
+    text-align: right;
+    letter-spacing: 0;
+    /* Even out the line lengths so a two-line headline never leaves a single
+       orphan word stranded on the second line. */
+    text-wrap: balance;
+    text-shadow: 0 3px 26px rgba(0, 0, 0, 0.55);
+    padding-bottom: 0.18em;      /* room for Nastaliq's deep descenders */
+  }
+
+  .rule {
+    width: 92px; height: 5px;
+    border-radius: 4px;
+    background: var(--accent);
+    margin: 34px 0 32px auto;
+    box-shadow: 0 2px 14px rgba(245, 197, 66, 0.45);
+  }
+
+  #summary { display: flex; flex-direction: column; gap: 17px; }
+
+  #summary li {
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    font-family: 'InterVar', 'Naskh', sans-serif;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 1.92;
+    color: var(--ink-dim);
+    text-align: right;
+  }
+
+  #summary li::before {
+    content: '';
+    flex: none;
+    width: 9px; height: 9px;
+    margin-top: 0.85em;
+    border-radius: 2px;
+    background: var(--accent);
+    transform: rotate(45deg);
+    opacity: 0.9;
+  }
+
+  /* ---------------- footer ---------------- */
+  footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    font-size: 23px;
+    color: var(--ink-faint);
+  }
+  .source b { color: var(--ink-dim); font-weight: 600; letter-spacing: 0.01em; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="topbar"></div>
+
+  <!-- decorative cricket ball; keeps the card sporty without using a photo -->
+  <svg class="ball" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="96" fill="#ffffff"/>
+    <path d="M52 18c22 30 22 134 0 164" stroke="#0a1f14" stroke-width="4" fill="none"/>
+    <path d="M66 11c22 32 22 146 0 178" stroke="#0a1f14" stroke-width="3" fill="none" opacity=".7"/>
+    <path d="M148 18c-22 30-22 134 0 164" stroke="#0a1f14" stroke-width="4" fill="none"/>
+    <path d="M134 11c-22 32-22 146 0 178" stroke="#0a1f14" stroke-width="3" fill="none" opacity=".7"/>
+  </svg>
+
+  <div class="content">
+    <header>
+      <div class="brand">
+        <div class="mark">
+          {% if logo_uri %}
+            <img src="{{ logo_uri }}" alt="">
+          {% else %}
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="12" cy="12" r="10" fill="#06170e"/>
+              <path d="M7 3.6c2.6 3.6 2.6 13.2 0 16.8M17 3.6c-2.6 3.6-2.6 13.2 0 16.8"
+                    stroke="{{ accent }}" stroke-width="1.6" stroke-linecap="round"/>
+            </svg>
+          {% endif %}
+        </div>
+        <div class="brand-text">
+          <span class="brand-name">{{ brand_name }}</span>
+          {% if brand_handle %}<span class="brand-handle">{{ brand_handle }}</span>{% endif %}
+        </div>
+      </div>
+      <span class="chip">{{ category_ur }}</span>
+    </header>
+
+    <main>
+      <h1 id="headline">{{ headline_ur }}</h1>
+      <div class="rule"></div>
+      <ul id="summary">
+        {% for line in summary_ur %}<li><span>{{ line }}</span></li>{% endfor %}
+      </ul>
+    </main>
+
+    <footer>
+      <span class="date">{{ date_ur }}</span>
+      <span class="source">بشکریہ: <b>{{ source_name }}</b></span>
+    </footer>
+  </div>
+</div>
+
+<script>
+/* Shrink type until everything fits inside the card.
+   Headlines vary wildly in length, so a fixed font size either overflows on a
+   long headline or looks tiny on a short one. We measure and step down.
+   `document.fonts.ready` matters: measuring before Nastaliq loads gives the
+   fallback font's metrics and the fit comes out wrong. */
+async function fit() {
+  await document.fonts.ready;
+
+  const main = document.querySelector('main');
+  const headline = document.getElementById('headline');
+  const summary = document.getElementById('summary');
+
+  const overflow = () => main.scrollHeight > main.clientHeight;
+
+  // Long headlines get a head start so we do fewer passes.
+  const len = (headline.textContent || '').trim().length;
+  let hSize = len > 78 ? 54 : len > 58 ? 60 : len > 40 ? 67 : 74;
+  headline.style.fontSize = hSize + 'px';
+
+  let sSize = 31;
+  let guard = 0;
+  while (overflow() && guard++ < 60) {
+    if (hSize > 42) {
+      hSize -= 2;
+      headline.style.fontSize = hSize + 'px';
+    } else if (sSize > 24) {
+      sSize -= 1;
+      summary.querySelectorAll('li').forEach(li => li.style.fontSize = sSize + 'px');
+    } else {
+      break;
+    }
+  }
+
+  // Tighten leading only as a last resort — Nastaliq clips if pushed too far.
+  let lh = 2.02;
+  guard = 0;
+  while (overflow() && lh > 1.72 && guard++ < 12) {
+    lh -= 0.05;
+    headline.style.lineHeight = lh.toFixed(2);
+  }
+
+  document.documentElement.setAttribute('data-fit', 'done');
+}
+fit();
+</script>
+</body>
+</html>
