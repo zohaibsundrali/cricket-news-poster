@@ -4,7 +4,8 @@
   "seen": {
     "eb7585e627b847f7": "2026-08-14T11:08:27.495606+00:00",
     "33cd95d41bff671e": "2026-08-14T11:48:09.103094+00:00",
-    "0f0d15208821a3b2": "2026-08-14T14:55:25.715062+00:00"
+    "0f0d15208821a3b2": "2026-08-14T14:55:25.715062+00:00",
+    "505704acf07d5a1a": "2026-08-14T17:55:55.583812+00:00"
   },
   "posts": [
     {
@@ -107,6 +108,40 @@
       "error_msg": null,
       "created_at": "2026-08-14T14:55:25.715011+00:00",
       "updated_at": "2026-08-14T14:55:26.787691+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260814T1755Z-ea21ee",
+      "url_hash": "505704acf07d5a1a",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-if-shoaib-akhtar-expresses-big-imran-khan-regret-reflects-on-career/articleshow/133246549.cms",
+      "source_name": "The Times of India",
+      "title_en": "'What if': Shoaib Akhtar expresses big 'Imran Khan' regret, reflects on career",
+      "headline_ur": "شعیب اختر کو عمران خان کی کپتانی میں نہ کھیلنے کا افسوس",
+      "summary_ur": [
+        "شعیب اختر کو افسوس ہے کہ وہ عمران خان کی کپتانی میں پہلے نہ کھیلے",
+        "ان کے مطابق، وہ ٹیسٹ کرکٹ میں 400 وکٹیں حاصل کر سکتے تھے",
+        "شعیب نے اپنے کیریئر میں 46 ٹیسٹ میں 178 وکٹیں حاصل کیں"
+      ],
+      "caption_ur": "سابق فاسٹ بالر شعیب اختر نے ایک انٹرویو میں اپنے کیریئر کے بارے میں بات کی۔ ان کا کہنا ہے کہ اگر انہیں عمران خان کی قیادت میں کھیلنے کا موقع ملتا تو وہ ٹیسٹ کرکٹ میں 400 وکٹیں حاصل کر سکتے تھے۔ شعیب اختر نے 1997 سے 2011 تک پاکستان کی نمائندگی کی۔ آپ کو ان کے کیریئر کا کون سا پہلو سب سے زیادہ متاثر کرتا ہے؟",
+      "fb_caption": "سابق فاسٹ بالر شعیب اختر نے ایک انٹرویو میں اپنے کیریئر کے بارے میں بات کی۔ ان کا کہنا ہے کہ اگر انہیں عمران خان کی قیادت میں کھیلنے کا موقع ملتا تو وہ ٹیسٹ کرکٹ میں 400 وکٹیں حاصل کر سکتے تھے۔ شعیب اختر نے 1997 سے 2011 تک پاکستان کی نمائندگی کی۔ آپ کو ان کے کیریئر کا کون سا پہلو سب سے زیادہ متاثر کرتا ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ShoaibAkhtar #ImranKhan #PakistanCricket #RawalpindiExpress #TestCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ShoaibAkhtar",
+        "#ImranKhan",
+        "#PakistanCricket",
+        "#RawalpindiExpress",
+        "#TestCricket"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 8,
+      "telegram_file_id": "BQACAgQAAxkDAAMIan9WrE2yvubXhH3wLyOEtHLD4HEAAsEfAAJnt_lTcCRJTg23RKs9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-14T17:55:55.583762+00:00",
+      "updated_at": "2026-08-14T17:55:57.001348+00:00",
       "posted_at": null
     }
   ]
