@@ -2,7 +2,8 @@
   "version": 1,
   "telegram_offset": 0,
   "seen": {
-    "eb7585e627b847f7": "2026-08-14T11:08:27.495606+00:00"
+    "eb7585e627b847f7": "2026-08-14T11:08:27.495606+00:00",
+    "33cd95d41bff671e": "2026-08-14T11:48:09.103094+00:00"
   },
   "posts": [
     {
@@ -37,6 +38,40 @@
       "error_msg": null,
       "created_at": "2026-08-14T11:08:27.495559+00:00",
       "updated_at": "2026-08-14T11:08:28.954892+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260814T1148Z-f22943",
+      "url_hash": "33cd95d41bff671e",
+      "source_url": "https://www.dawn.com/news/2022433/fakhar-zaman-ton-powers-greens-to-five-wicket-win-over-pcb-whites",
+      "source_name": "Dawn",
+      "title_en": "Fakhar Zaman ton powers Greens to five-wicket win over PCB Whites",
+      "headline_ur": "فخر زمان کی شاندار سنچری، گرینز کی وائٹس پر 5 وکٹوں سے فتح",
+      "summary_ur": [
+        "فخر زمان نے 123 رنز کی شاندار اننگز کھیلی",
+        "گرینز نے 277 رنز کا ہدف 5 وکٹوں کے نقصان پر حاصل کیا",
+        "یہ فخر کی 20ویں لسٹ اے سنچری تھی"
+      ],
+      "caption_ur": "نیشنل چیمپئنز کپ کے افتتاحی میچ میں فخر زمان نے زبردست بیٹنگ کا مظاہرہ کیا۔ انہوں نے اپنی 20ویں لسٹ اے سنچری بنا کر ٹیم کو فتح دلائی۔ گرینز نے پی سی بی وائٹس کا 277 رنز کا ہدف باآسانی حاصل کر لیا۔ آپ کے خیال میں فخر زمان کی یہ اننگز کتنی اہم تھی؟",
+      "fb_caption": "نیشنل چیمپئنز کپ کے افتتاحی میچ میں فخر زمان نے زبردست بیٹنگ کا مظاہرہ کیا۔ انہوں نے اپنی 20ویں لسٹ اے سنچری بنا کر ٹیم کو فتح دلائی۔ گرینز نے پی سی بی وائٹس کا 277 رنز کا ہدف باآسانی حاصل کر لیا۔ آپ کے خیال میں فخر زمان کی یہ اننگز کتنی اہم تھی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #FakharZaman #NationalChampionsCup #PCBGreens #ListA #Multan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#FakharZaman",
+        "#NationalChampionsCup",
+        "#PCBGreens",
+        "#ListA",
+        "#Multan"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 6,
+      "telegram_file_id": "BQACAgQAAxkDAAMGan8AAXrz4SxviLsvnzy9r5zdlvWKAAIfHwACZ7f5UzYeSgdrKwqYPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-14T11:48:09.103043+00:00",
+      "updated_at": "2026-08-14T11:48:10.433962+00:00",
       "posted_at": null
     }
   ]
