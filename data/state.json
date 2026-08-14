@@ -35,11 +35,11 @@
       "telegram_message_id": 5,
       "telegram_file_id": "BQACAgQAAxkDAAMFan73LG4QYcYilpsZ1eNusmXhfTYAAgcfAAJnt_lTBRsF63l9UCM9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-14T11:08:27.495559+00:00",
-      "updated_at": "2026-08-14T11:08:28.954892+00:00",
+      "updated_at": "2026-08-14T23:37:54.076938+00:00",
       "posted_at": null
     },
     {
