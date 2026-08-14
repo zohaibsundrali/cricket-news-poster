@@ -3,7 +3,8 @@
   "telegram_offset": 0,
   "seen": {
     "eb7585e627b847f7": "2026-08-14T11:08:27.495606+00:00",
-    "33cd95d41bff671e": "2026-08-14T11:48:09.103094+00:00"
+    "33cd95d41bff671e": "2026-08-14T11:48:09.103094+00:00",
+    "0f0d15208821a3b2": "2026-08-14T14:55:25.715062+00:00"
   },
   "posts": [
     {
@@ -72,6 +73,40 @@
       "error_msg": null,
       "created_at": "2026-08-14T11:48:09.103043+00:00",
       "updated_at": "2026-08-14T11:48:10.433962+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260814T1455Z-0b4940",
+      "url_hash": "0f0d15208821a3b2",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-blow-for-india-as-jemimah-rodrigues-injury-rules-her-out-of-asia-cup-and-asian-games/articleshow/133243163.cms",
+      "source_name": "The Times of India",
+      "title_en": "Big blow for India as Jemimah Rodrigues' injury rules her out of Asia Cup and Asian Games",
+      "headline_ur": "جیمیما روڈریگز انجری کے باعث ایشیا کپ اور ایشین گیمز سے باہر",
+      "summary_ur": [
+        "بھارتی بیٹر جیمیما روڈریگز ہیمسٹرنگ انجری کا شکار ہو گئیں۔",
+        "وہ ویمنز ایشیا کپ اور ایشین گیمز میں حصہ نہیں لے سکیں گی۔",
+        "پرتیکا راول کو ایشیا کپ اسکواڈ میں شامل کر لیا گیا۔"
+      ],
+      "caption_ur": "بھارتی ویمنز ٹیم کو بڑا دھچکا! اسٹار بیٹر جیمیما روڈریگز ہیمسٹرنگ انجری کے باعث ایشیا کپ اور ایشین گیمز سے باہر ہو گئی ہیں۔ ان کی جگہ پرتیکا راول کو ایشیا کپ اسکواڈ میں شامل کیا گیا ہے۔ کیا پرتیکا راول جیمیما کی کمی پوری کر پائیں گی؟",
+      "fb_caption": "بھارتی ویمنز ٹیم کو بڑا دھچکا! اسٹار بیٹر جیمیما روڈریگز ہیمسٹرنگ انجری کے باعث ایشیا کپ اور ایشین گیمز سے باہر ہو گئی ہیں۔ ان کی جگہ پرتیکا راول کو ایشیا کپ اسکواڈ میں شامل کیا گیا ہے۔ کیا پرتیکا راول جیمیما کی کمی پوری کر پائیں گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #WomensAsiaCup #AsianGames #JemimahRodrigues #IndiaCricket #InjuryUpdate",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WomensAsiaCup",
+        "#AsianGames",
+        "#JemimahRodrigues",
+        "#IndiaCricket",
+        "#InjuryUpdate"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 7,
+      "telegram_file_id": "BQACAgQAAxkDAAMHan8sXgfYmkZnOQaVAdexUsvB1B8AAnofAAJnt_lTaNOepmQxhhE9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-14T14:55:25.715011+00:00",
+      "updated_at": "2026-08-14T14:55:26.787691+00:00",
       "posted_at": null
     }
   ]
