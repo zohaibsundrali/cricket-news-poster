@@ -8,7 +8,8 @@
     "505704acf07d5a1a": "2026-08-14T17:55:55.583812+00:00",
     "01d053c10a4bee34": "2026-08-15T02:55:11.484012+00:00",
     "06fcc9cbf12dfe9d": "2026-08-15T02:55:11.587314+00:00",
-    "3ec1550dea1990f7": "2026-08-15T02:55:20.807501+00:00"
+    "3ec1550dea1990f7": "2026-08-15T02:55:20.807501+00:00",
+    "8fbd6d680c1c0e76": "2026-08-15T05:29:03.666785+00:00"
   },
   "posts": [
     {
@@ -179,6 +180,40 @@
       "error_msg": null,
       "created_at": "2026-08-15T02:55:20.807450+00:00",
       "updated_at": "2026-08-15T02:55:22.029027+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260815T0529Z-9345f9",
+      "url_hash": "8fbd6d680c1c0e76",
+      "source_url": "https://www.dawn.com/news/2022900/india-seek-boost-in-sri-lanka-to-revive-world-test-championship-hopes",
+      "source_name": "Dawn",
+      "title_en": "India seek boost in Sri Lanka to revive World Test Championship hopes",
+      "headline_ur": "انڈیا سری لنکا میں ورلڈ ٹیسٹ چیمپئن شپ کی امیدیں بڑھانے کو تیار",
+      "summary_ur": [
+        "انڈیا ورلڈ ٹیسٹ چیمپئن شپ میں پانچویں نمبر پر ہے، بنگلہ دیش سے بھی پیچھے۔",
+        "فائنل میں جگہ بنانے کے لیے انڈیا کو 6 یا 7 ٹیسٹ جیتنے ہوں گے۔",
+        "گال ایشیا کا پہلا وینیو بنے گا جہاں 50 ٹیسٹ میچز کھیلے جائیں گے۔"
+      ],
+      "caption_ur": "انڈیا ورلڈ ٹیسٹ چیمپئن شپ میں اپنی امیدیں دوبارہ زندہ کرنے سری لنکا پہنچ گیا ہے۔ انہیں فائنل میں پہنچنے کے لیے مزید 6 یا 7 ٹیسٹ میچز جیتنے کی ضرورت ہے۔ کیا گیل کی ٹیم سری لنکا میں یہ بڑا ہدف حاصل کر پائے گی؟",
+      "fb_caption": "انڈیا ورلڈ ٹیسٹ چیمپئن شپ میں اپنی امیدیں دوبارہ زندہ کرنے سری لنکا پہنچ گیا ہے۔ انہیں فائنل میں پہنچنے کے لیے مزید 6 یا 7 ٹیسٹ میچز جیتنے کی ضرورت ہے۔ کیا گیل کی ٹیم سری لنکا میں یہ بڑا ہدف حاصل کر پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #INDvsSL #WorldTestChampionship #TestCricket #ShubmanGill #Galle",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#INDvsSL",
+        "#WorldTestChampionship",
+        "#TestCricket",
+        "#ShubmanGill",
+        "#Galle"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 13,
+      "telegram_file_id": "BQACAgQAAxkDAAMNan_5IDPuq82WWDCspdN3QmLxJncAAqMdAAJntwFQygxwU4bBS0c9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-15T05:29:03.666743+00:00",
+      "updated_at": "2026-08-15T05:29:05.107190+00:00",
       "posted_at": null
     }
   ]
