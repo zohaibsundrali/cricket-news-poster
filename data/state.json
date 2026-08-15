@@ -13,7 +13,10 @@
     "e154bebf81e9faf5": "2026-08-15T08:33:46.937543+00:00",
     "27479e974c29a4b8": "2026-08-15T08:34:07.952929+00:00",
     "c1364448e3631bf2": "2026-08-15T11:23:23.516781+00:00",
-    "313654c64a4589df": "2026-08-15T11:23:33.752730+00:00"
+    "313654c64a4589df": "2026-08-15T11:23:33.752730+00:00",
+    "a9b2aa96e71cc429": "2026-08-15T14:26:52.395088+00:00",
+    "89f1f3fc83c93a13": "2026-08-15T14:26:52.484156+00:00",
+    "ada769f34dd24ba5": "2026-08-15T14:27:26.337318+00:00"
   },
   "posts": [
     {
@@ -286,6 +289,40 @@
       "error_msg": null,
       "created_at": "2026-08-15T11:23:33.752683+00:00",
       "updated_at": "2026-08-15T11:23:34.922614+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260815T1427Z-e3cb90",
+      "url_hash": "ada769f34dd24ba5",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/devdutt-padikkals-131-headlines-indias-dominant-day-1-at-288/2-in-galle-on-independence-day/articleshow/133263406.cms",
+      "source_name": "The Times of India",
+      "title_en": "Devdutt Padikkal's 131 headlines India's dominant Day 1 at 288/2 in Galle on Independence Day",
+      "headline_ur": "دیودت پڈیکل کی شاندار سنچری، بھارت کا پہلے دن 288/2",
+      "summary_ur": [
+        "دیودت پڈیکل نے شاندار 131 رنز کی ناقابل شکست اننگز کھیلی۔",
+        "پہلے ٹیسٹ کے پہلے دن بھارت نے سری لنکا کے خلاف 288/2 بنائے۔",
+        "کے ایل راہول 77 رنز بنا کر ریٹائر ہرٹ ہوئے، پنت 27 پر ناٹ آؤٹ۔"
+      ],
+      "caption_ur": "گال میں کھیلے جا رہے پہلے ٹیسٹ کے پہلے دن دیودت پڈیکل نے شاندار سنچری بنائی۔ بھارت نے دن کے اختتام پر 2 وکٹوں کے نقصان پر 288 رنز بنا لیے۔ کے ایل راہول 77 رنز بنا کر ریٹائر ہرٹ ہوئے جبکہ رشبھ پنت 27 رنز پر ناٹ آؤٹ رہے۔ کیا بھارت یہ میچ آسانی سے جیت جائے گا؟",
+      "fb_caption": "گال میں کھیلے جا رہے پہلے ٹیسٹ کے پہلے دن دیودت پڈیکل نے شاندار سنچری بنائی۔ بھارت نے دن کے اختتام پر 2 وکٹوں کے نقصان پر 288 رنز بنا لیے۔ کے ایل راہول 77 رنز بنا کر ریٹائر ہرٹ ہوئے جبکہ رشبھ پنت 27 رنز پر ناٹ آؤٹ رہے۔ کیا بھارت یہ میچ آسانی سے جیت جائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #INDvsSL #DevduttPadikkal #TestCricket #Galle #بھارت",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#INDvsSL",
+        "#DevduttPadikkal",
+        "#TestCricket",
+        "#Galle",
+        "#بھارت"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 17,
+      "telegram_file_id": "BQACAgQAAxkDAAMRaoB3T51ZaG6tvqFgy3NgJfN6KPoAAgofAAJntwFQrVM3wtoFT_Q9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-15T14:27:26.337270+00:00",
+      "updated_at": "2026-08-15T14:27:27.551214+00:00",
       "posted_at": null
     }
   ]
