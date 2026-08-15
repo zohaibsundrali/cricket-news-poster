@@ -11,7 +11,9 @@
     "3ec1550dea1990f7": "2026-08-15T02:55:20.807501+00:00",
     "8fbd6d680c1c0e76": "2026-08-15T05:29:03.666785+00:00",
     "e154bebf81e9faf5": "2026-08-15T08:33:46.937543+00:00",
-    "27479e974c29a4b8": "2026-08-15T08:34:07.952929+00:00"
+    "27479e974c29a4b8": "2026-08-15T08:34:07.952929+00:00",
+    "c1364448e3631bf2": "2026-08-15T11:23:23.516781+00:00",
+    "313654c64a4589df": "2026-08-15T11:23:33.752730+00:00"
   },
   "posts": [
     {
@@ -250,6 +252,40 @@
       "error_msg": null,
       "created_at": "2026-08-15T08:34:07.952878+00:00",
       "updated_at": "2026-08-15T08:34:09.042139+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260815T1123Z-d487ab",
+      "url_hash": "313654c64a4589df",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/injury-scare-for-babar-azam-ahead-of-england-tests-as-pakistan-captain-rested/articleshow/133260322.cms",
+      "source_name": "The Times of India",
+      "title_en": "âInjury scareâ for Babar Azam ahead of England Tests as Pakistan captain rested",
+      "headline_ur": "بابر اعظم کو وارم اپ میچ میں چوٹ، انگلینڈ سیریز سے پہلے آرام",
+      "summary_ur": [
+        "بابر اعظم کو وارم اپ میچ میں ہاتھ پر چوٹ لگی۔",
+        "ڈاکٹرز نے احتیاطی تدابیر کے طور پر آرام کا مشورہ دیا۔",
+        "وہ 17 اگست کو ٹریننگ میں واپس آئیں گے، سیریز 19 اگست سے شروع۔"
+      ],
+      "caption_ur": "قومی ٹیم کو انگلینڈ کے خلاف ٹیسٹ سیریز سے قبل بڑا دھچکا لگ گیا ہے۔ کپتان بابر اعظم کو وارم اپ میچ میں ہاتھ پر چوٹ لگی جس کے بعد انہیں آرام کا مشورہ دیا گیا۔ پی سی بی کے مطابق بابر 17 اگست کو ٹریننگ میں واپس آئیں گے اور انگلینڈ سیریز کے لیے دستیاب ہوں گے۔ کیا بابر اعظم مکمل فٹنس کے ساتھ سیریز کا آغاز کر پائیں گے؟",
+      "fb_caption": "قومی ٹیم کو انگلینڈ کے خلاف ٹیسٹ سیریز سے قبل بڑا دھچکا لگ گیا ہے۔ کپتان بابر اعظم کو وارم اپ میچ میں ہاتھ پر چوٹ لگی جس کے بعد انہیں آرام کا مشورہ دیا گیا۔ پی سی بی کے مطابق بابر 17 اگست کو ٹریننگ میں واپس آئیں گے اور انگلینڈ سیریز کے لیے دستیاب ہوں گے۔ کیا بابر اعظم مکمل فٹنس کے ساتھ سیریز کا آغاز کر پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #PakistanCricket #ENGvsPAK #TestCricket #InjuryUpdate",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#InjuryUpdate"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 16,
+      "telegram_file_id": "BQACAgQAAxkDAAMQaoBMNuE2f6YuUjJdeUJ6dtoCtj8AAmceAAJntwFQqWOo4O5Dqug9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-15T11:23:33.752683+00:00",
+      "updated_at": "2026-08-15T11:23:34.922614+00:00",
       "posted_at": null
     }
   ]
