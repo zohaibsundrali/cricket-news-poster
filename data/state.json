@@ -16,7 +16,8 @@
     "313654c64a4589df": "2026-08-15T11:23:33.752730+00:00",
     "a9b2aa96e71cc429": "2026-08-15T14:26:52.395088+00:00",
     "89f1f3fc83c93a13": "2026-08-15T14:26:52.484156+00:00",
-    "ada769f34dd24ba5": "2026-08-15T14:27:26.337318+00:00"
+    "ada769f34dd24ba5": "2026-08-15T14:27:26.337318+00:00",
+    "f032dede8141cc63": "2026-08-15T17:24:44.520471+00:00"
   },
   "posts": [
     {
@@ -323,6 +324,40 @@
       "error_msg": null,
       "created_at": "2026-08-15T14:27:26.337270+00:00",
       "updated_at": "2026-08-15T14:27:27.551214+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260815T1724Z-5c0e13",
+      "url_hash": "f032dede8141cc63",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/desire-to-play-is-not-a-problem-azhar-ali-on-pakistans-test-cricket-downfall/articleshow/133265160.cms",
+      "source_name": "The Times of India",
+      "title_en": "âDesire to play is not a problemâ: Azhar Ali on Pakistanâs Test cricket downfall",
+      "headline_ur": "اظہر علی کا ٹیسٹ کرکٹ میں گراوٹ پر بڑا بیان",
+      "summary_ur": [
+        "سابق کپتان اظہر علی نے ڈپارٹمنٹل کرکٹ کو ٹیسٹ کرکٹ کی گراوٹ کی وجہ قرار دیا",
+        "ان کے مطابق ڈپارٹمنٹل کرکٹ قومی ٹیم کے لیے نرسری کا کردار ادا کرتی تھی",
+        "اظہر علی نے پی سی بی کی ڈومیسٹک سٹرکچر میں مسلسل تبدیلیوں پر تنقید کی"
+      ],
+      "caption_ur": "سابق کپتان اظہر علی نے پاکستانی کرکٹ کے مسائل پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ ڈپارٹمنٹل کرکٹ کا خاتمہ اور ڈومیسٹک سٹرکچر میں بار بار تبدیلیاں نقصان دہ ہیں۔ کیا آپ بھی اظہر علی کے اس بیان سے اتفاق کرتے ہیں؟",
+      "fb_caption": "سابق کپتان اظہر علی نے پاکستانی کرکٹ کے مسائل پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ ڈپارٹمنٹل کرکٹ کا خاتمہ اور ڈومیسٹک سٹرکچر میں بار بار تبدیلیاں نقصان دہ ہیں۔ کیا آپ بھی اظہر علی کے اس بیان سے اتفاق کرتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AzharAli #PakistanCricket #DomesticCricket #PCB #TestCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AzharAli",
+        "#PakistanCricket",
+        "#DomesticCricket",
+        "#PCB",
+        "#TestCricket"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 19,
+      "telegram_file_id": "BQACAgQAAxkDAAMTaoCg3eD0NVYN4xd8wGNENzrOJsoAAj8fAAJntwFQGK7wgktEbP09BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-15T17:24:44.520417+00:00",
+      "updated_at": "2026-08-15T17:24:46.109154+00:00",
       "posted_at": null
     }
   ]
