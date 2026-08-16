@@ -17,7 +17,9 @@
     "a9b2aa96e71cc429": "2026-08-15T14:26:52.395088+00:00",
     "89f1f3fc83c93a13": "2026-08-15T14:26:52.484156+00:00",
     "ada769f34dd24ba5": "2026-08-15T14:27:26.337318+00:00",
-    "f032dede8141cc63": "2026-08-15T17:24:44.520471+00:00"
+    "f032dede8141cc63": "2026-08-15T17:24:44.520471+00:00",
+    "512608efaf25f752": "2026-08-16T03:04:09.707980+00:00",
+    "63f5ecfdb7728a05": "2026-08-16T03:04:32.389232+00:00"
   },
   "posts": [
     {
@@ -358,6 +360,40 @@
       "error_msg": null,
       "created_at": "2026-08-15T17:24:44.520417+00:00",
       "updated_at": "2026-08-15T17:24:46.109154+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260816T0304Z-372ede",
+      "url_hash": "63f5ecfdb7728a05",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-responds-to-no-3-debate-with-maiden-century-in-galle/articleshow/133269006.cms",
+      "source_name": "The Times of India",
+      "title_en": "Devdutt Padikkal responds to no.3 debate with maiden century in Galle",
+      "headline_ur": "دیودت پڈیکل کی گال میں پہلی ٹیسٹ سنچری",
+      "summary_ur": [
+        "دیودت پڈیکل نے گال میں اپنی پہلی ٹیسٹ سنچری اسکور کی",
+        "انہوں نے تیسرے ٹیسٹ کی چوتھی اننگز میں 131 ناٹ آؤٹ رنز بنائے۔",
+        "بھارت نے پہلے دن 2 وکٹوں پر 288 رنز بنائے۔"
+      ],
+      "caption_ur": "دیودت پڈیکل نے شاندار بیٹنگ کرتے ہوئے اپنی پہلی ٹیسٹ سنچری مکمل کر لی۔ 22 ماہ بعد ٹیم میں واپسی پر انہوں نے 131 ناٹ آؤٹ رنز کی اننگز کھیلی۔ ان کی اس اننگز کی بدولت بھارت نے پہلے دن 288 رنز بنائے۔ کیا پڈیکل نمبر 3 پر اپنی جگہ پکی کر پائیں گے؟",
+      "fb_caption": "دیودت پڈیکل نے شاندار بیٹنگ کرتے ہوئے اپنی پہلی ٹیسٹ سنچری مکمل کر لی۔ 22 ماہ بعد ٹیم میں واپسی پر انہوں نے 131 ناٹ آؤٹ رنز کی اننگز کھیلی۔ ان کی اس اننگز کی بدولت بھارت نے پہلے دن 288 رنز بنائے۔ کیا پڈیکل نمبر 3 پر اپنی جگہ پکی کر پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #DevduttPadikkal #INDvsSL #TestCricket #Galle #CricketNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#DevduttPadikkal",
+        "#INDvsSL",
+        "#TestCricket",
+        "#Galle",
+        "#CricketNews"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 24,
+      "telegram_file_id": "BQACAgQAAxkDAAMYaoEowYVuTsTl-MzTASGf_dGlR2EAArQeAAI5zglQ6iK6ttJ06q09BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-16T03:04:32.389182+00:00",
+      "updated_at": "2026-08-16T03:04:33.653108+00:00",
       "posted_at": null
     }
   ]
