@@ -19,7 +19,8 @@
     "ada769f34dd24ba5": "2026-08-15T14:27:26.337318+00:00",
     "f032dede8141cc63": "2026-08-15T17:24:44.520471+00:00",
     "512608efaf25f752": "2026-08-16T03:04:09.707980+00:00",
-    "63f5ecfdb7728a05": "2026-08-16T03:04:32.389232+00:00"
+    "63f5ecfdb7728a05": "2026-08-16T03:04:32.389232+00:00",
+    "f6d7b28a7c817b45": "2026-08-16T05:32:11.749202+00:00"
   },
   "posts": [
     {
@@ -394,6 +395,40 @@
       "error_msg": null,
       "created_at": "2026-08-16T03:04:32.389182+00:00",
       "updated_at": "2026-08-16T03:04:33.653108+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260816T0532Z-6454e9",
+      "url_hash": "f6d7b28a7c817b45",
+      "source_url": "https://www.dawn.com/news/2023095/indias-padikkal-hits-unbeaten-ton-in-first-sri-lanka-test",
+      "source_name": "Dawn",
+      "title_en": "India’s Padikkal hits unbeaten ton in first Sri Lanka Test",
+      "headline_ur": "پڈیکل کی شاندار سنچری، بھارت پہلے دن مضبوط پوزیشن پر",
+      "summary_ur": [
+        "دیودت پڈیکل نے سری لنکا کے خلاف پہلے ٹیسٹ میں اپنی پہلی سنچری بنائی۔",
+        "بھارت نے پہلے دن کا کھیل 2 وکٹوں کے نقصان پر 288 رنز کے ساتھ ختم کیا۔",
+        "پڈیکل 131 اور رشبھ پنت 27 رنز بنا کر ناٹ آؤٹ رہے۔"
+      ],
+      "caption_ur": "سری لنکا کے خلاف پہلے ٹیسٹ میں دیودت پڈیکل نے شاندار بیٹنگ کا مظاہرہ کیا۔ انہوں نے اپنی پہلی ٹیسٹ سنچری بنا کر ٹیم کو مضبوط پوزیشن پر لاکھڑا کیا۔ بھارت نے پہلے دن 288 رنز 2 وکٹوں کے نقصان پر بنائے۔ آپ کے خیال میں یہ میچ کون جیتے گا؟",
+      "fb_caption": "سری لنکا کے خلاف پہلے ٹیسٹ میں دیودت پڈیکل نے شاندار بیٹنگ کا مظاہرہ کیا۔ انہوں نے اپنی پہلی ٹیسٹ سنچری بنا کر ٹیم کو مضبوط پوزیشن پر لاکھڑا کیا۔ بھارت نے پہلے دن 288 رنز 2 وکٹوں کے نقصان پر بنائے۔ آپ کے خیال میں یہ میچ کون جیتے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #DevduttPadikkal #INDvSL #TestCricket #Galle #بھارت",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#DevduttPadikkal",
+        "#INDvSL",
+        "#TestCricket",
+        "#Galle",
+        "#بھارت"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 25,
+      "telegram_file_id": "BQACAgQAAxkDAAMZaoFLXGsozkcEwCSeK8MVF6y7O8YAAr8eAAI5zglQ8NYNGojzRD09BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-16T05:32:11.749158+00:00",
+      "updated_at": "2026-08-16T05:32:12.765151+00:00",
       "posted_at": null
     }
   ]
