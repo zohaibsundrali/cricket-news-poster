@@ -20,7 +20,9 @@
     "f032dede8141cc63": "2026-08-15T17:24:44.520471+00:00",
     "512608efaf25f752": "2026-08-16T03:04:09.707980+00:00",
     "63f5ecfdb7728a05": "2026-08-16T03:04:32.389232+00:00",
-    "f6d7b28a7c817b45": "2026-08-16T05:32:11.749202+00:00"
+    "f6d7b28a7c817b45": "2026-08-16T05:32:11.749202+00:00",
+    "1d2de108a88a826d": "2026-08-16T08:34:32.675071+00:00",
+    "cb714b08a21677c0": "2026-08-16T08:34:41.344379+00:00"
   },
   "posts": [
     {
@@ -429,6 +431,40 @@
       "error_msg": null,
       "created_at": "2026-08-16T05:32:11.749158+00:00",
       "updated_at": "2026-08-16T05:32:12.765151+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260816T0834Z-5c8ec1",
+      "url_hash": "cb714b08a21677c0",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/biggest-upset-mark-waugh-reacts-to-australias-historic-bangladesh-defeat/articleshow/133271791.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Biggest upsetâ: Mark Waugh reacts to Australiaâs historic Bangladesh defeat",
+      "headline_ur": "بنگلہ دیش نے آسٹریلیا کو ہرا کر تاریخ رقم کر دی",
+      "summary_ur": [
+        "بنگلہ دیش نے آسٹریلیا کو ڈارون ٹیسٹ میں 9 وکٹوں سے شکست دے دی",
+        "یہ آسٹریلیا میں بنگلہ دیش کی پہلی ٹیسٹ فتح اور مجموعی طور پر دوسری جیت ہے",
+        "مارک وا نے اسے آسٹریلوی کرکٹ کی سب سے بڑی اپ سیٹ قرار دیا"
+      ],
+      "caption_ur": "بنگلہ دیش نے آسٹریلیا کو ٹیسٹ میچ میں ہرا کر سب کو حیران کر دیا۔ سابق آسٹریلوی بلے باز مارک وا نے اسے آسٹریلوی کرکٹ کی سب سے بڑی اپ سیٹ قرار دیا ہے۔ کینگروز اپنی ہوم گراؤنڈ پر مکمل اسکواڈ کے ساتھ کھیل رہے تھے۔ کیا یہ واقعی آسٹریلیا کی سب سے بڑی شکست ہے؟",
+      "fb_caption": "بنگلہ دیش نے آسٹریلیا کو ٹیسٹ میچ میں ہرا کر سب کو حیران کر دیا۔ سابق آسٹریلوی بلے باز مارک وا نے اسے آسٹریلوی کرکٹ کی سب سے بڑی اپ سیٹ قرار دیا ہے۔ کینگروز اپنی ہوم گراؤنڈ پر مکمل اسکواڈ کے ساتھ کھیل رہے تھے۔ کیا یہ واقعی آسٹریلیا کی سب سے بڑی شکست ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #Bangladesh #Australia #TestCricket #MarkWaugh #کرکٹ_نیوز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Bangladesh",
+        "#Australia",
+        "#TestCricket",
+        "#MarkWaugh",
+        "#کرکٹ_نیوز"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 27,
+      "telegram_file_id": "BQACAgQAAxkDAAMbaoF2I6U2FiKh_MHA0DfDu0DwCYwAAuEeAAI5zglQ8jDeStD_eOw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-16T08:34:41.344334+00:00",
+      "updated_at": "2026-08-16T08:34:43.899398+00:00",
       "posted_at": null
     }
   ]
