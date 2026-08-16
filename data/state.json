@@ -26,7 +26,10 @@
     "1c38ecfc78b6e0ee": "2026-08-16T11:23:38.986843+00:00",
     "58e84ad1b43fa1aa": "2026-08-16T11:23:49.010190+00:00",
     "f9c48a213060783f": "2026-08-16T14:27:18.476780+00:00",
-    "aa4b10af739afffb": "2026-08-16T14:27:28.695028+00:00"
+    "aa4b10af739afffb": "2026-08-16T14:27:28.695028+00:00",
+    "af15251ca8d26b95": "2026-08-16T17:23:18.681503+00:00",
+    "15ec9739a03810d7": "2026-08-16T17:23:51.008510+00:00",
+    "2b45ac19ddbdc4d1": "2026-08-16T17:23:59.492679+00:00"
   },
   "posts": [
     {
@@ -537,6 +540,39 @@
       "error_msg": null,
       "created_at": "2026-08-16T14:27:28.694982+00:00",
       "updated_at": "2026-08-16T14:27:29.720387+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260816T1723Z-7e8c24",
+      "url_hash": "2b45ac19ddbdc4d1",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-werent-able-to-catch-steve-smith-admits-australia-were-outplayed-after-historic-bangladesh-defeat/articleshow/133274501.cms",
+      "source_name": "The Times of India",
+      "title_en": "'We werenât able to catch': Steve Smith admits Australia were 'outplayed' after historic Bangladesh defeat",
+      "headline_ur": "اسمتھ نے بنگلہ دیش سے ہار کا اعتراف کر لیا",
+      "summary_ur": [
+        "بنگلہ دیش نے آسٹریلیا کو 9 وکٹوں سے شکست دے کر تاریخ رقم کی",
+        "اسٹیو اسمتھ نے کہا کہ آسٹریلیا کو بنگلہ دیش نے آؤٹ پلے کیا"
+      ],
+      "caption_ur": "ڈارون ٹیسٹ میں بنگلہ دیش نے آسٹریلیا کو 9 وکٹوں سے شکست دے کر تاریخ رقم کر دی۔ آسٹریلوی کپتان اسٹیو اسمتھ نے اپنی ٹیم کی ناقص کارکردگی کا اعتراف کیا۔ انہوں نے کہا کہ بنگلہ دیش نے ہمیں ہر شعبے میں آؤٹ پلے کیا۔ آپ کے خیال میں آسٹریلیا کی شکست کی اصل وجہ کیا تھی؟",
+      "fb_caption": "ڈارون ٹیسٹ میں بنگلہ دیش نے آسٹریلیا کو 9 وکٹوں سے شکست دے کر تاریخ رقم کر دی۔ آسٹریلوی کپتان اسٹیو اسمتھ نے اپنی ٹیم کی ناقص کارکردگی کا اعتراف کیا۔ انہوں نے کہا کہ بنگلہ دیش نے ہمیں ہر شعبے میں آؤٹ پلے کیا۔ آپ کے خیال میں آسٹریلیا کی شکست کی اصل وجہ کیا تھی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AUSvsBAN #SteveSmith #BangladeshCricket #TestCricket #HistoricWin",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AUSvsBAN",
+        "#SteveSmith",
+        "#BangladeshCricket",
+        "#TestCricket",
+        "#HistoricWin"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 31,
+      "telegram_file_id": "BQACAgQAAxkDAAMfaoHyMBryVWsPJcX-0zUYtD047y4AAoYhAAI5zhFQT3Zne73z4VY9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-16T17:23:59.492632+00:00",
+      "updated_at": "2026-08-16T17:24:00.842539+00:00",
       "posted_at": null
     }
   ]
