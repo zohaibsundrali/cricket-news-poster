@@ -29,7 +29,8 @@
     "aa4b10af739afffb": "2026-08-16T14:27:28.695028+00:00",
     "af15251ca8d26b95": "2026-08-16T17:23:18.681503+00:00",
     "15ec9739a03810d7": "2026-08-16T17:23:51.008510+00:00",
-    "2b45ac19ddbdc4d1": "2026-08-16T17:23:59.492679+00:00"
+    "2b45ac19ddbdc4d1": "2026-08-16T17:23:59.492679+00:00",
+    "4e1872ea4751045e": "2026-08-17T03:05:03.825960+00:00"
   },
   "posts": [
     {
@@ -573,6 +574,40 @@
       "error_msg": null,
       "created_at": "2026-08-16T17:23:59.492632+00:00",
       "updated_at": "2026-08-16T17:24:00.842539+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260817T0305Z-779388",
+      "url_hash": "4e1872ea4751045e",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c2dkk2j086lo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "The Hundred final: Manchester Super Giants seal victory over Trent Rockets after Tim Seifert's 72",
+      "headline_ur": "ٹم سیفرٹ کی 72 رنز کی اننگز، سپر جائنٹس نے فائنل جیتا",
+      "summary_ur": [
+        "مینچسٹر سپر جائنٹس نے ٹرینٹ راکٹس کو 5 وکٹوں سے شکست دے کر ٹائٹل جیتا",
+        "ٹم سیفرٹ نے 38 گیندوں پر 72 رنز کی شاندار اننگز کھیلی",
+        "یہ سپر جائنٹس کا پہلا دی ہنڈریڈ ٹائٹل ہے"
+      ],
+      "caption_ur": "مینچسٹر سپر جائنٹس نے دی ہنڈریڈ کا فائنل جیت کر پہلی بار ٹائٹل اپنے نام کر لیا۔ ٹم سیفرٹ نے 72 رنز کی دھواں دار اننگز کھیل کر ٹیم کی جیت میں اہم کردار ادا کیا۔ آخری اوورز میں میچ دلچسپ مرحلے میں داخل ہوا لیکن لیام ڈاسن نے چھکا مار کر فتح سمیٹ لی۔ آپ کے خیال میں اس ٹورنامنٹ کا بہترین کھلاڑی کون تھا؟",
+      "fb_caption": "مینچسٹر سپر جائنٹس نے دی ہنڈریڈ کا فائنل جیت کر پہلی بار ٹائٹل اپنے نام کر لیا۔ ٹم سیفرٹ نے 72 رنز کی دھواں دار اننگز کھیل کر ٹیم کی جیت میں اہم کردار ادا کیا۔ آخری اوورز میں میچ دلچسپ مرحلے میں داخل ہوا لیکن لیام ڈاسن نے چھکا مار کر فتح سمیٹ لی۔ آپ کے خیال میں اس ٹورنامنٹ کا بہترین کھلاڑی کون تھا؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #TheHundred #ManchesterSuperGiants #TimSeifert #Final #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#TheHundred",
+        "#ManchesterSuperGiants",
+        "#TimSeifert",
+        "#Final",
+        "#Sports"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 36,
+      "telegram_file_id": "BQACAgQAAxkDAAMkaoJ6YSUrMiILwTU5dwABzozPSTUbAAIcIgACOc4RUMqpD4dOuDWYPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-17T03:05:03.825917+00:00",
+      "updated_at": "2026-08-17T03:05:05.209039+00:00",
       "posted_at": null
     }
   ]
