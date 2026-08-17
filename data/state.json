@@ -644,11 +644,11 @@
       "telegram_message_id": 37,
       "telegram_file_id": "BQACAgQAAxkDAAMlaoKeRpo_rqfOWET2RLxKs6VTK0cAAiYiAAI5zhFQ4p9krN4NUm89BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-17T05:38:13.316961+00:00",
-      "updated_at": "2026-08-17T05:38:14.977540+00:00",
+      "updated_at": "2026-08-17T17:58:10.302941+00:00",
       "posted_at": null
     },
     {
