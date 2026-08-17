@@ -609,11 +609,11 @@
       "telegram_message_id": 36,
       "telegram_file_id": "BQACAgQAAxkDAAMkaoJ6YSUrMiILwTU5dwABzozPSTUbAAIcIgACOc4RUMqpD4dOuDWYPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-17T03:05:03.825917+00:00",
-      "updated_at": "2026-08-17T03:05:05.209039+00:00",
+      "updated_at": "2026-08-17T15:41:29.796972+00:00",
       "posted_at": null
     },
     {
