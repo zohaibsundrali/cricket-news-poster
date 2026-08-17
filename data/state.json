@@ -36,7 +36,8 @@
     "01e9e18f7ffb80ec": "2026-08-17T08:48:26.656312+00:00",
     "96c56fc1ea936df9": "2026-08-17T11:30:03.216274+00:00",
     "d5ac4f77b07fa982": "2026-08-17T14:31:43.261520+00:00",
-    "39dcc7e7dfe3f09c": "2026-08-17T14:32:27.324284+00:00"
+    "39dcc7e7dfe3f09c": "2026-08-17T14:32:27.324284+00:00",
+    "9838b8aadea9a875": "2026-08-17T17:30:30.258923+00:00"
   },
   "posts": [
     {
@@ -750,6 +751,40 @@
       "error_msg": null,
       "created_at": "2026-08-17T14:32:27.324243+00:00",
       "updated_at": "2026-08-17T14:32:28.902948+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260817T1730Z-d8e2ad",
+      "url_hash": "9838b8aadea9a875",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/well-have-to-follow-medical-advice-pakistan-captain-babar-azam-doubtful-for-england-opener/articleshow/133300713.cms",
+      "source_name": "The Times of India",
+      "title_en": "'We'll have to follow medical advice': Pakistan captain Babar Azam doubtful for England opener",
+      "headline_ur": "بابر اعظم انگلینڈ کے خلاف پہلے ٹیسٹ سے باہر ہونے کا خدشہ",
+      "summary_ur": [
+        "قومی ٹیم کے کپتان بابر اعظم انگلینڈ کے خلاف پہلے ٹیسٹ میں شمولیت مشکوک۔",
+        "بابر انگلی کی انجری سے صحت یاب ہو رہے ہیں، آج مختصر بیٹنگ پریکٹس کی۔",
+        "محمد عباس کا کہنا ہے کہ میڈیکل ایڈوائس پر عمل کیا جائے گا۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل قومی ٹیم کو بڑا جھٹکا لگ سکتا ہے۔ کپتان بابر اعظم کی شمولیت مشکوک ہے۔ وہ انگلی کی انجری سے مکمل صحت یاب نہیں ہو سکے۔ کیا بابر اعظم کی غیر موجودگی ٹیم کے لیے بڑا نقصان ثابت ہوگی؟",
+      "fb_caption": "انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل قومی ٹیم کو بڑا جھٹکا لگ سکتا ہے۔ کپتان بابر اعظم کی شمولیت مشکوک ہے۔ وہ انگلی کی انجری سے مکمل صحت یاب نہیں ہو سکے۔ کیا بابر اعظم کی غیر موجودگی ٹیم کے لیے بڑا نقصان ثابت ہوگی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #Pakistan #ENGvPAK #TestCricket #TeamNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#Pakistan",
+        "#ENGvPAK",
+        "#TestCricket",
+        "#TeamNews"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 43,
+      "telegram_file_id": "BQACAgQAAxkDAAMraoNFNx-uaOvgnbao8gABM9yyamrHAAIxIgAChLYZUA1tTAELRB5UPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-17T17:30:30.258876+00:00",
+      "updated_at": "2026-08-17T17:30:31.377061+00:00",
       "posted_at": null
     }
   ]
