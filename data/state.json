@@ -712,11 +712,11 @@
       "telegram_message_id": 40,
       "telegram_file_id": "BQACAgQAAxkDAAMoaoLwvCwaBFw6QZ4Xj3DPhLxIdsoAAsMgAAKEthlQKFfQVM2UrJ49BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-17T11:30:03.216226+00:00",
-      "updated_at": "2026-08-17T11:30:04.725865+00:00",
+      "updated_at": "2026-08-17T23:38:05.579259+00:00",
       "posted_at": null
     },
     {
