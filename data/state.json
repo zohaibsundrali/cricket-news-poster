@@ -34,7 +34,9 @@
     "6b7c6733b367e9ef": "2026-08-17T05:38:13.317007+00:00",
     "6cd3443d5be166bb": "2026-08-17T08:48:15.539972+00:00",
     "01e9e18f7ffb80ec": "2026-08-17T08:48:26.656312+00:00",
-    "96c56fc1ea936df9": "2026-08-17T11:30:03.216274+00:00"
+    "96c56fc1ea936df9": "2026-08-17T11:30:03.216274+00:00",
+    "d5ac4f77b07fa982": "2026-08-17T14:31:43.261520+00:00",
+    "39dcc7e7dfe3f09c": "2026-08-17T14:32:27.324284+00:00"
   },
   "posts": [
     {
@@ -714,6 +716,40 @@
       "error_msg": null,
       "created_at": "2026-08-17T11:30:03.216226+00:00",
       "updated_at": "2026-08-17T11:30:04.725865+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260817T1432Z-b5080b",
+      "url_hash": "39dcc7e7dfe3f09c",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/czdmzld200ro?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "Georgia Adams: Hampshire women's captain signs new deal",
+      "headline_ur": "جارجیا ایڈمز کا ہیمپشائر سے نیا معاہدہ، 2028 تک ساتھ",
+      "summary_ur": [
+        "ہیمپشائر کی کپتان جارجیا ایڈمز نے 2 سالہ نیا معاہدہ سائن کر لیا۔",
+        "وہ 2028 تک یوٹلیٹا باؤل میں ہی کرکٹ کھیلتی رہیں گی۔",
+        "32 سالہ ایڈمز نے 2016 سے 6 ٹرافیاں جیتی ہیں۔"
+      ],
+      "caption_ur": "ہیمپشائر ویمن کی کپتان جارجیا ایڈمز نے اپنے کلب کے ساتھ 2 سالہ نیا معاہدہ کر لیا ہے۔ وہ 2028 تک یوٹلیٹا باؤل میں ہی اپنی کرکٹ جاری رکھیں گی۔ 32 سالہ ایڈمز نے 2016 سے سدرن وائپرز کے ساتھ 6 ٹرافیاں جیتی ہیں۔ ان کا یہ فیصلہ کلب کے لیے کتنا اہم ہے؟",
+      "fb_caption": "ہیمپشائر ویمن کی کپتان جارجیا ایڈمز نے اپنے کلب کے ساتھ 2 سالہ نیا معاہدہ کر لیا ہے۔ وہ 2028 تک یوٹلیٹا باؤل میں ہی اپنی کرکٹ جاری رکھیں گی۔ 32 سالہ ایڈمز نے 2016 سے سدرن وائپرز کے ساتھ 6 ٹرافیاں جیتی ہیں۔ ان کا یہ فیصلہ کلب کے لیے کتنا اہم ہے؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #GeorgiaAdams #Hampshire #WomensCricket #CricketNews #2028",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#GeorgiaAdams",
+        "#Hampshire",
+        "#WomensCricket",
+        "#CricketNews",
+        "#2028"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 41,
+      "telegram_file_id": "BQACAgQAAxkDAAMpaoMbfBQflYrEWEvD1JZrr-UoHkwAAi4hAAKEthlQPbvMFsNQFHk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-17T14:32:27.324243+00:00",
+      "updated_at": "2026-08-17T14:32:28.902948+00:00",
       "posted_at": null
     }
   ]
