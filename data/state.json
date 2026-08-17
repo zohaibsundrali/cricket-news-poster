@@ -30,7 +30,8 @@
     "af15251ca8d26b95": "2026-08-16T17:23:18.681503+00:00",
     "15ec9739a03810d7": "2026-08-16T17:23:51.008510+00:00",
     "2b45ac19ddbdc4d1": "2026-08-16T17:23:59.492679+00:00",
-    "4e1872ea4751045e": "2026-08-17T03:05:03.825960+00:00"
+    "4e1872ea4751045e": "2026-08-17T03:05:03.825960+00:00",
+    "6b7c6733b367e9ef": "2026-08-17T05:38:13.317007+00:00"
   },
   "posts": [
     {
@@ -608,6 +609,40 @@
       "error_msg": null,
       "created_at": "2026-08-17T03:05:03.825917+00:00",
       "updated_at": "2026-08-17T03:05:05.209039+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260817T0538Z-3e1bba",
+      "url_hash": "6b7c6733b367e9ef",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "Harry Brook: England player on batting, Test captaincy and Wellington",
+      "headline_ur": "ہیری بروک: کپتانی اور ویلنگٹن واقعے پر بات",
+      "summary_ur": [
+        "جو روٹ انگلینڈ کے نئے ٹیسٹ کپتان بن گئے",
+        "ویلنگٹن واقعے نے بروک کی کپتانی کے امکانات متاثر کیے",
+        "بروک کا 60 سال میں انگلینڈ کے لیے سب سے زیادہ ٹیسٹ اوسط 53.04 ہے"
+      ],
+      "caption_ur": "انگلینڈ کے سٹار بلے باز ہیری بروک نے اپنی کپتانی کی خواہش اور ویلنگٹن واقعے پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ جو روٹ کا کپتان بننا صحیح فیصلہ ہے۔ کیا آپ کو لگتا ہے کہ ویلنگٹن واقعے نے ان کے کیریئر پر اثر ڈالا ہے؟",
+      "fb_caption": "انگلینڈ کے سٹار بلے باز ہیری بروک نے اپنی کپتانی کی خواہش اور ویلنگٹن واقعے پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ جو روٹ کا کپتان بننا صحیح فیصلہ ہے۔ کیا آپ کو لگتا ہے کہ ویلنگٹن واقعے نے ان کے کیریئر پر اثر ڈالا ہے؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #HarryBrook #EnglandCricket #TestCricket #JoeRoot #کھلاڑی_خبر",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#HarryBrook",
+        "#EnglandCricket",
+        "#TestCricket",
+        "#JoeRoot",
+        "#کھلاڑی_خبر"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 37,
+      "telegram_file_id": "BQACAgQAAxkDAAMlaoKeRpo_rqfOWET2RLxKs6VTK0cAAiYiAAI5zhFQ4p9krN4NUm89BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-17T05:38:13.316961+00:00",
+      "updated_at": "2026-08-17T05:38:14.977540+00:00",
       "posted_at": null
     }
   ]
