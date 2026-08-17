@@ -33,7 +33,8 @@
     "4e1872ea4751045e": "2026-08-17T03:05:03.825960+00:00",
     "6b7c6733b367e9ef": "2026-08-17T05:38:13.317007+00:00",
     "6cd3443d5be166bb": "2026-08-17T08:48:15.539972+00:00",
-    "01e9e18f7ffb80ec": "2026-08-17T08:48:26.656312+00:00"
+    "01e9e18f7ffb80ec": "2026-08-17T08:48:26.656312+00:00",
+    "96c56fc1ea936df9": "2026-08-17T11:30:03.216274+00:00"
   },
   "posts": [
     {
@@ -679,6 +680,40 @@
       "error_msg": null,
       "created_at": "2026-08-17T08:48:26.656265+00:00",
       "updated_at": "2026-08-17T08:48:28.424526+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260817T1130Z-a55b7c",
+      "url_hash": "96c56fc1ea936df9",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/dada-this-is-not-done-when-ganguly-nearly-gave-up-india-captaincy-over-a-prank-by-sachin-yuvraj/articleshow/133291455.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Dada, this is not done': When Ganguly nearly gave up India captaincy over a prank by Sachin, Yuvraj",
+      "headline_ur": "گنگولی کپتانی چھوڑنے کو تیار، سچن اور یووراج کا مذاق",
+      "summary_ur": [
+        "2005 میں سچن اور یووراج نے گنگولی کے ساتھ مذاق کیا",
+        "گنگولی کپتانی چھوڑنے کے لیے تیار ہوگئے تھے",
+        "یہ مذاق پاکستان کے خلاف سیریز سے پہلے کیا گیا"
+      ],
+      "caption_ur": "بھارتی ٹیم کے ڈریسنگ روم میں 2005 میں ایک دلچسپ واقعہ پیش آیا۔ سچن اور یووراج نے کپتان گنگولی کے ساتھ اپریل فول کا مذاق کیا۔ گنگولی اس مذاق سے اتنے پریشان ہوئے کہ انہوں نے کپتانی چھوڑنے کا فیصلہ کر لیا۔ آپ کے خیال میں یہ مذاق کتنا خطرناک تھا؟",
+      "fb_caption": "بھارتی ٹیم کے ڈریسنگ روم میں 2005 میں ایک دلچسپ واقعہ پیش آیا۔ سچن اور یووراج نے کپتان گنگولی کے ساتھ اپریل فول کا مذاق کیا۔ گنگولی اس مذاق سے اتنے پریشان ہوئے کہ انہوں نے کپتانی چھوڑنے کا فیصلہ کر لیا۔ آپ کے خیال میں یہ مذاق کتنا خطرناک تھا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #SouravGanguly #SachinTendulkar #YuvrajSingh #IndianCricket #AprilFoolsPrank",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#SouravGanguly",
+        "#SachinTendulkar",
+        "#YuvrajSingh",
+        "#IndianCricket",
+        "#AprilFoolsPrank"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 40,
+      "telegram_file_id": "BQACAgQAAxkDAAMoaoLwvCwaBFw6QZ4Xj3DPhLxIdsoAAsMgAAKEthlQKFfQVM2UrJ49BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-17T11:30:03.216226+00:00",
+      "updated_at": "2026-08-17T11:30:04.725865+00:00",
       "posted_at": null
     }
   ]
