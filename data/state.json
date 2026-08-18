@@ -44,7 +44,8 @@
     "d7101d2a0e8b17f0": "2026-08-18T08:41:53.849339+00:00",
     "c729467e6213be39": "2026-08-18T11:29:34.067354+00:00",
     "c8dd2d2464e6a6b0": "2026-08-18T14:38:25.054495+00:00",
-    "d26a4622990cdea5": "2026-08-18T14:38:48.278032+00:00"
+    "d26a4622990cdea5": "2026-08-18T14:38:48.278032+00:00",
+    "0767322d61a7258c": "2026-08-18T17:31:50.837919+00:00"
   },
   "posts": [
     {
@@ -962,6 +963,40 @@
       "error_msg": null,
       "created_at": "2026-08-18T14:38:48.277996+00:00",
       "updated_at": "2026-08-18T14:38:49.784939+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260818T1731Z-9fbc92",
+      "url_hash": "0767322d61a7258c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
+      "source_name": "The Times of India",
+      "title_en": "Pakistan suffer major blow as captain Babar Azam ruled out of first Test against England",
+      "headline_ur": "بابر اعظم انگلینڈ کے خلاف پہلے ٹیسٹ سے باہر",
+      "summary_ur": [
+        "قومی ٹیم کو انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل بڑا دھچکا۔",
+        "بابر اعظم انگلی کی چوٹ کے باعث میچ سے باہر ہو گئے۔",
+        "سلمان آغا پہلے ٹیسٹ میں کپتانی کے فرائض انجام دیں گے۔"
+      ],
+      "caption_ur": "قومی ٹیم کو انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل بڑا دھچکا لگ گیا ہے۔ کپتان بابر اعظم انگلی کی چوٹ کے باعث میچ سے باہر ہو گئے ہیں۔ ان کی جگہ سلمان آغا ٹیم کی قیادت کریں گے۔ کیا قومی ٹیم بابر کی غیر موجودگی میں اچھا پرفارم کر پائے گی؟",
+      "fb_caption": "قومی ٹیم کو انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل بڑا دھچکا لگ گیا ہے۔ کپتان بابر اعظم انگلی کی چوٹ کے باعث میچ سے باہر ہو گئے ہیں۔ ان کی جگہ سلمان آغا ٹیم کی قیادت کریں گے۔ کیا قومی ٹیم بابر کی غیر موجودگی میں اچھا پرفارم کر پائے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #SalmanAgha #PakistanCricket #ENGvsPAK #TestCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#SalmanAgha",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#TestCricket"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 55,
+      "telegram_file_id": "BQACAgQAAxkDAAM3aoSXBzVDBHKbls91h0c2Wds2qk0AAiciAAKEtilQaINqhDLenDI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-18T17:31:50.837865+00:00",
+      "updated_at": "2026-08-18T17:31:52.044561+00:00",
       "posted_at": null
     }
   ]
