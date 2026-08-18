@@ -39,7 +39,8 @@
     "39dcc7e7dfe3f09c": "2026-08-17T14:32:27.324284+00:00",
     "9838b8aadea9a875": "2026-08-17T17:30:30.258923+00:00",
     "65a7161d1afd13cf": "2026-08-18T02:59:40.164734+00:00",
-    "d7fd3b01bfe81635": "2026-08-18T02:59:51.951442+00:00"
+    "d7fd3b01bfe81635": "2026-08-18T02:59:51.951442+00:00",
+    "99e9245805fb61d9": "2026-08-18T05:34:00.641354+00:00"
   },
   "posts": [
     {
@@ -821,6 +822,40 @@
       "error_msg": null,
       "created_at": "2026-08-18T02:59:51.951407+00:00",
       "updated_at": "2026-08-18T02:59:53.429394+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260818T0533Z-7c27ea",
+      "url_hash": "99e9245805fb61d9",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-make-major-change-to-squad-after-shock-bangladesh-defeat/articleshow/133310871.cms",
+      "source_name": "The Times of India",
+      "title_en": "AUS vs BAN 2nd Test: Australia make major change to squad after shock Bangladesh defeat",
+      "headline_ur": "آسٹریلیا نے بنگلہ دیش ٹیسٹ اسکواڈ میں اہم تبدیلی کر دی",
+      "summary_ur": [
+        "میتھیو رینشا نے جیک ویدرالڈ کی جگہ آسٹریلوی اسکواڈ میں لی",
+        "رینشا نے آخری ٹیسٹ 2023 میں کھیلا تھا، تین سال بعد واپسی",
+        "مارنس لبوشین کو رنز بنانے کے لیے دباؤ کا سامنا ہے"
+      ],
+      "caption_ur": "بنگلہ دیش سے پہلے ٹیسٹ میں شکست کے بعد آسٹریلیا نے اپنے اسکواڈ میں بڑی تبدیلی کی ہے۔ جیک ویدرالڈ کی جگہ میتھیو رینشا کو شامل کیا گیا ہے۔ رینشا تین سال سے زائد عرصے بعد ٹیسٹ ٹیم میں واپس آئے ہیں۔ کیا یہ تبدیلی آسٹریلیا کی قسمت بدل پائے گی؟",
+      "fb_caption": "بنگلہ دیش سے پہلے ٹیسٹ میں شکست کے بعد آسٹریلیا نے اپنے اسکواڈ میں بڑی تبدیلی کی ہے۔ جیک ویدرالڈ کی جگہ میتھیو رینشا کو شامل کیا گیا ہے۔ رینشا تین سال سے زائد عرصے بعد ٹیسٹ ٹیم میں واپس آئے ہیں۔ کیا یہ تبدیلی آسٹریلیا کی قسمت بدل پائے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AUSvBAN #TestCricket #MatthewRenshaw #Australia #TeamNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AUSvBAN",
+        "#TestCricket",
+        "#MatthewRenshaw",
+        "#Australia",
+        "#TeamNews"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 49,
+      "telegram_file_id": "BQACAgQAAxkDAAMxaoPuyUYk08w3JJhbxnOFiU2Ls60AAs8gAAKEtiFQJV324tuykaw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-18T05:34:00.641292+00:00",
+      "updated_at": "2026-08-18T05:34:02.170889+00:00",
       "posted_at": null
     }
   ]
