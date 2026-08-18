@@ -37,7 +37,9 @@
     "96c56fc1ea936df9": "2026-08-17T11:30:03.216274+00:00",
     "d5ac4f77b07fa982": "2026-08-17T14:31:43.261520+00:00",
     "39dcc7e7dfe3f09c": "2026-08-17T14:32:27.324284+00:00",
-    "9838b8aadea9a875": "2026-08-17T17:30:30.258923+00:00"
+    "9838b8aadea9a875": "2026-08-17T17:30:30.258923+00:00",
+    "65a7161d1afd13cf": "2026-08-18T02:59:40.164734+00:00",
+    "d7fd3b01bfe81635": "2026-08-18T02:59:51.951442+00:00"
   },
   "posts": [
     {
@@ -785,6 +787,40 @@
       "error_msg": null,
       "created_at": "2026-08-17T17:30:30.258876+00:00",
       "updated_at": "2026-08-17T17:30:31.377061+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260818T0259Z-97e4a6",
+      "url_hash": "d7fd3b01bfe81635",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-out-turns-ravindra-jadeja-kuldeep-yadav-with-74-big-turn-deliveries-in-galle/articleshow/133309017.cms",
+      "source_name": "The Times of India",
+      "title_en": "74% big-turn deliveries: Manav Suthar out-turns Ravindra Jadeja, Kuldeep Yadav in Galle",
+      "headline_ur": "مناو سوتھر کی شاندار بالنگ، 74 فیصد بڑی ٹرن ڈیلیوریز",
+      "summary_ur": [
+        "بھارتی سپنر مناو سوتھر نے سری لنکا کے خلاف 4 وکٹیں حاصل کیں",
+        "ان کی 74 فیصد گیندوں نے 4.5 ڈگری سے زیادہ ٹرن حاصل کی",
+        "انہوں نے جڈیجا اور کلدیپ یادیو کو بھی پیچھے چھوڑ دیا"
+      ],
+      "caption_ur": "سری لنکا کے خلاف ٹیسٹ میں بھارتی سپنر مناو سوتھر نے شاندار کارکردگی دکھائی۔ انہوں نے پہلی اننگز میں 4 وکٹیں حاصل کیں اور اپنی 74 فیصد گیندوں پر 4.5 ڈگری سے زیادہ ٹرن حاصل کی۔ کیا آپ کو لگتا ہے کہ وہ مستقبل کے بڑے سپنر بن سکتے ہیں؟",
+      "fb_caption": "سری لنکا کے خلاف ٹیسٹ میں بھارتی سپنر مناو سوتھر نے شاندار کارکردگی دکھائی۔ انہوں نے پہلی اننگز میں 4 وکٹیں حاصل کیں اور اپنی 74 فیصد گیندوں پر 4.5 ڈگری سے زیادہ ٹرن حاصل کی۔ کیا آپ کو لگتا ہے کہ وہ مستقبل کے بڑے سپنر بن سکتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ManavSuthar #INDvSL #GalleTest #SpinBowling #TestCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ManavSuthar",
+        "#INDvSL",
+        "#GalleTest",
+        "#SpinBowling",
+        "#TestCricket"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 47,
+      "telegram_file_id": "BQACAgQAAxkDAAMvaoPKqeIGjhtXIx9wgcTFs1mc2nUAAr4gAAKEtiFQUw06jMHifuk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-18T02:59:51.951407+00:00",
+      "updated_at": "2026-08-18T02:59:53.429394+00:00",
       "posted_at": null
     }
   ]
