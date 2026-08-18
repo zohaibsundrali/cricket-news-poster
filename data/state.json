@@ -924,11 +924,11 @@
       "telegram_message_id": 52,
       "telegram_file_id": "BQACAgQAAxkDAAM0aoRCH0VwQmslXUXkTtFR1Tm8GgYAAiAhAAKEtiFQDAY5uyk29oI9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-18T11:29:34.067305+00:00",
-      "updated_at": "2026-08-18T11:29:35.483750+00:00",
+      "updated_at": "2026-08-18T23:38:09.622513+00:00",
       "posted_at": null
     },
     {
