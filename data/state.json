@@ -40,7 +40,8 @@
     "9838b8aadea9a875": "2026-08-17T17:30:30.258923+00:00",
     "65a7161d1afd13cf": "2026-08-18T02:59:40.164734+00:00",
     "d7fd3b01bfe81635": "2026-08-18T02:59:51.951442+00:00",
-    "99e9245805fb61d9": "2026-08-18T05:34:00.641354+00:00"
+    "99e9245805fb61d9": "2026-08-18T05:34:00.641354+00:00",
+    "d7101d2a0e8b17f0": "2026-08-18T08:41:53.849339+00:00"
   },
   "posts": [
     {
@@ -856,6 +857,40 @@
       "error_msg": null,
       "created_at": "2026-08-18T05:34:00.641292+00:00",
       "updated_at": "2026-08-18T05:34:02.170889+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260818T0841Z-e0f8fc",
+      "url_hash": "d7101d2a0e8b17f0",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/18-years-of-ruthless-virat-kohli-the-man-who-refused-to-stay-ordinary/articleshow/133314205.cms",
+      "source_name": "The Times of India",
+      "title_en": "18 years of ruthless Virat Kohli: The man who refused to stay ordinary",
+      "headline_ur": "ویرات کوہلی: 18 سالہ کرکٹ کا بے مثال سفر",
+      "summary_ur": [
+        "ویرات کوہلی نے 18 اگست 2008 کو انٹرنیشنل کرکٹ میں ڈیبیو کیا تھا۔",
+        "وہ اب تک 28,359 رنز اور 85 سنچریاں بنا چکے ہیں۔",
+        "انہوں نے 2011 کا ورلڈ کپ بھی جیتا اور کئی ریکارڈز اپنے نام کیے۔"
+      ],
+      "caption_ur": "ویرات کوہلی کو انٹرنیشنل کرکٹ میں 18 سال مکمل ہو گئے ہیں۔ 2008 میں ڈیبیو کرنے والے کوہلی نے اپنی محنت اور لگن سے کرکٹ کی دنیا میں اپنا ایک الگ مقام بنایا۔ ان کی بیٹنگ، کپتانی اور فٹنس نے کئی کھلاڑیوں کو متاثر کیا۔ آپ کوہلی کی کون سی اننگز سب سے زیادہ پسند ہے؟",
+      "fb_caption": "ویرات کوہلی کو انٹرنیشنل کرکٹ میں 18 سال مکمل ہو گئے ہیں۔ 2008 میں ڈیبیو کرنے والے کوہلی نے اپنی محنت اور لگن سے کرکٹ کی دنیا میں اپنا ایک الگ مقام بنایا۔ ان کی بیٹنگ، کپتانی اور فٹنس نے کئی کھلاڑیوں کو متاثر کیا۔ آپ کوہلی کی کون سی اننگز سب سے زیادہ پسند ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ViratKohli #KingKohli #CricketLegend #18YearsOfKohli #کھلاڑی",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ViratKohli",
+        "#KingKohli",
+        "#CricketLegend",
+        "#18YearsOfKohli",
+        "#کھلاڑی"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 51,
+      "telegram_file_id": "BQACAgQAAxkDAAMzaoQa0mkjnVmOPk9rAAGFH1r9vReYAALyIAAChLYhUP0wzt50hKLNPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-18T08:41:53.849294+00:00",
+      "updated_at": "2026-08-18T08:41:54.779173+00:00",
       "posted_at": null
     }
   ]
