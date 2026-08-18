@@ -41,7 +41,8 @@
     "65a7161d1afd13cf": "2026-08-18T02:59:40.164734+00:00",
     "d7fd3b01bfe81635": "2026-08-18T02:59:51.951442+00:00",
     "99e9245805fb61d9": "2026-08-18T05:34:00.641354+00:00",
-    "d7101d2a0e8b17f0": "2026-08-18T08:41:53.849339+00:00"
+    "d7101d2a0e8b17f0": "2026-08-18T08:41:53.849339+00:00",
+    "c729467e6213be39": "2026-08-18T11:29:34.067354+00:00"
   },
   "posts": [
     {
@@ -891,6 +892,40 @@
       "error_msg": null,
       "created_at": "2026-08-18T08:41:53.849294+00:00",
       "updated_at": "2026-08-18T08:41:54.779173+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260818T1129Z-b3d3c6",
+      "url_hash": "c729467e6213be39",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/david-warner-convicted-and-fined-for-drink-driving-big-bash-captaincy-under-cloud/articleshow/133319023.cms",
+      "source_name": "The Times of India",
+      "title_en": "David Warner convicted and fined for drink-driving; Big Bash captaincy under cloud",
+      "headline_ur": "ڈیوڈ وارنر کو شراب پی کر ڈرائیونگ پر جرمانہ",
+      "summary_ur": [
+        "آسٹریلوی کرکٹر ڈیوڈ وارنر کو شراب پی کر ڈرائیونگ پر سزا سنا دی گئی",
+        "سڈنی کی عدالت نے انہیں 1,500 آسٹریلوی ڈالر جرمانہ کیا",
+        "بگ بیش کپتانی پر بھی سوالات اٹھ گئے"
+      ],
+      "caption_ur": "آسٹریلیا کے سابق اوپنر ڈیوڈ وارنر کو سڈنی کی عدالت نے شراب پی کر ڈرائیونگ کا مجرم قرار دے دیا۔ انہیں 1,500 آسٹریلوی ڈالر جرمانہ اور گاڑی میں انٹرلاک ڈیوائس لگوانے کا حکم دیا گیا۔ اس واقعے کے بعد بگ بیش لیگ میں ان کی سڈنی تھنڈر کی کپتانی پر بھی سوالات اٹھ رہے ہیں۔ آپ کے خیال میں یہ فیصلہ کتنا درست ہے؟",
+      "fb_caption": "آسٹریلیا کے سابق اوپنر ڈیوڈ وارنر کو سڈنی کی عدالت نے شراب پی کر ڈرائیونگ کا مجرم قرار دے دیا۔ انہیں 1,500 آسٹریلوی ڈالر جرمانہ اور گاڑی میں انٹرلاک ڈیوائس لگوانے کا حکم دیا گیا۔ اس واقعے کے بعد بگ بیش لیگ میں ان کی سڈنی تھنڈر کی کپتانی پر بھی سوالات اٹھ رہے ہیں۔ آپ کے خیال میں یہ فیصلہ کتنا درست ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #DavidWarner #DrinkDriving #BigBash #Australia #کرکٹ_نیوز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#DavidWarner",
+        "#DrinkDriving",
+        "#BigBash",
+        "#Australia",
+        "#کرکٹ_نیوز"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 52,
+      "telegram_file_id": "BQACAgQAAxkDAAM0aoRCH0VwQmslXUXkTtFR1Tm8GgYAAiAhAAKEtiFQDAY5uyk29oI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-18T11:29:34.067305+00:00",
+      "updated_at": "2026-08-18T11:29:35.483750+00:00",
       "posted_at": null
     }
   ]
