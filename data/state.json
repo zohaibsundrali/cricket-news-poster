@@ -783,11 +783,11 @@
       "telegram_message_id": 43,
       "telegram_file_id": "BQACAgQAAxkDAAMraoNFNx-uaOvgnbao8gABM9yyamrHAAIxIgAChLYZUA1tTAELRB5UPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-17T17:30:30.258876+00:00",
-      "updated_at": "2026-08-17T17:30:31.377061+00:00",
+      "updated_at": "2026-08-18T05:48:50.757834+00:00",
       "posted_at": null
     },
     {
