@@ -50,7 +50,8 @@
     "ef967810978a0167": "2026-08-19T05:34:34.438312+00:00",
     "51abfbfa46af5057": "2026-08-19T11:29:00.993407+00:00",
     "dde9874497447cc7": "2026-08-19T11:29:12.464249+00:00",
-    "53e22d581d99092a": "2026-08-19T14:41:28.856003+00:00"
+    "53e22d581d99092a": "2026-08-19T14:41:28.856003+00:00",
+    "f6f3903d902feb50": "2026-08-19T17:30:59.961768+00:00"
   },
   "posts": [
     {
@@ -1138,6 +1139,40 @@
       "error_msg": null,
       "created_at": "2026-08-19T14:41:28.855960+00:00",
       "updated_at": "2026-08-19T14:41:30.549876+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260819T1730Z-42c199",
+      "url_hash": "f6f3903d902feb50",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-in-43-years-azan-awais-matches-unwanted-pakistan-record-in-england-test/articleshow/133353502.cms",
+      "source_name": "The Times of India",
+      "title_en": "First in 43 years! Azan Awais matches unwanted Pakistan record in England Test",
+      "headline_ur": "اذان اویس نے 43 سال پرانا ریکارڈ برابر کر دیا",
+      "summary_ur": [
+        "اذان اویس انگلینڈ کے خلاف پہلے ٹیسٹ کی پہلی گیند پر آؤٹ ہو گئے",
+        "وہ یہ ریکارڈ بنانے والے دوسرے پاکستانی اوپنر بن گئے",
+        "اس سے پہلے محسن خان 1983 میں پہلی گیند پر آؤٹ ہوئے تھے"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف پہلے ٹیسٹ میں اذان اویس پہلی ہی گیند پر آؤٹ ہو گئے۔ وہ 43 سال میں یہ ریکارڈ بنانے والے دوسرے پاکستانی اوپنر بن گئے ہیں۔ اس سے قبل 1983 میں محسن خان بھی پہلی گیند پر آؤٹ ہوئے تھے۔ آپ کے خیال میں قومی ٹیم اس صورتحال سے کیسے نکلے گی؟",
+      "fb_caption": "انگلینڈ کے خلاف پہلے ٹیسٹ میں اذان اویس پہلی ہی گیند پر آؤٹ ہو گئے۔ وہ 43 سال میں یہ ریکارڈ بنانے والے دوسرے پاکستانی اوپنر بن گئے ہیں۔ اس سے قبل 1983 میں محسن خان بھی پہلی گیند پر آؤٹ ہوئے تھے۔ آپ کے خیال میں قومی ٹیم اس صورتحال سے کیسے نکلے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AzanAwais #PakistanCricket #TestCricket #OllieRobinson #ENGvsPAK",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AzanAwais",
+        "#PakistanCricket",
+        "#TestCricket",
+        "#OllieRobinson",
+        "#ENGvsPAK"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 66,
+      "telegram_file_id": "BQACAgQAAxkDAANCaoXoVTe6StcEwbu5hqSNk3tVU2IAApkhAAJyEShQ2m7EtuoLKI49BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-19T17:30:59.961724+00:00",
+      "updated_at": "2026-08-19T17:31:01.650781+00:00",
       "posted_at": null
     }
   ]
