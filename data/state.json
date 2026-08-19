@@ -49,7 +49,8 @@
     "f270b9bf3d91d740": "2026-08-19T03:03:49.380221+00:00",
     "ef967810978a0167": "2026-08-19T05:34:34.438312+00:00",
     "51abfbfa46af5057": "2026-08-19T11:29:00.993407+00:00",
-    "dde9874497447cc7": "2026-08-19T11:29:12.464249+00:00"
+    "dde9874497447cc7": "2026-08-19T11:29:12.464249+00:00",
+    "53e22d581d99092a": "2026-08-19T14:41:28.856003+00:00"
   },
   "posts": [
     {
@@ -1103,6 +1104,40 @@
       "error_msg": null,
       "created_at": "2026-08-19T11:29:12.464205+00:00",
       "updated_at": "2026-08-19T11:29:13.442284+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260819T1441Z-7da205",
+      "url_hash": "53e22d581d99092a",
+      "source_url": "https://www.dawn.com/news/2023886/robinson-double-rocks-pakistan-in-first-test-before-rain-stops-play",
+      "source_name": "Dawn",
+      "title_en": "Robinson double rocks Pakistan in first Test before rain stops play",
+      "headline_ur": "اولی رابنسن کی ڈبل سٹرائیک، پاکستان مشکلات کا شکار",
+      "summary_ur": [
+        "پہلے ٹیسٹ میں اولی رابنسن نے پاکستان کی 2 وکٹیں جلدی گرا دیں",
+        "بارش کے باعث کھیل روکا گیا، پاکستان کا سکور 23 رنز 2 وکٹوں پر تھا",
+        "بابر اعظم انجری کے باعث سیریز سے باہر، سلمان علی آغا کپتانی کر رہے ہیں"
+      ],
+      "caption_ur": "ہیڈنگلے ٹیسٹ میں انگلینڈ کے بالر اولی رابنسن نے پاکستانی بیٹنگ لائن کو مشکل میں ڈال دیا۔ انہوں نے صرف 23 رنز پر 2 اہم وکٹیں حاصل کیں۔ بارش کے باعث کھیل روکنا پڑا۔ قومی ٹیم اس صورتحال سے کیسے نکل پائے گی؟",
+      "fb_caption": "ہیڈنگلے ٹیسٹ میں انگلینڈ کے بالر اولی رابنسن نے پاکستانی بیٹنگ لائن کو مشکل میں ڈال دیا۔ انہوں نے صرف 23 رنز پر 2 اہم وکٹیں حاصل کیں۔ بارش کے باعث کھیل روکنا پڑا۔ قومی ٹیم اس صورتحال سے کیسے نکل پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #OllieRobinson #PakistanCricket #ENGvPAK #TestCricket #Headingley",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#OllieRobinson",
+        "#PakistanCricket",
+        "#ENGvPAK",
+        "#TestCricket",
+        "#Headingley"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 64,
+      "telegram_file_id": "BQACAgQAAxkDAANAaoXAmrfM27knuEPT7rKDNRgRsVAAArIgAAJyEShQDvUwsaWWJJM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-19T14:41:28.855960+00:00",
+      "updated_at": "2026-08-19T14:41:30.549876+00:00",
       "posted_at": null
     }
   ]
