@@ -45,7 +45,8 @@
     "c729467e6213be39": "2026-08-18T11:29:34.067354+00:00",
     "c8dd2d2464e6a6b0": "2026-08-18T14:38:25.054495+00:00",
     "d26a4622990cdea5": "2026-08-18T14:38:48.278032+00:00",
-    "0767322d61a7258c": "2026-08-18T17:31:50.837919+00:00"
+    "0767322d61a7258c": "2026-08-18T17:31:50.837919+00:00",
+    "f270b9bf3d91d740": "2026-08-19T03:03:49.380221+00:00"
   },
   "posts": [
     {
@@ -997,6 +998,40 @@
       "error_msg": null,
       "created_at": "2026-08-18T17:31:50.837865+00:00",
       "updated_at": "2026-08-18T17:31:52.044561+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260819T0303Z-16fcc8",
+      "url_hash": "f270b9bf3d91d740",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pants-test-brilliance-refuses-to-fade-but-can-he-force-his-way-back-into-indias-2027-odi-world-cup-plans/articleshow/133335486.cms",
+      "source_name": "The Times of India",
+      "title_en": "Rishabh Pantâs Test brilliance refuses to fade, but can he force his way back into Indiaâs 2027 ODI World Cup plans?",
+      "headline_ur": "رشبھ پنت کی ٹیسٹ پرفارمنس، کیا ورلڈ کپ 2027 میں جگہ بنے گی؟",
+      "summary_ur": [
+        "رشبھ پنت نے ٹیسٹ کرکٹ میں اپنی شاندار فارم برقرار رکھی ہے",
+        "وہ 100 ٹیسٹ چھکے لگانے والے تیز ترین بھارتی بلے باز بن گئے",
+        "کیا وہ 2027 کے ون ڈے ورلڈ کپ اسکواڈ میں شامل ہو پائیں گے؟"
+      ],
+      "caption_ur": "رشبھ پنت نے ایک بار پھر اپنی ٹیسٹ بیٹنگ سے سب کو حیران کر دیا ہے۔ سفید بال کرکٹ میں مشکلات کے باوجود، وہ ریڈ بال میں میچ ونر ثابت ہو رہے ہیں۔ کیا انہیں 2027 کے ون ڈے ورلڈ کپ کے لیے بھارتی ٹیم میں شامل کیا جانا چاہیے؟",
+      "fb_caption": "رشبھ پنت نے ایک بار پھر اپنی ٹیسٹ بیٹنگ سے سب کو حیران کر دیا ہے۔ سفید بال کرکٹ میں مشکلات کے باوجود، وہ ریڈ بال میں میچ ونر ثابت ہو رہے ہیں۔ کیا انہیں 2027 کے ون ڈے ورلڈ کپ کے لیے بھارتی ٹیم میں شامل کیا جانا چاہیے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #RishabhPant #TestCricket #ODIWorldCup #IndiaCricket #کرکٹ_خبریں",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#RishabhPant",
+        "#TestCricket",
+        "#ODIWorldCup",
+        "#IndiaCricket",
+        "#کرکٹ_خبریں"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 60,
+      "telegram_file_id": "BQACAgQAAxkDAAM8aoUdFl-gXZxxOyQxB5S-ExCQMTgAAl8fAAJyEShQLArFPWJGNuk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-19T03:03:49.380170+00:00",
+      "updated_at": "2026-08-19T03:03:50.576062+00:00",
       "posted_at": null
     }
   ]
