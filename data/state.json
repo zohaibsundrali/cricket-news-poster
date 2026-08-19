@@ -47,7 +47,9 @@
     "d26a4622990cdea5": "2026-08-18T14:38:48.278032+00:00",
     "0767322d61a7258c": "2026-08-18T17:31:50.837919+00:00",
     "f270b9bf3d91d740": "2026-08-19T03:03:49.380221+00:00",
-    "ef967810978a0167": "2026-08-19T05:34:34.438312+00:00"
+    "ef967810978a0167": "2026-08-19T05:34:34.438312+00:00",
+    "51abfbfa46af5057": "2026-08-19T11:29:00.993407+00:00",
+    "dde9874497447cc7": "2026-08-19T11:29:12.464249+00:00"
   },
   "posts": [
     {
@@ -1067,6 +1069,40 @@
       "error_msg": null,
       "created_at": "2026-08-19T05:34:34.438265+00:00",
       "updated_at": "2026-08-19T05:34:35.589340+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260819T1129Z-bdbf87",
+      "url_hash": "dde9874497447cc7",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/videos/cdx8wklz0x2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "England Men's Cricket: Joe Root speaks on first morning of first Test against Pakistan after becoming England captain again",
+      "headline_ur": "جو روٹ دوبارہ انگلینڈ کے کپتان بن گئے",
+      "summary_ur": [
+        "جو روٹ دوبارہ انگلینڈ کرکٹ ٹیم کے کپتان بننے پر بہت پرجوش ہیں۔",
+        "انہوں نے ٹیم کو بین اسٹوکس کی بنیاد پر آگے بڑھانے کا کہا۔",
+        "یہ ان کا انگلینڈ کی کپتانی کا دوسرا دور ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کے سابق کپتان جو روٹ ایک بار پھر ٹیم کی قیادت سنبھالنے کے لیے تیار ہیں۔ انہوں نے پاکستان کے خلاف پہلے ٹیسٹ سے قبل اپنے جوش کا اظہار کیا۔ روٹ نے کہا کہ وہ بین اسٹوکس اور برینڈن میک کولم کی بنائی ہوئی بنیادوں پر ٹیم کو آگے بڑھانا چاہتے ہیں۔ کیا روٹ انگلینڈ کو دوبارہ کامیابیوں کی راہ پر گامزن کر پائیں گے؟",
+      "fb_caption": "انگلینڈ کے سابق کپتان جو روٹ ایک بار پھر ٹیم کی قیادت سنبھالنے کے لیے تیار ہیں۔ انہوں نے پاکستان کے خلاف پہلے ٹیسٹ سے قبل اپنے جوش کا اظہار کیا۔ روٹ نے کہا کہ وہ بین اسٹوکس اور برینڈن میک کولم کی بنائی ہوئی بنیادوں پر ٹیم کو آگے بڑھانا چاہتے ہیں۔ کیا روٹ انگلینڈ کو دوبارہ کامیابیوں کی راہ پر گامزن کر پائیں گے؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #JoeRoot #EnglandCricket #Pakistan #TestCricket #Captaincy",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#EnglandCricket",
+        "#Pakistan",
+        "#TestCricket",
+        "#Captaincy"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 63,
+      "telegram_file_id": "BQACAgQAAxkDAAM_aoWTiXfJ6Gzww7i9Ic-itveaO3UAAuEfAAJyEShQJS4I-Usa7J49BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-19T11:29:12.464205+00:00",
+      "updated_at": "2026-08-19T11:29:13.442284+00:00",
       "posted_at": null
     }
   ]
