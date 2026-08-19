@@ -46,7 +46,8 @@
     "c8dd2d2464e6a6b0": "2026-08-18T14:38:25.054495+00:00",
     "d26a4622990cdea5": "2026-08-18T14:38:48.278032+00:00",
     "0767322d61a7258c": "2026-08-18T17:31:50.837919+00:00",
-    "f270b9bf3d91d740": "2026-08-19T03:03:49.380221+00:00"
+    "f270b9bf3d91d740": "2026-08-19T03:03:49.380221+00:00",
+    "ef967810978a0167": "2026-08-19T05:34:34.438312+00:00"
   },
   "posts": [
     {
@@ -1032,6 +1033,40 @@
       "error_msg": null,
       "created_at": "2026-08-19T03:03:49.380170+00:00",
       "updated_at": "2026-08-19T03:03:50.576062+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260819T0534Z-5dd885",
+      "url_hash": "ef967810978a0167",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-on-the-verge-of-history-ricky-pontings-all-time-record-in-sight/articleshow/133336974.cms",
+      "source_name": "The Times of India",
+      "title_en": "Joe Root on the verge of history, Ricky Pontingâs all-time record in sight",
+      "headline_ur": "جو روٹ رکی پونٹنگ کا بڑا ریکارڈ توڑنے کے قریب",
+      "summary_ur": [
+        "جو روٹ کو ہوم گراؤنڈ پر سب سے زیادہ ٹیسٹ رنز بنانے کا ریکارڈ توڑنے کے لیے 79 رنز درکار ہیں۔",
+        "وہ رکی پونٹنگ کے 7578 رنز کا ریکارڈ توڑ سکتے ہیں۔",
+        "روٹ ہوم گراؤنڈ پر 7500 ٹیسٹ رنز بنا چکے ہیں۔"
+      ],
+      "caption_ur": "انگلینڈ کے سابق کپتان جو روٹ پاکستان کے خلاف سیریز میں کئی بڑے ریکارڈز اپنے نام کر سکتے ہیں۔ وہ رکی پونٹنگ کا ہوم گراؤنڈ پر سب سے زیادہ ٹیسٹ رنز بنانے کا ریکارڈ توڑنے کے قریب ہیں۔ کیا وہ یہ ریکارڈز اپنے نام کر پائیں گے؟",
+      "fb_caption": "انگلینڈ کے سابق کپتان جو روٹ پاکستان کے خلاف سیریز میں کئی بڑے ریکارڈز اپنے نام کر سکتے ہیں۔ وہ رکی پونٹنگ کا ہوم گراؤنڈ پر سب سے زیادہ ٹیسٹ رنز بنانے کا ریکارڈ توڑنے کے قریب ہیں۔ کیا وہ یہ ریکارڈز اپنے نام کر پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #JoeRoot #EnglandCricket #TestCricket #Pakistan #ریکارڈ",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#EnglandCricket",
+        "#TestCricket",
+        "#Pakistan",
+        "#ریکارڈ"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 62,
+      "telegram_file_id": "BQACAgQAAxkDAAM-aoVAa2wPWScZmJGAT7ihev43A6UAAnQfAAJyEShQQO64-pcXnI89BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-19T05:34:34.438265+00:00",
+      "updated_at": "2026-08-19T05:34:35.589340+00:00",
       "posted_at": null
     }
   ]
