@@ -958,11 +958,11 @@
       "telegram_message_id": 53,
       "telegram_file_id": "BQACAgQAAxkDAAM1aoRueeZBQWZF4lkXfrriJU8Ziw0AAuEhAAKEtilQFW2VnmtC-2U9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-18T14:38:48.277996+00:00",
-      "updated_at": "2026-08-18T14:38:49.784939+00:00",
+      "updated_at": "2026-08-19T03:00:20.659008+00:00",
       "posted_at": null
     },
     {
