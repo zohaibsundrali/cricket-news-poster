@@ -57,7 +57,8 @@
     "fb7eee02bd31b622": "2026-08-20T08:45:34.832445+00:00",
     "eb02c0cc4dd5a6e3": "2026-08-20T11:33:38.708341+00:00",
     "c45165a1efcf09c8": "2026-08-20T11:36:05.182898+00:00",
-    "f9c81d9314db693a": "2026-08-20T14:41:02.276286+00:00"
+    "f9c81d9314db693a": "2026-08-20T14:41:02.276286+00:00",
+    "0a05e7559372d012": "2026-08-20T17:34:03.383097+00:00"
   },
   "posts": [
     {
@@ -1348,6 +1349,40 @@
       "error_msg": null,
       "created_at": "2026-08-20T14:41:02.276236+00:00",
       "updated_at": "2026-08-20T14:41:03.452808+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260820T1734Z-f22982",
+      "url_hash": "0a05e7559372d012",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-equals-sachin-tendulkars-record-for-most-fifties-in-test-cricket/articleshow/133383152.cms",
+      "source_name": "The Times of India",
+      "title_en": "Joe Root equals Sachin Tendulkarâs record for most fifties in Test cricket",
+      "headline_ur": "جو روٹ نے سچن ٹنڈولکر کا ریکارڈ برابر کر دیا",
+      "summary_ur": [
+        "جو روٹ نے ٹیسٹ کرکٹ میں اپنی 68ویں ففٹی بنائی",
+        "انہوں نے سچن ٹنڈولکر کا سب سے زیادہ ففٹیز کا ریکارڈ برابر کیا",
+        "روٹ نے انگلینڈ کی پہلی اننگز میں 66 رنز بنائے"
+      ],
+      "caption_ur": "انگلینڈ کے کپتان جو روٹ نے ٹیسٹ کرکٹ میں ایک بڑا سنگ میل عبور کر لیا۔ انہوں نے اپنی 68ویں ففٹی بنا کر سچن ٹنڈولکر کا سب سے زیادہ ففٹیز کا ریکارڈ برابر کر دیا۔ پاکستان کے خلاف ہیڈنگلے ٹیسٹ میں روٹ نے 66 رنز کی اننگز کھیلی۔ آپ کے خیال میں ٹیسٹ کرکٹ میں سب سے زیادہ اثر کس کھلاڑی کا ہے؟",
+      "fb_caption": "انگلینڈ کے کپتان جو روٹ نے ٹیسٹ کرکٹ میں ایک بڑا سنگ میل عبور کر لیا۔ انہوں نے اپنی 68ویں ففٹی بنا کر سچن ٹنڈولکر کا سب سے زیادہ ففٹیز کا ریکارڈ برابر کر دیا۔ پاکستان کے خلاف ہیڈنگلے ٹیسٹ میں روٹ نے 66 رنز کی اننگز کھیلی۔ آپ کے خیال میں ٹیسٹ کرکٹ میں سب سے زیادہ اثر کس کھلاڑی کا ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #JoeRoot #SachinTendulkar #TestCricket #Record #ENGvPAK",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#SachinTendulkar",
+        "#TestCricket",
+        "#Record",
+        "#ENGvPAK"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 77,
+      "telegram_file_id": "BQACAgQAAxkDAANNaoc6jLvS4uxOowABiJLs6KXfT1yhAAL_HQAC77A4UJ8NqXFdo9znPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-20T17:34:03.383052+00:00",
+      "updated_at": "2026-08-20T17:34:05.050993+00:00",
       "posted_at": null
     }
   ]
