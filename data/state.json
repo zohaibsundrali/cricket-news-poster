@@ -54,7 +54,9 @@
     "f6f3903d902feb50": "2026-08-19T17:30:59.961768+00:00",
     "9c04f712a1d76999": "2026-08-20T03:01:44.007526+00:00",
     "341d72114b360632": "2026-08-20T05:34:57.516153+00:00",
-    "fb7eee02bd31b622": "2026-08-20T08:45:34.832445+00:00"
+    "fb7eee02bd31b622": "2026-08-20T08:45:34.832445+00:00",
+    "eb02c0cc4dd5a6e3": "2026-08-20T11:33:38.708341+00:00",
+    "c45165a1efcf09c8": "2026-08-20T11:36:05.182898+00:00"
   },
   "posts": [
     {
@@ -1277,6 +1279,40 @@
       "error_msg": null,
       "created_at": "2026-08-20T08:45:34.832402+00:00",
       "updated_at": "2026-08-20T08:45:37.072465+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260820T1136Z-a60279",
+      "url_hash": "c45165a1efcf09c8",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-pacers-cut-pakistan-test-match-ball-in-half-after-first-innings-heres-why/articleshow/133371925.cms",
+      "source_name": "The Times of India",
+      "title_en": "England pacers cut Pakistan Test match ball in half after first innings; here's why",
+      "headline_ur": "انگلینڈ کے پیسرز نے 5، 5 وکٹیں لیں، بال آدھی کر دی",
+      "summary_ur": [
+        "انگلینڈ کے اولی رابنسن اور جوش ٹنگ نے 5، 5 وکٹیں حاصل کیں",
+        "دونوں نے یادگار کے طور پر میچ بال کو آدھا کروا لیا",
+        "پاکستان کی ٹیم پہلی اننگز میں 171 رنز بنا کر آؤٹ ہو گئی"
+      ],
+      "caption_ur": "انگلینڈ کے پیسرز اولی رابنسن اور جوش ٹنگ نے ٹیسٹ میچ کے پہلے دن شاندار بالنگ کی. دونوں نے 5، 5 وکٹیں حاصل کیں اور پاکستان کو 171 رنز پر آؤٹ کر دیا. اس یادگار کارکردگی پر انہوں نے میچ بال کو آدھا کر کے اپنے پاس رکھ لیا. کیا آپ نے پہلے کبھی ایسا ہوتے دیکھا ہے؟",
+      "fb_caption": "انگلینڈ کے پیسرز اولی رابنسن اور جوش ٹنگ نے ٹیسٹ میچ کے پہلے دن شاندار بالنگ کی. دونوں نے 5، 5 وکٹیں حاصل کیں اور پاکستان کو 171 رنز پر آؤٹ کر دیا. اس یادگار کارکردگی پر انہوں نے میچ بال کو آدھا کر کے اپنے پاس رکھ لیا. کیا آپ نے پہلے کبھی ایسا ہوتے دیکھا ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #EnglandCricket #Pakistan #TestCricket #OllieRobinson #JoshTongue",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#EnglandCricket",
+        "#Pakistan",
+        "#TestCricket",
+        "#OllieRobinson",
+        "#JoshTongue"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 74,
+      "telegram_file_id": "BQACAgQAAxkDAANKaobmpux75_bT66kskav6YInb2MMAAnkdAALvsDhQbsHAebLFP-s9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-20T11:36:05.182856+00:00",
+      "updated_at": "2026-08-20T11:36:06.805250+00:00",
       "posted_at": null
     }
   ]
