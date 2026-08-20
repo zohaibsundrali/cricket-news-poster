@@ -53,7 +53,8 @@
     "53e22d581d99092a": "2026-08-19T14:41:28.856003+00:00",
     "f6f3903d902feb50": "2026-08-19T17:30:59.961768+00:00",
     "9c04f712a1d76999": "2026-08-20T03:01:44.007526+00:00",
-    "341d72114b360632": "2026-08-20T05:34:57.516153+00:00"
+    "341d72114b360632": "2026-08-20T05:34:57.516153+00:00",
+    "fb7eee02bd31b622": "2026-08-20T08:45:34.832445+00:00"
   },
   "posts": [
     {
@@ -1242,6 +1243,40 @@
       "error_msg": null,
       "created_at": "2026-08-20T05:34:57.516102+00:00",
       "updated_at": "2026-08-20T05:34:59.113656+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260820T0845Z-37430e",
+      "url_hash": "fb7eee02bd31b622",
+      "source_url": "https://www.dawn.com/news/2023986/shaheens-seven-for-seals-champions-cup-title-for-pakistan-gold",
+      "source_name": "Dawn",
+      "title_en": "Shaheen’s seven-for seals Champions Cup title for Pakistan Gold",
+      "headline_ur": "شاہین آفریدی کی 7 وکٹیں، پاکستان گولڈ چیمپئن",
+      "summary_ur": [
+        "شاہین آفریدی نے 7 وکٹیں حاصل کیں، جس میں ہیٹ ٹرک بھی شامل تھی۔",
+        "پاکستان گولڈ نے پاکستان گرینز کو 101 رنز سے شکست دی۔",
+        "ملتان میں نیشنل چیمپئنز کپ کا فائنل جیت لیا۔"
+      ],
+      "caption_ur": "ملتان میں نیشنل چیمپئنز کپ کے فائنل میں شاہین شاہ آفریدی نے تباہ کن بالنگ کی۔ انہوں نے ہیٹ ٹرک سمیت 7 وکٹیں حاصل کیں۔ ان کی شاندار کارکردگی کی بدولت پاکستان گولڈ نے ٹائٹل اپنے نام کیا۔ آپ کے خیال میں یہ شاہین کی بہترین پرفارمنس تھی؟",
+      "fb_caption": "ملتان میں نیشنل چیمپئنز کپ کے فائنل میں شاہین شاہ آفریدی نے تباہ کن بالنگ کی۔ انہوں نے ہیٹ ٹرک سمیت 7 وکٹیں حاصل کیں۔ ان کی شاندار کارکردگی کی بدولت پاکستان گولڈ نے ٹائٹل اپنے نام کیا۔ آپ کے خیال میں یہ شاہین کی بہترین پرفارمنس تھی؟\n\nبشکریہ: Dawn\n\n#ShaheenAfridi #PakistanGold #ChampionsCup #Cricket #کرکٹ #HatTrick #MultanCricket",
+      "hashtags": [
+        "#ShaheenAfridi",
+        "#PakistanGold",
+        "#ChampionsCup",
+        "#Cricket",
+        "#کرکٹ",
+        "#HatTrick",
+        "#MultanCricket"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 73,
+      "telegram_file_id": "BQACAgQAAxkDAANJaoa-sD9KIaWRH7F5d17RjX8uVEgAApMiAAJyETBQC6_xzhjGsnM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-20T08:45:34.832402+00:00",
+      "updated_at": "2026-08-20T08:45:37.072465+00:00",
       "posted_at": null
     }
   ]
