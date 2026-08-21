@@ -67,7 +67,8 @@
     "a604453dcb417bf0": "2026-08-21T05:38:48.787320+00:00",
     "78a53846b8411676": "2026-08-21T05:39:23.644601+00:00",
     "4a3766ca00aeff30": "2026-08-21T08:45:12.334463+00:00",
-    "a8aafb26b8aaa2d3": "2026-08-21T11:31:07.365976+00:00"
+    "a8aafb26b8aaa2d3": "2026-08-21T11:31:07.365976+00:00",
+    "90bb433ea6bbd6d4": "2026-08-21T14:39:43.693145+00:00"
   },
   "posts": [
     {
@@ -1493,6 +1494,40 @@
       "error_msg": null,
       "created_at": "2026-08-21T11:31:07.365926+00:00",
       "updated_at": "2026-08-21T11:31:08.880792+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260821T1439Z-db18bc",
+      "url_hash": "90bb433ea6bbd6d4",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/videos/c24me6j1nr4o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "England v Pakistan First Test: Josh Tongue gets three wickets in six balls",
+      "headline_ur": "جوش ٹنگ کی تباہ کن بالنگ، پاکستان کی بیٹنگ لائن لڑکھڑا گئی",
+      "summary_ur": [
+        "جوش ٹنگ نے 6 گیندوں پر 3 وکٹیں حاصل کیں",
+        "پاکستان 68-3 سے 76-6 پر آ گیا",
+        "انگلینڈ اننگز کی فتح کے قریب"
+      ],
+      "caption_ur": "انگلینڈ کے جوش ٹنگ نے پاکستان کے خلاف پہلے ٹیسٹ میں شاندار بالنگ کا مظاہرہ کیا۔ انہوں نے صرف 6 گیندوں پر 3 اہم وکٹیں حاصل کیں جس سے قومی ٹیم کی بیٹنگ لائن لڑکھڑا گئی۔ پاکستان 68 رنز پر 3 وکٹوں کے نقصان سے 76 رنز پر 6 وکٹوں کے نقصان پر آ گیا۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟",
+      "fb_caption": "انگلینڈ کے جوش ٹنگ نے پاکستان کے خلاف پہلے ٹیسٹ میں شاندار بالنگ کا مظاہرہ کیا۔ انہوں نے صرف 6 گیندوں پر 3 اہم وکٹیں حاصل کیں جس سے قومی ٹیم کی بیٹنگ لائن لڑکھڑا گئی۔ پاکستان 68 رنز پر 3 وکٹوں کے نقصان سے 76 رنز پر 6 وکٹوں کے نقصان پر آ گیا۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #JoshTongue #PAKvENG #TestCricket #EnglandCricket #PakistanCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoshTongue",
+        "#PAKvENG",
+        "#TestCricket",
+        "#EnglandCricket",
+        "#PakistanCricket"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 87,
+      "telegram_file_id": "BQACAgQAAxkDAANXaohjMaVoDyZGQsiRV4udSTYheokAAo8eAALvsEBQ0SA47dItHLA9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-21T14:39:43.693094+00:00",
+      "updated_at": "2026-08-21T14:39:45.556637+00:00",
       "posted_at": null
     }
   ]
