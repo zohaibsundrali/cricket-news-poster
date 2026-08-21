@@ -65,7 +65,8 @@
     "0283f0a5f38628ca": "2026-08-21T05:37:39.731005+00:00",
     "2f054706ecda1c35": "2026-08-21T05:38:14.396265+00:00",
     "a604453dcb417bf0": "2026-08-21T05:38:48.787320+00:00",
-    "78a53846b8411676": "2026-08-21T05:39:23.644601+00:00"
+    "78a53846b8411676": "2026-08-21T05:39:23.644601+00:00",
+    "4a3766ca00aeff30": "2026-08-21T08:45:12.334463+00:00"
   },
   "posts": [
     {
@@ -1423,6 +1424,40 @@
       "error_msg": null,
       "created_at": "2026-08-21T03:07:13.030228+00:00",
       "updated_at": "2026-08-21T03:07:14.422275+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260821T0845Z-cbae87",
+      "url_hash": "4a3766ca00aeff30",
+      "source_url": "https://www.dawn.com/news/2024317/brook-makes-pakistan-pay-for-drop-as-england-dominate-first-test",
+      "source_name": "Dawn",
+      "title_en": "Brook makes Pakistan pay for drop as England dominate first Test",
+      "headline_ur": "ہیری بروک کی 91 رنز کی اننگز، انگلینڈ کی پوزیشن مضبوط",
+      "summary_ur": [
+        "ہیری بروک نے 91 رنز بنا کر انگلینڈ کی پوزیشن مضبوط کر دی۔",
+        "انگلینڈ نے 366 رنز 8 وکٹوں کے نقصان پر بنائے، 195 رنز کی برتری حاصل۔",
+        "علی عثمان نے 92 رنز دے کر 5 وکٹیں حاصل کیں، پہلی فائیو وکٹ ہال۔"
+      ],
+      "caption_ur": "ہیڈنگلے ٹیسٹ میں ہیری بروک نے پاکستان کو ڈراپ کیچ کا خوب فائدہ اٹھایا اور 91 رنز کی شاندار اننگز کھیلی۔ انگلینڈ نے پاکستان پر 195 رنز کی بڑی برتری حاصل کر لی ہے جبکہ علی عثمان نے 5 وکٹیں حاصل کیں۔ کیا قومی ٹیم یہ ٹیسٹ بچا پائے گی؟",
+      "fb_caption": "ہیڈنگلے ٹیسٹ میں ہیری بروک نے پاکستان کو ڈراپ کیچ کا خوب فائدہ اٹھایا اور 91 رنز کی شاندار اننگز کھیلی۔ انگلینڈ نے پاکستان پر 195 رنز کی بڑی برتری حاصل کر لی ہے جبکہ علی عثمان نے 5 وکٹیں حاصل کیں۔ کیا قومی ٹیم یہ ٹیسٹ بچا پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #HarryBrook #ENGvsPAK #TestCricket #PakistanCricket #Headingley",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#HarryBrook",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#PakistanCricket",
+        "#Headingley"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 85,
+      "telegram_file_id": "BQACAgQAAxkDAANVaogQGcsdimTGO88i7rER_TN_9yYAAioeAALvsEBQNnHoaPHma0U9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-21T08:45:12.334418+00:00",
+      "updated_at": "2026-08-21T08:45:13.456240+00:00",
       "posted_at": null
     }
   ]
