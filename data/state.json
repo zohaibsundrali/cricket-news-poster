@@ -1421,11 +1421,11 @@
       "telegram_message_id": 82,
       "telegram_file_id": "BQACAgQAAxkDAANSaofA4knq8sLd3Kn97NIW0MPYpBIAAt0dAALvsEBQ91irxt9Hiv89BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-21T03:07:13.030228+00:00",
-      "updated_at": "2026-08-21T03:07:14.422275+00:00",
+      "updated_at": "2026-08-21T15:36:54.627687+00:00",
       "posted_at": null
     },
     {
