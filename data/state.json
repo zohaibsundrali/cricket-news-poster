@@ -68,7 +68,8 @@
     "78a53846b8411676": "2026-08-21T05:39:23.644601+00:00",
     "4a3766ca00aeff30": "2026-08-21T08:45:12.334463+00:00",
     "a8aafb26b8aaa2d3": "2026-08-21T11:31:07.365976+00:00",
-    "90bb433ea6bbd6d4": "2026-08-21T14:39:43.693145+00:00"
+    "90bb433ea6bbd6d4": "2026-08-21T14:39:43.693145+00:00",
+    "bfd293113e109e28": "2026-08-21T17:33:25.310169+00:00"
   },
   "posts": [
     {
@@ -1528,6 +1529,40 @@
       "error_msg": null,
       "created_at": "2026-08-21T14:39:43.693094+00:00",
       "updated_at": "2026-08-21T14:39:45.556637+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260821T1733Z-39dc9e",
+      "url_hash": "bfd293113e109e28",
+      "source_url": "https://www.dawn.com/news/2024383/england-rout-pakistan-by-an-innings-and-103-runs-in-headingley-test",
+      "source_name": "Dawn",
+      "title_en": "England rout Pakistan by an innings and 103 runs in Headingley Test",
+      "headline_ur": "انگلینڈ نے پاکستان کو اننگز اور 103 رنز سے ہرا دیا",
+      "summary_ur": [
+        "انگلینڈ نے ہیڈنگلے ٹیسٹ ایک اننگز اور 103 رنز سے جیت لیا۔",
+        "پاکستان کی ٹیم دوسری اننگز میں صرف 135 رنز بنا کر آؤٹ ہو گئی۔",
+        "اولی رابنسن 80 رنز کے عوض 8 وکٹیں لے کر پلیئر آف دی میچ قرار پائے۔"
+      ],
+      "caption_ur": "ہیڈنگلے ٹیسٹ میں انگلینڈ نے پاکستان کو ایک اننگز اور 103 رنز سے شکست دے دی۔ قومی ٹیم کی بیٹنگ لائن ایک بار پھر ناکام رہی۔ اولی رابنسن اور جوش ٹنگ نے شاندار بالنگ کا مظاہرہ کیا۔ آپ کے خیال میں پاکستان کو اگلے میچ میں کیا تبدیلیاں کرنی چاہئیں؟",
+      "fb_caption": "ہیڈنگلے ٹیسٹ میں انگلینڈ نے پاکستان کو ایک اننگز اور 103 رنز سے شکست دے دی۔ قومی ٹیم کی بیٹنگ لائن ایک بار پھر ناکام رہی۔ اولی رابنسن اور جوش ٹنگ نے شاندار بالنگ کا مظاہرہ کیا۔ آپ کے خیال میں پاکستان کو اگلے میچ میں کیا تبدیلیاں کرنی چاہئیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PAKvENG #TestCricket #OllieRobinson #PakistanCricket #Headingley",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PAKvENG",
+        "#TestCricket",
+        "#OllieRobinson",
+        "#PakistanCricket",
+        "#Headingley"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 89,
+      "telegram_file_id": "BQACAgQAAxkDAANZaoiL5ggy3JcXJ2oqZGoM6kmt7CwAAg8gAALvsEhQHSSGyBBZ2349BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-21T17:33:25.310127+00:00",
+      "updated_at": "2026-08-21T17:33:26.850152+00:00",
       "posted_at": null
     }
   ]
