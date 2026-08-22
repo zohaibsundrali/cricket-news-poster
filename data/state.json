@@ -1705,11 +1705,11 @@
       "telegram_message_id": 97,
       "telegram_file_id": "BQACAgQAAxkDAANhaomHCYCmyyf0koMuRLSglsd517sAArseAAJnI1FQFjttoC5Epbo9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-22T11:24:56.419209+00:00",
-      "updated_at": "2026-08-22T11:24:57.623652+00:00",
+      "updated_at": "2026-08-22T23:29:59.766868+00:00",
       "posted_at": null
     },
     {
