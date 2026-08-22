@@ -69,7 +69,8 @@
     "4a3766ca00aeff30": "2026-08-21T08:45:12.334463+00:00",
     "a8aafb26b8aaa2d3": "2026-08-21T11:31:07.365976+00:00",
     "90bb433ea6bbd6d4": "2026-08-21T14:39:43.693145+00:00",
-    "bfd293113e109e28": "2026-08-21T17:33:25.310169+00:00"
+    "bfd293113e109e28": "2026-08-21T17:33:25.310169+00:00",
+    "87417c4fd0f91c96": "2026-08-22T02:58:21.064831+00:00"
   },
   "posts": [
     {
@@ -1563,6 +1564,40 @@
       "error_msg": null,
       "created_at": "2026-08-21T17:33:25.310127+00:00",
       "updated_at": "2026-08-21T17:33:26.850152+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T0258Z-b49d5f",
+      "url_hash": "87417c4fd0f91c96",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/headingley-horror-pakistan-create-unwanted-test-record-in-crushing-england-defeat/articleshow/133415698.cms",
+      "source_name": "The Times of India",
+      "title_en": "Headingley horror! Pakistan create unwanted Test record in crushing England defeat",
+      "headline_ur": "ہیڈنگلی ٹیسٹ: پاکستان نے انوکھا ریکارڈ بنا ڈالا",
+      "summary_ur": [
+        "پاکستان نے ہیڈنگلی ٹیسٹ کی دونوں اننگز میں 0 پر پہلی وکٹ گنوائی۔",
+        "ٹیسٹ کرکٹ کی تاریخ میں 7 بار ایسا کرنے والی پہلی ٹیم بن گئی۔",
+        "انگلینڈ نے پاکستان کو ایک اننگز اور 103 رنز سے شکست دی۔"
+      ],
+      "caption_ur": "ہیڈنگلی ٹیسٹ میں پاکستان کے ساتھ ایک انوکھا اور غیر مطلوبہ ریکارڈ جڑ گیا۔ قومی ٹیم نے دونوں اننگز میں 0 کے سکور پر اپنی پہلی وکٹ گنوا دی۔ یہ ٹیسٹ کرکٹ کی تاریخ میں ساتویں بار ہوا ہے، اور پاکستان ایسا کرنے والی پہلی ٹیم بن گئی ہے۔ کیا آپ کے خیال میں قومی ٹیم کو اپنی بیٹنگ لائن اپ پر مزید کام کرنے کی ضرورت ہے؟",
+      "fb_caption": "ہیڈنگلی ٹیسٹ میں پاکستان کے ساتھ ایک انوکھا اور غیر مطلوبہ ریکارڈ جڑ گیا۔ قومی ٹیم نے دونوں اننگز میں 0 کے سکور پر اپنی پہلی وکٹ گنوا دی۔ یہ ٹیسٹ کرکٹ کی تاریخ میں ساتویں بار ہوا ہے، اور پاکستان ایسا کرنے والی پہلی ٹیم بن گئی ہے۔ کیا آپ کے خیال میں قومی ٹیم کو اپنی بیٹنگ لائن اپ پر مزید کام کرنے کی ضرورت ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PakistanCricket #HeadingleyTest #UnwantedRecord #TestCricket #PakvsEng",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#HeadingleyTest",
+        "#UnwantedRecord",
+        "#TestCricket",
+        "#PakvsEng"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 93,
+      "telegram_file_id": "BQACAgQAAxkDAANdaokQTn76-NKT6hbP2R432hcNfo8AAoYfAAJnI0lQ0p_1pu7knmU9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T02:58:21.064784+00:00",
+      "updated_at": "2026-08-22T02:58:22.178017+00:00",
       "posted_at": null
     }
   ]
