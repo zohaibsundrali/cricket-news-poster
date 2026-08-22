@@ -76,7 +76,8 @@
     "194c731d35cee367": "2026-08-22T05:33:09.185250+00:00",
     "92ce6de7b7c74e0b": "2026-08-22T05:33:09.353003+00:00",
     "527253bcbb4528dc": "2026-08-22T05:33:19.175861+00:00",
-    "bde93fda042582f0": "2026-08-22T08:34:33.521393+00:00"
+    "bde93fda042582f0": "2026-08-22T08:34:33.521393+00:00",
+    "9f34103c43d383c1": "2026-08-22T11:24:56.419253+00:00"
   },
   "posts": [
     {
@@ -1671,6 +1672,40 @@
       "error_msg": null,
       "created_at": "2026-08-22T08:34:33.521350+00:00",
       "updated_at": "2026-08-22T08:34:34.492759+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T1124Z-927ae1",
+      "url_hash": "9f34103c43d383c1",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-be-desperate-for-wickets-gautam-gambhirs-message-to-kuldeep-yadav/articleshow/133421163.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Don't be desperate for wickets': Gautam Gambhir's message to Kuldeep Yadav",
+      "headline_ur": "گوتھم گمبھیر کا کلدیپ یادیو کو اہم مشورہ",
+      "summary_ur": [
+        "پہلے ٹیسٹ میں کلدیپ یادیو صرف 1 وکٹ حاصل کر سکے",
+        "گوتھم گمبھیر نے انہیں وکٹوں کے لیے بے تاب نہ ہونے کا کہا",
+        "کوچ نے 20 وکٹیں لینے والے بہترین بولنگ اٹیک کی ضرورت پر زور دیا"
+      ],
+      "caption_ur": "بھارتی کوچ گوتھم گمبھیر نے پہلے ٹیسٹ میں ناقص کارکردگی کے بعد کلدیپ یادیو کی حمایت کی ہے۔ انہوں نے کلدیپ کو مشورہ دیا ہے کہ وہ وکٹوں کے لیے بے تاب نہ ہوں بلکہ اپنی بہترین بولنگ کریں۔ گمبھیر نے دوسرے ٹیسٹ کے لیے 20 وکٹیں لینے والے بولنگ اٹیک کی اہمیت پر بھی بات کی۔ کیا کلدیپ دوسرے ٹیسٹ میں بہتر پرفارم کر پائیں گے؟",
+      "fb_caption": "بھارتی کوچ گوتھم گمبھیر نے پہلے ٹیسٹ میں ناقص کارکردگی کے بعد کلدیپ یادیو کی حمایت کی ہے۔ انہوں نے کلدیپ کو مشورہ دیا ہے کہ وہ وکٹوں کے لیے بے تاب نہ ہوں بلکہ اپنی بہترین بولنگ کریں۔ گمبھیر نے دوسرے ٹیسٹ کے لیے 20 وکٹیں لینے والے بولنگ اٹیک کی اہمیت پر بھی بات کی۔ کیا کلدیپ دوسرے ٹیسٹ میں بہتر پرفارم کر پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #KuldeepYadav #GautamGambhir #IndiaCricket #TestCricket #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#KuldeepYadav",
+        "#GautamGambhir",
+        "#IndiaCricket",
+        "#TestCricket",
+        "#Sports"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 97,
+      "telegram_file_id": "BQACAgQAAxkDAANhaomHCYCmyyf0koMuRLSglsd517sAArseAAJnI1FQFjttoC5Epbo9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T11:24:56.419209+00:00",
+      "updated_at": "2026-08-22T11:24:57.623652+00:00",
       "posted_at": null
     }
   ]
