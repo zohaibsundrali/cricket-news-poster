@@ -80,7 +80,8 @@
     "9f34103c43d383c1": "2026-08-22T11:24:56.419253+00:00",
     "d60aaf1b041af24a": "2026-08-22T14:25:40.261813+00:00",
     "30729b78a415a949": "2026-08-22T14:25:40.360473+00:00",
-    "13bb9c977320b962": "2026-08-22T14:26:27.628094+00:00"
+    "13bb9c977320b962": "2026-08-22T14:26:27.628094+00:00",
+    "dd5b5acd876cd8a7": "2026-08-22T17:24:32.706751+00:00"
   },
   "posts": [
     {
@@ -1743,6 +1744,40 @@
       "error_msg": null,
       "created_at": "2026-08-22T14:26:27.628049+00:00",
       "updated_at": "2026-08-22T14:26:28.859061+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T1724Z-055232",
+      "url_hash": "dd5b5acd876cd8a7",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/ce8l78pzwjzo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "County Championship: Essex bair prevent Somerset innings win",
+      "headline_ur": "ایسیکس کا شاندار کم بیک، ایلیسن کی سنچری",
+      "summary_ur": [
+        "چارلی ایلیسن نے 105 رنز کی ناقابل شکست اننگز کھیلی۔",
+        "میٹ کرچلے نے 76 رنز بنا کر ان کا بھرپور ساتھ دیا۔",
+        "ایسیکس نے سمرسیٹ پر 3 رنز کی سبقت حاصل کر لی۔"
+      ],
+      "caption_ur": "کاؤنٹی چیمپئن شپ میں ایسیکس نے سمرسیٹ کے خلاف شاندار کم بیک کیا۔ نوجوان بلے باز چارلی ایلیسن نے زبردست سنچری بنائی۔ میٹ کرچلے نے بھی عمدہ بیٹنگ کا مظاہرہ کیا۔ کیا ایسیکس یہ میچ جیت پائے گا؟",
+      "fb_caption": "کاؤنٹی چیمپئن شپ میں ایسیکس نے سمرسیٹ کے خلاف شاندار کم بیک کیا۔ نوجوان بلے باز چارلی ایلیسن نے زبردست سنچری بنائی۔ میٹ کرچلے نے بھی عمدہ بیٹنگ کا مظاہرہ کیا۔ کیا ایسیکس یہ میچ جیت پائے گا؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #CountyChampionship #Essex #CharlieAllison #Somerset #EngVsEng",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#CountyChampionship",
+        "#Essex",
+        "#CharlieAllison",
+        "#Somerset",
+        "#EngVsEng"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 100,
+      "telegram_file_id": "BQACAgQAAxkDAANkaonbUYscfpcrWUkYAT7wemj5wicAAkAfAAJnI1FQi8KKyIJxPnk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T17:24:32.706718+00:00",
+      "updated_at": "2026-08-22T17:24:33.926065+00:00",
       "posted_at": null
     }
   ]
