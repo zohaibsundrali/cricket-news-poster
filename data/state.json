@@ -75,7 +75,8 @@
     "728b60d3c77a1b5b": "2026-08-22T05:32:33.938660+00:00",
     "194c731d35cee367": "2026-08-22T05:33:09.185250+00:00",
     "92ce6de7b7c74e0b": "2026-08-22T05:33:09.353003+00:00",
-    "527253bcbb4528dc": "2026-08-22T05:33:19.175861+00:00"
+    "527253bcbb4528dc": "2026-08-22T05:33:19.175861+00:00",
+    "bde93fda042582f0": "2026-08-22T08:34:33.521393+00:00"
   },
   "posts": [
     {
@@ -1637,6 +1638,39 @@
       "error_msg": null,
       "created_at": "2026-08-22T05:33:19.175810+00:00",
       "updated_at": "2026-08-22T05:33:20.527525+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T0834Z-ae7f47",
+      "url_hash": "bde93fda042582f0",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/videos/c1m1v2894ngo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "First Test, England v Pakistan - Highlights day three - Headingley",
+      "headline_ur": "روٹ کی کپتانی میں انگلینڈ نے پاکستان کو ہرا دیا",
+      "summary_ur": [
+        "انگلینڈ نے پاکستان کو 135 رنز پر آؤٹ کر دیا",
+        "انگلینڈ نے ایک اننگز اور 103 رنز سے کامیابی حاصل کی",
+        "تین میچوں کی سیریز میں انگلینڈ کو 1-0 کی برتری حاصل"
+      ],
+      "caption_ur": "جو روٹ کی کپتانی میں انگلینڈ نے پاکستان کو پہلے ٹیسٹ میں شکست دے دی۔ انگلینڈ نے پاکستان کو ایک اننگز اور 103 رنز سے ہرایا۔ قومی ٹیم کی کارکردگی کیسی رہی؟",
+      "fb_caption": "جو روٹ کی کپتانی میں انگلینڈ نے پاکستان کو پہلے ٹیسٹ میں شکست دے دی۔ انگلینڈ نے پاکستان کو ایک اننگز اور 103 رنز سے ہرایا۔ قومی ٹیم کی کارکردگی کیسی رہی؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #Pakistan #England #JoeRoot #TestMatch",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Pakistan",
+        "#England",
+        "#JoeRoot",
+        "#TestMatch"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 96,
+      "telegram_file_id": "BQACAgQAAxkDAANgaolfGlTDrqGWK6O6sp-EObywS2YAAq8fAAJnI0lQgLnmrJqoG9o9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T08:34:33.521350+00:00",
+      "updated_at": "2026-08-22T08:34:34.492759+00:00",
       "posted_at": null
     }
   ]
