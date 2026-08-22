@@ -1603,11 +1603,11 @@
       "telegram_message_id": 93,
       "telegram_file_id": "BQACAgQAAxkDAANdaokQTn76-NKT6hbP2R432hcNfo8AAoYfAAJnI0lQ0p_1pu7knmU9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-22T02:58:21.064784+00:00",
-      "updated_at": "2026-08-22T02:58:22.178017+00:00",
+      "updated_at": "2026-08-22T15:25:01.595348+00:00",
       "posted_at": null
     },
     {
