@@ -1671,11 +1671,11 @@
       "telegram_message_id": 96,
       "telegram_file_id": "BQACAgQAAxkDAANgaolfGlTDrqGWK6O6sp-EObywS2YAAq8fAAJnI0lQgLnmrJqoG9o9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-22T08:34:33.521350+00:00",
-      "updated_at": "2026-08-22T08:34:34.492759+00:00",
+      "updated_at": "2026-08-22T21:00:36.838259+00:00",
       "posted_at": null
     },
     {
