@@ -70,7 +70,12 @@
     "a8aafb26b8aaa2d3": "2026-08-21T11:31:07.365976+00:00",
     "90bb433ea6bbd6d4": "2026-08-21T14:39:43.693145+00:00",
     "bfd293113e109e28": "2026-08-21T17:33:25.310169+00:00",
-    "87417c4fd0f91c96": "2026-08-22T02:58:21.064831+00:00"
+    "87417c4fd0f91c96": "2026-08-22T02:58:21.064831+00:00",
+    "120aff037555ddd9": "2026-08-22T05:31:56.977160+00:00",
+    "728b60d3c77a1b5b": "2026-08-22T05:32:33.938660+00:00",
+    "194c731d35cee367": "2026-08-22T05:33:09.185250+00:00",
+    "92ce6de7b7c74e0b": "2026-08-22T05:33:09.353003+00:00",
+    "527253bcbb4528dc": "2026-08-22T05:33:19.175861+00:00"
   },
   "posts": [
     {
@@ -1598,6 +1603,40 @@
       "error_msg": null,
       "created_at": "2026-08-22T02:58:21.064784+00:00",
       "updated_at": "2026-08-22T02:58:22.178017+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T0533Z-a34cf0",
+      "url_hash": "527253bcbb4528dc",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-unleashes-havoc-as-australia-bowl-bangladesh-out-for-64-after-darwin-disaster/articleshow/133416924.cms",
+      "source_name": "The Times of India",
+      "title_en": "Mitchell Starc unleashes havoc as Australia bowl Bangladesh out for 64 after Darwin disaster",
+      "headline_ur": "اسٹارک کی تباہ کن بالنگ، بنگلہ دیش 64 پر ڈھیر",
+      "summary_ur": [
+        "مچل اسٹارک نے 12 رنز دے کر 6 وکٹیں حاصل کیں",
+        "بنگلہ دیش کی پوری ٹیم صرف 64 رنز بنا کر آؤٹ ہو گئی",
+        "اسٹارک نے میچ کی پہلی ہی بال پر وکٹ حاصل کی"
+      ],
+      "caption_ur": "آسٹریلیا نے دوسرے ٹیسٹ کے پہلے دن بنگلہ دیش کو صرف 64 رنز پر آؤٹ کر دیا! مچل اسٹارک نے شاندار بالنگ کرتے ہوئے 12 رنز کے عوض 6 وکٹیں حاصل کیں۔ انہوں نے میچ کی پہلی ہی بال پر وکٹ لے کر تباہی مچا دی۔ کیا آسٹریلیا یہ میچ آسانی سے جیت جائے گا؟",
+      "fb_caption": "آسٹریلیا نے دوسرے ٹیسٹ کے پہلے دن بنگلہ دیش کو صرف 64 رنز پر آؤٹ کر دیا! مچل اسٹارک نے شاندار بالنگ کرتے ہوئے 12 رنز کے عوض 6 وکٹیں حاصل کیں۔ انہوں نے میچ کی پہلی ہی بال پر وکٹ لے کر تباہی مچا دی۔ کیا آسٹریلیا یہ میچ آسانی سے جیت جائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MitchellStarc #Australia #Bangladesh #TestCricket #AUSvBAN",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MitchellStarc",
+        "#Australia",
+        "#Bangladesh",
+        "#TestCricket",
+        "#AUSvBAN"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 94,
+      "telegram_file_id": "BQACAgQAAxkDAANeaok0oC1W48hLEPjaSjMmNbthic0AAo8fAAJnI0lQQKh00cGQAek9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T05:33:19.175810+00:00",
+      "updated_at": "2026-08-22T05:33:20.527525+00:00",
       "posted_at": null
     }
   ]
