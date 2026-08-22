@@ -77,7 +77,10 @@
     "92ce6de7b7c74e0b": "2026-08-22T05:33:09.353003+00:00",
     "527253bcbb4528dc": "2026-08-22T05:33:19.175861+00:00",
     "bde93fda042582f0": "2026-08-22T08:34:33.521393+00:00",
-    "9f34103c43d383c1": "2026-08-22T11:24:56.419253+00:00"
+    "9f34103c43d383c1": "2026-08-22T11:24:56.419253+00:00",
+    "d60aaf1b041af24a": "2026-08-22T14:25:40.261813+00:00",
+    "30729b78a415a949": "2026-08-22T14:25:40.360473+00:00",
+    "13bb9c977320b962": "2026-08-22T14:26:27.628094+00:00"
   },
   "posts": [
     {
@@ -1706,6 +1709,40 @@
       "error_msg": null,
       "created_at": "2026-08-22T11:24:56.419209+00:00",
       "updated_at": "2026-08-22T11:24:57.623652+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260822T1426Z-26697b",
+      "url_hash": "13bb9c977320b962",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "England vs Pakistan: Joe Root praised for his calmness on his return as captain by Marcus Trescothick",
+      "headline_ur": "جو روٹ کی کپتانی میں انگلینڈ کی پاکستان کے خلاف فتح",
+      "summary_ur": [
+        "جو روٹ نے کپتان کے طور پر واپسی کی اور پاکستان کو شکست دی",
+        "انگلینڈ نے ہیڈنگلے ٹیسٹ ایک اننگز اور 103 رنز سے جیتا",
+        "مارکس ٹریسکوتھک نے جو روٹ کی پرسکون کپتانی کی تعریف کی"
+      ],
+      "caption_ur": "انگلینڈ کے سابق کپتان جو روٹ نے دوبارہ قیادت سنبھالتے ہی ٹیم کو فتح سے ہمکنار کیا۔ ہیڈنگلے ٹیسٹ میں پاکستان کو ایک اننگز اور 103 رنز سے شکست دی۔ عبوری کوچ مارکس ٹریسکوتھک نے جو روٹ کی پرسکون اور واضح حکمت عملی کی تعریف کی۔ کیا جو روٹ کی کپتانی انگلینڈ کو دوبارہ ٹیسٹ کرکٹ میں مضبوط بنائے گی؟",
+      "fb_caption": "انگلینڈ کے سابق کپتان جو روٹ نے دوبارہ قیادت سنبھالتے ہی ٹیم کو فتح سے ہمکنار کیا۔ ہیڈنگلے ٹیسٹ میں پاکستان کو ایک اننگز اور 103 رنز سے شکست دی۔ عبوری کوچ مارکس ٹریسکوتھک نے جو روٹ کی پرسکون اور واضح حکمت عملی کی تعریف کی۔ کیا جو روٹ کی کپتانی انگلینڈ کو دوبارہ ٹیسٹ کرکٹ میں مضبوط بنائے گی؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #JoeRoot #EnglandCricket #TestCricket #PakistanCricket #Trescothick",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#EnglandCricket",
+        "#TestCricket",
+        "#PakistanCricket",
+        "#Trescothick"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 98,
+      "telegram_file_id": "BQACAgQAAxkDAANiaomxlOulGnyWYSvgT1-fDkDOHkQAAx8AAmcjUVAGejtysF1P8j0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-22T14:26:27.628049+00:00",
+      "updated_at": "2026-08-22T14:26:28.859061+00:00",
       "posted_at": null
     }
   ]
