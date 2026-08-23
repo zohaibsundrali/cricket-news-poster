@@ -88,7 +88,9 @@
     "b96e0ab302b509a1": "2026-08-23T08:35:28.977157+00:00",
     "e8c1fdf3c4eca246": "2026-08-23T08:35:52.547681+00:00",
     "029c2024a2fccf08": "2026-08-23T11:24:26.988098+00:00",
-    "33dba8ed9bb5f8b2": "2026-08-23T14:27:24.297993+00:00"
+    "33dba8ed9bb5f8b2": "2026-08-23T14:27:24.297993+00:00",
+    "77d8719bbc5d2ad6": "2026-08-23T17:23:41.102740+00:00",
+    "e7b112afbe866aed": "2026-08-23T17:24:03.917417+00:00"
   },
   "posts": [
     {
@@ -1955,6 +1957,40 @@
       "error_msg": null,
       "created_at": "2026-08-23T14:27:24.297941+00:00",
       "updated_at": "2026-08-23T14:27:25.499505+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260823T1724Z-266950",
+      "url_hash": "e7b112afbe866aed",
+      "source_url": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance",
+      "source_name": "Dawn",
+      "title_en": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
+      "headline_ur": "فیفا صدر انفینٹینو پر نارڈک ممالک کا عدم اعتماد",
+      "summary_ur": [
+        "6 نارڈک فٹبال ایسوسی ایشنز نے فیفا صدر پر عدم اعتماد کا اظہار کیا۔",
+        "انہوں نے فیفا کی گورننس میں اصلاحات کا مطالبہ کیا ہے۔",
+        "انفینٹینو کے استعفے کے مطالبات کی حمایت بھی کی گئی۔"
+      ],
+      "caption_ur": "فیفا صدر جیانی انفینٹینو کے لیے مشکلات بڑھ گئیں۔ چھ نارڈک فٹبال ایسوسی ایشنز نے ان پر عدم اعتماد کا اظہار کیا ہے۔ انہوں نے فیفا کی گورننس میں بڑی اصلاحات کا مطالبہ کیا اور انفینٹینو کے استعفے کی حمایت بھی کی۔ آپ کے خیال میں فیفا کو کیا اقدامات کرنے چاہئیں؟",
+      "fb_caption": "فیفا صدر جیانی انفینٹینو کے لیے مشکلات بڑھ گئیں۔ چھ نارڈک فٹبال ایسوسی ایشنز نے ان پر عدم اعتماد کا اظہار کیا ہے۔ انہوں نے فیفا کی گورننس میں بڑی اصلاحات کا مطالبہ کیا اور انفینٹینو کے استعفے کی حمایت بھی کی۔ آپ کے خیال میں فیفا کو کیا اقدامات کرنے چاہئیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #FIFA #Infantino #FootballNews #SportsNews #NordicFAs",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#FIFA",
+        "#Infantino",
+        "#FootballNews",
+        "#SportsNews",
+        "#NordicFAs"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 112,
+      "telegram_file_id": "BQACAgQAAxkDAANwaosstFn7-YQ-5LfrqqubeJ9pqEQAAiYhAALu5VhQhyUxEy9pvNc9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-23T17:24:03.917364+00:00",
+      "updated_at": "2026-08-23T17:24:05.025236+00:00",
       "posted_at": null
     }
   ]
