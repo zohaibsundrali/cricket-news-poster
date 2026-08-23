@@ -82,7 +82,9 @@
     "30729b78a415a949": "2026-08-22T14:25:40.360473+00:00",
     "13bb9c977320b962": "2026-08-22T14:26:27.628094+00:00",
     "dd5b5acd876cd8a7": "2026-08-22T17:24:32.706751+00:00",
-    "ea11aef3cf30794e": "2026-08-23T03:06:13.004872+00:00"
+    "ea11aef3cf30794e": "2026-08-23T03:06:13.004872+00:00",
+    "ff7928c50faaffa8": "2026-08-23T05:32:35.668493+00:00",
+    "245dcc725681f72f": "2026-08-23T05:32:57.343694+00:00"
   },
   "posts": [
     {
@@ -1813,6 +1815,40 @@
       "error_msg": null,
       "created_at": "2026-08-23T03:06:13.004824+00:00",
       "updated_at": "2026-08-23T03:06:14.095475+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260823T0532Z-9d7934",
+      "url_hash": "245dcc725681f72f",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-fought-cancer-to-see-my-son-play-for-india-saransh-jains-long-road-to-test-cricket/articleshow/133434464.cms",
+      "source_name": "The Times of India",
+      "title_en": "'I fought cancer to see my son play for India': Saransh Jain's long road to Test cricket",
+      "headline_ur": "سرانش جین کا ٹیسٹ ڈیبیو، والد کی کینسر سے جنگ",
+      "summary_ur": [
+        "سرانش جین کو کولمبو میں ٹیسٹ کیپ مل گئی",
+        "والد سبودھ جین نے کینسر سے جنگ بیٹے کو کھیلتے دیکھنے کیلئے لڑی",
+        "انہیں 2014 میں منہ کے کینسر کی تشخیص ہوئی تھی"
+      ],
+      "caption_ur": "کرکٹ میں ڈیبیو کرنا ہر کھلاڑی کا خواب ہوتا ہے، لیکن سرانش جین کے لیے یہ ایک بہت بڑی کامیابی ہے۔ ان کے والد سبودھ جین نے 2014 میں منہ کے کینسر کا مقابلہ کیا تھا۔ انہوں نے کینسر سے لڑنے کا عزم صرف اپنے بیٹے کو بھارت کے لیے کھیلتے دیکھنے کے لیے کیا تھا۔ کیا آپ کو لگتا ہے کہ یہ کہانی کرکٹ کی سب سے متاثر کن کہانیوں میں سے ایک ہے؟",
+      "fb_caption": "کرکٹ میں ڈیبیو کرنا ہر کھلاڑی کا خواب ہوتا ہے، لیکن سرانش جین کے لیے یہ ایک بہت بڑی کامیابی ہے۔ ان کے والد سبودھ جین نے 2014 میں منہ کے کینسر کا مقابلہ کیا تھا۔ انہوں نے کینسر سے لڑنے کا عزم صرف اپنے بیٹے کو بھارت کے لیے کھیلتے دیکھنے کے لیے کیا تھا۔ کیا آپ کو لگتا ہے کہ یہ کہانی کرکٹ کی سب سے متاثر کن کہانیوں میں سے ایک ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #SaranshJain #TestDebut #InspiringStory #کرکٹ_خبر #باپ_بیٹا",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#SaranshJain",
+        "#TestDebut",
+        "#InspiringStory",
+        "#کرکٹ_خبر",
+        "#باپ_بیٹا"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 106,
+      "telegram_file_id": "BQACAgQAAxkDAANqaoqGCg70EQRgkhtA5J3pcq95oSEAAqoaAAJnI1lQuqi-gis4ztM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-23T05:32:57.343643+00:00",
+      "updated_at": "2026-08-23T05:32:58.611769+00:00",
       "posted_at": null
     }
   ]
