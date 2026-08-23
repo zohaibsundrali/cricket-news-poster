@@ -1814,11 +1814,11 @@
       "telegram_message_id": 105,
       "telegram_file_id": "BQACAgQAAxkDAANpaopjpTL5pvGe2JcU_gX5Er4wbcwAAkcgAAJnI1FQxDrQPMuLDq89BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-23T03:06:13.004824+00:00",
-      "updated_at": "2026-08-23T03:06:14.095475+00:00",
+      "updated_at": "2026-08-23T15:37:50.360593+00:00",
       "posted_at": null
     },
     {
