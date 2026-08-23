@@ -81,7 +81,8 @@
     "d60aaf1b041af24a": "2026-08-22T14:25:40.261813+00:00",
     "30729b78a415a949": "2026-08-22T14:25:40.360473+00:00",
     "13bb9c977320b962": "2026-08-22T14:26:27.628094+00:00",
-    "dd5b5acd876cd8a7": "2026-08-22T17:24:32.706751+00:00"
+    "dd5b5acd876cd8a7": "2026-08-22T17:24:32.706751+00:00",
+    "ea11aef3cf30794e": "2026-08-23T03:06:13.004872+00:00"
   },
   "posts": [
     {
@@ -1778,6 +1779,40 @@
       "error_msg": null,
       "created_at": "2026-08-22T17:24:32.706718+00:00",
       "updated_at": "2026-08-22T17:24:33.926065+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260823T0306Z-83ae8c",
+      "url_hash": "ea11aef3cf30794e",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-seek-2-0-sweep-shubman-gill-yashasvi-jaiswal-look-to-bounce-back-kuldeep-to-miss-out/articleshow/133433181.cms",
+      "source_name": "The Times of India",
+      "title_en": "India seek 2-0 sweep: Shubman Gill, Yashasvi Jaiswal look to bounce back; Kuldeep to miss out?",
+      "headline_ur": "بھارت کا 2-0 کلین سویپ کا ہدف، گِل، جیسوال پر دباؤ",
+      "summary_ur": [
+        "بھارت سری لنکا کے خلاف 2-0 سے سیریز جیتنے کا خواہاں ہے۔",
+        "شبمن گِل اور یشسوی جیسوال پہلی اننگز میں ناکام رہے۔",
+        "کلدیپ یادیو کی جگہ سارنش جین کو موقع مل سکتا ہے۔"
+      ],
+      "caption_ur": "بھارتی ٹیم سری لنکا کے خلاف دوسرے ٹیسٹ میں 2-0 سے کلین سویپ کرنے کی کوشش کرے گی۔ گال میں پہلے ٹیسٹ میں شبمن گِل اور یشسوی جیسوال کی بیٹنگ اچھی نہیں رہی تھی۔ اب دیکھنا یہ ہے کہ کیا وہ کولمبو میں پرفارم کر پائیں گے یا نہیں۔ کیا بھارت یہ سیریز 2-0 سے جیت پائے گا؟",
+      "fb_caption": "بھارتی ٹیم سری لنکا کے خلاف دوسرے ٹیسٹ میں 2-0 سے کلین سویپ کرنے کی کوشش کرے گی۔ گال میں پہلے ٹیسٹ میں شبمن گِل اور یشسوی جیسوال کی بیٹنگ اچھی نہیں رہی تھی۔ اب دیکھنا یہ ہے کہ کیا وہ کولمبو میں پرفارم کر پائیں گے یا نہیں۔ کیا بھارت یہ سیریز 2-0 سے جیت پائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #INDvsSL #ShubmanGill #YashasviJaiswal #TestCricket #TeamIndia",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#INDvsSL",
+        "#ShubmanGill",
+        "#YashasviJaiswal",
+        "#TestCricket",
+        "#TeamIndia"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 105,
+      "telegram_file_id": "BQACAgQAAxkDAANpaopjpTL5pvGe2JcU_gX5Er4wbcwAAkcgAAJnI1FQxDrQPMuLDq89BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-23T03:06:13.004824+00:00",
+      "updated_at": "2026-08-23T03:06:14.095475+00:00",
       "posted_at": null
     }
   ]
