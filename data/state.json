@@ -1987,11 +1987,11 @@
       "telegram_message_id": 112,
       "telegram_file_id": "BQACAgQAAxkDAANwaosstFn7-YQ-5LfrqqubeJ9pqEQAAiYhAALu5VhQhyUxEy9pvNc9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-23T17:24:03.917364+00:00",
-      "updated_at": "2026-08-23T17:24:05.025236+00:00",
+      "updated_at": "2026-08-24T05:40:34.544733+00:00",
       "posted_at": null
     },
     {
