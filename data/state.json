@@ -90,7 +90,8 @@
     "029c2024a2fccf08": "2026-08-23T11:24:26.988098+00:00",
     "33dba8ed9bb5f8b2": "2026-08-23T14:27:24.297993+00:00",
     "77d8719bbc5d2ad6": "2026-08-23T17:23:41.102740+00:00",
-    "e7b112afbe866aed": "2026-08-23T17:24:03.917417+00:00"
+    "e7b112afbe866aed": "2026-08-23T17:24:03.917417+00:00",
+    "61b52a6c888dd3ab": "2026-08-24T03:07:49.499643+00:00"
   },
   "posts": [
     {
@@ -1991,6 +1992,40 @@
       "error_msg": null,
       "created_at": "2026-08-23T17:24:03.917364+00:00",
       "updated_at": "2026-08-23T17:24:05.025236+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260824T0307Z-d456df",
+      "url_hash": "61b52a6c888dd3ab",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/whats-in-the-imran-khan-letter-sunil-gavaskar-kapil-dev-and-others-make-three-key-requests/articleshow/133449500.cms",
+      "source_name": "The Times of India",
+      "title_en": "Whatâs in the Imran Khan letter? Sunil Gavaskar, Kapil Dev and others make three key requests",
+      "headline_ur": "سابق کپتانوں کا عمران خان کی صحت پر تشویش کا اظہار",
+      "summary_ur": [
+        "21 سابق بین الاقوامی کپتانوں نے شہباز شریف کو خط لکھا۔",
+        "خط میں عمران خان کے لیے مناسب طبی علاج کا مطالبہ کیا گیا۔",
+        "ان کی صحت اور خاندانی ملاقاتوں کی بحالی پر زور دیا گیا۔"
+      ],
+      "caption_ur": "سابق بھارتی کپتان سنیل گواسکر اور کپل دیو سمیت 21 بین الاقوامی کپتانوں نے وزیراعظم شہباز شریف کو خط لکھا ہے۔ اس خط میں عمران خان کی صحت اور ان کے لیے مناسب طبی علاج کا مطالبہ کیا گیا ہے۔ انہوں نے آزادانہ طبی معائنہ، خاندانی ملاقاتوں کی بحالی اور فوری علاج کی درخواست کی ہے۔ عالمی کرکٹ کمیونٹی کی یہ تشویش کیا رنگ لائے گی؟",
+      "fb_caption": "سابق بھارتی کپتان سنیل گواسکر اور کپل دیو سمیت 21 بین الاقوامی کپتانوں نے وزیراعظم شہباز شریف کو خط لکھا ہے۔ اس خط میں عمران خان کی صحت اور ان کے لیے مناسب طبی علاج کا مطالبہ کیا گیا ہے۔ انہوں نے آزادانہ طبی معائنہ، خاندانی ملاقاتوں کی بحالی اور فوری علاج کی درخواست کی ہے۔ عالمی کرکٹ کمیونٹی کی یہ تشویش کیا رنگ لائے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ImranKhan #PakistanCricket #سابق_کپتان #WorldCupWinner #MedicalTreatment",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ImranKhan",
+        "#PakistanCricket",
+        "#سابق_کپتان",
+        "#WorldCupWinner",
+        "#MedicalTreatment"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 117,
+      "telegram_file_id": "BQACAgQAAxkDAAN1aou1ht-4T1fGyCWFaV6ied2O0CEAAu8hAALu5VhQ97z-a2hpKJg9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-24T03:07:49.499597+00:00",
+      "updated_at": "2026-08-24T03:07:50.504090+00:00",
       "posted_at": null
     }
   ]
