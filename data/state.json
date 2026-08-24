@@ -97,7 +97,8 @@
     "c21ef277e1e41c7d": "2026-08-24T08:52:56.392806+00:00",
     "97ca42270f7bed1e": "2026-08-24T08:53:32.671053+00:00",
     "823a08d07445992c": "2026-08-24T08:54:14.560368+00:00",
-    "4a20873ade619311": "2026-08-24T08:54:37.231888+00:00"
+    "4a20873ade619311": "2026-08-24T08:54:37.231888+00:00",
+    "d3385721559ea5f7": "2026-08-24T11:33:12.786804+00:00"
   },
   "posts": [
     {
@@ -2101,6 +2102,40 @@
       "error_msg": null,
       "created_at": "2026-08-24T08:54:37.231842+00:00",
       "updated_at": "2026-08-24T08:54:38.262170+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260824T1133Z-3bc1aa",
+      "url_hash": "d3385721559ea5f7",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-can-ask-pakistan-and-request-them-kapil-dev-asks-better-treatment-for-jailed-imran-khan/articleshow/133460894.cms",
+      "source_name": "The Times of India",
+      "title_en": "'We can ask Pakistan and request them': Kapil Dev asks 'better treatment' for jailed Imran Khan",
+      "headline_ur": "کپل دیو کی عمران خان کے لیے بہتر سلوک کی اپیل",
+      "summary_ur": [
+        "سابق بھارتی کپتان کپل دیو نے عمران خان کے لیے آواز اٹھائی۔",
+        "انہوں نے 21 دیگر سابق کپتانوں کے ساتھ اپیل کی ہے۔",
+        "عمران خان کو بہتر طبی سہولیات اور انسانی سلوک ملے۔"
+      ],
+      "caption_ur": "سابق بھارتی کپتان کپل دیو نے عمران خان کے لیے آواز اٹھائی ہے۔ انہوں نے 21 دیگر سابق بین الاقوامی کرکٹ کپتانوں کے ساتھ مل کر پاکستان سے اپیل کی ہے۔ ان کا کہنا ہے کہ عمران خان کو جیل میں بہتر طبی سہولیات اور انسانی سلوک ملنا چاہیے۔ کرکٹ برادری صرف بہتر سلوک کا مطالبہ کر رہی ہے، الزامات سے کوئی تعلق نہیں۔ آپ کا اس بارے میں کیا خیال ہے؟",
+      "fb_caption": "سابق بھارتی کپتان کپل دیو نے عمران خان کے لیے آواز اٹھائی ہے۔ انہوں نے 21 دیگر سابق بین الاقوامی کرکٹ کپتانوں کے ساتھ مل کر پاکستان سے اپیل کی ہے۔ ان کا کہنا ہے کہ عمران خان کو جیل میں بہتر طبی سہولیات اور انسانی سلوک ملنا چاہیے۔ کرکٹ برادری صرف بہتر سلوک کا مطالبہ کر رہی ہے، الزامات سے کوئی تعلق نہیں۔ آپ کا اس بارے میں کیا خیال ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ImranKhan #KapilDev #PakistanCricket #CricketNews #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ImranKhan",
+        "#KapilDev",
+        "#PakistanCricket",
+        "#CricketNews",
+        "#Sports"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 121,
+      "telegram_file_id": "BQACAgQAAxkDAAN5aowr-qcl8p83PL44_0YauYRgWkcAAlcgAALu5WBQeXG8t1GoAAEaPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-24T11:33:12.786766+00:00",
+      "updated_at": "2026-08-24T11:33:14.397403+00:00",
       "posted_at": null
     }
   ]
