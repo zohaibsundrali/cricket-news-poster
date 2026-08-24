@@ -92,7 +92,12 @@
     "77d8719bbc5d2ad6": "2026-08-23T17:23:41.102740+00:00",
     "e7b112afbe866aed": "2026-08-23T17:24:03.917417+00:00",
     "61b52a6c888dd3ab": "2026-08-24T03:07:49.499643+00:00",
-    "ec0ffbb206780db1": "2026-08-24T05:42:15.861339+00:00"
+    "ec0ffbb206780db1": "2026-08-24T05:42:15.861339+00:00",
+    "6597c5381fddd057": "2026-08-24T08:52:21.563906+00:00",
+    "c21ef277e1e41c7d": "2026-08-24T08:52:56.392806+00:00",
+    "97ca42270f7bed1e": "2026-08-24T08:53:32.671053+00:00",
+    "823a08d07445992c": "2026-08-24T08:54:14.560368+00:00",
+    "4a20873ade619311": "2026-08-24T08:54:37.231888+00:00"
   },
   "posts": [
     {
@@ -2062,6 +2067,40 @@
       "error_msg": null,
       "created_at": "2026-08-24T05:42:15.861289+00:00",
       "updated_at": "2026-08-24T05:42:17.382338+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260824T0854Z-29e55d",
+      "url_hash": "4a20873ade619311",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ind-vs-sl-rishabh-pants-95m-monster-six-damages-solar-panel-on-colombo-stadium-roof-watch/articleshow/133453844.cms",
+      "source_name": "The Times of India",
+      "title_en": "IND vs SL: Rishabh Pant's 95m monster six damages solar panel on Colombo stadium roof - Watch",
+      "headline_ur": "پنت کا زبردست چھکا، اسٹیڈیم کی چھت پر سولر پینل توڑ دیا",
+      "summary_ur": [
+        "رشبھ پنت نے سری لنکا کے خلاف ٹیسٹ میں 95 میٹر کا لمبا چھکا لگایا۔",
+        "یہ چھکا اسٹیڈیم کی چھت پر لگا اور ایک سولر پینل کو نقصان پہنچایا۔",
+        "پنت نے اپنی 21ویں ٹیسٹ نصف سنچری بھی مکمل کی اور 63 رنز پر بیٹنگ کر رہے تھے۔"
+      ],
+      "caption_ur": "رشبھ پنت نے سری لنکا کے خلاف دوسرے ٹیسٹ میں ایک زبردست چھکا لگایا۔ یہ چھکا اتنا لمبا تھا کہ اسٹیڈیم کی چھت پر لگے سولر پینل کو توڑ دیا۔ پنت نے اپنی 21ویں ٹیسٹ نصف سنچری بھی مکمل کر لی۔ آپ کو پنت کی کون سی پرفارمنس سب سے زیادہ متاثر کرتی ہے؟",
+      "fb_caption": "رشبھ پنت نے سری لنکا کے خلاف دوسرے ٹیسٹ میں ایک زبردست چھکا لگایا۔ یہ چھکا اتنا لمبا تھا کہ اسٹیڈیم کی چھت پر لگے سولر پینل کو توڑ دیا۔ پنت نے اپنی 21ویں ٹیسٹ نصف سنچری بھی مکمل کر لی۔ آپ کو پنت کی کون سی پرفارمنس سب سے زیادہ متاثر کرتی ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #RishabhPant #INDvSL #TestCricket #Six #SolarPanel",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#RishabhPant",
+        "#INDvSL",
+        "#TestCricket",
+        "#Six",
+        "#SolarPanel"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 120,
+      "telegram_file_id": "BQACAgQAAxkDAAN4aowGzlnBPcyMLJXOVw3NTCK8ZncAAh4gAALu5WBQkXgy48G-QwM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-24T08:54:37.231842+00:00",
+      "updated_at": "2026-08-24T08:54:38.262170+00:00",
       "posted_at": null
     }
   ]
