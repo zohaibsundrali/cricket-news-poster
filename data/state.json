@@ -102,7 +102,11 @@
     "03fe58b9157f59b6": "2026-08-24T14:47:07.702408+00:00",
     "cf83d73334ba6db2": "2026-08-24T14:47:07.742539+00:00",
     "56b4e714a2564598": "2026-08-24T14:47:07.791194+00:00",
-    "05b539f8965f42c5": "2026-08-24T14:47:20.232357+00:00"
+    "05b539f8965f42c5": "2026-08-24T14:47:20.232357+00:00",
+    "877d13ab75030d13": "2026-08-24T17:34:41.891891+00:00",
+    "11ca4c6678e04865": "2026-08-24T17:34:41.904893+00:00",
+    "24d54c82a925c503": "2026-08-24T17:34:42.052168+00:00",
+    "3d620bb3543630c3": "2026-08-24T17:34:51.834869+00:00"
   },
   "posts": [
     {
@@ -2174,6 +2178,40 @@
       "error_msg": null,
       "created_at": "2026-08-24T14:47:20.232311+00:00",
       "updated_at": "2026-08-24T14:47:21.777743+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260824T1734Z-7c518a",
+      "url_hash": "3d620bb3543630c3",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-jurels-century-early-strike-from-prasidh-suthar-put-india-in-command-as-sri-lanka-trail-by-495/articleshow/133466804.cms",
+      "source_name": "The Times of India",
+      "title_en": "Dhruv Jurel's century, early strike from Prasidh-Suthar put India in command as Sri Lanka trail by 495",
+      "headline_ur": "دھروو جوریل کی سنچری، بھارت سری لنکا پر حاوی",
+      "summary_ur": [
+        "دھروو جوریل نے 115 رنز کی ناقابل شکست سنچری بنائی۔",
+        "بھارت نے 503 رنز 9 وکٹوں پر اننگز ڈکلیئر کر دی۔",
+        "سری لنکا نے دوسرے دن کا اختتام 8 رنز 2 وکٹوں پر کیا۔"
+      ],
+      "caption_ur": "دھروو جوریل کی شاندار سنچری نے بھارت کو سری لنکا کے خلاف دوسرے ٹیسٹ میں مضبوط پوزیشن پر لا کھڑا کیا۔ بھارت نے 503 رنز 9 وکٹوں پر اپنی پہلی اننگز ڈکلیئر کر دی۔ جواب میں سری لنکا نے دوسرے دن کا اختتام 8 رنز 2 وکٹوں پر کیا۔ کیا سری لنکا تیسرے دن بھارت کو ٹف ٹائم دے پائے گا؟",
+      "fb_caption": "دھروو جوریل کی شاندار سنچری نے بھارت کو سری لنکا کے خلاف دوسرے ٹیسٹ میں مضبوط پوزیشن پر لا کھڑا کیا۔ بھارت نے 503 رنز 9 وکٹوں پر اپنی پہلی اننگز ڈکلیئر کر دی۔ جواب میں سری لنکا نے دوسرے دن کا اختتام 8 رنز 2 وکٹوں پر کیا۔ کیا سری لنکا تیسرے دن بھارت کو ٹف ٹائم دے پائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #TestCricket #INDvSL #DhruvJurel #India #SriLanka",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#TestCricket",
+        "#INDvSL",
+        "#DhruvJurel",
+        "#India",
+        "#SriLanka"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 124,
+      "telegram_file_id": "BQACAgQAAxkDAAN8aoyAvFUpw8BNAAGVUX71tvG0tbHXAALeIAAC7uVgULPZLJCDrBtwPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-24T17:34:51.834821+00:00",
+      "updated_at": "2026-08-24T17:34:52.955684+00:00",
       "posted_at": null
     }
   ]
