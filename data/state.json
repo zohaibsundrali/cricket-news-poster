@@ -121,7 +121,9 @@
     "ceb1107e4ec5f4b6": "2026-08-25T11:32:14.035576+00:00",
     "c0c7fa46fa0ee393": "2026-08-25T14:50:34.177168+00:00",
     "c7cdd439d367f70d": "2026-08-25T14:50:34.233345+00:00",
-    "c08715c561ef3546": "2026-08-25T14:50:48.059761+00:00"
+    "c08715c561ef3546": "2026-08-25T14:50:48.059761+00:00",
+    "9c1a02010c40e1be": "2026-08-25T17:35:05.891398+00:00",
+    "89f33f6d7b48b60c": "2026-08-25T17:35:17.213907+00:00"
   },
   "posts": [
     {
@@ -2363,6 +2365,40 @@
       "error_msg": null,
       "created_at": "2026-08-25T14:50:48.059717+00:00",
       "updated_at": "2026-08-25T14:50:49.133111+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260825T1735Z-39a81d",
+      "url_hash": "89f33f6d7b48b60c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/really-hacked-off-carse-in-handcuffs-leaves-root-really-disappointed-as-england-face-fresh-scrutiny/articleshow/133513732.cms",
+      "source_name": "The Times of India",
+      "title_en": "âReally hacked offâ: Carse in handcuffs leaves Root âreally disappointedâ as England face fresh scrutiny",
+      "headline_ur": "برائیڈن کارس کا واقعہ، جو روٹ شدید مایوس",
+      "summary_ur": [
+        "انگلینڈ کے کپتان جو روٹ برائیڈن کارس کے آف فیلڈ واقعے پر مایوس ہیں۔",
+        "فاسٹ بولر کو اتوار کی صبح ہتھکڑیوں میں پولیس کے ساتھ دیکھا گیا۔",
+        "روٹ نے کہا کہ ٹیم مسلسل ایسی غلطیاں کر رہی ہے جو کھیل سے توجہ ہٹا رہی ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کرکٹ ٹیم ایک بار پھر آف فیلڈ واقعات کی وجہ سے خبروں میں ہے۔ فاسٹ بولر برائیڈن کارس کو اتوار کی صبح ہتھکڑیوں میں پولیس کے ساتھ دیکھا گیا جس پر کپتان جو روٹ نے شدید مایوسی کا اظہار کیا ہے۔ روٹ کا کہنا ہے کہ ٹیم مسلسل ایسی غلطیاں کر رہی ہے جو میدان میں ان کی کارکردگی سے توجہ ہٹا رہی ہے۔ آپ کے خیال میں کھلاڑیوں کو آف فیلڈ رویے کے بارے میں کتنا محتاط رہنا چاہیے؟",
+      "fb_caption": "انگلینڈ کرکٹ ٹیم ایک بار پھر آف فیلڈ واقعات کی وجہ سے خبروں میں ہے۔ فاسٹ بولر برائیڈن کارس کو اتوار کی صبح ہتھکڑیوں میں پولیس کے ساتھ دیکھا گیا جس پر کپتان جو روٹ نے شدید مایوسی کا اظہار کیا ہے۔ روٹ کا کہنا ہے کہ ٹیم مسلسل ایسی غلطیاں کر رہی ہے جو میدان میں ان کی کارکردگی سے توجہ ہٹا رہی ہے۔ آپ کے خیال میں کھلاڑیوں کو آف فیلڈ رویے کے بارے میں کتنا محتاط رہنا چاہیے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #JoeRoot #BrydonCarse #EnglandCricket #TeamNews #کرکٹ_نیوز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#BrydonCarse",
+        "#EnglandCricket",
+        "#TeamNews",
+        "#کرکٹ_نیوز"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 136,
+      "telegram_file_id": "BQACAgQAAxkDAAOIao3SVtWhMsljvY93Dvmi0IlqGSEAAg4fAAI-4nFQc1CI-ZItuLI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-25T17:35:17.213827+00:00",
+      "updated_at": "2026-08-25T17:35:18.360385+00:00",
       "posted_at": null
     }
   ]
