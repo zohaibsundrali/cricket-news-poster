@@ -114,7 +114,9 @@
     "83690ce421bb1277": "2026-08-25T05:36:52.688547+00:00",
     "fe73b0b208624434": "2026-08-25T05:37:27.003459+00:00",
     "bfde5459e5332341": "2026-08-25T05:37:27.033038+00:00",
-    "1e97c38b90c1cfc2": "2026-08-25T05:38:01.264126+00:00"
+    "1e97c38b90c1cfc2": "2026-08-25T05:38:01.264126+00:00",
+    "b24bd9ee0f6a4386": "2026-08-25T08:48:20.569253+00:00",
+    "ca704f975f292346": "2026-08-25T08:48:30.884197+00:00"
   },
   "posts": [
     {
@@ -2254,6 +2256,40 @@
       "error_msg": null,
       "created_at": "2026-08-25T03:02:37.084871+00:00",
       "updated_at": "2026-08-25T03:02:38.129891+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260825T0848Z-9d9adc",
+      "url_hash": "ca704f975f292346",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/zeeshan-ansari-india-a-and-ipl-exposure-has-made-me-a-better-leg-spinner/articleshow/133499070.cms",
+      "source_name": "The Times of India",
+      "title_en": "Zeeshan Ansari: 'India A and IPL exposure has made me a better leg-spinner'",
+      "headline_ur": "ذیشان انصاری: انڈیا اے اور آئی پی ایل نے بہتر بنایا",
+      "summary_ur": [
+        "ذیشان انصاری 6 سال بعد ریڈ بال کرکٹ میں واپس آئے ہیں۔",
+        "انڈیا اے اور آئی پی ایل کے تجربے نے انہیں بہتر بولر بنایا۔",
+        "انہوں نے یو پی ٹی ٹوئنٹی لیگ میں 24 وکٹیں حاصل کیں۔"
+      ],
+      "caption_ur": "لیگ اسپنر ذیشان انصاری نے 6 سال بعد ریڈ بال کرکٹ میں واپسی کی ہے۔ ان کا کہنا ہے کہ انڈیا اے اور آئی پی ایل میں کھیلنے سے انہیں بہت کچھ سیکھنے کو ملا ہے۔ انہوں نے اپنی بولنگ کو بہتر بنانے کے لیے کئی چیزیں سیکھی ہیں۔ آپ کے خیال میں کون سی لیگ کھلاڑیوں کی صلاحیتوں کو نکھارتی ہے؟",
+      "fb_caption": "لیگ اسپنر ذیشان انصاری نے 6 سال بعد ریڈ بال کرکٹ میں واپسی کی ہے۔ ان کا کہنا ہے کہ انڈیا اے اور آئی پی ایل میں کھیلنے سے انہیں بہت کچھ سیکھنے کو ملا ہے۔ انہوں نے اپنی بولنگ کو بہتر بنانے کے لیے کئی چیزیں سیکھی ہیں۔ آپ کے خیال میں کون سی لیگ کھلاڑیوں کی صلاحیتوں کو نکھارتی ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ZeeshanAnsari #IPL #IndiaA #LegSpinner #UPT20League",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ZeeshanAnsari",
+        "#IPL",
+        "#IndiaA",
+        "#LegSpinner",
+        "#UPT20League"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 132,
+      "telegram_file_id": "BQACAgQAAxkDAAOEao1W4CCMr_9agEF5zk9hmE4y928AAvQfAAI-4mlQIwml0d3lg4M9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-25T08:48:30.884151+00:00",
+      "updated_at": "2026-08-25T08:48:32.780280+00:00",
       "posted_at": null
     }
   ]
