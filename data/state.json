@@ -116,7 +116,9 @@
     "bfde5459e5332341": "2026-08-25T05:37:27.033038+00:00",
     "1e97c38b90c1cfc2": "2026-08-25T05:38:01.264126+00:00",
     "b24bd9ee0f6a4386": "2026-08-25T08:48:20.569253+00:00",
-    "ca704f975f292346": "2026-08-25T08:48:30.884197+00:00"
+    "ca704f975f292346": "2026-08-25T08:48:30.884197+00:00",
+    "c4891b87f37eae1b": "2026-08-25T11:31:50.583822+00:00",
+    "ceb1107e4ec5f4b6": "2026-08-25T11:32:14.035576+00:00"
   },
   "posts": [
     {
@@ -2290,6 +2292,40 @@
       "error_msg": null,
       "created_at": "2026-08-25T08:48:30.884151+00:00",
       "updated_at": "2026-08-25T08:48:32.780280+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260825T1132Z-a3dd33",
+      "url_hash": "ceb1107e4ec5f4b6",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwyz3qp1deno?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "Ask CricViz: Who has best DRS record and are left-handers better?",
+      "headline_ur": "کرکٹ کے دلچسپ اعداد و شمار: حفیظ، کوہلی اور روٹ کے ریکارڈ",
+      "summary_ur": [
+        "محمد حفیظ کی 41 فیصد بالز وکٹوں کو ہٹ کرنے کا ریکارڈ",
+        "ویرات کوہلی کا 56.4 کی اوسط سے بہترین آل فارمیٹ ریکارڈ",
+        "جو روٹ 45 مختلف پارٹنرز کے ساتھ 50 پلس پارٹنرشپس میں شامل"
+      ],
+      "caption_ur": "کرکٹ کے میدان سے کچھ دلچسپ اعداد و شمار سامنے آ گئے ہیں۔ کیا آپ جانتے ہیں کہ محمد حفیظ کی کتنی بالز وکٹوں کو ہٹ کرتی ہیں؟ ویرات کوہلی کا آل فارمیٹ میں اوسط سب سے زیادہ ہے اور جو روٹ نے بھی ایک نیا ریکارڈ بنایا ہے۔ آپ کو کون سا ریکارڈ سب سے زیادہ حیران کن لگا؟",
+      "fb_caption": "کرکٹ کے میدان سے کچھ دلچسپ اعداد و شمار سامنے آ گئے ہیں۔ کیا آپ جانتے ہیں کہ محمد حفیظ کی کتنی بالز وکٹوں کو ہٹ کرتی ہیں؟ ویرات کوہلی کا آل فارمیٹ میں اوسط سب سے زیادہ ہے اور جو روٹ نے بھی ایک نیا ریکارڈ بنایا ہے۔ آپ کو کون سا ریکارڈ سب سے زیادہ حیران کن لگا؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #CricketStats #MohammadHafeez #ViratKohli #JoeRoot #DRS",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#CricketStats",
+        "#MohammadHafeez",
+        "#ViratKohli",
+        "#JoeRoot",
+        "#DRS"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 133,
+      "telegram_file_id": "BQACAgQAAxkDAAOFao19PuDsUrDTrXkoP_nJx9NBtlAAAicgAAI-4mlQTl3IiKSmg6c9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-25T11:32:14.035527+00:00",
+      "updated_at": "2026-08-25T11:32:15.232365+00:00",
       "posted_at": null
     }
   ]
