@@ -106,7 +106,9 @@
     "877d13ab75030d13": "2026-08-24T17:34:41.891891+00:00",
     "11ca4c6678e04865": "2026-08-24T17:34:41.904893+00:00",
     "24d54c82a925c503": "2026-08-24T17:34:42.052168+00:00",
-    "3d620bb3543630c3": "2026-08-24T17:34:51.834869+00:00"
+    "3d620bb3543630c3": "2026-08-24T17:34:51.834869+00:00",
+    "3ad297b665a42082": "2026-08-25T03:02:14.400544+00:00",
+    "e89a3d8164dfd370": "2026-08-25T03:02:37.084919+00:00"
   },
   "posts": [
     {
@@ -2212,6 +2214,40 @@
       "error_msg": null,
       "created_at": "2026-08-24T17:34:51.834821+00:00",
       "updated_at": "2026-08-24T17:34:52.955684+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260825T0302Z-04f7b7",
+      "url_hash": "e89a3d8164dfd370",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-do-you-think-of-yourself-ex-pakistan-cricketer-responds-after-worst-team-tag/articleshow/133488173.cms",
+      "source_name": "The Times of India",
+      "title_en": "'What do you think of yourself?': Ex-Pakistan cricketer responds after âworst teamâ tag",
+      "headline_ur": "سلمان بٹ کا برطانوی میڈیا کو 'بدترین ٹیم' کہنے پر جواب",
+      "summary_ur": [
+        "سابق کپتان سلمان بٹ نے برطانوی میڈیا کو آڑے ہاتھوں لیا۔",
+        "میڈیا نے قومی ٹیم کو 50 سال کی بدترین ٹیم قرار دیا تھا۔",
+        "بٹ نے کہا ہماری ٹیم اپنی ہے، کسی کامن ویلتھ سے نہیں۔"
+      ],
+      "caption_ur": "سلمان بٹ نے قومی ٹیم کو '50 سال کی بدترین ٹیم' کہنے پر برطانوی میڈیا کو خوب سنایا۔ انہوں نے کہا کہ ہماری ٹیم چاہے کیسی بھی ہو، یہ ہماری اپنی ہے۔ بٹ نے انگلینڈ کی ٹیم کی تشکیل پر بھی سوال اٹھائے۔ آپ کا اس تبصرے کے بارے میں کیا خیال ہے؟",
+      "fb_caption": "سلمان بٹ نے قومی ٹیم کو '50 سال کی بدترین ٹیم' کہنے پر برطانوی میڈیا کو خوب سنایا۔ انہوں نے کہا کہ ہماری ٹیم چاہے کیسی بھی ہو، یہ ہماری اپنی ہے۔ بٹ نے انگلینڈ کی ٹیم کی تشکیل پر بھی سوال اٹھائے۔ آپ کا اس تبصرے کے بارے میں کیا خیال ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #SalmanButt #PakistanCricket #EnglandCricket #ٹیم_پاکستان #تبصرہ",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#SalmanButt",
+        "#PakistanCricket",
+        "#EnglandCricket",
+        "#ٹیم_پاکستان",
+        "#تبصرہ"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 128,
+      "telegram_file_id": "BQACAgQAAxkDAAOAao0FzaKdd0XpPAmOE2VVsLeAxtoAAr8fAAI-4mlQe5ElHBUQJs49BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-25T03:02:37.084871+00:00",
+      "updated_at": "2026-08-25T03:02:38.129891+00:00",
       "posted_at": null
     }
   ]
