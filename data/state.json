@@ -2256,11 +2256,11 @@
       "telegram_message_id": 128,
       "telegram_file_id": "BQACAgQAAxkDAAOAao0FzaKdd0XpPAmOE2VVsLeAxtoAAr8fAAI-4mlQe5ElHBUQJs49BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-25T03:02:37.084871+00:00",
-      "updated_at": "2026-08-25T03:02:38.129891+00:00",
+      "updated_at": "2026-08-25T15:07:04.111526+00:00",
       "posted_at": null
     },
     {
