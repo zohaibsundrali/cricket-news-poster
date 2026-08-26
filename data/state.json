@@ -124,7 +124,8 @@
     "c08715c561ef3546": "2026-08-25T14:50:48.059761+00:00",
     "9c1a02010c40e1be": "2026-08-25T17:35:05.891398+00:00",
     "89f33f6d7b48b60c": "2026-08-25T17:35:17.213907+00:00",
-    "0d1ff0dcca7bfcee": "2026-08-26T03:09:25.919692+00:00"
+    "0d1ff0dcca7bfcee": "2026-08-26T03:09:25.919692+00:00",
+    "615d176d1c61146c": "2026-08-26T05:38:41.196196+00:00"
   },
   "posts": [
     {
@@ -2434,6 +2435,40 @@
       "error_msg": null,
       "created_at": "2026-08-26T03:09:25.919646+00:00",
       "updated_at": "2026-08-26T03:09:27.398902+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260826T0538Z-d33d14",
+      "url_hash": "615d176d1c61146c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/poor-guy-has-been-behind-bars-for-three-years-ramiz-raja-gives-update-on-imran-khans-condition/articleshow/133529398.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Poor guy has been behind bars for three years': Ramiz Raja gives update on Imran Khan's condition",
+      "headline_ur": "رمیز راجہ کا عمران خان کی صحت پر اہم بیان",
+      "summary_ur": [
+        "رمیز راجہ نے عمران خان کی صحت اور حالات پر بات کی ہے۔",
+        "انہوں نے بتایا کہ عمران خان 3 سال سے جیل میں ہیں مگر حوصلہ مند ہیں۔",
+        "21 سابق کپتانوں نے شہباز شریف کو خط لکھا ہے۔"
+      ],
+      "caption_ur": "سابق کپتان رمیز راجہ نے عمران خان کی موجودہ صورتحال پر بات کی ہے۔ انہوں نے بتایا کہ عمران خان 3 سال سے جیل میں ہیں لیکن ان کا حوصلہ بلند ہے۔ 21 سابق بین الاقوامی کپتانوں نے بھی وزیر اعظم شہباز شریف کو خط لکھ کر عمران خان کے لیے بہتر طبی سہولیات کا مطالبہ کیا ہے۔ آپ کا اس بارے میں کیا خیال ہے؟",
+      "fb_caption": "سابق کپتان رمیز راجہ نے عمران خان کی موجودہ صورتحال پر بات کی ہے۔ انہوں نے بتایا کہ عمران خان 3 سال سے جیل میں ہیں لیکن ان کا حوصلہ بلند ہے۔ 21 سابق بین الاقوامی کپتانوں نے بھی وزیر اعظم شہباز شریف کو خط لکھ کر عمران خان کے لیے بہتر طبی سہولیات کا مطالبہ کیا ہے۔ آپ کا اس بارے میں کیا خیال ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ImranKhan #RamizRaja #PakistanCricket #کھلاڑی_خبر #سابق_کپتان",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ImranKhan",
+        "#RamizRaja",
+        "#PakistanCricket",
+        "#کھلاڑی_خبر",
+        "#سابق_کپتان"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 142,
+      "telegram_file_id": "BQACAgQAAxkDAAOOao574mlyxwsli91LSeYI--D2R1UAAo8fAAI-4nFQAygSskOiaM49BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-26T05:38:41.196154+00:00",
+      "updated_at": "2026-08-26T05:38:42.508849+00:00",
       "posted_at": null
     }
   ]
