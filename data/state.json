@@ -2478,11 +2478,11 @@
       "telegram_message_id": 142,
       "telegram_file_id": "BQACAgQAAxkDAAOOao574mlyxwsli91LSeYI--D2R1UAAo8fAAI-4nFQAygSskOiaM49BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-26T05:38:41.196154+00:00",
-      "updated_at": "2026-08-26T05:38:42.508849+00:00",
+      "updated_at": "2026-08-26T19:09:25.515314+00:00",
       "posted_at": null
     },
     {
