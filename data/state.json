@@ -2512,11 +2512,11 @@
       "telegram_message_id": 143,
       "telegram_file_id": "BQACAgQAAxkDAAOPao6oyQU0M7HRlpO77_c6CzkM7f0AAioiAAI-4nlQRL4az-Jui3M9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-26T08:50:16.448393+00:00",
-      "updated_at": "2026-08-26T08:50:17.933475+00:00",
+      "updated_at": "2026-08-26T22:10:31.684386+00:00",
       "posted_at": null
     },
     {
