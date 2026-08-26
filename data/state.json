@@ -125,7 +125,9 @@
     "9c1a02010c40e1be": "2026-08-25T17:35:05.891398+00:00",
     "89f33f6d7b48b60c": "2026-08-25T17:35:17.213907+00:00",
     "0d1ff0dcca7bfcee": "2026-08-26T03:09:25.919692+00:00",
-    "615d176d1c61146c": "2026-08-26T05:38:41.196196+00:00"
+    "615d176d1c61146c": "2026-08-26T05:38:41.196196+00:00",
+    "d1c65e0a1b7876bf": "2026-08-26T08:49:59.286221+00:00",
+    "c528d09205df8352": "2026-08-26T08:50:16.448437+00:00"
   },
   "posts": [
     {
@@ -2469,6 +2471,40 @@
       "error_msg": null,
       "created_at": "2026-08-26T05:38:41.196154+00:00",
       "updated_at": "2026-08-26T05:38:42.508849+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260826T0850Z-4cf7fa",
+      "url_hash": "c528d09205df8352",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/abid-mushtaq-nishant-sindhu-wrap-up-west-zone-tail-as-north-zone-reach-duleep-trophy-semis/articleshow/133533649.cms",
+      "source_name": "The Times of India",
+      "title_en": "Abid Mushtaq, Nishant Sindhu wrap up West Zone tail as North Zone reach Duleep Trophy semis",
+      "headline_ur": "نارتھ زون نے 52 رنز سے جیت کر سیمی فائنل میں جگہ بنا لی",
+      "summary_ur": [
+        "نارتھ زون نے ویسٹ زون کو 52 رنز سے شکست دے کر سیمی فائنل میں کوالیفائی کر لیا۔",
+        "عابد مشتاق نے میچ میں 9 وکٹیں حاصل کیں اور پلیئر آف دی میچ قرار پائے۔",
+        "ویسٹ زون 287 رنز کے تعاقب میں 234 رنز پر آل آؤٹ ہو گئی۔"
+      ],
+      "caption_ur": "نارتھ زون نے دلیپ ٹرافی کے سیمی فائنل میں اپنی جگہ پکی کر لی ہے۔ عابد مشتاق کی شاندار بالنگ نے ٹیم کو 52 رنز سے فتح دلائی۔ انہوں نے پورے میچ میں 9 وکٹیں حاصل کیں۔ کیا نارتھ زون یہ ٹرافی جیت پائے گی؟",
+      "fb_caption": "نارتھ زون نے دلیپ ٹرافی کے سیمی فائنل میں اپنی جگہ پکی کر لی ہے۔ عابد مشتاق کی شاندار بالنگ نے ٹیم کو 52 رنز سے فتح دلائی۔ انہوں نے پورے میچ میں 9 وکٹیں حاصل کیں۔ کیا نارتھ زون یہ ٹرافی جیت پائے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #DuleepTrophy #NorthZone #AbidMushtaq #IndianCricket #SemiFinals",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#DuleepTrophy",
+        "#NorthZone",
+        "#AbidMushtaq",
+        "#IndianCricket",
+        "#SemiFinals"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 143,
+      "telegram_file_id": "BQACAgQAAxkDAAOPao6oyQU0M7HRlpO77_c6CzkM7f0AAioiAAI-4nlQRL4az-Jui3M9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-26T08:50:16.448393+00:00",
+      "updated_at": "2026-08-26T08:50:17.933475+00:00",
       "posted_at": null
     }
   ]
