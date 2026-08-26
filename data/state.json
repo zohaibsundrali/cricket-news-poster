@@ -133,7 +133,9 @@
     "54f84d299e0c5f08": "2026-08-26T11:34:32.151515+00:00",
     "450e9c90629b8865": "2026-08-26T11:35:09.490399+00:00",
     "d0511bca01f0ef2f": "2026-08-26T11:35:09.670516+00:00",
-    "b1f3dea527ad9d2f": "2026-08-26T11:35:18.806194+00:00"
+    "b1f3dea527ad9d2f": "2026-08-26T11:35:18.806194+00:00",
+    "176ffc20215108ea": "2026-08-26T14:49:28.194888+00:00",
+    "d322d5e405f0b130": "2026-08-26T14:49:40.899365+00:00"
   },
   "posts": [
     {
@@ -2545,6 +2547,40 @@
       "error_msg": null,
       "created_at": "2026-08-26T11:35:18.806152+00:00",
       "updated_at": "2026-08-26T11:35:20.125579+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260826T1449Z-8e76ee",
+      "url_hash": "d322d5e405f0b130",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-receive-massive-babar-azam-boost-ahead-of-2nd-test-vs-england/articleshow/133543135.cms",
+      "source_name": "The Times of India",
+      "title_en": "Pakistan receive massive Babar Azam boost ahead of 2nd Test vs England",
+      "headline_ur": "بابر اعظم دوسرے ٹیسٹ میں واپسی کے لیے پرامید",
+      "summary_ur": [
+        "بابر اعظم انگلی کی انجری کے بعد دوسرے ٹیسٹ میں واپسی کے لیے پرامید ہیں۔",
+        "انہوں نے بتایا کہ وہ 90 فیصد فٹ ہیں اور نیٹ میں بیٹنگ کر چکے ہیں۔",
+        "قومی ٹیم سیریز میں رہنے کے لیے مضبوط ردعمل دینا چاہتی ہے۔"
+      ],
+      "caption_ur": "قومی ٹیم کے کپتان بابر اعظم انگلینڈ کے خلاف دوسرے ٹیسٹ میں واپسی کے لیے تیار ہیں۔ وہ اپنی فٹنس کے بارے میں پرامید ہیں اور کہتے ہیں کہ ٹیم مشکل حالات میں بہتر پرفارم کرتی ہے۔ کیا پاکستان لارڈز میں کم بیک کر پائے گا؟",
+      "fb_caption": "قومی ٹیم کے کپتان بابر اعظم انگلینڈ کے خلاف دوسرے ٹیسٹ میں واپسی کے لیے تیار ہیں۔ وہ اپنی فٹنس کے بارے میں پرامید ہیں اور کہتے ہیں کہ ٹیم مشکل حالات میں بہتر پرفارم کرتی ہے۔ کیا پاکستان لارڈز میں کم بیک کر پائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #PakistanCricket #ENGvsPAK #TestCricket #لارڈز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#لارڈز"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 145,
+      "telegram_file_id": "BQACAgQAAxkDAAORao79BlK7XzzVnDnbJdCHe9hnjdkAAjIlAALaCHhQqvWTSAGHiXQ9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-26T14:49:40.899317+00:00",
+      "updated_at": "2026-08-26T14:49:43.043689+00:00",
       "posted_at": null
     }
   ]
