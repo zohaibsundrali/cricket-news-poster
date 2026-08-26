@@ -2440,11 +2440,11 @@
       "telegram_message_id": 140,
       "telegram_file_id": "BQACAgQAAxkDAAOMao5Y58rfWBNqQiW3Teti1OaAUScAAoYfAAI-4nFQe0XTWM4jAeg9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-26T03:09:25.919646+00:00",
-      "updated_at": "2026-08-26T03:09:27.398902+00:00",
+      "updated_at": "2026-08-26T15:53:48.115802+00:00",
       "posted_at": null
     },
     {
