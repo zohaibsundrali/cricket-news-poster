@@ -140,7 +140,8 @@
     "bff5dd7ed4a5f1b4": "2026-08-26T19:08:04.120064+00:00",
     "d681cce1ac2b254a": "2026-08-26T19:08:41.134768+00:00",
     "4a0e1fb5c96ad882": "2026-08-26T19:09:04.924327+00:00",
-    "9ecd7d36fb3c1687": "2026-08-27T12:37:21.315449+00:00"
+    "9ecd7d36fb3c1687": "2026-08-27T12:37:21.315449+00:00",
+    "97e281970889d8d7": "2026-08-27T23:40:55.861165+00:00"
   },
   "posts": [
     {
@@ -2654,6 +2655,40 @@
       "error_msg": null,
       "created_at": "2026-08-27T12:37:21.315395+00:00",
       "updated_at": "2026-08-27T12:37:22.436397+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260827T2340Z-cd26e7",
+      "url_hash": "97e281970889d8d7",
+      "source_url": "https://www.dawn.com/news/2025510/smith-and-cox-revive-england-against-pakistan-after-abbas-strikes",
+      "source_name": "Dawn",
+      "title_en": "Smith and Cox revive England against Pakistan after Abbas strikes",
+      "headline_ur": "عباس اور علی کی تباہ کن بالنگ، انگلینڈ کی مزاحمت جاری",
+      "summary_ur": [
+        "پہلے دن کے اختتام پر انگلینڈ نے 9 وکٹوں پر 248 رنز بنائے",
+        "محمد عباس نے 4 جبکہ محمد علی نے 3 وکٹیں حاصل کیں",
+        "جیمی اسمتھ نے 61 اور جارڈن کاکس نے 55 رنز کی اننگز کھیلی"
+      ],
+      "caption_ur": "لارڈز ٹیسٹ کے پہلے دن پاکستان کی شاندار بالنگ دیکھنے کو ملی۔ محمد عباس نے 4 اور محمد علی نے 3 وکٹیں حاصل کیں۔ انگلینڈ کی ٹیم 36 رنز پر 3 وکٹیں گنوا چکی تھی مگر جیمی اسمتھ اور جارڈن کاکس کی ففٹیز نے اننگز کو سنبھالا۔ آپ کے خیال میں پاکستان یہ میچ جیت پائے گا؟",
+      "fb_caption": "لارڈز ٹیسٹ کے پہلے دن پاکستان کی شاندار بالنگ دیکھنے کو ملی۔ محمد عباس نے 4 اور محمد علی نے 3 وکٹیں حاصل کیں۔ انگلینڈ کی ٹیم 36 رنز پر 3 وکٹیں گنوا چکی تھی مگر جیمی اسمتھ اور جارڈن کاکس کی ففٹیز نے اننگز کو سنبھالا۔ آپ کے خیال میں پاکستان یہ میچ جیت پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PAKvENG #Lord'sTest #MohammadAbbas #JamieSmith #JordanCox",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PAKvENG",
+        "#Lord'sTest",
+        "#MohammadAbbas",
+        "#JamieSmith",
+        "#JordanCox"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 154,
+      "telegram_file_id": "BQACAgQAAxkDAAOaapDLCCxDV606DyEbsk07yCn3ZlEAAlshAALaCIhQ8vDJjWhUhWA9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-27T23:40:55.861115+00:00",
+      "updated_at": "2026-08-27T23:40:56.924339+00:00",
       "posted_at": null
     }
   ]
