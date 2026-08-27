@@ -139,7 +139,8 @@
     "da63082d4ef0479b": "2026-08-26T19:07:26.964832+00:00",
     "bff5dd7ed4a5f1b4": "2026-08-26T19:08:04.120064+00:00",
     "d681cce1ac2b254a": "2026-08-26T19:08:41.134768+00:00",
-    "4a0e1fb5c96ad882": "2026-08-26T19:09:04.924327+00:00"
+    "4a0e1fb5c96ad882": "2026-08-26T19:09:04.924327+00:00",
+    "9ecd7d36fb3c1687": "2026-08-27T12:37:21.315449+00:00"
   },
   "posts": [
     {
@@ -2619,6 +2620,40 @@
       "error_msg": null,
       "created_at": "2026-08-26T19:09:04.924282+00:00",
       "updated_at": "2026-08-26T19:09:06.458477+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260827T1237Z-e992bb",
+      "url_hash": "9ecd7d36fb3c1687",
+      "source_url": "https://www.dawn.com/news/2025510/pakistan-bowl-against-england-in-rain-delayed-second-test",
+      "source_name": "Dawn",
+      "title_en": "Pakistan bowl against England in rain-delayed second Test",
+      "headline_ur": "لارڈز ٹیسٹ: بابر اعظم نے ٹاس جیت کر بالنگ کا فیصلہ کیا",
+      "summary_ur": [
+        "لارڈز میں انگلینڈ کے خلاف دوسرے ٹیسٹ میں بارش کے بعد کھیل شروع",
+        "قومی ٹیم کے کپتان بابر اعظم نے ٹاس جیت کر پہلے بالنگ کا فیصلہ کیا",
+        "بابر اعظم انجری کے بعد 100 فیصد فٹ ہو کر ٹیم میں واپس آئے"
+      ],
+      "caption_ur": "لارڈز میں انگلینڈ کے خلاف دوسرے ٹیسٹ کا آغاز ہو گیا ہے۔ کپتان بابر اعظم نے ٹاس جیت کر پہلے بالنگ کا فیصلہ کیا ہے۔ بابر اعظم انجری کے بعد مکمل فٹ ہو کر ٹیم میں واپس آئے ہیں۔ کیا قومی ٹیم یہ میچ جیت پائے گی؟",
+      "fb_caption": "لارڈز میں انگلینڈ کے خلاف دوسرے ٹیسٹ کا آغاز ہو گیا ہے۔ کپتان بابر اعظم نے ٹاس جیت کر پہلے بالنگ کا فیصلہ کیا ہے۔ بابر اعظم انجری کے بعد مکمل فٹ ہو کر ٹیم میں واپس آئے ہیں۔ کیا قومی ٹیم یہ میچ جیت پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #Pakistan #BabarAzam #ENGvPAK #TestCricket #Lords",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Pakistan",
+        "#BabarAzam",
+        "#ENGvPAK",
+        "#TestCricket",
+        "#Lords"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 152,
+      "telegram_file_id": "BQACAgQAAxkDAAOYapAvgnwdRjdasdFgzSQazPojMiYAAignAALaCIBQ45EEBdrmwzk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-27T12:37:21.315395+00:00",
+      "updated_at": "2026-08-27T12:37:22.436397+00:00",
       "posted_at": null
     }
   ]
