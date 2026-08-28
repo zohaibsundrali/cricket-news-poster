@@ -141,7 +141,8 @@
     "d681cce1ac2b254a": "2026-08-26T19:08:41.134768+00:00",
     "4a0e1fb5c96ad882": "2026-08-26T19:09:04.924327+00:00",
     "9ecd7d36fb3c1687": "2026-08-27T12:37:21.315449+00:00",
-    "97e281970889d8d7": "2026-08-27T23:40:55.861165+00:00"
+    "97e281970889d8d7": "2026-08-27T23:40:55.861165+00:00",
+    "a91cb814f1b5b749": "2026-08-28T14:09:07.248130+00:00"
   },
   "posts": [
     {
@@ -2689,6 +2690,40 @@
       "error_msg": null,
       "created_at": "2026-08-27T23:40:55.861115+00:00",
       "updated_at": "2026-08-27T23:40:56.924339+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260828T1409Z-ec2c38",
+      "url_hash": "a91cb814f1b5b749",
+      "source_url": "https://www.dawn.com/news/2025763/last-wicket-duo-take-england-to-290-all-out-in-2nd-test-against-pakistan",
+      "source_name": "Dawn",
+      "title_en": "Last-wicket duo take England to 290 all out in 2nd Test against Pakistan",
+      "headline_ur": "انگلینڈ 290 پر آل آؤٹ، آخری وکٹ کی شاندار شراکت",
+      "summary_ur": [
+        "انگلینڈ نے لارڈز ٹیسٹ کی پہلی اننگز میں 290 رنز بنائے",
+        "جوش ٹنگ نے 30 رنز کی ناقابل شکست اننگز کھیلی، کیریئر کی بہترین پرفارمنس",
+        "محمد عباس نے پاکستان کی جانب سے 73 رنز دے کر 4 وکٹیں حاصل کیں"
+      ],
+      "caption_ur": "انگلینڈ کی ٹیم لارڈز ٹیسٹ کی پہلی اننگز میں 290 رنز بنا کر آل آؤٹ ہوگئی۔ جوش ٹنگ اور گس ایٹکنسن نے آخری وکٹ پر 47 رنز کی اہم شراکت قائم کی۔ محمد عباس نے 4 وکٹیں حاصل کیں۔ قومی ٹیم کے کپتان بابر اعظم بھی انجری کے بعد واپس آگئے ہیں۔ کیا پاکستان یہ ٹیسٹ جیت پائے گا؟",
+      "fb_caption": "انگلینڈ کی ٹیم لارڈز ٹیسٹ کی پہلی اننگز میں 290 رنز بنا کر آل آؤٹ ہوگئی۔ جوش ٹنگ اور گس ایٹکنسن نے آخری وکٹ پر 47 رنز کی اہم شراکت قائم کی۔ محمد عباس نے 4 وکٹیں حاصل کیں۔ قومی ٹیم کے کپتان بابر اعظم بھی انجری کے بعد واپس آگئے ہیں۔ کیا پاکستان یہ ٹیسٹ جیت پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PAKvsENG #TestCricket #Lords #BabarAzam #JoshTongue",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PAKvsENG",
+        "#TestCricket",
+        "#Lords",
+        "#BabarAzam",
+        "#JoshTongue"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 156,
+      "telegram_file_id": "BQACAgQAAxkDAAOcapGWhF6HhTKW1U9UmVf9rcmTV7cAAqcgAAKrO5BQcn42ZP1XJwI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-28T14:09:07.248082+00:00",
+      "updated_at": "2026-08-28T14:09:08.401626+00:00",
       "posted_at": null
     }
   ]
