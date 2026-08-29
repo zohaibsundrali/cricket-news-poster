@@ -145,7 +145,9 @@
     "a91cb814f1b5b749": "2026-08-28T14:09:07.248130+00:00",
     "bdcf3c71eb7bd426": "2026-08-29T00:53:59.434758+00:00",
     "759961267987abba": "2026-08-29T00:54:21.948213+00:00",
-    "611ab29bb95c01bd": "2026-08-29T08:46:50.550941+00:00"
+    "611ab29bb95c01bd": "2026-08-29T08:46:50.550941+00:00",
+    "931f2300f29531af": "2026-08-29T15:32:56.766158+00:00",
+    "b3cd64f96273a47e": "2026-08-29T15:33:33.285440+00:00"
   },
   "posts": [
     {
@@ -2795,6 +2797,40 @@
       "error_msg": null,
       "created_at": "2026-08-29T08:46:50.550896+00:00",
       "updated_at": "2026-08-29T08:46:51.691674+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260829T1533Z-64e79d",
+      "url_hash": "b3cd64f96273a47e",
+      "source_url": "https://www.dawn.com/news/2025972/rain-frustrates-englands-bid-for-pakistan-series-win",
+      "source_name": "Dawn",
+      "title_en": "Rain frustrates England's bid for Pakistan series win",
+      "headline_ur": "انگلینڈ کی سیریز جیتنے کی کوشش بارش کی نذر",
+      "summary_ur": [
+        "بارش کے باعث لارڈز ٹیسٹ کے تیسرے دن کا کھیل متاثر ہوا۔",
+        "انگلینڈ اپنی دوسری اننگز میں 81 رنز 3 وکٹوں کے نقصان پر بنا چکا ہے۔",
+        "انگلینڈ کو پاکستان پر 261 رنز کی مجموعی برتری حاصل ہے۔"
+      ],
+      "caption_ur": "لارڈز ٹیسٹ میں بارش نے انگلینڈ کی سیریز جیتنے کی کوششوں پر پانی پھیر دیا۔ تیسرے دن کا کھیل بارش کی وجہ سے متاثر ہوا۔ انگلینڈ کو پاکستان پر 261 رنز کی مضبوط برتری حاصل ہے۔ کیا انگلینڈ یہ سیریز 2-0 سے اپنے نام کر پائے گا؟",
+      "fb_caption": "لارڈز ٹیسٹ میں بارش نے انگلینڈ کی سیریز جیتنے کی کوششوں پر پانی پھیر دیا۔ تیسرے دن کا کھیل بارش کی وجہ سے متاثر ہوا۔ انگلینڈ کو پاکستان پر 261 رنز کی مضبوط برتری حاصل ہے۔ کیا انگلینڈ یہ سیریز 2-0 سے اپنے نام کر پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #ENGvsPAK #TestCricket #Lords #PakistanCricket #OllieRobinson",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#Lords",
+        "#PakistanCricket",
+        "#OllieRobinson"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 162,
+      "telegram_file_id": "BQACAgQAAxkDAAOiapL7zrIv1nlBilm5BqEAAaixuEG_AAJTIAACVOyZUIwXNs3E5Bs_PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-29T15:33:33.285391+00:00",
+      "updated_at": "2026-08-29T15:33:34.466734+00:00",
       "posted_at": null
     }
   ]
