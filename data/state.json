@@ -142,7 +142,9 @@
     "4a0e1fb5c96ad882": "2026-08-26T19:09:04.924327+00:00",
     "9ecd7d36fb3c1687": "2026-08-27T12:37:21.315449+00:00",
     "97e281970889d8d7": "2026-08-27T23:40:55.861165+00:00",
-    "a91cb814f1b5b749": "2026-08-28T14:09:07.248130+00:00"
+    "a91cb814f1b5b749": "2026-08-28T14:09:07.248130+00:00",
+    "bdcf3c71eb7bd426": "2026-08-29T00:53:59.434758+00:00",
+    "759961267987abba": "2026-08-29T00:54:21.948213+00:00"
   },
   "posts": [
     {
@@ -2724,6 +2726,40 @@
       "error_msg": null,
       "created_at": "2026-08-28T14:09:07.248082+00:00",
       "updated_at": "2026-08-28T14:09:08.401626+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260829T0054Z-1f6ba3",
+      "url_hash": "759961267987abba",
+      "source_url": "https://www.dawn.com/news/2025763/four-wicket-robinson-stars-as-pakistan-collapse-in-second-test",
+      "source_name": "Dawn",
+      "title_en": "Four-wicket Robinson stars as Pakistan collapse in second Test",
+      "headline_ur": "پاکستان 110 پر ڈھیر، انگلینڈ کو 261 رنز کی برتری",
+      "summary_ur": [
+        "پاکستان کی ٹیم دوسرے ٹیسٹ میں صرف 110 رنز بنا کر آؤٹ ہو گئی۔",
+        "اولی رابنسن نے 13 اوورز میں 11 رنز دے کر 4 وکٹیں حاصل کیں۔",
+        "انگلینڈ نے 261 رنز کی مجموعی برتری حاصل کر لی ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف دوسرے ٹیسٹ میں قومی ٹیم کی بیٹنگ لائن لڑکھڑا گئی۔ پاکستان صرف 110 رنز بنا کر آؤٹ ہو گیا۔ اولی رابنسن نے شاندار بالنگ کرتے ہوئے 4 وکٹیں حاصل کیں۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟",
+      "fb_caption": "انگلینڈ کے خلاف دوسرے ٹیسٹ میں قومی ٹیم کی بیٹنگ لائن لڑکھڑا گئی۔ پاکستان صرف 110 رنز بنا کر آؤٹ ہو گیا۔ اولی رابنسن نے شاندار بالنگ کرتے ہوئے 4 وکٹیں حاصل کیں۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #ENGvsPAK #OllieRobinson #TestCricket #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#OllieRobinson",
+        "#TestCricket",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 158,
+      "telegram_file_id": "BQACAgQAAxkDAAOeapItvuAAAYNrKrZznnL0iO8ZAcpuAALCIQACqzuQUOHoNP_oAAGLgD0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-29T00:54:21.948164+00:00",
+      "updated_at": "2026-08-29T00:54:22.981969+00:00",
       "posted_at": null
     }
   ]
