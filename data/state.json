@@ -144,7 +144,8 @@
     "97e281970889d8d7": "2026-08-27T23:40:55.861165+00:00",
     "a91cb814f1b5b749": "2026-08-28T14:09:07.248130+00:00",
     "bdcf3c71eb7bd426": "2026-08-29T00:53:59.434758+00:00",
-    "759961267987abba": "2026-08-29T00:54:21.948213+00:00"
+    "759961267987abba": "2026-08-29T00:54:21.948213+00:00",
+    "611ab29bb95c01bd": "2026-08-29T08:46:50.550941+00:00"
   },
   "posts": [
     {
@@ -2760,6 +2761,40 @@
       "error_msg": null,
       "created_at": "2026-08-29T00:54:21.948164+00:00",
       "updated_at": "2026-08-29T00:54:22.981969+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260829T0846Z-d58f6f",
+      "url_hash": "611ab29bb95c01bd",
+      "source_url": "https://www.dawn.com/news/2025931/it-takes-real-conviction-to-be-as-gloriously-underwhelming-as-pakistan-have-been-during-the-england-tour",
+      "source_name": "Dawn",
+      "title_en": "It takes real conviction to be as gloriously underwhelming as Pakistan have been during the England tour",
+      "headline_ur": "انگلینڈ میں قومی ٹیم کی مایوس کن کارکردگی، شکست یقینی",
+      "summary_ur": [
+        "انگلینڈ ٹور پر قومی ٹیم کی کارکردگی مایوس کن رہی۔",
+        "لارڈز ٹیسٹ کے دوسرے دن بھی بیٹنگ لائن ناکام ہو گئی۔",
+        "انگلینڈ کو 261 رنز کی برتری حاصل ہے، شکست یقینی نظر آتی ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف ٹیسٹ سیریز میں قومی ٹیم کی کارکردگی مداحوں کو مایوس کر رہی ہے۔ لارڈز ٹیسٹ کے دوسرے دن بھی بلے بازوں نے کوئی خاص کارکردگی نہیں دکھائی۔ انگلینڈ کو اب 261 رنز کی بڑی برتری حاصل ہے اور پاکستان کی شکست یقینی نظر آتی ہے۔ آپ کے خیال میں ٹیم کو اپنی کارکردگی بہتر بنانے کے لیے کیا کرنا چاہیے؟",
+      "fb_caption": "انگلینڈ کے خلاف ٹیسٹ سیریز میں قومی ٹیم کی کارکردگی مداحوں کو مایوس کر رہی ہے۔ لارڈز ٹیسٹ کے دوسرے دن بھی بلے بازوں نے کوئی خاص کارکردگی نہیں دکھائی۔ انگلینڈ کو اب 261 رنز کی بڑی برتری حاصل ہے اور پاکستان کی شکست یقینی نظر آتی ہے۔ آپ کے خیال میں ٹیم کو اپنی کارکردگی بہتر بنانے کے لیے کیا کرنا چاہیے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #ENGvPAK #TestCricket #قومی_ٹیم #LordsTest",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#ENGvPAK",
+        "#TestCricket",
+        "#قومی_ٹیم",
+        "#LordsTest"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 160,
+      "telegram_file_id": "BQACAgQAAxkDAAOgapKcewnbbrrQUO0wxO9wnhhGpJMAAukkAAKrO5hQNE5ehCaiLVo9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-29T08:46:50.550896+00:00",
+      "updated_at": "2026-08-29T08:46:51.691674+00:00",
       "posted_at": null
     }
   ]
