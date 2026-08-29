@@ -2721,11 +2721,11 @@
       "telegram_message_id": 156,
       "telegram_file_id": "BQACAgQAAxkDAAOcapGWhF6HhTKW1U9UmVf9rcmTV7cAAqcgAAKrO5BQcn42ZP1XJwI9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-28T14:09:07.248082+00:00",
-      "updated_at": "2026-08-28T14:09:08.401626+00:00",
+      "updated_at": "2026-08-29T03:11:57.719503+00:00",
       "posted_at": null
     },
     {
