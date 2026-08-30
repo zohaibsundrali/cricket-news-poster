@@ -2862,11 +2862,11 @@
       "telegram_message_id": 163,
       "telegram_file_id": "BQACAgQAAxkDAAOjapM1r_4g1WtoPntW5ny1DHzXw2sAAqcgAAJU7JlQMZOYX3M7uas9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-29T19:40:30.489091+00:00",
-      "updated_at": "2026-08-29T19:40:31.602231+00:00",
+      "updated_at": "2026-08-30T13:13:55.281485+00:00",
       "posted_at": null
     },
     {
