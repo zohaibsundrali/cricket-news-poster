@@ -150,7 +150,8 @@
     "b3cd64f96273a47e": "2026-08-29T15:33:33.285440+00:00",
     "6dc15a99ebf4a648": "2026-08-29T19:40:30.489139+00:00",
     "b11e8038f6e6c01e": "2026-08-30T08:04:28.731664+00:00",
-    "e2a9d32e2e172038": "2026-08-30T15:15:54.977671+00:00"
+    "e2a9d32e2e172038": "2026-08-30T15:15:54.977671+00:00",
+    "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00"
   },
   "posts": [
     {
@@ -2934,6 +2935,40 @@
       "error_msg": null,
       "created_at": "2026-08-30T15:15:54.977631+00:00",
       "updated_at": "2026-08-30T15:15:56.316210+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260830T1941Z-9ad2be",
+      "url_hash": "3751c10dc2146d81",
+      "source_url": "https://www.dawn.com/news/2026161/england-clinch-series-win-over-pakistan-with-thumping-194-run-victory-in-second-test",
+      "source_name": "Dawn",
+      "title_en": "England clinch series win over Pakistan with thumping 194-run victory in second Test",
+      "headline_ur": "انگلینڈ نے پاکستان کو ہرا کر سیریز اپنے نام کر لی",
+      "summary_ur": [
+        "انگلینڈ نے دوسرا ٹیسٹ 194 رنز سے جیت لیا۔",
+        "تین میچوں کی سیریز 2-0 سے اپنے نام کر لی۔",
+        "سعود شکیل نے 97 رنز کی شاندار اننگز کھیلی۔"
+      ],
+      "caption_ur": "انگلینڈ نے پاکستان کو دوسرے ٹیسٹ میں 194 رنز سے شکست دے کر سیریز 2-0 سے جیت لی ہے۔ اولی رابنسن نے شاندار بالنگ کی جبکہ سعود شکیل نے 97 رنز کی مزاحمتی اننگز کھیلی۔ محمد عباس نے بھی 5 وکٹیں حاصل کر کے لارڈز آنرز بورڈ پر جگہ بنائی۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟",
+      "fb_caption": "انگلینڈ نے پاکستان کو دوسرے ٹیسٹ میں 194 رنز سے شکست دے کر سیریز 2-0 سے جیت لی ہے۔ اولی رابنسن نے شاندار بالنگ کی جبکہ سعود شکیل نے 97 رنز کی مزاحمتی اننگز کھیلی۔ محمد عباس نے بھی 5 وکٹیں حاصل کر کے لارڈز آنرز بورڈ پر جگہ بنائی۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakvsEng #TestCricket #OllieRobinson #SaudShakeel #MohammadAbbas",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakvsEng",
+        "#TestCricket",
+        "#OllieRobinson",
+        "#SaudShakeel",
+        "#MohammadAbbas"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 169,
+      "telegram_file_id": "BQACAgQAAxkDAAOpapSHUPohaU0C0ivC64EMOJUhEK8AAl8iAAJU7KFQmw-7nebd6-c9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-30T19:41:03.765053+00:00",
+      "updated_at": "2026-08-30T19:41:04.903412+00:00",
       "posted_at": null
     }
   ]
