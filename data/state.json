@@ -2965,11 +2965,11 @@
       "telegram_message_id": 169,
       "telegram_file_id": "BQACAgQAAxkDAAOpapSHUPohaU0C0ivC64EMOJUhEK8AAl8iAAJU7KFQmw-7nebd6-c9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-08-30T19:41:03.765053+00:00",
-      "updated_at": "2026-08-30T19:41:04.903412+00:00",
+      "updated_at": "2026-08-31T15:07:17.173059+00:00",
       "posted_at": null
     },
     {
