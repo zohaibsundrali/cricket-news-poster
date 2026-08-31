@@ -152,7 +152,8 @@
     "b11e8038f6e6c01e": "2026-08-30T08:04:28.731664+00:00",
     "e2a9d32e2e172038": "2026-08-30T15:15:54.977671+00:00",
     "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00",
-    "4b27f7b049906ae1": "2026-08-31T08:22:45.013350+00:00"
+    "4b27f7b049906ae1": "2026-08-31T08:22:45.013350+00:00",
+    "893c91a0cc8728b9": "2026-08-31T17:57:56.044401+00:00"
   },
   "posts": [
     {
@@ -3003,6 +3004,40 @@
       "error_msg": null,
       "created_at": "2026-08-31T08:22:45.013311+00:00",
       "updated_at": "2026-08-31T08:22:46.384999+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260831T1757Z-c871e1",
+      "url_hash": "893c91a0cc8728b9",
+      "source_url": "https://www.dawn.com/news/2026428/seven-players-including-rizwan-and-imam-dropped-after-second-test-defeat-in-england-pcb",
+      "source_name": "Dawn",
+      "title_en": "Seven players, including Rizwan and Imam, dropped after second Test defeat in England: PCB",
+      "headline_ur": "7 کھلاڑی قومی ٹیسٹ اسکواڈ سے باہر، رضوان اور امام بھی شامل",
+      "summary_ur": [
+        "پی سی بی نے انگلینڈ کے خلاف 7 کھلاڑی ٹیسٹ اسکواڈ سے فارغ کر دیے",
+        "ان میں محمد رضوان، امام الحق اور سلمان علی آغا شامل ہیں",
+        "7 نئے کھلاڑیوں کو اسکواڈ میں شامل کیا گیا، 5 ان کیپڈ ہیں"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف دوسرے ٹیسٹ میں 194 رنز کی شکست کے بعد پی سی بی کا بڑا فیصلہ۔ قومی ٹیم سیریز میں 0-2 سے پیچھے ہے۔ نئے کھلاڑی تیسرے ٹیسٹ سے قبل اسکواڈ جوائن کریں گے۔ آپ کے خیال میں یہ تبدیلیاں ٹیم کے لیے کتنی فائدہ مند ثابت ہوں گی؟",
+      "fb_caption": "انگلینڈ کے خلاف دوسرے ٹیسٹ میں 194 رنز کی شکست کے بعد پی سی بی کا بڑا فیصلہ۔ قومی ٹیم سیریز میں 0-2 سے پیچھے ہے۔ نئے کھلاڑی تیسرے ٹیسٹ سے قبل اسکواڈ جوائن کریں گے۔ آپ کے خیال میں یہ تبدیلیاں ٹیم کے لیے کتنی فائدہ مند ثابت ہوں گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #PCB #TestSeries #Rizwan #Imam",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#PCB",
+        "#TestSeries",
+        "#Rizwan",
+        "#Imam"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 174,
+      "telegram_file_id": "BQACAgQAAxkDAAOuapXApXnJ-RYs5otEquAqoFTRQkgAAuEmAAKyLbFQwczSQTRC2Rs9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-31T17:57:56.044362+00:00",
+      "updated_at": "2026-08-31T17:57:57.569040+00:00",
       "posted_at": null
     }
   ]
