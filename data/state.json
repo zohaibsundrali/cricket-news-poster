@@ -151,7 +151,8 @@
     "6dc15a99ebf4a648": "2026-08-29T19:40:30.489139+00:00",
     "b11e8038f6e6c01e": "2026-08-30T08:04:28.731664+00:00",
     "e2a9d32e2e172038": "2026-08-30T15:15:54.977671+00:00",
-    "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00"
+    "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00",
+    "4b27f7b049906ae1": "2026-08-31T08:22:45.013350+00:00"
   },
   "posts": [
     {
@@ -2969,6 +2970,39 @@
       "error_msg": null,
       "created_at": "2026-08-30T19:41:03.765053+00:00",
       "updated_at": "2026-08-30T19:41:04.903412+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260831T0822Z-3b5341",
+      "url_hash": "4b27f7b049906ae1",
+      "source_url": "https://www.dawn.com/news/2026366/england-captain-joe-root-shrugs-off-concerns-over-lbw-run-after-pakistan-test-series-win",
+      "source_name": "Dawn",
+      "title_en": "England captain Joe Root shrugs off concerns over lbw run after Pakistan Test series win",
+      "headline_ur": "جو روٹ کو اپنی فارم پر کوئی تشویش نہیں",
+      "summary_ur": [
+        "جو روٹ پچھلی 12 اننگز میں 9 بار ایل بی ڈبلیو آؤٹ ہوئے ہیں۔",
+        "انہوں نے ٹیسٹ کرکٹ میں 14,208 رنز بنائے ہیں۔",
+        "روٹ کو اپنی فارم میں واپسی کا پورا یقین ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کے کپتان جو روٹ اپنی حالیہ فارم سے پریشان نہیں۔ ان کا کہنا ہے کہ 14,208 ٹیسٹ رنز کا ریکارڈ ان کی صلاحیت کا ثبوت ہے۔ روٹ نے پاکستان کے خلاف سیریز جیتنے کے بعد یہ بات کی۔ کیا آپ کو لگتا ہے کہ وہ جلد ہی اپنی فارم میں واپس آ جائیں گے؟",
+      "fb_caption": "انگلینڈ کے کپتان جو روٹ اپنی حالیہ فارم سے پریشان نہیں۔ ان کا کہنا ہے کہ 14,208 ٹیسٹ رنز کا ریکارڈ ان کی صلاحیت کا ثبوت ہے۔ روٹ نے پاکستان کے خلاف سیریز جیتنے کے بعد یہ بات کی۔ کیا آپ کو لگتا ہے کہ وہ جلد ہی اپنی فارم میں واپس آ جائیں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #JoeRoot #EnglandCricket #TestCricket #کھلاڑی_خبر",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#JoeRoot",
+        "#EnglandCricket",
+        "#TestCricket",
+        "#کھلاڑی_خبر"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 172,
+      "telegram_file_id": "BQACAgQAAxkDAAOsapU51iTuIDjeAAEf-3FF-NSt_ISGAALWHgACsi2pUKqF0dvKgMflPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-08-31T08:22:45.013311+00:00",
+      "updated_at": "2026-08-31T08:22:46.384999+00:00",
       "posted_at": null
     }
   ]
