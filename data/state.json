@@ -3073,11 +3073,11 @@
       "telegram_message_id": 176,
       "telegram_file_id": "BQACAgQAAxkDAAOwapZ_QM-2JYHDDq9pqGVHkzQVDq0AArgnAAKyLbFQ_lzCh8zdZ8A9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-01T07:31:11.161584+00:00",
-      "updated_at": "2026-09-01T07:31:12.495233+00:00",
+      "updated_at": "2026-09-01T21:22:00.382968+00:00",
       "posted_at": null
     },
     {
