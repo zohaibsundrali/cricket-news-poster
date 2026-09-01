@@ -153,7 +153,8 @@
     "e2a9d32e2e172038": "2026-08-30T15:15:54.977671+00:00",
     "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00",
     "4b27f7b049906ae1": "2026-08-31T08:22:45.013350+00:00",
-    "893c91a0cc8728b9": "2026-08-31T17:57:56.044401+00:00"
+    "893c91a0cc8728b9": "2026-08-31T17:57:56.044401+00:00",
+    "c89cdbb81f5a5135": "2026-09-01T07:31:11.161626+00:00"
   },
   "posts": [
     {
@@ -3038,6 +3039,40 @@
       "error_msg": null,
       "created_at": "2026-08-31T17:57:56.044362+00:00",
       "updated_at": "2026-08-31T17:57:57.569040+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260901T0731Z-f763cb",
+      "url_hash": "c89cdbb81f5a5135",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-was-ruined-that-day-ex-cricketer-blames-babar-azam-shaheen-afridi-rift-for-teams-downfall/articleshow/133669141.cms",
+      "source_name": "The Times of India",
+      "title_en": "âPakistan was ruined that dayâ: Ex-cricketer blames Babar Azam-Shaheen Afridi rift for teamâs downfall",
+      "headline_ur": "بابر اور شاہین کے جھگڑے نے ٹیم تباہ کی: باسط علی",
+      "summary_ur": [
+        "سابق کرکٹر باسط علی کا دعویٰ، قومی ٹیم کی کارکردگی پر اثر۔",
+        "بابر اعظم اور شاہین آفریدی کے درمیان کپتانی پر اختلافات۔",
+        "انگلینڈ میں 2-0 سے ٹیسٹ سیریز ہارنے کے بعد شدید تنقید۔"
+      ],
+      "caption_ur": "سابق پاکستانی کرکٹر باسط علی نے قومی ٹیم کی حالیہ کارکردگی پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ بابر اعظم اور شاہین آفریدی کے کپتانی کے تنازع نے ٹیم کو تباہ کر دیا۔ کیا آپ بھی سمجھتے ہیں کہ یہ اختلاف ٹیم کی خراب کارکردگی کی اصل وجہ ہے؟",
+      "fb_caption": "سابق پاکستانی کرکٹر باسط علی نے قومی ٹیم کی حالیہ کارکردگی پر کھل کر بات کی ہے۔ ان کا کہنا ہے کہ بابر اعظم اور شاہین آفریدی کے کپتانی کے تنازع نے ٹیم کو تباہ کر دیا۔ کیا آپ بھی سمجھتے ہیں کہ یہ اختلاف ٹیم کی خراب کارکردگی کی اصل وجہ ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #ShaheenAfridi #PakistanCricket #BasitAli #TeamPakistan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#ShaheenAfridi",
+        "#PakistanCricket",
+        "#BasitAli",
+        "#TeamPakistan"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 176,
+      "telegram_file_id": "BQACAgQAAxkDAAOwapZ_QM-2JYHDDq9pqGVHkzQVDq0AArgnAAKyLbFQ_lzCh8zdZ8A9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-01T07:31:11.161584+00:00",
+      "updated_at": "2026-09-01T07:31:12.495233+00:00",
       "posted_at": null
     }
   ]
