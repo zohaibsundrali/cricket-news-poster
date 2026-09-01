@@ -154,7 +154,9 @@
     "3751c10dc2146d81": "2026-08-30T19:41:03.765103+00:00",
     "4b27f7b049906ae1": "2026-08-31T08:22:45.013350+00:00",
     "893c91a0cc8728b9": "2026-08-31T17:57:56.044401+00:00",
-    "c89cdbb81f5a5135": "2026-09-01T07:31:11.161626+00:00"
+    "c89cdbb81f5a5135": "2026-09-01T07:31:11.161626+00:00",
+    "825531f1ccd8a03f": "2026-09-01T13:17:18.797638+00:00",
+    "a6b746a030b11750": "2026-09-01T13:17:56.085496+00:00"
   },
   "posts": [
     {
@@ -3073,6 +3075,40 @@
       "error_msg": null,
       "created_at": "2026-09-01T07:31:11.161584+00:00",
       "updated_at": "2026-09-01T07:31:12.495233+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260901T1317Z-984156",
+      "url_hash": "a6b746a030b11750",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/most-shocking-decision-ever-shahid-afridi-blasts-pakistans-stunning-test-shake-up/articleshow/133679657.cms",
+      "source_name": "The Times of India",
+      "title_en": "âMost shocking decision everâ: Shahid Afridi blasts Pakistanâs stunning Test shake-up",
+      "headline_ur": "شاہد آفریدی کا ٹیسٹ اسکواڈ تبدیلیوں پر سخت ردعمل",
+      "summary_ur": [
+        "شاہد آفریدی نے ٹیسٹ اسکواڈ میں تبدیلیوں کو \"سب سے حیران کن فیصلہ\" قرار دیا",
+        "انگلینڈ کے خلاف تیسرے ٹیسٹ سے قبل 7 کھلاڑی ڈراپ، 7 نئے شامل",
+        "ہیڈ کوچ سرفراز احمد اور بولنگ کوچ عمر گل بھی ہٹا دیے گئے"
+      ],
+      "caption_ur": "قومی کرکٹ ٹیم میں بڑی تبدیلیاں، شاہد آفریدی نے اسے 'سب سے حیران کن فیصلہ' قرار دے دیا ہے۔ انگلینڈ کے خلاف تیسرے ٹیسٹ سے قبل 7 کھلاڑیوں کو ڈراپ کیا گیا اور 7 نئے کھلاڑی شامل کیے گئے ہیں۔ ہیڈ کوچ سرفراز احمد اور بولنگ کوچ عمر گل کو بھی عہدوں سے ہٹا دیا گیا ہے۔ اس صورتحال کے بعد مصباح الحق نے بھی سلیکشن کمیٹی سے استعفیٰ دے دیا ہے۔ آپ کے خیال میں ان تبدیلیوں کا ٹیم پر کیا اثر پڑے گا؟",
+      "fb_caption": "قومی کرکٹ ٹیم میں بڑی تبدیلیاں، شاہد آفریدی نے اسے 'سب سے حیران کن فیصلہ' قرار دے دیا ہے۔ انگلینڈ کے خلاف تیسرے ٹیسٹ سے قبل 7 کھلاڑیوں کو ڈراپ کیا گیا اور 7 نئے کھلاڑی شامل کیے گئے ہیں۔ ہیڈ کوچ سرفراز احمد اور بولنگ کوچ عمر گل کو بھی عہدوں سے ہٹا دیا گیا ہے۔ اس صورتحال کے بعد مصباح الحق نے بھی سلیکشن کمیٹی سے استعفیٰ دے دیا ہے۔ آپ کے خیال میں ان تبدیلیوں کا ٹیم پر کیا اثر پڑے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ShahidAfridi #PCB #PakistanCricket #TestCricket #MisbahUlHaq",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ShahidAfridi",
+        "#PCB",
+        "#PakistanCricket",
+        "#TestCricket",
+        "#MisbahUlHaq"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 178,
+      "telegram_file_id": "BQACAgQAAxkDAAOyapbQhb7Lx6tA25EeSTljDqUSPmMAAvAdAAKyLblQcrsH2pQRbLw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-01T13:17:56.085450+00:00",
+      "updated_at": "2026-09-01T13:17:57.350952+00:00",
       "posted_at": null
     }
   ]
