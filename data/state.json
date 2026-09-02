@@ -159,7 +159,8 @@
     "a6b746a030b11750": "2026-09-01T13:17:56.085496+00:00",
     "704a8bb6653a4750": "2026-09-01T17:44:02.279640+00:00",
     "3580c407e156b4db": "2026-09-01T17:44:02.297598+00:00",
-    "c8aff5e2abbc3701": "2026-09-01T17:44:21.846602+00:00"
+    "c8aff5e2abbc3701": "2026-09-01T17:44:21.846602+00:00",
+    "bc909ab8fae80793": "2026-09-02T06:57:46.241649+00:00"
   },
   "posts": [
     {
@@ -3145,6 +3146,40 @@
       "error_msg": null,
       "created_at": "2026-09-01T17:44:21.846558+00:00",
       "updated_at": "2026-09-02T06:15:24.365887+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260902T0657Z-0dc8ee",
+      "url_hash": "bc909ab8fae80793",
+      "source_url": "https://www.dawn.com/news/2026783/aaqib-javed-defends-pakistans-mid-series-shake-up-says-team-failed-to-compete-in-england",
+      "source_name": "Dawn",
+      "title_en": "Aaqib Javed defends Pakistan’s mid-series shake-up, says team failed to compete in England",
+      "headline_ur": "عاقب جاوید نے ٹیم میں تبدیلیوں کا دفاع کیا",
+      "summary_ur": [
+        "عاقب جاوید نے انگلینڈ کے خلاف ٹیم میں تبدیلیوں کا دفاع کیا",
+        "کہا، پہلے 2 ٹیسٹ میں ٹیم مقابلہ کرنے میں ناکام رہی",
+        "آخری میچ کے لیے کمبی نیشن اور مائنڈ سیٹ بدلنا پڑا"
+      ],
+      "caption_ur": "قومی سلیکٹر عاقب جاوید نے انگلینڈ کے خلاف سیریز کے درمیان ٹیم میں کی گئی تبدیلیوں کا دفاع کیا ہے۔ ان کا کہنا تھا کہ پہلے دو ٹیسٹ میں ٹیم کی خراب کارکردگی کے باعث یہ تبدیلیاں ضروری تھیں۔ سلیکٹرز نے اسکواڈ میں موجود کچھ کھلاڑیوں کو استعمال نہ کرنے پر بھی سوال اٹھایا۔ کیا آپ کو لگتا ہے کہ یہ تبدیلیاں درست تھیں؟",
+      "fb_caption": "قومی سلیکٹر عاقب جاوید نے انگلینڈ کے خلاف سیریز کے درمیان ٹیم میں کی گئی تبدیلیوں کا دفاع کیا ہے۔ ان کا کہنا تھا کہ پہلے دو ٹیسٹ میں ٹیم کی خراب کارکردگی کے باعث یہ تبدیلیاں ضروری تھیں۔ سلیکٹرز نے اسکواڈ میں موجود کچھ کھلاڑیوں کو استعمال نہ کرنے پر بھی سوال اٹھایا۔ کیا آپ کو لگتا ہے کہ یہ تبدیلیاں درست تھیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #AaqibJaved #PCB #ENGvPAK #ٹیم_پاکستان",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#AaqibJaved",
+        "#PCB",
+        "#ENGvPAK",
+        "#ٹیم_پاکستان"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 183,
+      "telegram_file_id": "BQACAgQAAxkDAAO3apfI64PADruDw3XrcUiIrTC2fnQAArEfAAIrkcBQXnqMbbvENww9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-02T06:57:46.241605+00:00",
+      "updated_at": "2026-09-02T06:57:47.685891+00:00",
       "posted_at": null
     }
   ]
