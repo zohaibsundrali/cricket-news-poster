@@ -164,7 +164,8 @@
     "07a1c53368a1225b": "2026-09-02T12:39:06.391849+00:00",
     "87fc02002c4c75ca": "2026-09-02T12:39:27.079876+00:00",
     "fb01a93985b0cee7": "2026-09-02T17:45:28.398501+00:00",
-    "fd8c3c9c0f4aeb62": "2026-09-03T07:01:26.633430+00:00"
+    "fd8c3c9c0f4aeb62": "2026-09-03T07:01:26.633430+00:00",
+    "ff4783df23094291": "2026-09-03T12:42:32.302012+00:00"
   },
   "posts": [
     {
@@ -3286,6 +3287,40 @@
       "error_msg": null,
       "created_at": "2026-09-03T07:01:26.633382+00:00",
       "updated_at": "2026-09-03T07:01:27.706416+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260903T1242Z-33e5ff",
+      "url_hash": "ff4783df23094291",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-lost-to-ireland-has-cricket-ended-mohsin-naqvi-hits-back-at-critics-defends-pakistan-cricket-shake-up/articleshow/133736277.cms",
+      "source_name": "The Times of India",
+      "title_en": "âIndia lost to Ireland. Has cricket ended?â: Mohsin Naqvi hits back at critics, defends Pakistan cricket shake-up",
+      "headline_ur": "انڈیا آئرلینڈ سے ہارا، کیا کرکٹ ختم ہو گئی؟",
+      "summary_ur": [
+        "PCB چیئرمین محسن نقوی نے قومی کرکٹ پر تنقید کا جواب دیا ہے۔",
+        "انہوں نے انڈیا کی آئرلینڈ سے شکست کی مثال دی۔",
+        "نقوی نے ٹیم کی حالیہ کارکردگی کا دفاع کیا۔"
+      ],
+      "caption_ur": "محسن نقوی نے قومی کرکٹ ٹیم کی حالیہ کارکردگی پر ہونے والی تنقید کا بھرپور جواب دیا ہے۔ انہوں نے پوچھا کہ کیا انڈیا کے آئرلینڈ سے ہارنے پر وہاں کی کرکٹ ختم ہو گئی تھی؟ پی سی بی چیئرمین نے ٹیم میں تبدیلیوں کا بھی دفاع کیا۔ آپ کے خیال میں ان کا موقف کتنا درست ہے؟",
+      "fb_caption": "محسن نقوی نے قومی کرکٹ ٹیم کی حالیہ کارکردگی پر ہونے والی تنقید کا بھرپور جواب دیا ہے۔ انہوں نے پوچھا کہ کیا انڈیا کے آئرلینڈ سے ہارنے پر وہاں کی کرکٹ ختم ہو گئی تھی؟ پی سی بی چیئرمین نے ٹیم میں تبدیلیوں کا بھی دفاع کیا۔ آپ کے خیال میں ان کا موقف کتنا درست ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MohsinNaqvi #PCB #PakistanCricket #CricketNews #پاکستان",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MohsinNaqvi",
+        "#PCB",
+        "#PakistanCricket",
+        "#CricketNews",
+        "#پاکستان"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 190,
+      "telegram_file_id": "BQACAgQAAxkDAAO-aplrOWKjrt8rrTEXO9Z35XRcHJUAAvMeAAKyRNBQ4YIJ8dprQ8Y9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-03T12:42:32.301963+00:00",
+      "updated_at": "2026-09-03T12:42:33.340030+00:00",
       "posted_at": null
     }
   ]
