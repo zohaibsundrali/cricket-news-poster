@@ -3283,11 +3283,11 @@
       "telegram_message_id": 189,
       "telegram_file_id": "BQACAgQAAxkDAAO9apkbR4hWmAQV9RUmfBgAAUiJKpdmAAKlHgACskTQUP_giZrtGv_XPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-03T07:01:26.633382+00:00",
-      "updated_at": "2026-09-03T07:01:27.706416+00:00",
+      "updated_at": "2026-09-03T21:23:30.390060+00:00",
       "posted_at": null
     },
     {
