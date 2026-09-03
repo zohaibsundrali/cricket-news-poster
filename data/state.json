@@ -3212,11 +3212,11 @@
       "telegram_message_id": 184,
       "telegram_file_id": "BQACAgQAAxkDAAO4apgZAAFS48HvwMHvTJdQY2pyzLU9AAIUIAACK5HAULQsJmsutD9ZPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-02T12:39:27.079833+00:00",
-      "updated_at": "2026-09-02T12:39:28.214438+00:00",
+      "updated_at": "2026-09-03T01:28:22.013281+00:00",
       "posted_at": null
     },
     {
