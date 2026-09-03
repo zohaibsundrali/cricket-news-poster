@@ -3246,11 +3246,11 @@
       "telegram_message_id": 185,
       "telegram_file_id": "BQACAgQAAxkDAAO5aphguXBmbysYq2wzHYIlxj7WjloAArgeAAIrkchQVfOFewXmVt09BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-02T17:45:28.398458+00:00",
-      "updated_at": "2026-09-02T17:45:29.453964+00:00",
+      "updated_at": "2026-09-03T06:24:45.866193+00:00",
       "posted_at": null
     }
   ]
