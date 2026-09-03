@@ -165,7 +165,8 @@
     "87fc02002c4c75ca": "2026-09-02T12:39:27.079876+00:00",
     "fb01a93985b0cee7": "2026-09-02T17:45:28.398501+00:00",
     "fd8c3c9c0f4aeb62": "2026-09-03T07:01:26.633430+00:00",
-    "ff4783df23094291": "2026-09-03T12:42:32.302012+00:00"
+    "ff4783df23094291": "2026-09-03T12:42:32.302012+00:00",
+    "94db5dc717297c6e": "2026-09-03T17:40:33.615054+00:00"
   },
   "posts": [
     {
@@ -3321,6 +3322,40 @@
       "error_msg": null,
       "created_at": "2026-09-03T12:42:32.301963+00:00",
       "updated_at": "2026-09-03T12:42:33.340030+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260903T1740Z-e50c70",
+      "url_hash": "94db5dc717297c6e",
+      "source_url": "https://www.dawn.com/news/2027140/unreasonable-to-say-cricket-in-pakistan-has-finished-pcb-chief-naqvi",
+      "source_name": "Dawn",
+      "title_en": "‘Unreasonable’ to say cricket in Pakistan has finished: PCB chief Naqvi",
+      "headline_ur": "محسن نقوی کا دعویٰ: پاکستانی کرکٹ ختم نہیں ہوئی",
+      "summary_ur": [
+        "پی سی بی چیئرمین محسن نقوی نے کرکٹ ختم ہونے کے دعوؤں کو غیر معقول قرار دیا۔",
+        "ان کے دور میں ون ڈے رینکنگ آٹھویں سے پانچویں نمبر پر آ گئی ہے۔",
+        "قومی ٹیم کی کامیابی کی شرح 24 فیصد سے 73 فیصد ہو گئی ہے۔"
+      ],
+      "caption_ur": "محسن نقوی نے پاکستانی کرکٹ ختم ہونے کے دعوؤں کو سختی سے رد کر دیا۔ انہوں نے کہا کہ ٹیم کی ون ڈے رینکنگ اور کامیابی کی شرح میں بہتری آئی ہے۔ چیئرمین پی سی بی نے کہا کہ کھلاڑیوں کو ہٹانا پڑتا ہے اگر وہ پرفارم نہ کریں۔ آپ کے خیال میں پاکستانی کرکٹ کی موجودہ صورتحال کیسی ہے؟",
+      "fb_caption": "محسن نقوی نے پاکستانی کرکٹ ختم ہونے کے دعوؤں کو سختی سے رد کر دیا۔ انہوں نے کہا کہ ٹیم کی ون ڈے رینکنگ اور کامیابی کی شرح میں بہتری آئی ہے۔ چیئرمین پی سی بی نے کہا کہ کھلاڑیوں کو ہٹانا پڑتا ہے اگر وہ پرفارم نہ کریں۔ آپ کے خیال میں پاکستانی کرکٹ کی موجودہ صورتحال کیسی ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #MohsinNaqvi #PCB #کرکٹ_پاکستان #TeamPakistan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#MohsinNaqvi",
+        "#PCB",
+        "#کرکٹ_پاکستان",
+        "#TeamPakistan"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 191,
+      "telegram_file_id": "BQACAgQAAxkDAAO_apmxErApt_zbLCzT5umM1HcZ_ucAAmIfAAKyRNBQXSI5P2xD1cE9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-03T17:40:33.615010+00:00",
+      "updated_at": "2026-09-03T17:40:35.217661+00:00",
       "posted_at": null
     }
   ]
