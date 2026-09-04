@@ -173,7 +173,8 @@
     "ea6c23870f76dcd4": "2026-09-04T07:07:32.006703+00:00",
     "2c8385903a440670": "2026-09-04T07:07:32.253231+00:00",
     "82060ba30b191fee": "2026-09-04T07:07:32.295439+00:00",
-    "9668b98ff664486f": "2026-09-04T12:36:51.355353+00:00"
+    "9668b98ff664486f": "2026-09-04T12:36:51.355353+00:00",
+    "ead11e764ef44089": "2026-09-04T17:28:57.551137+00:00"
   },
   "posts": [
     {
@@ -3397,6 +3398,40 @@
       "error_msg": null,
       "created_at": "2026-09-04T12:36:51.355301+00:00",
       "updated_at": "2026-09-04T12:36:52.389034+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260904T1728Z-efe592",
+      "url_hash": "ead11e764ef44089",
+      "source_url": "https://www.dawn.com/news/2027454/analysis-how-pcbs-most-powerful-men-contradicted-themselves-after-triggering-a-mid-series-crisis",
+      "source_name": "Dawn",
+      "title_en": "Analysis: How PCB’s most powerful men contradicted themselves after triggering a mid-series crisis",
+      "headline_ur": "پی سی بی کے طاقتور ترین افراد کے متضاد بیانات",
+      "summary_ur": [
+        "انگلینڈ سیریز کے درمیان 7 کھلاڑی واپس بلا لیے گئے۔",
+        "ہیڈ کوچ اور باؤلنگ کوچ کو عہدوں سے ہٹا دیا گیا۔",
+        "محسن نقوی اور عاقب جاوید کے بیانات میں تضاد سامنے آیا۔"
+      ],
+      "caption_ur": "ٹی ٹونٹی ورلڈ کپ 2024 میں شکست کے بعد پی سی بی نے \"سرجری\" کا وعدہ کیا تھا۔ انگلینڈ ٹیسٹ سیریز کے دوران 7 کھلاڑیوں کو واپس بلایا گیا اور کوچز کو بھی فارغ کر دیا گیا۔ پی سی بی چیئرمین محسن نقوی اور عاقب جاوید کے بیانات میں تضاد کیوں ہے؟ آپ کا اس بارے میں کیا خیال ہے؟",
+      "fb_caption": "ٹی ٹونٹی ورلڈ کپ 2024 میں شکست کے بعد پی سی بی نے \"سرجری\" کا وعدہ کیا تھا۔ انگلینڈ ٹیسٹ سیریز کے دوران 7 کھلاڑیوں کو واپس بلایا گیا اور کوچز کو بھی فارغ کر دیا گیا۔ پی سی بی چیئرمین محسن نقوی اور عاقب جاوید کے بیانات میں تضاد کیوں ہے؟ آپ کا اس بارے میں کیا خیال ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PCB #PakistanCricket #MohsinNaqvi #AaqibJaved #TeamPakistan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PCB",
+        "#PakistanCricket",
+        "#MohsinNaqvi",
+        "#AaqibJaved",
+        "#TeamPakistan"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 197,
+      "telegram_file_id": "BQACAgQAAxkDAAPFapr_2g4R_Deby3MaUepuHgPv6EgAAgoeAAIawNlQRwixfXpicAs9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-04T17:28:57.551089+00:00",
+      "updated_at": "2026-09-04T17:28:59.145214+00:00",
       "posted_at": null
     }
   ]
