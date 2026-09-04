@@ -172,7 +172,8 @@
     "9d725e903e1060ce": "2026-09-04T07:06:50.720161+00:00",
     "ea6c23870f76dcd4": "2026-09-04T07:07:32.006703+00:00",
     "2c8385903a440670": "2026-09-04T07:07:32.253231+00:00",
-    "82060ba30b191fee": "2026-09-04T07:07:32.295439+00:00"
+    "82060ba30b191fee": "2026-09-04T07:07:32.295439+00:00",
+    "9668b98ff664486f": "2026-09-04T12:36:51.355353+00:00"
   },
   "posts": [
     {
@@ -3362,6 +3363,40 @@
       "error_msg": null,
       "created_at": "2026-09-03T17:40:33.615010+00:00",
       "updated_at": "2026-09-04T06:00:28.075841+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260904T1236Z-10967c",
+      "url_hash": "9668b98ff664486f",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-gets-a-fresh-roast-iceland-cricket-offers-all-expenses-paid-trip-to-learn-selection-strategy-from-pcb-chief/articleshow/133760013.cms",
+      "source_name": "The Times of India",
+      "title_en": "Mohsin Naqvi gets a fresh roast: Iceland Cricket offers âall expenses paidâ trip to âlearn selection strategyâ from PCB chief",
+      "headline_ur": "آئس لینڈ کرکٹ کا محسن نقوی پر طنز، سلیکشن پر سوال",
+      "summary_ur": [
+        "آئس لینڈ کرکٹ نے پی سی بی چیئرمین محسن نقوی کا مذاق اڑایا۔",
+        "انہوں نے سلیکشن حکمت عملی سیکھنے کے لیے ٹرپ کی پیشکش کی۔",
+        "یہ پیشکش ٹیم میں تبدیلیوں اور نقوی کے بیانات کے بعد کی گئی۔"
+      ],
+      "caption_ur": "آئس لینڈ کرکٹ نے پی سی بی چیئرمین محسن نقوی کو آڑے ہاتھوں لے لیا۔ انہوں نے سلیکشن حکمت عملی سیکھنے کے لیے ایک \"تعلیمی ٹرپ\" کی پیشکش کی ہے۔ یہ طنز قومی ٹیم میں حالیہ تبدیلیوں اور نقوی کے بیانات کے بعد سامنے آیا ہے۔ کیا آپ کو لگتا ہے کہ یہ طنز جائز ہے؟",
+      "fb_caption": "آئس لینڈ کرکٹ نے پی سی بی چیئرمین محسن نقوی کو آڑے ہاتھوں لے لیا۔ انہوں نے سلیکشن حکمت عملی سیکھنے کے لیے ایک \"تعلیمی ٹرپ\" کی پیشکش کی ہے۔ یہ طنز قومی ٹیم میں حالیہ تبدیلیوں اور نقوی کے بیانات کے بعد سامنے آیا ہے۔ کیا آپ کو لگتا ہے کہ یہ طنز جائز ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MohsinNaqvi #PCBCricket #IcelandCricket #SelectionStrategy #پاکستان_کرکٹ",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MohsinNaqvi",
+        "#PCBCricket",
+        "#IcelandCricket",
+        "#SelectionStrategy",
+        "#پاکستان_کرکٹ"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 196,
+      "telegram_file_id": "BQACAgQAAxkDAAPEapq7ZMNY0c72-IXa9G-t_6z3jx8AAmAeAAKyRNhQlPzwKnKp32Y9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-04T12:36:51.355301+00:00",
+      "updated_at": "2026-09-04T12:36:52.389034+00:00",
       "posted_at": null
     }
   ]
