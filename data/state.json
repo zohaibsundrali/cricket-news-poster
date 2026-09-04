@@ -3317,11 +3317,11 @@
       "telegram_message_id": 190,
       "telegram_file_id": "BQACAgQAAxkDAAO-aplrOWKjrt8rrTEXO9Z35XRcHJUAAvMeAAKyRNBQ4YIJ8dprQ8Y9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-03T12:42:32.301963+00:00",
-      "updated_at": "2026-09-03T12:42:33.340030+00:00",
+      "updated_at": "2026-09-04T01:16:34.122688+00:00",
       "posted_at": null
     },
     {
