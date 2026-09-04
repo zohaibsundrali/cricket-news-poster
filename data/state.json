@@ -3351,11 +3351,11 @@
       "telegram_message_id": 191,
       "telegram_file_id": "BQACAgQAAxkDAAO_apmxErApt_zbLCzT5umM1HcZ_ucAAmIfAAKyRNBQXSI5P2xD1cE9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-03T17:40:33.615010+00:00",
-      "updated_at": "2026-09-03T17:40:35.217661+00:00",
+      "updated_at": "2026-09-04T06:00:28.075841+00:00",
       "posted_at": null
     }
   ]
