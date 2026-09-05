@@ -181,7 +181,9 @@
     "c4b7bb09df4e476f": "2026-09-05T06:50:19.539102+00:00",
     "1684b7b48df8bbdf": "2026-09-05T06:50:53.786215+00:00",
     "95dc7560f1cfb73d": "2026-09-05T06:50:53.940374+00:00",
-    "47afea7f2573ffe5": "2026-09-05T11:44:33.680169+00:00"
+    "47afea7f2573ffe5": "2026-09-05T11:44:33.680169+00:00",
+    "2d983487c56344e5": "2026-09-05T16:39:36.426081+00:00",
+    "a696a873b48ed41c": "2026-09-05T16:39:46.137318+00:00"
   },
   "posts": [
     {
@@ -3473,6 +3475,40 @@
       "error_msg": null,
       "created_at": "2026-09-05T11:44:33.680127+00:00",
       "updated_at": "2026-09-05T11:44:35.456474+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260905T1639Z-64b616",
+      "url_hash": "a696a873b48ed41c",
+      "source_url": "https://www.dawn.com/news/2027721/brian-lara-joins-cricket-legends-in-call-for-proper-medical-care-for-imran-khan",
+      "source_name": "Dawn",
+      "title_en": "Brian Lara joins cricket legends in call for proper medical care for Imran Khan",
+      "headline_ur": "برائن لارا کا عمران خان کی صحت پر اہم بیان",
+      "summary_ur": [
+        "برائن لارا نے عمران خان کے لیے مناسب طبی امداد کا مطالبہ کیا ہے",
+        "انہوں نے کہا یہ انسانیت کا معاملہ ہے، سیاست نہیں",
+        "22 سابق کرکٹرز بھی پہلے ہی اپیل کر چکے ہیں"
+      ],
+      "caption_ur": "ویسٹ انڈیز کے لیجنڈ کرکٹر برائن لارا نے عمران خان کی صحت اور مناسب طبی امداد کے لیے آواز اٹھائی ہے۔ ان کا کہنا ہے کہ یہ سیاست نہیں بلکہ انسانیت کا معاملہ ہے۔ اس سے قبل 22 سابق بین الاقوامی کرکٹرز بھی اسی طرح کی اپیل کر چکے ہیں۔ آپ اس بارے میں کیا رائے رکھتے ہیں؟",
+      "fb_caption": "ویسٹ انڈیز کے لیجنڈ کرکٹر برائن لارا نے عمران خان کی صحت اور مناسب طبی امداد کے لیے آواز اٹھائی ہے۔ ان کا کہنا ہے کہ یہ سیاست نہیں بلکہ انسانیت کا معاملہ ہے۔ اس سے قبل 22 سابق بین الاقوامی کرکٹرز بھی اسی طرح کی اپیل کر چکے ہیں۔ آپ اس بارے میں کیا رائے رکھتے ہیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #BrianLara #ImranKhan #PakistanCricket #Humanity #کرکٹ_خبریں",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BrianLara",
+        "#ImranKhan",
+        "#PakistanCricket",
+        "#Humanity",
+        "#کرکٹ_خبریں"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 202,
+      "telegram_file_id": "BQACAgQAAxkDAAPKapxF0ucWdN2cZhsWh_v3OVFfdgsAAnscAAIawOFQb-FwxwYWuIo9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-05T16:39:46.137265+00:00",
+      "updated_at": "2026-09-05T16:39:47.170324+00:00",
       "posted_at": null
     }
   ]
