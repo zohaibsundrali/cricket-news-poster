@@ -3393,11 +3393,11 @@
       "telegram_message_id": 196,
       "telegram_file_id": "BQACAgQAAxkDAAPEapq7ZMNY0c72-IXa9G-t_6z3jx8AAmAeAAKyRNhQlPzwKnKp32Y9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-04T12:36:51.355301+00:00",
-      "updated_at": "2026-09-04T12:36:52.389034+00:00",
+      "updated_at": "2026-09-05T00:49:26.050373+00:00",
       "posted_at": null
     },
     {
