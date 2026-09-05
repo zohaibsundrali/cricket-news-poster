@@ -3433,11 +3433,11 @@
       "telegram_message_id": 197,
       "telegram_file_id": "BQACAgQAAxkDAAPFapr_2g4R_Deby3MaUepuHgPv6EgAAgoeAAIawNlQRwixfXpicAs9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-04T17:28:57.551089+00:00",
-      "updated_at": "2026-09-04T17:28:59.145214+00:00",
+      "updated_at": "2026-09-05T09:14:31.729237+00:00",
       "posted_at": null
     }
   ]
