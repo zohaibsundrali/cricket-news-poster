@@ -183,7 +183,8 @@
     "95dc7560f1cfb73d": "2026-09-05T06:50:53.940374+00:00",
     "47afea7f2573ffe5": "2026-09-05T11:44:33.680169+00:00",
     "2d983487c56344e5": "2026-09-05T16:39:36.426081+00:00",
-    "a696a873b48ed41c": "2026-09-05T16:39:46.137318+00:00"
+    "a696a873b48ed41c": "2026-09-05T16:39:46.137318+00:00",
+    "bf9f3a2aaf54d8aa": "2026-09-05T18:53:59.034534+00:00"
   },
   "posts": [
     {
@@ -3509,6 +3510,40 @@
       "error_msg": null,
       "created_at": "2026-09-05T16:39:46.137265+00:00",
       "updated_at": "2026-09-05T16:39:47.170324+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260905T1853Z-a9ea39",
+      "url_hash": "bf9f3a2aaf54d8aa",
+      "source_url": "https://www.dawn.com/news/2027720/india-upend-pakistan-for-seven-wicket-win-in-womens-asia-cup",
+      "source_name": "Dawn",
+      "title_en": "India upend Pakistan for seven-wicket win in Women’s Asia Cup",
+      "headline_ur": "ویمنز ایشیا کپ: بھارت نے پاکستان کو 7 وکٹوں سے شکست دے دی",
+      "summary_ur": [
+        "بھارت نے ویمنز ایشیا کپ میں پاکستان کو 7 وکٹوں سے ہرا دیا.",
+        "قومی ٹیم اپنی 200ویں ٹی ٹونٹی میں صرف 55 رنز پر آل آؤٹ ہو گئی.",
+        "شری چرانی نے 7 رنز دے کر 3 وکٹیں حاصل کیں اور پلیئر آف دی میچ بنیں."
+      ],
+      "caption_ur": "ویمنز ایشیا کپ میں بھارت نے پاکستان کو 7 وکٹوں سے شکست دے دی ہے۔ قومی ٹیم اپنی 200ویں ٹی ٹونٹی انٹرنیشنل میں صرف 55 رنز بنا سکی۔ بھارت نے یہ ہدف آسانی سے حاصل کر لیا۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟",
+      "fb_caption": "ویمنز ایشیا کپ میں بھارت نے پاکستان کو 7 وکٹوں سے شکست دے دی ہے۔ قومی ٹیم اپنی 200ویں ٹی ٹونٹی انٹرنیشنل میں صرف 55 رنز بنا سکی۔ بھارت نے یہ ہدف آسانی سے حاصل کر لیا۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #WomensAsiaCup #PAKvIND #PakistanCricket #TeamIndia #ایشیاکپ",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WomensAsiaCup",
+        "#PAKvIND",
+        "#PakistanCricket",
+        "#TeamIndia",
+        "#ایشیاکپ"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 203,
+      "telegram_file_id": "BQACAgQAAxkDAAPLapxlSEbXm3mkFTemTGw5ygv9ldgAAtMbAAIawOlQFLydjcwYjX09BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-05T18:53:59.034486+00:00",
+      "updated_at": "2026-09-05T18:54:00.719755+00:00",
       "posted_at": null
     }
   ]
