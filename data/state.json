@@ -180,7 +180,8 @@
     "bb7ceb75e5c6b9a2": "2026-09-05T06:49:45.149942+00:00",
     "c4b7bb09df4e476f": "2026-09-05T06:50:19.539102+00:00",
     "1684b7b48df8bbdf": "2026-09-05T06:50:53.786215+00:00",
-    "95dc7560f1cfb73d": "2026-09-05T06:50:53.940374+00:00"
+    "95dc7560f1cfb73d": "2026-09-05T06:50:53.940374+00:00",
+    "47afea7f2573ffe5": "2026-09-05T11:44:33.680169+00:00"
   },
   "posts": [
     {
@@ -3438,6 +3439,40 @@
       "error_msg": null,
       "created_at": "2026-09-04T17:28:57.551089+00:00",
       "updated_at": "2026-09-05T09:14:31.729237+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260905T1144Z-66ecec",
+      "url_hash": "47afea7f2573ffe5",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-the-next-target-ex-pakistan-captain-launches-scathing-attack-on-pcb-over-england-test-chaos/articleshow/133792583.cms",
+      "source_name": "The Times of India",
+      "title_en": "âBabar Azam the next target?â: Ex-Pakistan captain launches scathing attack on PCB over England Test chaos",
+      "headline_ur": "راشد لطیف کا پی سی بی پر شدید حملہ، بابر اعظم اگلا نشانہ؟",
+      "summary_ur": [
+        "راشد لطیف نے پی سی بی کو \"ریموٹ کنٹرول\" سے ٹیم چلانے پر تنقید کا نشانہ بنایا۔",
+        "انگلینڈ کے خلاف شکستوں کے بعد 7 کھلاڑی اور 2 کوچز واپس بھیجے گئے۔",
+        "لطیف نے سوال اٹھایا کہ کیا بابر اعظم پی سی بی کا اگلا ہدف ہیں؟"
+      ],
+      "caption_ur": "سابق کپتان راشد لطیف نے پی سی بی کی پالیسیوں پر شدید تنقید کی ہے۔ انہوں نے انگلینڈ کے خلاف ٹیسٹ سیریز کے دوران 7 کھلاڑیوں اور 2 کوچز کو واپس بھیجنے کے فیصلے پر سوال اٹھائے۔ لطیف نے یہ بھی کہا کہ اگر کپتان بابر اعظم نہیں سن رہے تھے تو انہیں ہٹایا جانا چاہیے تھا۔ کیا آپ کو لگتا ہے کہ پی سی بی کے فیصلے درست تھے؟",
+      "fb_caption": "سابق کپتان راشد لطیف نے پی سی بی کی پالیسیوں پر شدید تنقید کی ہے۔ انہوں نے انگلینڈ کے خلاف ٹیسٹ سیریز کے دوران 7 کھلاڑیوں اور 2 کوچز کو واپس بھیجنے کے فیصلے پر سوال اٹھائے۔ لطیف نے یہ بھی کہا کہ اگر کپتان بابر اعظم نہیں سن رہے تھے تو انہیں ہٹایا جانا چاہیے تھا۔ کیا آپ کو لگتا ہے کہ پی سی بی کے فیصلے درست تھے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #RashidLatif #PCB #BabarAzam #PakistanCricket #TestCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#RashidLatif",
+        "#PCB",
+        "#BabarAzam",
+        "#PakistanCricket",
+        "#TestCricket"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 201,
+      "telegram_file_id": "BQACAgQAAxkDAAPJapwAAaOZP_QEx1kFauIuHBJBhujxAAIeHAACGsDhUCBXyG5SIt6NPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-05T11:44:33.680127+00:00",
+      "updated_at": "2026-09-05T11:44:35.456474+00:00",
       "posted_at": null
     }
   ]
