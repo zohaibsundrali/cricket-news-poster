@@ -184,7 +184,8 @@
     "47afea7f2573ffe5": "2026-09-05T11:44:33.680169+00:00",
     "2d983487c56344e5": "2026-09-05T16:39:36.426081+00:00",
     "a696a873b48ed41c": "2026-09-05T16:39:46.137318+00:00",
-    "bf9f3a2aaf54d8aa": "2026-09-05T18:53:59.034534+00:00"
+    "bf9f3a2aaf54d8aa": "2026-09-05T18:53:59.034534+00:00",
+    "049ee7160d05df3d": "2026-09-06T07:00:23.890621+00:00"
   },
   "posts": [
     {
@@ -3544,6 +3545,40 @@
       "error_msg": null,
       "created_at": "2026-09-05T18:53:59.034486+00:00",
       "updated_at": "2026-09-05T18:54:00.719755+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260906T0700Z-a0541e",
+      "url_hash": "049ee7160d05df3d",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/india-thrash-pakistan-for-55-wahab-riaz-still-calls-them-best-side-in-asia-cup/articleshow/133826248.cms",
+      "source_name": "The Times of India",
+      "title_en": "India thrash Pakistan for 55, Wahab Riaz still calls them âbest sideâ in Asia Cup",
+      "headline_ur": "پاکستان ویمنز ٹیم 55 پر ڈھیر، وہاب ریاض پھر بھی پرعزم",
+      "summary_ur": [
+        "بھارت نے پاکستان ویمنز ٹیم کو 55 رنز پر آؤٹ کر دیا",
+        "بھارت نے 8.4 اوورز میں 7 وکٹوں سے میچ جیت لیا",
+        "وہاب ریاض کا کہنا ہے پاکستان ٹورنامنٹ کی بہترین ٹیم ہے"
+      ],
+      "caption_ur": "ایشیا کپ میں بھارت کے ہاتھوں پاکستان ویمنز ٹیم کو عبرتناک شکست کا سامنا کرنا پڑا۔ ٹیم صرف 55 رنز پر ڈھیر ہو گئی اور بھارت نے باآسانی میچ جیت لیا۔ اس شکست کے باوجود ٹیم کے مینٹور وہاب ریاض کا کہنا ہے کہ پاکستان ٹورنامنٹ کی بہترین ٹیم ہے۔ آپ کے خیال میں وہاب ریاض کا یہ بیان کتنا درست ہے؟",
+      "fb_caption": "ایشیا کپ میں بھارت کے ہاتھوں پاکستان ویمنز ٹیم کو عبرتناک شکست کا سامنا کرنا پڑا۔ ٹیم صرف 55 رنز پر ڈھیر ہو گئی اور بھارت نے باآسانی میچ جیت لیا۔ اس شکست کے باوجود ٹیم کے مینٹور وہاب ریاض کا کہنا ہے کہ پاکستان ٹورنامنٹ کی بہترین ٹیم ہے۔ آپ کے خیال میں وہاب ریاض کا یہ بیان کتنا درست ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #WomensAsiaCup #PakistanCricket #WahabRiaz #PAKvIND #AsiaCup",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WomensAsiaCup",
+        "#PakistanCricket",
+        "#WahabRiaz",
+        "#PAKvIND",
+        "#AsiaCup"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 205,
+      "telegram_file_id": "BQACAgQAAxkDAAPNap0PiD-kCZj427XU9DexFmR5zKsAAnYkAALK9OlQDtTjfCAdU2o9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-06T07:00:23.890577+00:00",
+      "updated_at": "2026-09-06T07:00:24.968550+00:00",
       "posted_at": null
     }
   ]
