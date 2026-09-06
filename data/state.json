@@ -185,7 +185,8 @@
     "2d983487c56344e5": "2026-09-05T16:39:36.426081+00:00",
     "a696a873b48ed41c": "2026-09-05T16:39:46.137318+00:00",
     "bf9f3a2aaf54d8aa": "2026-09-05T18:53:59.034534+00:00",
-    "049ee7160d05df3d": "2026-09-06T07:00:23.890621+00:00"
+    "049ee7160d05df3d": "2026-09-06T07:00:23.890621+00:00",
+    "a76a3fa7a92eb83c": "2026-09-06T12:02:18.369550+00:00"
   },
   "posts": [
     {
@@ -3579,6 +3580,40 @@
       "error_msg": null,
       "created_at": "2026-09-06T07:00:23.890577+00:00",
       "updated_at": "2026-09-06T07:00:24.968550+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260906T1202Z-4f22b5",
+      "url_hash": "a76a3fa7a92eb83c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-shambles-all-time-low-ex-cricketer-tears-into-pcb-amid-england-turmoil/articleshow/133834107.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Pakistan cricket in shambles, all-time low': Ex-cricketer tears into PCB amid England turmoil",
+      "headline_ur": "پاکستان کرکٹ تباہی کے دہانے پر، عتیق الزماں کا سخت بیان",
+      "summary_ur": [
+        "سابق وکٹ کیپر عتیق الزماں نے قومی ٹیم کی کارکردگی پر شدید مایوسی کا اظہار کیا۔",
+        "ان کے مطابق پاکستان کرکٹ اس وقت \"تباہی کا شکار\" اور \"انتہائی نچلی سطح\" پر ہے۔",
+        "انگلینڈ کے خلاف ٹیسٹ سیریز میں قومی ٹیم 2-0 سے پیچھے ہے۔"
+      ],
+      "caption_ur": "پاکستان کرکٹ اس وقت بڑے بحران سے گزر رہی ہے۔ انگلینڈ کے خلاف ٹیسٹ سیریز میں 2-0 کی شکست کے بعد پی سی بی نے اچانک کئی تبدیلیاں کی ہیں۔ سابق وکٹ کیپر عتیق الزماں نے اس صورتحال پر شدید مایوسی کا اظہار کرتے ہوئے کہا ہے کہ قومی ٹیم اس وقت تباہی کا شکار ہے اور اپنی تاریخ کی سب سے نچلی سطح پر ہے۔ آپ کے خیال میں پاکستان کرکٹ کو اس بحران سے نکالنے کے لیے کیا کرنا چاہیے؟",
+      "fb_caption": "پاکستان کرکٹ اس وقت بڑے بحران سے گزر رہی ہے۔ انگلینڈ کے خلاف ٹیسٹ سیریز میں 2-0 کی شکست کے بعد پی سی بی نے اچانک کئی تبدیلیاں کی ہیں۔ سابق وکٹ کیپر عتیق الزماں نے اس صورتحال پر شدید مایوسی کا اظہار کرتے ہوئے کہا ہے کہ قومی ٹیم اس وقت تباہی کا شکار ہے اور اپنی تاریخ کی سب سے نچلی سطح پر ہے۔ آپ کے خیال میں پاکستان کرکٹ کو اس بحران سے نکالنے کے لیے کیا کرنا چاہیے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PakistanCricket #PCB #AtiquzZaman #TestCricket #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#PCB",
+        "#AtiquzZaman",
+        "#TestCricket",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 208,
+      "telegram_file_id": "BQACAgQAAxkDAAPQap1WS8QLLsJ18f5UgxWIQ_Fs56IAApcgAALK9PFQPPQdEqsScxk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-06T12:02:18.369502+00:00",
+      "updated_at": "2026-09-06T12:02:19.505432+00:00",
       "posted_at": null
     }
   ]
