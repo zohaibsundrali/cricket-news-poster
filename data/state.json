@@ -198,7 +198,8 @@
     "81e362f3cf29affa": "2026-09-06T18:57:35.681349+00:00",
     "38c76dc3401a0cc7": "2026-09-06T18:58:10.069502+00:00",
     "21249b3fffacc277": "2026-09-06T18:58:44.874096+00:00",
-    "3cd1dd3dc3263077": "2026-09-06T18:59:19.161439+00:00"
+    "3cd1dd3dc3263077": "2026-09-06T18:59:19.161439+00:00",
+    "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00"
   },
   "posts": [
     {
@@ -3626,6 +3627,40 @@
       "error_msg": null,
       "created_at": "2026-09-06T12:02:18.369502+00:00",
       "updated_at": "2026-09-07T01:13:28.053558+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260907T0709Z-73888a",
+      "url_hash": "d1a84ffe23f5abf0",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/cosmetic-surgery-wont-fix-pakistan-cricket-misbah-ul-haq-takes-aim-at-pcb-after-stepping-down/articleshow/133859342.cms",
+      "source_name": "The Times of India",
+      "title_en": "âCosmetic surgeryâ wonât fix Pakistan cricket: Misbah-ul-Haq takes aim at PCB after stepping down",
+      "headline_ur": "مصباح الحق پی سی بی پر برس پڑے، \"کاسمیٹک سرجری\" سے کچھ نہیں ہوگا",
+      "summary_ur": [
+        "مصباح الحق نے پی سی بی کے رد عملی فیصلوں پر تنقید کی",
+        "وہ حال ہی میں قومی سلیکٹر کے عہدے سے مستعفی ہوئے ہیں",
+        "مقامی اور غیر ملکی کوچز کے ساتھ مختلف سلوک پر بھی سوال اٹھائے"
+      ],
+      "caption_ur": "سابق کپتان مصباح الحق نے ایک بار پھر پی سی بی پر کھل کر تنقید کی ہے۔ انہوں نے بورڈ کے رد عملی فیصلوں اور مقامی و غیر ملکی کوچز کے ساتھ مختلف سلوک پر سوال اٹھائے۔ مصباح کا کہنا ہے کہ \"کاسمیٹک سرجری\" سے مسائل حل نہیں ہوں گے۔ آپ مصباح کے ان بیانات سے کتنا اتفاق کرتے ہیں؟",
+      "fb_caption": "سابق کپتان مصباح الحق نے ایک بار پھر پی سی بی پر کھل کر تنقید کی ہے۔ انہوں نے بورڈ کے رد عملی فیصلوں اور مقامی و غیر ملکی کوچز کے ساتھ مختلف سلوک پر سوال اٹھائے۔ مصباح کا کہنا ہے کہ \"کاسمیٹک سرجری\" سے مسائل حل نہیں ہوں گے۔ آپ مصباح کے ان بیانات سے کتنا اتفاق کرتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MisbahUlHaq #PCB #PakistanCricket #کرکٹ_پاکستان #مصباح_الحق",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MisbahUlHaq",
+        "#PCB",
+        "#PakistanCricket",
+        "#کرکٹ_پاکستان",
+        "#مصباح_الحق"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 213,
+      "telegram_file_id": "BQACAgQAAxkDAAPVap5jLr6CsxihZHwB1I2jaK4Y0tMAAkYhAALK9PlQdeYNrXbe4NQ9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-07T07:09:33.682128+00:00",
+      "updated_at": "2026-09-07T07:09:34.636595+00:00",
       "posted_at": null
     }
   ]
