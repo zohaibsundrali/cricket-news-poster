@@ -199,7 +199,8 @@
     "38c76dc3401a0cc7": "2026-09-06T18:58:10.069502+00:00",
     "21249b3fffacc277": "2026-09-06T18:58:44.874096+00:00",
     "3cd1dd3dc3263077": "2026-09-06T18:59:19.161439+00:00",
-    "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00"
+    "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00",
+    "96f19598681158b2": "2026-09-07T14:06:41.595571+00:00"
   },
   "posts": [
     {
@@ -3661,6 +3662,40 @@
       "error_msg": null,
       "created_at": "2026-09-07T07:09:33.682128+00:00",
       "updated_at": "2026-09-07T07:09:34.636595+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260907T1406Z-af278f",
+      "url_hash": "96f19598681158b2",
+      "source_url": "https://www.dawn.com/news/2028125/how-pakistan-may-line-up-at-edgbaston-after-chaotic-shake-up",
+      "source_name": "Dawn",
+      "title_en": "How Pakistan may line up at Edgbaston after chaotic shake-up",
+      "headline_ur": "انگلینڈ کے خلاف تیسرے ٹیسٹ سے قبل قومی ٹیم میں بڑی تبدیلیاں",
+      "summary_ur": [
+        "قومی ٹیم میں 7 کھلاڑیوں کو ڈراپ کر کے نئے کھلاڑی شامل کیے گئے ہیں۔",
+        "مائیک ہیسن کو عبوری ہیڈ کوچ اور ایشلے نوفکے کو بولنگ کوچ مقرر کیا گیا۔",
+        "پاکستان سیریز 2-0 سے ہار چکا ہے، تیسرا ٹیسٹ بدھ سے شروع ہوگا۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف سیریز میں ناقص کارکردگی کے بعد قومی ٹیم میں بڑے پیمانے پر تبدیلیاں کی گئی ہیں۔ 7 کھلاڑیوں کو ٹیم سے باہر کر کے نئے چہروں کو موقع دیا گیا ہے۔ مائیک ہیسن کو عبوری ہیڈ کوچ اور ایشلے نوفکے کو بولنگ کوچ بنایا گیا ہے۔ کیا یہ تبدیلیاں قومی ٹیم کی کارکردگی بہتر کر پائیں گی؟",
+      "fb_caption": "انگلینڈ کے خلاف سیریز میں ناقص کارکردگی کے بعد قومی ٹیم میں بڑے پیمانے پر تبدیلیاں کی گئی ہیں۔ 7 کھلاڑیوں کو ٹیم سے باہر کر کے نئے چہروں کو موقع دیا گیا ہے۔ مائیک ہیسن کو عبوری ہیڈ کوچ اور ایشلے نوفکے کو بولنگ کوچ بنایا گیا ہے۔ کیا یہ تبدیلیاں قومی ٹیم کی کارکردگی بہتر کر پائیں گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #TeamNews #PAKvsENG #TestCricket #Edgbaston",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#TeamNews",
+        "#PAKvsENG",
+        "#TestCricket",
+        "#Edgbaston"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 214,
+      "telegram_file_id": "BQACAgQAAxkDAAPWap7E8j1Tl_--I-RgI6DMZvBrsZYAAooiAALK9PlQIU6bzRbrB-A9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-07T14:06:41.595530+00:00",
+      "updated_at": "2026-09-07T14:06:42.579790+00:00",
       "posted_at": null
     }
   ]
