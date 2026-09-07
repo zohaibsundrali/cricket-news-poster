@@ -200,7 +200,8 @@
     "21249b3fffacc277": "2026-09-06T18:58:44.874096+00:00",
     "3cd1dd3dc3263077": "2026-09-06T18:59:19.161439+00:00",
     "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00",
-    "96f19598681158b2": "2026-09-07T14:06:41.595571+00:00"
+    "96f19598681158b2": "2026-09-07T14:06:41.595571+00:00",
+    "ca5591cb6382d9a9": "2026-09-07T20:24:17.654996+00:00"
   },
   "posts": [
     {
@@ -3696,6 +3697,40 @@
       "error_msg": null,
       "created_at": "2026-09-07T14:06:41.595530+00:00",
       "updated_at": "2026-09-07T14:06:42.579790+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260907T2024Z-b22d36",
+      "url_hash": "ca5591cb6382d9a9",
+      "source_url": "https://www.dawn.com/news/2028178/pakistan-through-to-womens-asia-cup-semi-finals-as-nashra-leads-hong-kong-rout",
+      "source_name": "Dawn",
+      "title_en": "Pakistan through to Women’s Asia Cup semi-finals as Nashra leads Hong Kong rout",
+      "headline_ur": "پاکستان ویمنز ایشیا کپ سیمی فائنل میں، نشرا کی شاندار بالنگ",
+      "summary_ur": [
+        "پاکستان ویمنز ایشیا کپ کے سیمی فائنل میں پہنچ گیا",
+        "نشرا سندھو نے 6 وکٹیں لے کر ہانگ کانگ کو 72 رنز سے شکست دی",
+        "پاکستان کا اگلا مقابلہ جمعہ کو سری لنکا سے ہوگا"
+      ],
+      "caption_ur": "پاکستان ویمنز ٹیم نے ہانگ کانگ کو باآسانی ہرا کر ایشیا کپ کے سیمی فائنل میں جگہ بنا لی۔ نشرا سندھو نے شاندار بالنگ کرتے ہوئے 6 وکٹیں حاصل کیں اور پلیئر آف دی میچ قرار پائیں۔ قومی ٹیم کا اگلا مقابلہ جمعہ کو سری لنکا سے ہوگا۔ کیا آپ کو لگتا ہے کہ پاکستان فائنل میں پہنچ پائے گا؟",
+      "fb_caption": "پاکستان ویمنز ٹیم نے ہانگ کانگ کو باآسانی ہرا کر ایشیا کپ کے سیمی فائنل میں جگہ بنا لی۔ نشرا سندھو نے شاندار بالنگ کرتے ہوئے 6 وکٹیں حاصل کیں اور پلیئر آف دی میچ قرار پائیں۔ قومی ٹیم کا اگلا مقابلہ جمعہ کو سری لنکا سے ہوگا۔ کیا آپ کو لگتا ہے کہ پاکستان فائنل میں پہنچ پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #WomensAsiaCup #Pakistan #NashraSandhu #AsiaCup #SemiFinal",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WomensAsiaCup",
+        "#Pakistan",
+        "#NashraSandhu",
+        "#AsiaCup",
+        "#SemiFinal"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 215,
+      "telegram_file_id": "BQACAgQAAxkDAAPXap8dcqM5pdJn3k_BG1NEx-ISPS8AAkgfAALqzPhQd0eOx3BWsHI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-07T20:24:17.654942+00:00",
+      "updated_at": "2026-09-07T20:24:18.753950+00:00",
       "posted_at": null
     }
   ]
