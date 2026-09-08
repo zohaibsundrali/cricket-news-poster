@@ -201,7 +201,8 @@
     "3cd1dd3dc3263077": "2026-09-06T18:59:19.161439+00:00",
     "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00",
     "96f19598681158b2": "2026-09-07T14:06:41.595571+00:00",
-    "ca5591cb6382d9a9": "2026-09-07T20:24:17.654996+00:00"
+    "ca5591cb6382d9a9": "2026-09-07T20:24:17.654996+00:00",
+    "bcc01c7de9169f6b": "2026-09-08T07:03:56.534378+00:00"
   },
   "posts": [
     {
@@ -3731,6 +3732,40 @@
       "error_msg": null,
       "created_at": "2026-09-07T20:24:17.654942+00:00",
       "updated_at": "2026-09-07T20:24:18.753950+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260908T0703Z-f907e2",
+      "url_hash": "bcc01c7de9169f6b",
+      "source_url": "https://www.dawn.com/news/2028232/pakistan-super-league-teams-seek-lower-player-salary-purse-amid-rising-costs",
+      "source_name": "Dawn",
+      "title_en": "Pakistan Super League teams seek lower player salary purse amid rising costs",
+      "headline_ur": "پی ایس ایل ٹیموں کا سیلری پرس کم کرنے کا مطالبہ",
+      "summary_ur": [
+        "پی ایس ایل کی کچھ فرنچائزز نے پی سی بی سے پلیئر سیلری پرس کم کرنے کی درخواست کی",
+        "ان کا مؤقف ہے کہ موجودہ رقم بہت زیادہ ہے",
+        "پی سی بی نے 10 ایڈیشنز کے بعد پرس 1.6 ملین ڈالر کیا تھا"
+      ],
+      "caption_ur": "پی ایس ایل کی کچھ فرنچائزز نے پی سی بی سے پلیئر سیلری پرس کم کرنے کا مطالبہ کیا ہے۔ ان کا کہنا ہے کہ موجودہ رقم بہت زیادہ ہے اور اخراجات پورے کرنا مشکل ہو رہا ہے۔ کیا آپ کے خیال میں یہ مطالبہ جائز ہے؟",
+      "fb_caption": "پی ایس ایل کی کچھ فرنچائزز نے پی سی بی سے پلیئر سیلری پرس کم کرنے کا مطالبہ کیا ہے۔ ان کا کہنا ہے کہ موجودہ رقم بہت زیادہ ہے اور اخراجات پورے کرنا مشکل ہو رہا ہے۔ کیا آپ کے خیال میں یہ مطالبہ جائز ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PSL #PakistanSuperLeague #PSLTeams #SalaryPurse #کرکٹ_خبریں",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PSL",
+        "#PakistanSuperLeague",
+        "#PSLTeams",
+        "#SalaryPurse",
+        "#کرکٹ_خبریں"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 218,
+      "telegram_file_id": "BQACAgQAAxkDAAPaap-zXTPgMflcF4q4VIZBOre-S_MAAtAfAALqzPhQHAZErg0rnNQ9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-08T07:03:56.534329+00:00",
+      "updated_at": "2026-09-08T07:03:57.661701+00:00",
       "posted_at": null
     }
   ]
