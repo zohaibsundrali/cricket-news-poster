@@ -3727,11 +3727,11 @@
       "telegram_message_id": 215,
       "telegram_file_id": "BQACAgQAAxkDAAPXap8dcqM5pdJn3k_BG1NEx-ISPS8AAkgfAALqzPhQd0eOx3BWsHI9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-07T20:24:17.654942+00:00",
-      "updated_at": "2026-09-07T20:24:18.753950+00:00",
+      "updated_at": "2026-09-08T11:38:18.287768+00:00",
       "posted_at": null
     },
     {
