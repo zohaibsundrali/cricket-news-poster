@@ -202,7 +202,8 @@
     "d1a84ffe23f5abf0": "2026-09-07T07:09:33.682171+00:00",
     "96f19598681158b2": "2026-09-07T14:06:41.595571+00:00",
     "ca5591cb6382d9a9": "2026-09-07T20:24:17.654996+00:00",
-    "bcc01c7de9169f6b": "2026-09-08T07:03:56.534378+00:00"
+    "bcc01c7de9169f6b": "2026-09-08T07:03:56.534378+00:00",
+    "57425888124715f6": "2026-09-08T12:43:14.564689+00:00"
   },
   "posts": [
     {
@@ -3766,6 +3767,40 @@
       "error_msg": null,
       "created_at": "2026-09-08T07:03:56.534329+00:00",
       "updated_at": "2026-09-08T07:03:57.661701+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260908T1243Z-f49895",
+      "url_hash": "57425888124715f6",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/phones-confiscated-players-sent-home-pakistans-england-tour-turmoil-revives-memories-of-mohammad-amir-salman-butt-and-mohammad-asifs-2010-lords-spot-fixing-scandal/articleshow/133919587.cms",
+      "source_name": "The Times of India",
+      "title_en": "Phones confiscated, players sent home: Pakistan's England tour turmoil revives memories of Mohammad Amir, Salman Butt and Mohammad Asif's 2010 Lord's spot-fixing scandal",
+      "headline_ur": "پاکستان ٹیم میں بڑی تبدیلیاں، تحقیقات کا اعلان",
+      "summary_ur": [
+        "پی سی بی نے 7 کھلاڑیوں کو وطن واپس بھیج دیا اور 7 نئے کھلاڑی طلب کر لیے۔",
+        "ٹیسٹ کوچ سرفراز احمد اور بالنگ کوچ عمر گل کو بھی ہٹا دیا گیا۔",
+        "ٹیم کے رویے کی تحقیقات کا اعلان، کھلاڑیوں کے فون ضبط۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف جاری ٹیسٹ سیریز میں قومی ٹیم کی شکستوں کے بعد پاکستان کرکٹ بورڈ نے بڑے فیصلے کیے ہیں۔ 7 کھلاڑیوں کو واپس بھیج دیا گیا ہے جبکہ ٹیسٹ کوچ اور بالنگ کوچ بھی تبدیل کر دیے گئے ہیں۔ اب پی سی بی نے ٹیم کے رویے کی تحقیقات کا اعلان کیا ہے اور کھلاڑیوں کے فون بھی قبضے میں لے لیے ہیں۔ کیا یہ صورتحال 2010 کے اسپاٹ فکسنگ اسکینڈل کی یاد دلاتی ہے؟",
+      "fb_caption": "انگلینڈ کے خلاف جاری ٹیسٹ سیریز میں قومی ٹیم کی شکستوں کے بعد پاکستان کرکٹ بورڈ نے بڑے فیصلے کیے ہیں۔ 7 کھلاڑیوں کو واپس بھیج دیا گیا ہے جبکہ ٹیسٹ کوچ اور بالنگ کوچ بھی تبدیل کر دیے گئے ہیں۔ اب پی سی بی نے ٹیم کے رویے کی تحقیقات کا اعلان کیا ہے اور کھلاڑیوں کے فون بھی قبضے میں لے لیے ہیں۔ کیا یہ صورتحال 2010 کے اسپاٹ فکسنگ اسکینڈل کی یاد دلاتی ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PakistanCricket #PCB #SpotFixing #EnglandTour #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#PCB",
+        "#SpotFixing",
+        "#EnglandTour",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 220,
+      "telegram_file_id": "BQACAgQAAxkDAAPcaqAC43-pCsFY5B9bR_8wXyrYMfEAAmUfAALqzAABUQdKTn4TBTtKPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-08T12:43:14.564644+00:00",
+      "updated_at": "2026-09-08T12:43:15.587303+00:00",
       "posted_at": null
     }
   ]
