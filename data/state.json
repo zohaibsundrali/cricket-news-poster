@@ -3763,11 +3763,11 @@
       "telegram_message_id": 218,
       "telegram_file_id": "BQACAgQAAxkDAAPaap-zXTPgMflcF4q4VIZBOre-S_MAAtAfAALqzPhQHAZErg0rnNQ9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-08T07:03:56.534329+00:00",
-      "updated_at": "2026-09-08T07:03:57.661701+00:00",
+      "updated_at": "2026-09-08T21:41:42.908445+00:00",
       "posted_at": null
     },
     {
