@@ -205,7 +205,8 @@
     "bcc01c7de9169f6b": "2026-09-08T07:03:56.534378+00:00",
     "57425888124715f6": "2026-09-08T12:43:14.564689+00:00",
     "621ca02e774647aa": "2026-09-08T17:50:34.858106+00:00",
-    "d0fd7aec635c6f63": "2026-09-09T07:12:36.430108+00:00"
+    "d0fd7aec635c6f63": "2026-09-09T07:12:36.430108+00:00",
+    "187cb268f9ea491d": "2026-09-09T12:50:27.444549+00:00"
   },
   "posts": [
     {
@@ -3871,6 +3872,40 @@
       "error_msg": null,
       "created_at": "2026-09-09T07:12:36.430069+00:00",
       "updated_at": "2026-09-09T07:12:37.468727+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260909T1250Z-f50aac",
+      "url_hash": "187cb268f9ea491d",
+      "source_url": "https://www.dawn.com/news/2028615/pakistan-collapse-to-100-7-against-england-in-third-test",
+      "source_name": "Dawn",
+      "title_en": "Pakistan collapse to 100-7 against England in third Test",
+      "headline_ur": "ایجبسٹن ٹیسٹ: پاکستان 100 رنز پر 7 وکٹیں گنوا بیٹھا",
+      "summary_ur": [
+        "انگلینڈ کے خلاف تیسرے ٹیسٹ کے پہلے دن پاکستان کی بیٹنگ لائن لڑکھڑا گئی۔",
+        "لنچ تک قومی ٹیم 100 رنز پر 7 وکٹیں گنوا چکی تھی۔",
+        "سیریز میں پاکستان پہلے ہی 2-0 سے پیچھے ہے۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف ایجبسٹن ٹیسٹ کے پہلے دن پاکستان کی بیٹنگ لائن ایک بار پھر مشکلات کا شکار ہو گئی۔ لنچ تک قومی ٹیم صرف 100 رنز پر 7 وکٹیں گنوا چکی تھی۔ سعود شکیل نے 37 رنز بنا کر مزاحمت کی لیکن انگلش بالرز حاوی رہے۔ کیا پاکستان اس میچ میں کم بیک کر پائے گا؟",
+      "fb_caption": "انگلینڈ کے خلاف ایجبسٹن ٹیسٹ کے پہلے دن پاکستان کی بیٹنگ لائن ایک بار پھر مشکلات کا شکار ہو گئی۔ لنچ تک قومی ٹیم صرف 100 رنز پر 7 وکٹیں گنوا چکی تھی۔ سعود شکیل نے 37 رنز بنا کر مزاحمت کی لیکن انگلش بالرز حاوی رہے۔ کیا پاکستان اس میچ میں کم بیک کر پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PAKvsENG #TestCricket #PakistanCricket #Edgbaston #SaudShakeel",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PAKvsENG",
+        "#TestCricket",
+        "#PakistanCricket",
+        "#Edgbaston",
+        "#SaudShakeel"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 226,
+      "telegram_file_id": "BQACAgQAAxkDAAPiaqFWFOOMTKj_GG-APbSJAWV37ysAAs0jAAKz5glRDumXUHs2Hxw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-09T12:50:27.444498+00:00",
+      "updated_at": "2026-09-09T12:50:28.725905+00:00",
       "posted_at": null
     }
   ]
