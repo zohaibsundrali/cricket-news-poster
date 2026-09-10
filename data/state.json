@@ -206,7 +206,8 @@
     "57425888124715f6": "2026-09-08T12:43:14.564689+00:00",
     "621ca02e774647aa": "2026-09-08T17:50:34.858106+00:00",
     "d0fd7aec635c6f63": "2026-09-09T07:12:36.430108+00:00",
-    "187cb268f9ea491d": "2026-09-09T12:50:27.444549+00:00"
+    "187cb268f9ea491d": "2026-09-09T12:50:27.444549+00:00",
+    "bec886469e32b7d4": "2026-09-10T07:09:19.489646+00:00"
   },
   "posts": [
     {
@@ -3906,6 +3907,40 @@
       "error_msg": null,
       "created_at": "2026-09-09T12:50:27.444498+00:00",
       "updated_at": "2026-09-10T03:50:35.375559+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260910T0709Z-1d6620",
+      "url_hash": "bec886469e32b7d4",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/were-not-used-to-facing-that-pakistan-hide-behind-conditions-as-batting-woes-continue-in-england/articleshow/133994286.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Weâre not used to facing that': Pakistan hide behind 'conditions' as batting woes continue in England",
+      "headline_ur": "پاکستان کی بیٹنگ پھر فلاپ، 133 پر آل آؤٹ",
+      "summary_ur": [
+        "انگلینڈ کے خلاف تیسرے ٹیسٹ میں پاکستان 133 رنز پر آل آؤٹ ہوگیا۔",
+        "جوش ٹنگ نے 4 وکٹیں حاصل کیں، سعود شکیل 43 رنز بنا کر نمایاں رہے۔",
+        "انگلینڈ نے پہلے دن کے اختتام پر 23 رنز کی برتری حاصل کرلی۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف تیسرے ٹیسٹ میں پاکستانی بیٹنگ لائن ایک بار پھر مشکلات کا شکار رہی اور پوری ٹیم صرف 133 رنز پر ڈھیر ہوگئی۔ سعود شکیل نے ٹیم کی خراب کارکردگی پر مایوسی کا اظہار کرتے ہوئے کہا کہ ہم ایک ہی غلطی بار بار دہرا رہے ہیں۔ ان کا کہنا تھا کہ انگلینڈ کی کنڈیشنز میں بالرز کو ملنے والی سوئنگ کا سامنا کرنا مشکل ہو رہا ہے۔ آپ کے خیال میں پاکستانی بیٹنگ کی ناکامی کی سب سے بڑی وجہ کیا ہے؟",
+      "fb_caption": "انگلینڈ کے خلاف تیسرے ٹیسٹ میں پاکستانی بیٹنگ لائن ایک بار پھر مشکلات کا شکار رہی اور پوری ٹیم صرف 133 رنز پر ڈھیر ہوگئی۔ سعود شکیل نے ٹیم کی خراب کارکردگی پر مایوسی کا اظہار کرتے ہوئے کہا کہ ہم ایک ہی غلطی بار بار دہرا رہے ہیں۔ ان کا کہنا تھا کہ انگلینڈ کی کنڈیشنز میں بالرز کو ملنے والی سوئنگ کا سامنا کرنا مشکل ہو رہا ہے۔ آپ کے خیال میں پاکستانی بیٹنگ کی ناکامی کی سب سے بڑی وجہ کیا ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PakistanCricket #ENGvPAK #SaudShakeel #TestCricket #BattingWoes",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#ENGvPAK",
+        "#SaudShakeel",
+        "#TestCricket",
+        "#BattingWoes"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 229,
+      "telegram_file_id": "BQACAgQAAxkDAAPlaqJXoo6RkIcDF4Mha0zqxscyCrMAAk0jAAKz5hFRJqUpaFN-VNU9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-10T07:09:19.489597+00:00",
+      "updated_at": "2026-09-10T07:09:22.796064+00:00",
       "posted_at": null
     }
   ]
