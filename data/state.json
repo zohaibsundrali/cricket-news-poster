@@ -207,7 +207,8 @@
     "621ca02e774647aa": "2026-09-08T17:50:34.858106+00:00",
     "d0fd7aec635c6f63": "2026-09-09T07:12:36.430108+00:00",
     "187cb268f9ea491d": "2026-09-09T12:50:27.444549+00:00",
-    "bec886469e32b7d4": "2026-09-10T07:09:19.489646+00:00"
+    "bec886469e32b7d4": "2026-09-10T07:09:19.489646+00:00",
+    "ac989d4c79a67aab": "2026-09-10T12:48:05.322791+00:00"
   },
   "posts": [
     {
@@ -3941,6 +3942,40 @@
       "error_msg": null,
       "created_at": "2026-09-10T07:09:19.489597+00:00",
       "updated_at": "2026-09-10T07:09:22.796064+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260910T1248Z-4115b7",
+      "url_hash": "ac989d4c79a67aab",
+      "source_url": "https://www.dawn.com/news/2028858/farhan-yousuf-usman-khan-centuries-see-pakistan-thrash-england-in-first-youth-odi",
+      "source_name": "Dawn",
+      "title_en": "Farhan Yousuf, Usman Khan centuries see Pakistan thrash England in first youth ODI",
+      "headline_ur": "پاکستان انڈر 19 کی انگلینڈ کو 177 رنز سے شکست",
+      "summary_ur": [
+        "پاکستان انڈر 19 نے انگلینڈ کو پہلے ون ڈے میں 177 رنز سے ہرایا۔",
+        "کپتان فرحان یوسف اور عثمان خان نے سنچریاں سکور کیں۔",
+        "محمد صیام نے شاندار بالنگ کرتے ہوئے 4 وکٹیں حاصل کیں۔"
+      ],
+      "caption_ur": "پاکستان انڈر 19 نے انگلینڈ کو پہلے ون ڈے میں 177 رنز سے شکست دے کر سیریز میں 1-0 کی برتری حاصل کر لی۔ فرحان یوسف اور عثمان خان کی شاندار سنچریوں نے ٹیم کی جیت میں اہم کردار ادا کیا۔ محمد صیام نے بھی 4 وکٹیں حاصل کر کے انگلینڈ کی بیٹنگ لائن کو تباہ کیا۔ قومی جونیئر ٹیم کی اس کارکردگی پر آپ کیا کہیں گے؟",
+      "fb_caption": "پاکستان انڈر 19 نے انگلینڈ کو پہلے ون ڈے میں 177 رنز سے شکست دے کر سیریز میں 1-0 کی برتری حاصل کر لی۔ فرحان یوسف اور عثمان خان کی شاندار سنچریوں نے ٹیم کی جیت میں اہم کردار ادا کیا۔ محمد صیام نے بھی 4 وکٹیں حاصل کر کے انگلینڈ کی بیٹنگ لائن کو تباہ کیا۔ قومی جونیئر ٹیم کی اس کارکردگی پر آپ کیا کہیں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanU19 #FarhanYousuf #UsmanKhan #YouthCricket #PAKvsENG",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanU19",
+        "#FarhanYousuf",
+        "#UsmanKhan",
+        "#YouthCricket",
+        "#PAKvsENG"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 230,
+      "telegram_file_id": "BQACAgQAAxkDAAPmaqKnBktLiai4p0cJwyGMKVMyFLIAAssjAAKz5hFRLyVQdce9dRM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-10T12:48:05.322743+00:00",
+      "updated_at": "2026-09-10T12:48:06.601866+00:00",
       "posted_at": null
     }
   ]
