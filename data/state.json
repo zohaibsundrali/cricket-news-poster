@@ -3901,11 +3901,11 @@
       "telegram_message_id": 226,
       "telegram_file_id": "BQACAgQAAxkDAAPiaqFWFOOMTKj_GG-APbSJAWV37ysAAs0jAAKz5glRDumXUHs2Hxw9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-09T12:50:27.444498+00:00",
-      "updated_at": "2026-09-09T12:50:28.725905+00:00",
+      "updated_at": "2026-09-10T03:50:35.375559+00:00",
       "posted_at": null
     }
   ]
