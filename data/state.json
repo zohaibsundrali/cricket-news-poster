@@ -208,7 +208,8 @@
     "d0fd7aec635c6f63": "2026-09-09T07:12:36.430108+00:00",
     "187cb268f9ea491d": "2026-09-09T12:50:27.444549+00:00",
     "bec886469e32b7d4": "2026-09-10T07:09:19.489646+00:00",
-    "ac989d4c79a67aab": "2026-09-10T12:48:05.322791+00:00"
+    "ac989d4c79a67aab": "2026-09-10T12:48:05.322791+00:00",
+    "9d5bf97ffa9ffce1": "2026-09-10T17:35:54.310073+00:00"
   },
   "posts": [
     {
@@ -3976,6 +3977,40 @@
       "error_msg": null,
       "created_at": "2026-09-10T12:48:05.322743+00:00",
       "updated_at": "2026-09-10T12:48:06.601866+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260910T1735Z-3d2181",
+      "url_hash": "9d5bf97ffa9ffce1",
+      "source_url": "https://www.dawn.com/news/2028886/england-close-in-on-test-series-sweep-against-sorry-pakistan",
+      "source_name": "Dawn",
+      "title_en": "England close in on Test series sweep against sorry Pakistan",
+      "headline_ur": "انگلینڈ سیریز وائٹ واش کے قریب، پاکستان کی بیٹنگ لڑکھڑا گئی",
+      "summary_ur": [
+        "انگلینڈ نے پاکستان کے 133 رنز کے جواب میں 453 رنز بنائے",
+        "پاکستان دوسری اننگز میں 4 گیندوں پر 0-2 کا شکار ہو گیا",
+        "اولی رابنسن نے 6 اوورز میں 10 رنز دے کر 2 وکٹیں حاصل کیں"
+      ],
+      "caption_ur": "انگلینڈ نے پاکستان کے خلاف تیسرے ٹیسٹ میں اپنی گرفت مضبوط کر لی ہے۔ پاکستان کی بیٹنگ لائن ایک بار پھر مشکلات کا شکار نظر آئی، جہاں اولی رابنسن نے تباہ کن بالنگ کی۔ نوجوان بالر رضا اللہ نے ڈیبیو پر 4 وکٹیں حاصل کیں، کیا یہ پاکستان کے لیے کوئی مثبت پہلو ہے؟",
+      "fb_caption": "انگلینڈ نے پاکستان کے خلاف تیسرے ٹیسٹ میں اپنی گرفت مضبوط کر لی ہے۔ پاکستان کی بیٹنگ لائن ایک بار پھر مشکلات کا شکار نظر آئی، جہاں اولی رابنسن نے تباہ کن بالنگ کی۔ نوجوان بالر رضا اللہ نے ڈیبیو پر 4 وکٹیں حاصل کیں، کیا یہ پاکستان کے لیے کوئی مثبت پہلو ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PAKvsENG #TestCricket #OllieRobinson #Razaullah #PakistanCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PAKvsENG",
+        "#TestCricket",
+        "#OllieRobinson",
+        "#Razaullah",
+        "#PakistanCricket"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 231,
+      "telegram_file_id": "BQACAgQAAxkDAAPnaqLqex_6LY6yRYS3WYtFCXMkevgAAqwcAALvzRhRZqHl9ezQLKI9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-10T17:35:54.310031+00:00",
+      "updated_at": "2026-09-10T17:35:55.767024+00:00",
       "posted_at": null
     }
   ]
