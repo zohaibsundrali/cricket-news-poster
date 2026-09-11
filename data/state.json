@@ -210,7 +210,10 @@
     "bec886469e32b7d4": "2026-09-10T07:09:19.489646+00:00",
     "ac989d4c79a67aab": "2026-09-10T12:48:05.322791+00:00",
     "9d5bf97ffa9ffce1": "2026-09-10T17:35:54.310073+00:00",
-    "4d31b4f184feca99": "2026-09-11T07:08:56.876863+00:00"
+    "4d31b4f184feca99": "2026-09-11T07:08:56.876863+00:00",
+    "abefac2ca6fd2343": "2026-09-11T12:42:31.707940+00:00",
+    "eb91afcfd3a45a2c": "2026-09-11T12:42:31.814611+00:00",
+    "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00"
   },
   "posts": [
     {
@@ -4046,6 +4049,40 @@
       "error_msg": null,
       "created_at": "2026-09-11T07:08:56.876819+00:00",
       "updated_at": "2026-09-11T07:08:58.145677+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260911T1242Z-670d81",
+      "url_hash": "7c116a222e6f39b3",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-pakistans-cyber-crime-summoned-mohammed-rizwan-and-imam-ul-haq-now-face-domestic-cricket-setback/articleshow/134062546.cms",
+      "source_name": "The Times of India",
+      "title_en": "After Pakistan's cybercrime summons, Mohammed Rizwan and Imam-ul-Haq now face domestic cricket setback",
+      "headline_ur": "رضوان اور امام الحق کو سائبر کرائم اور فٹنس مسائل",
+      "summary_ur": [
+        "قومی کرکٹرز محمد رضوان اور امام الحق کو NCCIA نے طلب کیا ہے۔",
+        "انہیں موبائل فون سے معلومات کے سلسلے میں 2 گھنٹے تک پوچھ گچھ کی گئی۔",
+        "فٹنس ٹیسٹ نہ دینے پر پریذیڈنٹ ٹرافی کا پہلا راؤنڈ بھی مس کریں گے۔"
+      ],
+      "caption_ur": "انگلینڈ کے دورے کے بعد محمد رضوان اور امام الحق کی مشکلات کم ہونے کا نام نہیں لے رہیں۔ انہیں سائبر کرائم ایجنسی نے موبائل فون ڈیٹا کے سلسلے میں طلب کیا اور 2 گھنٹے تک پوچھ گچھ کی گئی۔ اس کے علاوہ، فٹنس ٹیسٹ نہ دینے کی وجہ سے وہ پریذیڈنٹ ٹرافی کا افتتاحی راؤنڈ بھی نہیں کھیل سکیں گے۔ آپ کے خیال میں کھلاڑیوں کے لیے یہ صورتحال کتنی مشکل ہے؟",
+      "fb_caption": "انگلینڈ کے دورے کے بعد محمد رضوان اور امام الحق کی مشکلات کم ہونے کا نام نہیں لے رہیں۔ انہیں سائبر کرائم ایجنسی نے موبائل فون ڈیٹا کے سلسلے میں طلب کیا اور 2 گھنٹے تک پوچھ گچھ کی گئی۔ اس کے علاوہ، فٹنس ٹیسٹ نہ دینے کی وجہ سے وہ پریذیڈنٹ ٹرافی کا افتتاحی راؤنڈ بھی نہیں کھیل سکیں گے۔ آپ کے خیال میں کھلاڑیوں کے لیے یہ صورتحال کتنی مشکل ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MohammadRizwan #ImamUlHaq #PakistanCricket #PCB #PresidentTrophy",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MohammadRizwan",
+        "#ImamUlHaq",
+        "#PakistanCricket",
+        "#PCB",
+        "#PresidentTrophy"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 236,
+      "telegram_file_id": "BQACAgQAAxkDAAPsaqP3QjjUZiJ-iG3YA6eWCrsJE18AAiAgAALvzSBRqS8jec2eVQk9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-11T12:42:41.754698+00:00",
+      "updated_at": "2026-09-11T12:42:42.984208+00:00",
       "posted_at": null
     }
   ]
