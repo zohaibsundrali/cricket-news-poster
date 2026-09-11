@@ -213,7 +213,8 @@
     "4d31b4f184feca99": "2026-09-11T07:08:56.876863+00:00",
     "abefac2ca6fd2343": "2026-09-11T12:42:31.707940+00:00",
     "eb91afcfd3a45a2c": "2026-09-11T12:42:31.814611+00:00",
-    "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00"
+    "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00",
+    "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00"
   },
   "posts": [
     {
@@ -4083,6 +4084,40 @@
       "error_msg": null,
       "created_at": "2026-09-11T12:42:41.754698+00:00",
       "updated_at": "2026-09-11T12:42:42.984208+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260911T1738Z-a87b64",
+      "url_hash": "362707fd15df7c74",
+      "source_url": "https://www.dawn.com/news/2029132/england-dismiss-shan-masood-to-close-on-victory-in-third-test",
+      "source_name": "Dawn",
+      "title_en": "England dismiss Shan Masood to close on victory in third Test",
+      "headline_ur": "شان مسعود 95 رنز بنا کر آؤٹ، انگلینڈ فتح کے قریب",
+      "summary_ur": [
+        "شان مسعود 95 رنز بنا کر آؤٹ، پاکستان کی مزاحمت جاری۔",
+        "اظہان اویس نے بھی 59 رنز کی اہم اننگز کھیلی۔",
+        "بابر اعظم 51 رنز بنا کر کریز پر موجود ہیں۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف تیسرے ٹیسٹ میں پاکستان کی ٹیم مزاحمت کر رہی ہے۔ شان مسعود نے 95 رنز کی شاندار اننگز کھیلی جبکہ اظہان اویس نے 59 رنز بنائے۔ بابر اعظم بھی 51 رنز کے ساتھ کریز پر موجود ہیں۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟",
+      "fb_caption": "انگلینڈ کے خلاف تیسرے ٹیسٹ میں پاکستان کی ٹیم مزاحمت کر رہی ہے۔ شان مسعود نے 95 رنز کی شاندار اننگز کھیلی جبکہ اظہان اویس نے 59 رنز بنائے۔ بابر اعظم بھی 51 رنز کے ساتھ کریز پر موجود ہیں۔ کیا قومی ٹیم یہ میچ بچا پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #ShanMasood #BabarAzam #PAKvENG #TestCricket #Pakistan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ShanMasood",
+        "#BabarAzam",
+        "#PAKvENG",
+        "#TestCricket",
+        "#Pakistan"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 237,
+      "telegram_file_id": "BQACAgQAAxkDAAPtaqQ8oo1CWEcfY4oQ7CHc05OswesAAkMeAALvzShRWUDP55X4RhM9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-11T17:38:41.051100+00:00",
+      "updated_at": "2026-09-11T17:38:42.234482+00:00",
       "posted_at": null
     }
   ]
