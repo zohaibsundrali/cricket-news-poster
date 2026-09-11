@@ -4045,11 +4045,11 @@
       "telegram_message_id": 234,
       "telegram_file_id": "BQACAgQAAxkDAAPqaqOpCdgIEdoalBzow_POdzUFCQEAAtEfAALvzSBRrqoBDU9XH7A9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-11T07:08:56.876819+00:00",
-      "updated_at": "2026-09-11T07:08:58.145677+00:00",
+      "updated_at": "2026-09-11T19:56:58.127561+00:00",
       "posted_at": null
     },
     {
