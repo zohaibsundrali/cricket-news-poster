@@ -4079,11 +4079,11 @@
       "telegram_message_id": 236,
       "telegram_file_id": "BQACAgQAAxkDAAPsaqP3QjjUZiJ-iG3YA6eWCrsJE18AAiAgAALvzSBRqS8jec2eVQk9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-11T12:42:41.754698+00:00",
-      "updated_at": "2026-09-11T12:42:42.984208+00:00",
+      "updated_at": "2026-09-12T05:07:41.856987+00:00",
       "posted_at": null
     },
     {
