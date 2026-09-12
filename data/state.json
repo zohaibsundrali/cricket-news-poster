@@ -215,7 +215,8 @@
     "eb91afcfd3a45a2c": "2026-09-11T12:42:31.814611+00:00",
     "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00",
     "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00",
-    "51c1debaa7c61f88": "2026-09-12T07:01:43.413955+00:00"
+    "51c1debaa7c61f88": "2026-09-12T07:01:43.413955+00:00",
+    "06bcf4546717207e": "2026-09-12T12:03:49.640669+00:00"
   },
   "posts": [
     {
@@ -4153,6 +4154,40 @@
       "error_msg": null,
       "created_at": "2026-09-12T07:01:43.413916+00:00",
       "updated_at": "2026-09-12T07:01:44.888913+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260912T1203Z-e6ec4c",
+      "url_hash": "06bcf4546717207e",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-enters-record-books-achieves-major-wtc-feat-against-england/articleshow/134115248.cms",
+      "source_name": "The Times of India",
+      "title_en": "Babar Azam enters record books, achieves major WTC feat against England",
+      "headline_ur": "بابر اعظم کا ورلڈ ٹیسٹ چیمپئن شپ میں بڑا ریکارڈ",
+      "summary_ur": [
+        "بابر اعظم نے ورلڈ ٹیسٹ چیمپئن شپ میں بطور کپتان 2000 رنز مکمل کر لیے",
+        "وہ یہ کارنامہ انجام دینے والے دنیا کے چوتھے بیٹر بن گئے",
+        "بابر نے 41 اننگز میں 2000 رنز بنائے، تیسرے تیز ترین بیٹر"
+      ],
+      "caption_ur": "بابر اعظم نے انگلینڈ کے خلاف کھیلتے ہوئے ورلڈ ٹیسٹ چیمپئن شپ میں بطور کپتان 2000 رنز کا سنگ میل عبور کر لیا۔ وہ یہ کارنامہ انجام دینے والے دنیا کے چوتھے بیٹر بن گئے ہیں۔ بابر نے 41 اننگز میں 2000 رنز مکمل کیے، جو انہیں تیسرا تیز ترین بیٹر بناتا ہے۔ ان کی 76 رنز کی اننگز میں 11 چوکے اور ایک چھکا شامل تھا۔ آپ کو بابر کی یہ اننگز کیسی لگی؟",
+      "fb_caption": "بابر اعظم نے انگلینڈ کے خلاف کھیلتے ہوئے ورلڈ ٹیسٹ چیمپئن شپ میں بطور کپتان 2000 رنز کا سنگ میل عبور کر لیا۔ وہ یہ کارنامہ انجام دینے والے دنیا کے چوتھے بیٹر بن گئے ہیں۔ بابر نے 41 اننگز میں 2000 رنز مکمل کیے، جو انہیں تیسرا تیز ترین بیٹر بناتا ہے۔ ان کی 76 رنز کی اننگز میں 11 چوکے اور ایک چھکا شامل تھا۔ آپ کو بابر کی یہ اننگز کیسی لگی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #WTC #PakistanCricket #ریکارڈ #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#WTC",
+        "#PakistanCricket",
+        "#ریکارڈ",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 242,
+      "telegram_file_id": "BQACAgQAAxkDAAPyaqU_puiZi2nen597iKH5ZoVCQNwAAiIgAAKAZihR1aLdZUiZyws9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-12T12:03:49.640619+00:00",
+      "updated_at": "2026-09-12T12:03:50.659904+00:00",
       "posted_at": null
     }
   ]
