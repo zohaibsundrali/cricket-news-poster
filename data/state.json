@@ -216,7 +216,8 @@
     "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00",
     "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00",
     "51c1debaa7c61f88": "2026-09-12T07:01:43.413955+00:00",
-    "06bcf4546717207e": "2026-09-12T12:03:49.640669+00:00"
+    "06bcf4546717207e": "2026-09-12T12:03:49.640669+00:00",
+    "977115696604fc09": "2026-09-12T16:53:25.156939+00:00"
   },
   "posts": [
     {
@@ -4188,6 +4189,40 @@
       "error_msg": null,
       "created_at": "2026-09-12T12:03:49.640619+00:00",
       "updated_at": "2026-09-12T12:03:50.659904+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260912T1653Z-9918d7",
+      "url_hash": "977115696604fc09",
+      "source_url": "https://www.dawn.com/news/2029408/three-talking-points-from-the-pakistan-england-test-series",
+      "source_name": "Dawn",
+      "title_en": "Three talking points from the Pakistan-England Test series",
+      "headline_ur": "پاکستان کو انگلینڈ سے 3-0 کی وائٹ واش شکست",
+      "summary_ur": [
+        "پاکستان کو انگلینڈ کے خلاف ٹیسٹ سیریز میں 3-0 سے وائٹ واش کا سامنا کرنا پڑا",
+        "ڈیبیو کرنے والے رضا اللہ نے 4 وکٹیں حاصل کیں اور 63 گیندوں پر 81 رنز بنائے",
+        "جو روٹ کی کپتانی میں انگلینڈ نے سیریز 3-0 سے جیت لی"
+      ],
+      "caption_ur": "پاکستان کو انگلینڈ کے خلاف ٹیسٹ سیریز میں عبرتناک شکست کا سامنا کرنا پڑا۔ قومی ٹیم کو 3-0 سے وائٹ واش کردیا گیا۔ ڈیبیو کرنے والے رضا اللہ نے شاندار کارکردگی دکھائی۔ آپ کے خیال میں پاکستان کو اپنی ٹیم میں کیا تبدیلیاں کرنی چاہئیں؟",
+      "fb_caption": "پاکستان کو انگلینڈ کے خلاف ٹیسٹ سیریز میں عبرتناک شکست کا سامنا کرنا پڑا۔ قومی ٹیم کو 3-0 سے وائٹ واش کردیا گیا۔ ڈیبیو کرنے والے رضا اللہ نے شاندار کارکردگی دکھائی۔ آپ کے خیال میں پاکستان کو اپنی ٹیم میں کیا تبدیلیاں کرنی چاہئیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanCricket #ENGvsPAK #TestCricket #BabarAzam #JoeRoot",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#BabarAzam",
+        "#JoeRoot"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 243,
+      "telegram_file_id": "BQACAgQAAxkDAAPzaqWDhsS6rava2LM_S6uukWEoPlUAAsMgAAKAZihRuxD1OKoKL8I9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-12T16:53:25.156882+00:00",
+      "updated_at": "2026-09-12T16:53:26.679059+00:00",
       "posted_at": null
     }
   ]
