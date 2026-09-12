@@ -214,7 +214,8 @@
     "abefac2ca6fd2343": "2026-09-11T12:42:31.707940+00:00",
     "eb91afcfd3a45a2c": "2026-09-11T12:42:31.814611+00:00",
     "7c116a222e6f39b3": "2026-09-11T12:42:41.754744+00:00",
-    "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00"
+    "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00",
+    "51c1debaa7c61f88": "2026-09-12T07:01:43.413955+00:00"
   },
   "posts": [
     {
@@ -4118,6 +4119,40 @@
       "error_msg": null,
       "created_at": "2026-09-11T17:38:41.051100+00:00",
       "updated_at": "2026-09-11T17:38:42.234482+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260912T0701Z-7744ef",
+      "url_hash": "51c1debaa7c61f88",
+      "source_url": "https://www.dawn.com/news/2029310/happy-gilmore-is-real-and-he-plays-cricket-for-pakistan",
+      "source_name": "Dawn",
+      "title_en": "Happy Gilmore is real, and he plays cricket for Pakistan",
+      "headline_ur": "رضا اللہ کی دھواں دھار اننگز، انگلینڈ کو حیران کر دیا",
+      "summary_ur": [
+        "ڈیبیو پر 21 سالہ رضا اللہ کی دھواں دھار بیٹنگ",
+        "انہوں نے صرف 63 گیندوں پر 81 رنز کی شاندار اننگز کھیلی",
+        "رضا اللہ نے 9 چھکے لگائے جو انگلینڈ کے مجموعی چھکوں سے زیادہ تھے"
+      ],
+      "caption_ur": "پاکستان کے ڈیبیوٹنٹ رضا اللہ نے انگلینڈ کے خلاف ٹیسٹ میں تہلکہ مچا دیا۔ انہوں نے اپنی غیر روایتی بیٹنگ سے سب کو حیران کر دیا۔ صرف 21 سال کی عمر میں، ان کی 81 رنز کی اننگز میں 9 چھکے شامل تھے۔ کیا یہ کھلاڑی پاکستان کرکٹ کا مستقبل ہے؟",
+      "fb_caption": "پاکستان کے ڈیبیوٹنٹ رضا اللہ نے انگلینڈ کے خلاف ٹیسٹ میں تہلکہ مچا دیا۔ انہوں نے اپنی غیر روایتی بیٹنگ سے سب کو حیران کر دیا۔ صرف 21 سال کی عمر میں، ان کی 81 رنز کی اننگز میں 9 چھکے شامل تھے۔ کیا یہ کھلاڑی پاکستان کرکٹ کا مستقبل ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #Razaullah #PakistanCricket #TestCricket #HappyGilmore #PAKvsENG",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Razaullah",
+        "#PakistanCricket",
+        "#TestCricket",
+        "#HappyGilmore",
+        "#PAKvsENG"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 240,
+      "telegram_file_id": "BQACAgQAAxkDAAPwaqT42P_bv5Tj1pLXDBL8cCyfVpUAArEfAAKAZihRmAw4cd_XCdQ9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-12T07:01:43.413916+00:00",
+      "updated_at": "2026-09-12T07:01:44.888913+00:00",
       "posted_at": null
     }
   ]
