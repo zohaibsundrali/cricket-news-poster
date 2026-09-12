@@ -217,7 +217,8 @@
     "362707fd15df7c74": "2026-09-11T17:38:41.051163+00:00",
     "51c1debaa7c61f88": "2026-09-12T07:01:43.413955+00:00",
     "06bcf4546717207e": "2026-09-12T12:03:49.640669+00:00",
-    "977115696604fc09": "2026-09-12T16:53:25.156939+00:00"
+    "977115696604fc09": "2026-09-12T16:53:25.156939+00:00",
+    "cb65c0a17189ee3a": "2026-09-12T19:03:24.682921+00:00"
   },
   "posts": [
     {
@@ -4223,6 +4224,40 @@
       "error_msg": null,
       "created_at": "2026-09-12T16:53:25.156882+00:00",
       "updated_at": "2026-09-12T16:53:26.679059+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260912T1903Z-214547",
+      "url_hash": "cb65c0a17189ee3a",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "England v Pakistan highlights: Joe Root leads host to eight-wicket win in third Test at Edgbaston",
+      "headline_ur": "انگلینڈ نے پاکستان کو تیسرے ٹیسٹ میں 8 وکٹوں سے ہرا دیا",
+      "summary_ur": [
+        "انگلینڈ نے پاکستان کو تیسرے ٹیسٹ میں 8 وکٹوں سے شکست دی۔",
+        "میزبان ٹیم نے 130 رنز کا ہدف کامیابی سے حاصل کیا۔",
+        "انگلینڈ نے سیریز 3-0 سے اپنے نام کر لی۔"
+      ],
+      "caption_ur": "انگلینڈ نے پاکستان کے خلاف تیسرا ٹیسٹ 8 وکٹوں سے جیت لیا۔ جو روٹ اور جارڈن کاکس نے 130 رنز کا ہدف حاصل کرنے میں اہم کردار ادا کیا۔ اس جیت کے ساتھ انگلینڈ نے سیریز 3-0 سے اپنے نام کر لی۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟",
+      "fb_caption": "انگلینڈ نے پاکستان کے خلاف تیسرا ٹیسٹ 8 وکٹوں سے جیت لیا۔ جو روٹ اور جارڈن کاکس نے 130 رنز کا ہدف حاصل کرنے میں اہم کردار ادا کیا۔ اس جیت کے ساتھ انگلینڈ نے سیریز 3-0 سے اپنے نام کر لی۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #ENGvPAK #TestCricket #JoeRoot #PakistanCricket #Edgbaston",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ENGvPAK",
+        "#TestCricket",
+        "#JoeRoot",
+        "#PakistanCricket",
+        "#Edgbaston"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 244,
+      "telegram_file_id": "BQACAgQAAxkDAAP0aqWh_SbRuoCUR5gCqutvJu4J_LQAAu8gAAKAZihRBYNIGIxVscg9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-12T19:03:24.682874+00:00",
+      "updated_at": "2026-09-12T19:03:25.676873+00:00",
       "posted_at": null
     }
   ]
