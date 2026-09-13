@@ -4259,11 +4259,11 @@
       "telegram_message_id": 244,
       "telegram_file_id": "BQACAgQAAxkDAAP0aqWh_SbRuoCUR5gCqutvJu4J_LQAAu8gAAKAZihRBYNIGIxVscg9BA",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-12T19:03:24.682874+00:00",
-      "updated_at": "2026-09-12T19:03:25.676873+00:00",
+      "updated_at": "2026-09-13T11:21:57.090133+00:00",
       "posted_at": null
     }
   ]
