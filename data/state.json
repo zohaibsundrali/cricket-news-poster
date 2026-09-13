@@ -230,7 +230,10 @@
     "a6af1e60e3cf18be": "2026-09-13T13:15:10.372971+00:00",
     "4cdf738e2f377cab": "2026-09-13T13:15:44.728103+00:00",
     "f2a338a06c52d008": "2026-09-13T13:15:44.746277+00:00",
-    "8ee4f494df354ac3": "2026-09-13T13:15:44.840110+00:00"
+    "8ee4f494df354ac3": "2026-09-13T13:15:44.840110+00:00",
+    "0308eba6155b696e": "2026-09-13T17:21:04.221583+00:00",
+    "5f8f2f6c535249d3": "2026-09-13T17:21:04.264242+00:00",
+    "6dc67db1c3badb7b": "2026-09-13T17:21:16.406601+00:00"
   },
   "posts": [
     {
@@ -4270,6 +4273,40 @@
       "error_msg": null,
       "created_at": "2026-09-12T19:03:24.682874+00:00",
       "updated_at": "2026-09-13T11:21:57.090133+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260913T1721Z-84c95c",
+      "url_hash": "6dc67db1c3badb7b",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-verma-goes-berserk-in-final-against-sri-lanka-smashes-fastest-fifty-in-womens-t20-asia-cup/articleshow/134210121.cms",
+      "source_name": "The Times of India",
+      "title_en": "Shafali Verma goes berserk in final against Sri Lanka, smashes fastest fifty in Womenâs T20 Asia Cup",
+      "headline_ur": "شفالی ورما کی تیز ترین ففٹی، ایشیا کپ میں نیا ریکارڈ",
+      "summary_ur": [
+        "شفالی ورما نے ویمنز ٹی ٹونٹی ایشیا کپ فائنل میں تیز ترین ففٹی بنائی۔",
+        "انہوں نے صرف 24 بالز پر 50 رنز مکمل کیے، 68 رنز کی اننگز کھیلی۔",
+        "سمرتی مندھانا کے ساتھ 129 رنز کی ریکارڈ پارٹنرشپ بھی قائم کی۔"
+      ],
+      "caption_ur": "ویمنز ٹی ٹونٹی ایشیا کپ فائنل میں شفالی ورما نے دھواں دھار بیٹنگ کی۔ انہوں نے صرف 24 بالز پر اپنی ففٹی مکمل کی اور 68 رنز بنائے۔ سمرتی مندھانا کے ساتھ مل کر 129 رنز کی ریکارڈ پارٹنرشپ بھی قائم کی۔ شفالی کی یہ کارکردگی آپ کو کیسی لگی؟",
+      "fb_caption": "ویمنز ٹی ٹونٹی ایشیا کپ فائنل میں شفالی ورما نے دھواں دھار بیٹنگ کی۔ انہوں نے صرف 24 بالز پر اپنی ففٹی مکمل کی اور 68 رنز بنائے۔ سمرتی مندھانا کے ساتھ مل کر 129 رنز کی ریکارڈ پارٹنرشپ بھی قائم کی۔ شفالی کی یہ کارکردگی آپ کو کیسی لگی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ShafaliVerma #WomensAsiaCup #T20Cricket #RecordBreaker #CricketNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ShafaliVerma",
+        "#WomensAsiaCup",
+        "#T20Cricket",
+        "#RecordBreaker",
+        "#CricketNews"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 251,
+      "telegram_file_id": "BQACAgQAAxkDAAP7aqbbjQy1TGFT6spfUPJ_PY81SpUAAtsoAAKIYTlRvFPJItuVEC09BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-13T17:21:16.406546+00:00",
+      "updated_at": "2026-09-13T17:21:17.547783+00:00",
       "posted_at": null
     }
   ]
