@@ -235,7 +235,8 @@
     "5f8f2f6c535249d3": "2026-09-13T17:21:04.264242+00:00",
     "6dc67db1c3badb7b": "2026-09-13T17:21:16.406601+00:00",
     "09c448cc95239c85": "2026-09-14T07:43:28.386574+00:00",
-    "6f23e8374da43632": "2026-09-14T07:43:38.469202+00:00"
+    "6f23e8374da43632": "2026-09-14T07:43:38.469202+00:00",
+    "3c92c14de3088312": "2026-09-14T14:52:22.244806+00:00"
   },
   "posts": [
     {
@@ -4343,6 +4344,40 @@
       "error_msg": null,
       "created_at": "2026-09-14T07:43:38.469157+00:00",
       "updated_at": "2026-09-14T07:43:39.619082+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260914T1452Z-85f603",
+      "url_hash": "3c92c14de3088312",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-should-not-play-pakistan-world-cup-winner-reacts-after-india-refuse-asia-cup-trophy-from-mohsin-naqvi/articleshow/134239238.cms",
+      "source_name": "The Times of India",
+      "title_en": "'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy from Mohsin Naqvi",
+      "headline_ur": "بھارتی خواتین ٹیم کا محسن نقوی سے ٹرافی لینے سے انکار",
+      "summary_ur": [
+        "بھارتی خواتین ٹیم نے ایشیا کپ ٹرافی محسن نقوی سے وصول نہیں کی",
+        "بھارت نے سری لنکا کو 72 رنز سے ہرا کر آٹھواں ایشیا کپ جیتا",
+        "سابق بھارتی کرکٹر مدن لال نے اس رویے پر تنقید کی"
+      ],
+      "caption_ur": "بھارتی خواتین کرکٹ ٹیم نے ایشیا کپ جیتنے کے بعد ٹرافی وصول کرنے سے انکار کر دیا۔ یہ دوسرا موقع ہے جب بھارتی ٹیم نے محسن نقوی سے ٹرافی نہیں لی۔ سابق بھارتی کرکٹر مدن لال نے اس پر سخت ردعمل دیا ہے۔ آپ کے خیال میں یہ رویہ ٹھیک ہے؟",
+      "fb_caption": "بھارتی خواتین کرکٹ ٹیم نے ایشیا کپ جیتنے کے بعد ٹرافی وصول کرنے سے انکار کر دیا۔ یہ دوسرا موقع ہے جب بھارتی ٹیم نے محسن نقوی سے ٹرافی نہیں لی۔ سابق بھارتی کرکٹر مدن لال نے اس پر سخت ردعمل دیا ہے۔ آپ کے خیال میں یہ رویہ ٹھیک ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AsiaCup #بھارت #پاکستان #MohsinNaqvi #WomenCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsiaCup",
+        "#بھارت",
+        "#پاکستان",
+        "#MohsinNaqvi",
+        "#WomenCricket"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 254,
+      "telegram_file_id": "BQACAgQAAxkDAAP-aqgKKP1JYOncf9qTnbXQOROWphsAAj4tAAKIYUFRTdi4L3TfcJw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-14T14:52:22.244763+00:00",
+      "updated_at": "2026-09-14T14:52:24.943066+00:00",
       "posted_at": null
     }
   ]
