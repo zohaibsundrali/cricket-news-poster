@@ -233,7 +233,9 @@
     "8ee4f494df354ac3": "2026-09-13T13:15:44.840110+00:00",
     "0308eba6155b696e": "2026-09-13T17:21:04.221583+00:00",
     "5f8f2f6c535249d3": "2026-09-13T17:21:04.264242+00:00",
-    "6dc67db1c3badb7b": "2026-09-13T17:21:16.406601+00:00"
+    "6dc67db1c3badb7b": "2026-09-13T17:21:16.406601+00:00",
+    "09c448cc95239c85": "2026-09-14T07:43:28.386574+00:00",
+    "6f23e8374da43632": "2026-09-14T07:43:38.469202+00:00"
   },
   "posts": [
     {
@@ -4307,6 +4309,40 @@
       "error_msg": null,
       "created_at": "2026-09-13T17:21:16.406546+00:00",
       "updated_at": "2026-09-14T06:04:02.617412+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260914T0743Z-b5ca84",
+      "url_hash": "6f23e8374da43632",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/15-vs-3-33-how-struggling-england-side-swept-pakistan-3-0/articleshow/134232776.cms",
+      "source_name": "The Times of India",
+      "title_en": "15 vs 3.33: How struggling England side swept Pakistan 3-0",
+      "headline_ur": "انگلینڈ نے پاکستان کو 3-0 سے وائٹ واش کر دیا",
+      "summary_ur": [
+        "انگلینڈ نے پاکستان کو ٹیسٹ سیریز میں 3-0 سے شکست دے کر وائٹ واش کیا۔",
+        "قومی ٹیم کے اوپنرز سیریز میں صرف 3.33 کی اوسط سے رنز بنا سکے۔",
+        "پاکستان نے پچھلے 4 سال میں 6 بار ٹیسٹ سیریز میں وائٹ واش کا سامنا کیا۔"
+      ],
+      "caption_ur": "انگلینڈ کے خلاف ٹیسٹ سیریز میں قومی ٹیم کی کارکردگی مایوس کن رہی۔ پاکستان کو 3-0 سے وائٹ واش کا سامنا کرنا پڑا۔ ٹیم کی بیٹنگ اور بالنگ دونوں شعبوں میں کمزوریاں کھل کر سامنے آئیں۔ آپ کے خیال میں ٹیم کی اس کارکردگی کی کیا وجوہات ہیں؟",
+      "fb_caption": "انگلینڈ کے خلاف ٹیسٹ سیریز میں قومی ٹیم کی کارکردگی مایوس کن رہی۔ پاکستان کو 3-0 سے وائٹ واش کا سامنا کرنا پڑا۔ ٹیم کی بیٹنگ اور بالنگ دونوں شعبوں میں کمزوریاں کھل کر سامنے آئیں۔ آپ کے خیال میں ٹیم کی اس کارکردگی کی کیا وجوہات ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PakistanCricket #ENGvsPAK #TestCricket #قومی_ٹیم #وائٹ_واش",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanCricket",
+        "#ENGvsPAK",
+        "#TestCricket",
+        "#قومی_ٹیم",
+        "#وائٹ_واش"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 253,
+      "telegram_file_id": "BQACAgQAAxkDAAP9aqelq-7b6iPd33tzcLkOj6hcO1gAAscsAAKIYUFRITExf-ntwQw9BA",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-14T07:43:38.469157+00:00",
+      "updated_at": "2026-09-14T07:43:39.619082+00:00",
       "posted_at": null
     }
   ]
