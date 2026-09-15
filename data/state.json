@@ -237,7 +237,8 @@
     "09c448cc95239c85": "2026-09-14T07:43:28.386574+00:00",
     "6f23e8374da43632": "2026-09-14T07:43:38.469202+00:00",
     "3c92c14de3088312": "2026-09-14T14:52:22.244806+00:00",
-    "0bda10628f4ba058": "2026-09-14T20:49:43.037722+00:00"
+    "0bda10628f4ba058": "2026-09-14T20:49:43.037722+00:00",
+    "fc87ca915cbf0d12": "2026-09-15T07:28:54.341343+00:00"
   },
   "posts": [
     {
@@ -4413,6 +4414,40 @@
       "error_msg": null,
       "created_at": "2026-09-14T20:49:43.037679+00:00",
       "updated_at": "2026-09-14T20:49:44.292135+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260915T0728Z-26cc6e",
+      "url_hash": "fc87ca915cbf0d12",
+      "source_url": "https://www.dawn.com/news/2030085/naqvi-did-not-object-to-indias-refusal-to-collect-womens-asia-cup-trophy-claims-bcci-official",
+      "source_name": "Dawn",
+      "title_en": "Naqvi did not object to India’s refusal to collect Women’s Asia Cup trophy, claims BCCI official",
+      "headline_ur": "بھارتی ٹیم نے ایشیا کپ ٹرافی لینے سے انکار کر دیا",
+      "summary_ur": [
+        "بھارتی ویمنز ٹیم نے 72 رنز سے سری لنکا کو ہرا کر ایشیا کپ جیتا",
+        "ٹیم نے محسن نقوی سے ٹرافی وصول کرنے سے انکار کر دیا",
+        "یہ فیصلہ مئی 2025 سے بھارتی کرکٹ کی پالیسی کا حصہ ہے۔"
+      ],
+      "caption_ur": "دبئی میں ویمنز ایشیا کپ فائنل کے بعد بھارتی ٹیم نے پی سی بی چیئرمین محسن نقوی سے ٹرافی وصول کرنے سے انکار کر دیا۔ بی سی سی آئی کے نائب صدر راجیو شکلا کا کہنا ہے کہ محسن نقوی کو اس پر کوئی اعتراض نہیں تھا۔ یہ فیصلہ بھارتی کرکٹ بورڈ کی مئی 2025 سے جاری پالیسی کا حصہ ہے جس کے تحت وہ پاکستانی حکام سے ٹرافیاں نہیں لیتے۔ آپ کا اس صورتحال پر کیا خیال ہے؟",
+      "fb_caption": "دبئی میں ویمنز ایشیا کپ فائنل کے بعد بھارتی ٹیم نے پی سی بی چیئرمین محسن نقوی سے ٹرافی وصول کرنے سے انکار کر دیا۔ بی سی سی آئی کے نائب صدر راجیو شکلا کا کہنا ہے کہ محسن نقوی کو اس پر کوئی اعتراض نہیں تھا۔ یہ فیصلہ بھارتی کرکٹ بورڈ کی مئی 2025 سے جاری پالیسی کا حصہ ہے جس کے تحت وہ پاکستانی حکام سے ٹرافیاں نہیں لیتے۔ آپ کا اس صورتحال پر کیا خیال ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #WomensAsiaCup #India #Pakistan #BCCI #MohsinNaqvi",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WomensAsiaCup",
+        "#India",
+        "#Pakistan",
+        "#BCCI",
+        "#MohsinNaqvi"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 258,
+      "telegram_file_id": "BQACAgQAAxkDAAIBAmqo87e4XIAUZzLBnaJY4SvhYr3CAAIjJQAC0HxAURqMWTWtvFBMPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-15T07:28:54.341285+00:00",
+      "updated_at": "2026-09-15T07:28:55.894610+00:00",
       "posted_at": null
     }
   ]
