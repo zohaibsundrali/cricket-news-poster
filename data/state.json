@@ -238,7 +238,9 @@
     "6f23e8374da43632": "2026-09-14T07:43:38.469202+00:00",
     "3c92c14de3088312": "2026-09-14T14:52:22.244806+00:00",
     "0bda10628f4ba058": "2026-09-14T20:49:43.037722+00:00",
-    "fc87ca915cbf0d12": "2026-09-15T07:28:54.341343+00:00"
+    "fc87ca915cbf0d12": "2026-09-15T07:28:54.341343+00:00",
+    "7967e890c77f749b": "2026-09-15T13:18:45.333666+00:00",
+    "a8cd5738c5764521": "2026-09-15T13:18:54.988227+00:00"
   },
   "posts": [
     {
@@ -4448,6 +4450,40 @@
       "error_msg": null,
       "created_at": "2026-09-15T07:28:54.341285+00:00",
       "updated_at": "2026-09-15T07:28:55.894610+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260915T1318Z-51f358",
+      "url_hash": "a8cd5738c5764521",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-treat-human-beings-that-way-michael-holding-slams-pakistan-over-imran-khans-treatment/articleshow/134250588.cms",
+      "source_name": "The Times of India",
+      "title_en": "âYou donât treat human beings that wayâ: Michael Holding slams Pakistan over Imran Khanâs treatment",
+      "headline_ur": "مائیکل ہولڈنگ عمران خان کے ساتھ سلوک پر برس پڑے",
+      "summary_ur": [
+        "مائیکل ہولڈنگ نے عمران خان کے ساتھ انسانی سلوک کا مطالبہ کیا",
+        "ہولڈنگ نے عمران خان کے ساتھ کرکٹ کھیلی اور انہیں ذاتی طور پر جانتے ہیں",
+        "انہوں نے 21 کپتانوں کے خط کی مکمل حمایت کی"
+      ],
+      "caption_ur": "ویسٹ انڈیز کے سابق فاسٹ بولر مائیکل ہولڈنگ نے عمران خان کے ساتھ ہونے والے سلوک پر شدید تشویش کا اظہار کیا ہے۔ ہولڈنگ نے کہا کہ عمران خان کو بھی ایک عام انسان کی طرح سمجھا جانا چاہیے۔ انہوں نے 21 بین الاقوامی کپتانوں کے خط کی بھی مکمل حمایت کی ہے۔ آپ اس بارے میں کیا سوچتے ہیں؟",
+      "fb_caption": "ویسٹ انڈیز کے سابق فاسٹ بولر مائیکل ہولڈنگ نے عمران خان کے ساتھ ہونے والے سلوک پر شدید تشویش کا اظہار کیا ہے۔ ہولڈنگ نے کہا کہ عمران خان کو بھی ایک عام انسان کی طرح سمجھا جانا چاہیے۔ انہوں نے 21 بین الاقوامی کپتانوں کے خط کی بھی مکمل حمایت کی ہے۔ آپ اس بارے میں کیا سوچتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ImranKhan #MichaelHolding #PakistanCricket #سابق_کپتان #کرکٹ_نیوز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ImranKhan",
+        "#MichaelHolding",
+        "#PakistanCricket",
+        "#سابق_کپتان",
+        "#کرکٹ_نیوز"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 260,
+      "telegram_file_id": "BQACAgQAAxkDAAIBBGqpRb8gOllw2pIFV8nB5vOa3ZDQAAI8JgAC0HxIUZQOHW2TCQ9iPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-15T13:18:54.988181+00:00",
+      "updated_at": "2026-09-15T13:18:56.083178+00:00",
       "posted_at": null
     }
   ]
