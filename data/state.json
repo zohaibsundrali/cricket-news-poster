@@ -240,7 +240,10 @@
     "0bda10628f4ba058": "2026-09-14T20:49:43.037722+00:00",
     "fc87ca915cbf0d12": "2026-09-15T07:28:54.341343+00:00",
     "7967e890c77f749b": "2026-09-15T13:18:45.333666+00:00",
-    "a8cd5738c5764521": "2026-09-15T13:18:54.988227+00:00"
+    "a8cd5738c5764521": "2026-09-15T13:18:54.988227+00:00",
+    "2cf893d8d8cdea8a": "2026-09-15T18:02:38.908444+00:00",
+    "e7350256d111ca69": "2026-09-15T18:03:15.965781+00:00",
+    "5a38ddf86794c73e": "2026-09-15T18:03:41.350520+00:00"
   },
   "posts": [
     {
@@ -4484,6 +4487,40 @@
       "error_msg": null,
       "created_at": "2026-09-15T13:18:54.988181+00:00",
       "updated_at": "2026-09-15T13:18:56.083178+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260915T1803Z-b5d2e3",
+      "url_hash": "5a38ddf86794c73e",
+      "source_url": "https://www.dawn.com/news/2029902/pakistans-visit-to-india-for-asian-champions-trophy-subject-to-government-clearance-says-phf-chief-wani",
+      "source_name": "Dawn",
+      "title_en": "Pakistan’s visit to India for Asian Champions Trophy subject to government clearance, says PHF chief Wani",
+      "headline_ur": "ایشین چیمپئنز ٹرافی: پاکستان کی شرکت حکومتی منظوری سے مشروط",
+      "summary_ur": [
+        "پاکستان ہاکی ٹیم کا ایشین چیمپئنز ٹرافی کے لیے بھارت کا دورہ حکومتی منظوری سے مشروط ہے۔",
+        "پی ایچ ایف صدر محی الدین وانی نے کہا کہ حکومت کے فیصلے پر عمل کیا جائے گا۔",
+        "ٹورنامنٹ 27 اکتوبر سے 5 نومبر تک کھیلا جائے گا، جس میں 6 ٹیمیں حصہ لیں گی۔"
+      ],
+      "caption_ur": "پاکستان ہاکی فیڈریشن کے صدر نے واضح کیا ہے کہ ایشین چیمپئنز ٹرافی کے لیے قومی ٹیم کا دورہ بھارت حکومتی منظوری سے مشروط ہے۔ بھارتی پنجاب کے وزیر اعلیٰ کے بیان کا پی ایچ ایف کے موقف پر کوئی اثر نہیں ہوگا۔ یہ ٹورنامنٹ 27 اکتوبر سے 5 نومبر تک بھارت میں کھیلا جائے گا۔ آپ کے خیال میں حکومت کو اس دورے کی اجازت دینی چاہیے؟",
+      "fb_caption": "پاکستان ہاکی فیڈریشن کے صدر نے واضح کیا ہے کہ ایشین چیمپئنز ٹرافی کے لیے قومی ٹیم کا دورہ بھارت حکومتی منظوری سے مشروط ہے۔ بھارتی پنجاب کے وزیر اعلیٰ کے بیان کا پی ایچ ایف کے موقف پر کوئی اثر نہیں ہوگا۔ یہ ٹورنامنٹ 27 اکتوبر سے 5 نومبر تک بھارت میں کھیلا جائے گا۔ آپ کے خیال میں حکومت کو اس دورے کی اجازت دینی چاہیے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanHockey #AsianChampionsTrophy #HockeyIndia #PHF #SportsNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanHockey",
+        "#AsianChampionsTrophy",
+        "#HockeyIndia",
+        "#PHF",
+        "#SportsNews"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 261,
+      "telegram_file_id": "BQACAgQAAxkDAAIBBWqpiH50Xi7j-LqREd5nBL3Oqd1sAAKjJgAC0HxIUS9YcO5FI7RrPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-15T18:03:41.350476+00:00",
+      "updated_at": "2026-09-15T18:03:42.428864+00:00",
       "posted_at": null
     }
   ]
