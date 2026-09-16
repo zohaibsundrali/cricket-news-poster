@@ -243,7 +243,8 @@
     "a8cd5738c5764521": "2026-09-15T13:18:54.988227+00:00",
     "2cf893d8d8cdea8a": "2026-09-15T18:02:38.908444+00:00",
     "e7350256d111ca69": "2026-09-15T18:03:15.965781+00:00",
-    "5a38ddf86794c73e": "2026-09-15T18:03:41.350520+00:00"
+    "5a38ddf86794c73e": "2026-09-15T18:03:41.350520+00:00",
+    "681f7e98de589517": "2026-09-16T07:26:46.352239+00:00"
   },
   "posts": [
     {
@@ -4521,6 +4522,40 @@
       "error_msg": null,
       "created_at": "2026-09-15T18:03:41.350476+00:00",
       "updated_at": "2026-09-15T18:03:42.428864+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260916T0726Z-c85037",
+      "url_hash": "681f7e98de589517",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-pakistan-batter-calls-india-arrogant-as-he-defends-mohsin-naqvi-after-asia-cup-trophy-row/articleshow/134275958.cms",
+      "source_name": "The Times of India",
+      "title_en": "Ex-Pakistan batter calls India 'arrogant' as he defends Mohsin Naqvi after Asia Cup trophy row",
+      "headline_ur": "یوسف کا محسن نقوی کی حمایت میں بھارت پر شدید حملہ",
+      "summary_ur": [
+        "سابق کرکٹر محمد یوسف نے محسن نقوی کی حمایت کی۔",
+        "یوسف نے بھارت کو ایشیا کپ ٹرافی تنازع پر 'مغرور' کہا۔",
+        "بھارتی ٹیم نے لگاتار دوسرے سال ٹرافی لینے سے انکار کیا۔"
+      ],
+      "caption_ur": "ایشیا کپ فائنل کے بعد ٹرافی تنازع پر سابق پاکستانی کرکٹر محمد یوسف نے بھارت پر شدید تنقید کی ہے۔ انہوں نے محسن نقوی کی حمایت کرتے ہوئے بھارت کو 'مغرور' قرار دیا۔ بھارتی خواتین ٹیم نے لگاتار دوسرے سال ٹرافی وصول کرنے سے انکار کیا۔ آپ کے خیال میں یہ رویہ کیسا ہے؟",
+      "fb_caption": "ایشیا کپ فائنل کے بعد ٹرافی تنازع پر سابق پاکستانی کرکٹر محمد یوسف نے بھارت پر شدید تنقید کی ہے۔ انہوں نے محسن نقوی کی حمایت کرتے ہوئے بھارت کو 'مغرور' قرار دیا۔ بھارتی خواتین ٹیم نے لگاتار دوسرے سال ٹرافی وصول کرنے سے انکار کیا۔ آپ کے خیال میں یہ رویہ کیسا ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MohammadYousuf #AsiaCup #PCB #IndiaPakistan #SportsNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MohammadYousuf",
+        "#AsiaCup",
+        "#PCB",
+        "#IndiaPakistan",
+        "#SportsNews"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 264,
+      "telegram_file_id": "BQACAgQAAxkDAAIBCGqqRLfSwCnsjR4340zNOZyf07GJAAJgIwAC0HxQUbZqUoBoHaF3PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-16T07:26:46.352196+00:00",
+      "updated_at": "2026-09-16T07:26:47.536941+00:00",
       "posted_at": null
     }
   ]
