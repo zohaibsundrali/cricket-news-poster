@@ -245,7 +245,9 @@
     "e7350256d111ca69": "2026-09-15T18:03:15.965781+00:00",
     "5a38ddf86794c73e": "2026-09-15T18:03:41.350520+00:00",
     "681f7e98de589517": "2026-09-16T07:26:46.352239+00:00",
-    "9d4830ce465f2056": "2026-09-16T13:17:16.403562+00:00"
+    "9d4830ce465f2056": "2026-09-16T13:17:16.403562+00:00",
+    "167bd4bef68cbd6d": "2026-09-16T18:05:06.121844+00:00",
+    "a1224d4cba827415": "2026-09-16T18:05:17.108476+00:00"
   },
   "posts": [
     {
@@ -4591,6 +4593,40 @@
       "error_msg": null,
       "created_at": "2026-09-16T13:17:16.403519+00:00",
       "updated_at": "2026-09-16T13:17:18.104967+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260916T1805Z-69a863",
+      "url_hash": "a1224d4cba827415",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-england-setback-babar-azam-set-for-first-domestic-first-class-game-in-seven-years/articleshow/134291362.cms",
+      "source_name": "The Times of India",
+      "title_en": "After England setback, Babar Azam set for first domestic first-class game in seven years",
+      "headline_ur": "بابر اعظم 7 سال بعد فرسٹ کلاس کرکٹ میں واپس",
+      "summary_ur": [
+        "قومی کپتان بابر اعظم 7 سال بعد ڈومیسٹک فرسٹ کلاس کرکٹ کھیلیں گے",
+        "وہ 18 ستمبر سے پریذیڈنٹ ٹرافی میں OGDCL کی نمائندگی کریں گے",
+        "انگلینڈ سے 0-3 شکست کے بعد PCB انہیں ریڈ بال میں دیکھنا چاہتا ہے"
+      ],
+      "caption_ur": "قومی کپتان بابر اعظم ایک بار پھر ریڈ بال کرکٹ میں واپس آ رہے ہیں۔ 7 سال بعد وہ 18 ستمبر سے ڈومیسٹک فرسٹ کلاس کرکٹ میں OGDCL کی نمائندگی کریں گے۔ انگلینڈ کے خلاف 0-3 کی شکست کے بعد PCB انہیں دوبارہ فرسٹ کلاس میں دیکھنا چاہتا ہے۔ کیا بابر کی واپسی قومی ٹیم کے لیے فائدہ مند ثابت ہوگی؟",
+      "fb_caption": "قومی کپتان بابر اعظم ایک بار پھر ریڈ بال کرکٹ میں واپس آ رہے ہیں۔ 7 سال بعد وہ 18 ستمبر سے ڈومیسٹک فرسٹ کلاس کرکٹ میں OGDCL کی نمائندگی کریں گے۔ انگلینڈ کے خلاف 0-3 کی شکست کے بعد PCB انہیں دوبارہ فرسٹ کلاس میں دیکھنا چاہتا ہے۔ کیا بابر کی واپسی قومی ٹیم کے لیے فائدہ مند ثابت ہوگی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BabarAzam #PakistanCricket #RedBallCricket #PresidentsTrophy #OGDCL",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#PakistanCricket",
+        "#RedBallCricket",
+        "#PresidentsTrophy",
+        "#OGDCL"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 267,
+      "telegram_file_id": "BQACAgQAAxkDAAIBC2qq2l6xeSa1_sR5KJKUUPYmcQ9jAAKJIAACsTFZUW43RIXnWLj5PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-16T18:05:17.108430+00:00",
+      "updated_at": "2026-09-16T18:05:18.812814+00:00",
       "posted_at": null
     }
   ]
