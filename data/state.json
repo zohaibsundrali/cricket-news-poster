@@ -244,7 +244,8 @@
     "2cf893d8d8cdea8a": "2026-09-15T18:02:38.908444+00:00",
     "e7350256d111ca69": "2026-09-15T18:03:15.965781+00:00",
     "5a38ddf86794c73e": "2026-09-15T18:03:41.350520+00:00",
-    "681f7e98de589517": "2026-09-16T07:26:46.352239+00:00"
+    "681f7e98de589517": "2026-09-16T07:26:46.352239+00:00",
+    "9d4830ce465f2056": "2026-09-16T13:17:16.403562+00:00"
   },
   "posts": [
     {
@@ -4556,6 +4557,40 @@
       "error_msg": null,
       "created_at": "2026-09-16T07:26:46.352196+00:00",
       "updated_at": "2026-09-16T07:26:47.536941+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260916T1317Z-dde34b",
+      "url_hash": "9d4830ce465f2056",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-abhishek-sharma-leaps-past-pakistans-sahibzada-farhan-jasprit-bumrah-breaks-into-top-10/articleshow/134284639.cms",
+      "source_name": "The Times of India",
+      "title_en": "ICC T20I Rankings: Abhishek Sharma leaps past Pakistan's Sahibzada Farhan, Jasprit Bumrah breaks into top 10",
+      "headline_ur": "آئی سی سی رینکنگ: ابھیشیک شرما نے صاحبزادہ فرحان کو پیچھے چھوڑ دیا",
+      "summary_ur": [
+        "ابھیشیک شرما آئی سی سی ٹی ٹونٹی بیٹرز رینکنگ میں دوسرے نمبر پر آ گئے",
+        "انہوں نے پاکستان کے صاحبزادہ فرحان کو پیچھے چھوڑ دیا",
+        "جسپریت بمراہ ٹی ٹونٹی بالرز کی ٹاپ 10 میں شامل ہو گئے"
+      ],
+      "caption_ur": "آئی سی سی کی تازہ ترین ٹی ٹونٹی رینکنگز میں بڑی تبدیلیاں دیکھنے میں آئیں۔ ابھیشیک شرما نے پاکستان کے صاحبزادہ فرحان کو پیچھے چھوڑ کر دوسرا نمبر حاصل کر لیا ہے۔ جسپریت بمراہ بھی ٹاپ 10 بالرز میں شامل ہو گئے ہیں۔ ٹیسٹ رینکنگز میں بابر اعظم اور شان مسعود نے بھی ترقی حاصل کی ہے۔ آپ کے خیال میں کون سا کھلاڑی مزید بہتر کارکردگی دکھائے گا؟",
+      "fb_caption": "آئی سی سی کی تازہ ترین ٹی ٹونٹی رینکنگز میں بڑی تبدیلیاں دیکھنے میں آئیں۔ ابھیشیک شرما نے پاکستان کے صاحبزادہ فرحان کو پیچھے چھوڑ کر دوسرا نمبر حاصل کر لیا ہے۔ جسپریت بمراہ بھی ٹاپ 10 بالرز میں شامل ہو گئے ہیں۔ ٹیسٹ رینکنگز میں بابر اعظم اور شان مسعود نے بھی ترقی حاصل کی ہے۔ آپ کے خیال میں کون سا کھلاڑی مزید بہتر کارکردگی دکھائے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ICCRankings #T20IRankings #BabarAzam #AbhishekSharma #PakistanCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ICCRankings",
+        "#T20IRankings",
+        "#BabarAzam",
+        "#AbhishekSharma",
+        "#PakistanCricket"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 266,
+      "telegram_file_id": "BQACAgQAAxkDAAIBCmqqlt3nNukRZzUuriWBZ_XR30lHAALtIwAC0HxQUfIo4iTkeeamPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-16T13:17:16.403519+00:00",
+      "updated_at": "2026-09-16T13:17:18.104967+00:00",
       "posted_at": null
     }
   ]
