@@ -4554,11 +4554,11 @@
       "telegram_message_id": 264,
       "telegram_file_id": "BQACAgQAAxkDAAIBCGqqRLfSwCnsjR4340zNOZyf07GJAAJgIwAC0HxQUbZqUoBoHaF3PQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-16T07:26:46.352196+00:00",
-      "updated_at": "2026-09-16T07:26:47.536941+00:00",
+      "updated_at": "2026-09-16T21:45:20.979158+00:00",
       "posted_at": null
     },
     {
