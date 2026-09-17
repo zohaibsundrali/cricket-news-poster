@@ -247,7 +247,8 @@
     "681f7e98de589517": "2026-09-16T07:26:46.352239+00:00",
     "9d4830ce465f2056": "2026-09-16T13:17:16.403562+00:00",
     "167bd4bef68cbd6d": "2026-09-16T18:05:06.121844+00:00",
-    "a1224d4cba827415": "2026-09-16T18:05:17.108476+00:00"
+    "a1224d4cba827415": "2026-09-16T18:05:17.108476+00:00",
+    "a41952f330cb6b55": "2026-09-17T07:23:55.468951+00:00"
   },
   "posts": [
     {
@@ -4627,6 +4628,40 @@
       "error_msg": null,
       "created_at": "2026-09-16T18:05:17.108430+00:00",
       "updated_at": "2026-09-16T18:05:18.812814+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260917T0723Z-76c1d5",
+      "url_hash": "a41952f330cb6b55",
+      "source_url": "https://www.dawn.com/news/2030480/pakistan-women-face-thailand-in-asiad-cricket-opener",
+      "source_name": "Dawn",
+      "title_en": "Pakistan women face Thailand in Asiad cricket opener",
+      "headline_ur": "پاکستان ویمن ٹیم ایشین گیمز کا آغاز تھائی لینڈ کے خلاف کرے گی",
+      "summary_ur": [
+        "پاکستان ویمن ٹیم ایشین گیمز کے کوارٹر فائنل میں تھائی لینڈ سے مقابلہ کرے گی",
+        "حال ہی میں ایشیا کپ میں پاکستان نے تھائی لینڈ کو 35 رنز سے ہرایا تھا",
+        "منیبہ علی کی جگہ گل فیروزہ سکواڈ کا حصہ ہیں"
+      ],
+      "caption_ur": "پاکستان ویمن ٹیم ایشین گیمز میں اپنے سفر کا آغاز تھائی لینڈ کے خلاف کرے گی۔ قومی ٹیم پہلے بھی 2010 اور 2014 میں ایشین گیمز کا ٹائٹل جیت چکی ہے۔ کپتان فاطمہ ثنا کا کہنا ہے کہ ٹیم چیلنج کے لیے تیار ہے۔ کیا اس بار بھی قومی ٹیم گولڈ میڈل جیت پائے گی؟",
+      "fb_caption": "پاکستان ویمن ٹیم ایشین گیمز میں اپنے سفر کا آغاز تھائی لینڈ کے خلاف کرے گی۔ قومی ٹیم پہلے بھی 2010 اور 2014 میں ایشین گیمز کا ٹائٹل جیت چکی ہے۔ کپتان فاطمہ ثنا کا کہنا ہے کہ ٹیم چیلنج کے لیے تیار ہے۔ کیا اس بار بھی قومی ٹیم گولڈ میڈل جیت پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #PakistanWomen #FatimaSana #PAKvTHA #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#PakistanWomen",
+        "#FatimaSana",
+        "#PAKvTHA",
+        "#Sports"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 270,
+      "telegram_file_id": "BQACAgQAAxkDAAIBDmqrlYycyTY-JM22XK8TXFqhXIskAAIaIAACsTFhUbXFtnqeuVj9PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-17T07:23:55.468898+00:00",
+      "updated_at": "2026-09-17T07:23:57.092614+00:00",
       "posted_at": null
     }
   ]
