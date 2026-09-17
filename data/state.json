@@ -4623,11 +4623,11 @@
       "telegram_message_id": 267,
       "telegram_file_id": "BQACAgQAAxkDAAIBC2qq2l6xeSa1_sR5KJKUUPYmcQ9jAAKJIAACsTFZUW43RIXnWLj5PQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-16T18:05:17.108430+00:00",
-      "updated_at": "2026-09-16T18:05:18.812814+00:00",
+      "updated_at": "2026-09-17T09:55:52.228888+00:00",
       "posted_at": null
     },
     {
