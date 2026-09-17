@@ -251,7 +251,8 @@
     "a41952f330cb6b55": "2026-09-17T07:23:55.468951+00:00",
     "80a721d06c37a77b": "2026-09-17T13:12:46.489604+00:00",
     "12287943f307aaea": "2026-09-17T13:12:46.552769+00:00",
-    "95ada52d6e05464b": "2026-09-17T13:12:54.867948+00:00"
+    "95ada52d6e05464b": "2026-09-17T13:12:54.867948+00:00",
+    "32e6f07fcf2ac67f": "2026-09-17T18:03:02.427028+00:00"
   },
   "posts": [
     {
@@ -4699,6 +4700,40 @@
       "error_msg": null,
       "created_at": "2026-09-17T13:12:54.867900+00:00",
       "updated_at": "2026-09-17T13:12:55.947536+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260917T1802Z-325eaa",
+      "url_hash": "32e6f07fcf2ac67f",
+      "source_url": "https://www.dawn.com/news/2030614/pakistan-women-survive-thailand-scare-to-make-asian-games-semi-finals",
+      "source_name": "Dawn",
+      "title_en": "Pakistan women survive Thailand scare to make Asian Games semi-finals",
+      "headline_ur": "پاکستان ویمن ٹیم ایشین گیمز سیمی فائنل میں",
+      "summary_ur": [
+        "پاکستان نے تھائی لینڈ کو 3 وکٹوں سے شکست دے کر سیمی فائنل میں جگہ بنا لی",
+        "تھائی لینڈ نے 11 اوورز میں 91 رنز بنائے، پاکستان نے 2 گیندیں پہلے ہدف حاصل کیا",
+        "فاطمہ ثنا نے 21 رنز بنائے اور 2 وکٹیں حاصل کیں، شوال ذوالفقار نے 25 رنز کی اننگز کھیلی"
+      ],
+      "caption_ur": "ایشین گیمز ویمن کرکٹ کے کوارٹر فائنل میں پاکستان نے تھائی لینڈ کو سنسنی خیز مقابلے کے بعد ہرا دیا۔ قومی ٹیم نے 91 رنز کا ہدف 3 وکٹوں سے حاصل کیا۔ فاطمہ ثنا اور شوال ذوالفقار نے شاندار کارکردگی دکھائی۔ آپ کے خیال میں پاکستان فائنل میں پہنچ پائے گا؟",
+      "fb_caption": "ایشین گیمز ویمن کرکٹ کے کوارٹر فائنل میں پاکستان نے تھائی لینڈ کو سنسنی خیز مقابلے کے بعد ہرا دیا۔ قومی ٹیم نے 91 رنز کا ہدف 3 وکٹوں سے حاصل کیا۔ فاطمہ ثنا اور شوال ذوالفقار نے شاندار کارکردگی دکھائی۔ آپ کے خیال میں پاکستان فائنل میں پہنچ پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #PakistanWomen #FatimaSana #ShawalZulfiqar #TeamPakistan",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#PakistanWomen",
+        "#FatimaSana",
+        "#ShawalZulfiqar",
+        "#TeamPakistan"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 273,
+      "telegram_file_id": "BQACAgQAAxkDAAIBEWqsK1dkhwir8vEnyAyrom6ICQGRAAI3IQACsTFhUc_ILoAzzxORPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-17T18:03:02.426980+00:00",
+      "updated_at": "2026-09-17T18:03:04.122186+00:00",
       "posted_at": null
     }
   ]
