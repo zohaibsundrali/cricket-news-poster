@@ -254,7 +254,8 @@
     "95ada52d6e05464b": "2026-09-17T13:12:54.867948+00:00",
     "32e6f07fcf2ac67f": "2026-09-17T18:03:02.427028+00:00",
     "e37d4a2e297406cc": "2026-09-18T07:13:51.448851+00:00",
-    "a18ceb9cdf02efbe": "2026-09-18T07:14:28.379565+00:00"
+    "a18ceb9cdf02efbe": "2026-09-18T07:14:28.379565+00:00",
+    "91a3b58c6b609280": "2026-09-18T12:50:53.772344+00:00"
   },
   "posts": [
     {
@@ -4770,6 +4771,40 @@
       "error_msg": null,
       "created_at": "2026-09-18T07:14:28.379521+00:00",
       "updated_at": "2026-09-18T07:14:29.604321+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260918T1250Z-05e80c",
+      "url_hash": "91a3b58c6b609280",
+      "source_url": "https://www.dawn.com/news/2030884/japan-cricketers-hail-amazing-experience-playing-india-at-asian-games",
+      "source_name": "Dawn",
+      "title_en": "Japan cricketers hail 'amazing' experience playing India at Asian Games",
+      "headline_ur": "ایشین گیمز: جاپان ویمنز ٹیم کا بھارت سے یادگار مقابلہ",
+      "summary_ur": [
+        "بھارت نے جاپان کو ویمنز کرکٹ کوارٹر فائنل میں شکست دی",
+        "بھارت نے جاپان کی ٹیم کو 19.5 اوورز میں 57 رنز پر آؤٹ کیا",
+        "شفالی ورما نے 15 بالز پر 40 رنز بنا کر 8 وکٹوں سے فتح دلائی"
+      ],
+      "caption_ur": "جاپان کی ویمنز کرکٹ ٹیم نے ایشین گیمز میں بھارت کے خلاف میچ کو ایک یادگار تجربہ قرار دیا ہے۔ بھارتی ٹیم نے جاپان کو کوارٹر فائنل میں شکست دی، لیکن جاپانی کھلاڑیوں نے اس موقع کو سیکھنے کا بہترین ذریعہ سمجھا۔ کیا آپ کو لگتا ہے کہ ایسی شکست بھی ٹیموں کے لیے فائدہ مند ہوتی ہے؟",
+      "fb_caption": "جاپان کی ویمنز کرکٹ ٹیم نے ایشین گیمز میں بھارت کے خلاف میچ کو ایک یادگار تجربہ قرار دیا ہے۔ بھارتی ٹیم نے جاپان کو کوارٹر فائنل میں شکست دی، لیکن جاپانی کھلاڑیوں نے اس موقع کو سیکھنے کا بہترین ذریعہ سمجھا۔ کیا آپ کو لگتا ہے کہ ایسی شکست بھی ٹیموں کے لیے فائدہ مند ہوتی ہے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #JapanCricket #IndiaCricket #WomenCricket #شفالی_ورما",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#JapanCricket",
+        "#IndiaCricket",
+        "#WomenCricket",
+        "#شفالی_ورما"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 278,
+      "telegram_file_id": "BQACAgQAAxkDAAIBFmqtM67Y3FT9r7OGQg7eOVuwp2kbAALHKwACDLxwUUVNa8wlYoFSPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-18T12:50:53.772297+00:00",
+      "updated_at": "2026-09-18T12:50:54.987711+00:00",
       "posted_at": null
     }
   ]
