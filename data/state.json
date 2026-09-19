@@ -256,7 +256,8 @@
     "e37d4a2e297406cc": "2026-09-18T07:13:51.448851+00:00",
     "a18ceb9cdf02efbe": "2026-09-18T07:14:28.379565+00:00",
     "91a3b58c6b609280": "2026-09-18T12:50:53.772344+00:00",
-    "5c8f3da56a08c6ca": "2026-09-18T17:37:37.196453+00:00"
+    "5c8f3da56a08c6ca": "2026-09-18T17:37:37.196453+00:00",
+    "2e9f66d47737a445": "2026-09-19T07:10:46.802771+00:00"
   },
   "posts": [
     {
@@ -4840,6 +4841,40 @@
       "error_msg": null,
       "created_at": "2026-09-18T17:37:37.196402+00:00",
       "updated_at": "2026-09-18T17:37:38.777280+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260919T0710Z-25b95f",
+      "url_hash": "2e9f66d47737a445",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/both-the-trophies-will-come-bccis-big-update-on-asia-cup-trophies-snubbed-by-mohsin-naqvi/articleshow/134349469.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Both the trophies will come': BCCI's big update on Asia Cup trophies snubbed by Mohsin Naqvi",
+      "headline_ur": "ایشیا کپ ٹرافیاں ممبئی آئیں گی، بی سی سی آئی کی یقین دہانی",
+      "summary_ur": [
+        "بی سی سی آئی نے یقین دہانی کرائی کہ ایشیا کپ ٹرافیاں ممبئی پہنچیں گی",
+        "بھارتی ٹیموں نے محسن نقوی سے ٹرافیاں لینے سے انکار کر دیا تھا",
+        "یہ فیصلہ ملکی حالات اور جذبات کے پیش نظر کیا گیا تھا"
+      ],
+      "caption_ur": "بی سی سی آئی کے سیکرٹری نے یقین دہانی کرائی ہے کہ ایشیا کپ کی دونوں ٹرافیاں جلد ہی ممبئی پہنچ جائیں گی۔ بھارتی مردوں اور خواتین کی ٹیموں نے ایشین کرکٹ کونسل کے صدر محسن نقوی سے ٹرافیاں لینے سے انکار کر دیا تھا۔ بی سی سی آئی کا کہنا ہے کہ یہ فیصلہ ملکی حالات اور جذبات کے پیش نظر کیا گیا تھا۔ آپ اس صورتحال کے بارے میں کیا سوچتے ہیں؟",
+      "fb_caption": "بی سی سی آئی کے سیکرٹری نے یقین دہانی کرائی ہے کہ ایشیا کپ کی دونوں ٹرافیاں جلد ہی ممبئی پہنچ جائیں گی۔ بھارتی مردوں اور خواتین کی ٹیموں نے ایشین کرکٹ کونسل کے صدر محسن نقوی سے ٹرافیاں لینے سے انکار کر دیا تھا۔ بی سی سی آئی کا کہنا ہے کہ یہ فیصلہ ملکی حالات اور جذبات کے پیش نظر کیا گیا تھا۔ آپ اس صورتحال کے بارے میں کیا سوچتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AsiaCup #BCCI #MohsinNaqvi #PakistanCricket #IndiaCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsiaCup",
+        "#BCCI",
+        "#MohsinNaqvi",
+        "#PakistanCricket",
+        "#IndiaCricket"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 282,
+      "telegram_file_id": "BQACAgQAAxkDAAIBGmquNXc8ajiy3edwEDszeybCOn8RAAL7IQACDLx4UcaQv2mSFGeqPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-19T07:10:46.802725+00:00",
+      "updated_at": "2026-09-19T07:10:47.960802+00:00",
       "posted_at": null
     }
   ]
