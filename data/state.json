@@ -261,7 +261,8 @@
     "26be7405c973dd1f": "2026-09-19T12:21:55.629598+00:00",
     "3edfdab71b313bb1": "2026-09-19T12:22:30.564599+00:00",
     "1cc95284858c2176": "2026-09-19T12:22:30.853411+00:00",
-    "822b82c42a99675b": "2026-09-19T12:22:41.661920+00:00"
+    "822b82c42a99675b": "2026-09-19T12:22:41.661920+00:00",
+    "edd390ed61b94bbd": "2026-09-19T17:05:46.533442+00:00"
   },
   "posts": [
     {
@@ -4913,6 +4914,40 @@
       "error_msg": null,
       "created_at": "2026-09-19T12:22:41.661875+00:00",
       "updated_at": "2026-09-19T12:22:43.003158+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260919T1705Z-082859",
+      "url_hash": "edd390ed61b94bbd",
+      "source_url": "https://www.dawn.com/news/2031158/pakistan-name-23-man-squad-for-fifa-asean-cup-solano-to-join-in-indonesia-after-visa-delay",
+      "source_name": "Dawn",
+      "title_en": "Pakistan name 23-man squad for FIFA ASEAN Cup, Solano to join in Indonesia after visa delay",
+      "headline_ur": "فیفا آسیان کپ: قومی فٹبال ٹیم کا 23 رکنی اسکواڈ کا اعلان",
+      "summary_ur": [
+        "قومی ٹیم کا 23 رکنی اسکواڈ فیفا آسیان کپ کے لیے اعلان کر دیا گیا۔",
+        "ہیڈ کوچ سولانو ویزا تاخیر کے باعث انڈونیشیا میں ٹیم کو جوائن کریں گے۔",
+        "کپتان عبداللہ اقبال ٹیم کی قیادت کریں گے، کلیم اللہ کی واپسی۔"
+      ],
+      "caption_ur": "پاکستان نے فیفا آسیان کپ کے لیے 23 رکنی اسکواڈ کا اعلان کر دیا ہے۔ ہیڈ کوچ نولبرٹو سولانو ویزا میں تاخیر کے باعث ٹیم کو انڈونیشیا میں جوائن کریں گے۔ یہ ٹورنامنٹ 25 ستمبر سے 5 اکتوبر تک کھیلا جائے گا۔ کیا قومی ٹیم اس ٹورنامنٹ میں اچھی کارکردگی دکھا پائے گی؟",
+      "fb_caption": "پاکستان نے فیفا آسیان کپ کے لیے 23 رکنی اسکواڈ کا اعلان کر دیا ہے۔ ہیڈ کوچ نولبرٹو سولانو ویزا میں تاخیر کے باعث ٹیم کو انڈونیشیا میں جوائن کریں گے۔ یہ ٹورنامنٹ 25 ستمبر سے 5 اکتوبر تک کھیلا جائے گا۔ کیا قومی ٹیم اس ٹورنامنٹ میں اچھی کارکردگی دکھا پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanFootball #FIFAASEANCup #قومی_فٹبال_ٹیم #Solano #AbdullahIqbal",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanFootball",
+        "#FIFAASEANCup",
+        "#قومی_فٹبال_ٹیم",
+        "#Solano",
+        "#AbdullahIqbal"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 285,
+      "telegram_file_id": "BQACAgQAAxkDAAIBHWquwOt3mmu8AnLvPg3nXvocTzozAAJFIwACDLx4UT_2q0RmM-0LPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-19T17:05:46.533395+00:00",
+      "updated_at": "2026-09-19T17:05:48.130135+00:00",
       "posted_at": null
     }
   ]
