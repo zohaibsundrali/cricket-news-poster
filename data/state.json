@@ -4875,11 +4875,11 @@
       "telegram_message_id": 282,
       "telegram_file_id": "BQACAgQAAxkDAAIBGmquNXc8ajiy3edwEDszeybCOn8RAAL7IQACDLx4UcaQv2mSFGeqPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-19T07:10:46.802725+00:00",
-      "updated_at": "2026-09-19T07:10:47.960802+00:00",
+      "updated_at": "2026-09-19T21:24:55.016469+00:00",
       "posted_at": null
     },
     {
