@@ -262,7 +262,8 @@
     "3edfdab71b313bb1": "2026-09-19T12:22:30.564599+00:00",
     "1cc95284858c2176": "2026-09-19T12:22:30.853411+00:00",
     "822b82c42a99675b": "2026-09-19T12:22:41.661920+00:00",
-    "edd390ed61b94bbd": "2026-09-19T17:05:46.533442+00:00"
+    "edd390ed61b94bbd": "2026-09-19T17:05:46.533442+00:00",
+    "577442833f82cf37": "2026-09-20T07:36:00.027410+00:00"
   },
   "posts": [
     {
@@ -4948,6 +4949,40 @@
       "error_msg": null,
       "created_at": "2026-09-19T17:05:46.533395+00:00",
       "updated_at": "2026-09-20T06:51:32.031234+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260920T0735Z-292bde",
+      "url_hash": "577442833f82cf37",
+      "source_url": "https://www.dawn.com/news/2031314/pakistan-miss-out-on-asian-games-womens-cricket-final-as-athapaththu-blitz-takes-sri-lanka-through",
+      "source_name": "Dawn",
+      "title_en": "Pakistan miss out on Asian Games women's cricket final as Athapaththu blitz takes Sri Lanka through",
+      "headline_ur": "اتھاپتھو کی دھواں دار اننگز، پاکستان ایشین گیمز فائنل سے باہر",
+      "summary_ur": [
+        "سری لنکا نے پاکستان کو 8 وکٹوں سے شکست دے کر فائنل میں جگہ بنا لی۔",
+        "چامری اتھاپتھو نے 83 رنز کی ناقابل شکست اننگز کھیلی۔",
+        "پاکستان نے پہلے بیٹنگ کرتے ہوئے 177 رنز کا ہدف دیا تھا۔"
+      ],
+      "caption_ur": "ایشین گیمز ویمنز کرکٹ سیمی فائنل میں پاکستان کو سری لنکا کے ہاتھوں شکست کا سامنا کرنا پڑا۔ چامری اتھاپتھو کی شاندار بیٹنگ نے پاکستان کے فائنل میں پہنچنے کے خواب توڑ دیے۔ قومی ٹیم اب برانز میڈل کے لیے مقابلہ کرے گی۔ کیا آپ کو لگتا ہے کہ پاکستان برانز میڈل جیت پائے گا؟",
+      "fb_caption": "ایشین گیمز ویمنز کرکٹ سیمی فائنل میں پاکستان کو سری لنکا کے ہاتھوں شکست کا سامنا کرنا پڑا۔ چامری اتھاپتھو کی شاندار بیٹنگ نے پاکستان کے فائنل میں پہنچنے کے خواب توڑ دیے۔ قومی ٹیم اب برانز میڈل کے لیے مقابلہ کرے گی۔ کیا آپ کو لگتا ہے کہ پاکستان برانز میڈل جیت پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Pakistan #SriLanka #WomensCricket #Athapaththu",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Pakistan",
+        "#SriLanka",
+        "#WomensCricket",
+        "#Athapaththu"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 289,
+      "telegram_file_id": "BQACAgQAAxkDAAIBIWqvjOHN8wiAKOA7kfGcvD2DI60lAAKVHQACngmBUbvVN4BymB-PPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-20T07:36:00.027364+00:00",
+      "updated_at": "2026-09-20T07:36:01.675689+00:00",
       "posted_at": null
     }
   ]
