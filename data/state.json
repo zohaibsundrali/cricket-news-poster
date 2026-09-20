@@ -263,7 +263,8 @@
     "1cc95284858c2176": "2026-09-19T12:22:30.853411+00:00",
     "822b82c42a99675b": "2026-09-19T12:22:41.661920+00:00",
     "edd390ed61b94bbd": "2026-09-19T17:05:46.533442+00:00",
-    "577442833f82cf37": "2026-09-20T07:36:00.027410+00:00"
+    "577442833f82cf37": "2026-09-20T07:36:00.027410+00:00",
+    "ab2f5d599fe18a3b": "2026-09-20T12:57:29.037587+00:00"
   },
   "posts": [
     {
@@ -4983,6 +4984,40 @@
       "error_msg": null,
       "created_at": "2026-09-20T07:36:00.027364+00:00",
       "updated_at": "2026-09-20T07:36:01.675689+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260920T1257Z-c6497c",
+      "url_hash": "ab2f5d599fe18a3b",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/chamari-athapaththus-83-sinks-pakistan-as-sri-lanka-chase-down-178-target-to-reach-asian-games-final/articleshow/134363742.cms",
+      "source_name": "The Times of India",
+      "title_en": "Chamari Athapaththuâs 83 sinks Pakistan as Sri Lanka chase down 178 target to reach Asian Games final",
+      "headline_ur": "سری لنکا نے پاکستان کو ہرا کر فائنل میں جگہ بنا لی",
+      "summary_ur": [
+        "سری لنکا نے پاکستان کو 8 وکٹوں سے شکست دے دی",
+        "چماری اتھاپتھو نے 83 رنز کی ناقابل شکست اننگز کھیلی",
+        "پاکستان نے 20 اوورز میں 177 رنز بنائے تھے"
+      ],
+      "caption_ur": "ایشین گیمز کے سیمی فائنل میں سری لنکا نے پاکستان کو شکست دے کر فائنل میں جگہ بنا لی۔ چماری اتھاپتھو کی شاندار 83 رنز کی اننگز نے سری لنکا کو 178 رنز کا ہدف حاصل کرنے میں مدد دی۔ پاکستان اب برانز میڈل کے لیے کھیلے گا۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟",
+      "fb_caption": "ایشین گیمز کے سیمی فائنل میں سری لنکا نے پاکستان کو شکست دے کر فائنل میں جگہ بنا لی۔ چماری اتھاپتھو کی شاندار 83 رنز کی اننگز نے سری لنکا کو 178 رنز کا ہدف حاصل کرنے میں مدد دی۔ پاکستان اب برانز میڈل کے لیے کھیلے گا۔ آپ کے خیال میں قومی ٹیم کی کارکردگی کیسی رہی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AsianGames #Pakistan #SriLanka #WomenCricket #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Pakistan",
+        "#SriLanka",
+        "#WomenCricket",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 290,
+      "telegram_file_id": "BQACAgQAAxkDAAIBImqv2Do8QFxV0HPg5gABK3ajhVmhHAAC1x0AAp4JgVFWMLdESKciZT0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-20T12:57:29.037547+00:00",
+      "updated_at": "2026-09-20T12:57:30.482657+00:00",
       "posted_at": null
     }
   ]
