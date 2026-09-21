@@ -273,7 +273,9 @@
     "41fb99d4c21d4d02": "2026-09-20T17:21:17.366473+00:00",
     "dee4724caacd5759": "2026-09-21T07:48:25.528819+00:00",
     "380ca697590a4cb2": "2026-09-21T07:48:47.319454+00:00",
-    "84fbe5f2ad68fd2b": "2026-09-21T14:57:47.968881+00:00"
+    "84fbe5f2ad68fd2b": "2026-09-21T14:57:47.968881+00:00",
+    "8cad2fb544ff1c8e": "2026-09-21T20:54:01.605556+00:00",
+    "dcee11f2e8613fc5": "2026-09-21T20:54:37.748117+00:00"
   },
   "posts": [
     {
@@ -5095,6 +5097,40 @@
       "error_msg": null,
       "created_at": "2026-09-21T14:57:47.968835+00:00",
       "updated_at": "2026-09-21T14:57:49.508926+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260921T2054Z-75d525",
+      "url_hash": "dcee11f2e8613fc5",
+      "source_url": "https://www.dawn.com/news/2031386/asian-games-pakistan-off-to-flying-start-in-hockey-poor-show-in-other-sports",
+      "source_name": "Dawn",
+      "title_en": "Asian Games: Pakistan off to flying start in hockey, poor show in other sports",
+      "headline_ur": "ایشین گیمز: پاکستان ہاکی ٹیم کا شاندار آغاز",
+      "summary_ur": [
+        "پاکستان ہاکی ٹیم نے ایشین گیمز میں تھائی لینڈ کو 9-0 سے شکست دی۔",
+        "احمد ندیم نے ہیٹ ٹرک کی جبکہ سفیان خان نے 2 گول سکور کیے۔",
+        "دیگر کھیلوں میں پاکستانی کھلاڑیوں کی کارکردگی مایوس کن رہی۔"
+      ],
+      "caption_ur": "پاکستان کی مردوں کی ہاکی ٹیم نے ایشین گیمز میں زبردست آغاز کیا ہے۔ انہوں نے تھائی لینڈ کو 9-0 سے شکست دے کر اپنی مہم کا آغاز کیا۔ احمد ندیم نے ہیٹ ٹرک کی اور سفیان خان نے 2 گول سکور کیے۔ آپ کے خیال میں پاکستانی ٹیم ہاکی میں کہاں تک جائے گی؟",
+      "fb_caption": "پاکستان کی مردوں کی ہاکی ٹیم نے ایشین گیمز میں زبردست آغاز کیا ہے۔ انہوں نے تھائی لینڈ کو 9-0 سے شکست دے کر اپنی مہم کا آغاز کیا۔ احمد ندیم نے ہیٹ ٹرک کی اور سفیان خان نے 2 گول سکور کیے۔ آپ کے خیال میں پاکستانی ٹیم ہاکی میں کہاں تک جائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Hockey #PakistanHockey #AhmedNadeem #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Hockey",
+        "#PakistanHockey",
+        "#AhmedNadeem",
+        "#Sports"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 296,
+      "telegram_file_id": "BQACAgQAAxkDAAIBKGqxmY5U2nfJMSmdkWowSOKX5c7aAALZJAACnrGQUUflpcHqXlykPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-21T20:54:37.748073+00:00",
+      "updated_at": "2026-09-21T20:54:38.813508+00:00",
       "posted_at": null
     }
   ]
