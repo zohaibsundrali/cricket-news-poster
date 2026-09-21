@@ -5019,11 +5019,11 @@
       "telegram_message_id": 290,
       "telegram_file_id": "BQACAgQAAxkDAAIBImqv2Do8QFxV0HPg5gABK3ajhVmhHAAC1x0AAp4JgVFWMLdESKciZT0E",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-20T12:57:29.037547+00:00",
-      "updated_at": "2026-09-20T12:57:30.482657+00:00",
+      "updated_at": "2026-09-21T01:25:27.255520+00:00",
       "posted_at": null
     }
   ]
