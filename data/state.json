@@ -272,7 +272,8 @@
     "88d1366411bc9f46": "2026-09-20T17:21:17.303553+00:00",
     "41fb99d4c21d4d02": "2026-09-20T17:21:17.366473+00:00",
     "dee4724caacd5759": "2026-09-21T07:48:25.528819+00:00",
-    "380ca697590a4cb2": "2026-09-21T07:48:47.319454+00:00"
+    "380ca697590a4cb2": "2026-09-21T07:48:47.319454+00:00",
+    "84fbe5f2ad68fd2b": "2026-09-21T14:57:47.968881+00:00"
   },
   "posts": [
     {
@@ -5060,6 +5061,40 @@
       "error_msg": null,
       "created_at": "2026-09-21T07:48:47.319408+00:00",
       "updated_at": "2026-09-21T07:48:48.871767+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260921T1457Z-163c99",
+      "url_hash": "84fbe5f2ad68fd2b",
+      "source_url": "https://www.dawn.com/news/2031582/maaz-shadab-sufiyan-stand-out-as-cpl-ends-with-antigua-triumph",
+      "source_name": "Dawn",
+      "title_en": "Maaz, Shadab, Sufiyan stand out as CPL ends with Antigua triumph",
+      "headline_ur": "پاکستانی کرکٹرز کی CPL فائنل میں دھوم، انٹیگوا چیمپئن",
+      "summary_ur": [
+        "معاذ صداقت نے CPL فائنل میں 114 رنز بنا کر پہلی سنچری کا ریکارڈ بنایا",
+        "سفیان مقیم نے 4 وکٹیں لے کر فائنل کے بہترین بولنگ فگرز بنائے، پلیئر آف دی میچ",
+        "شاداب خان کو آل راؤنڈ کارکردگی پر پلیئر آف دی ٹورنامنٹ قرار دیا گیا"
+      ],
+      "caption_ur": "کیریبین پریمیئر لیگ کا فائنل انٹیگوا نے جیت لیا، پاکستانی کرکٹرز چھا گئے۔ معاذ صداقت نے شاندار 114 رنز کی اننگز کھیلی، سفیان مقیم نے 4 وکٹیں حاصل کیں۔ شاداب خان کو پلیئر آف دی ٹورنامنٹ کا ایوارڈ ملا۔ آپ کے خیال میں کس کھلاڑی کی کارکردگی سب سے بہترین رہی؟",
+      "fb_caption": "کیریبین پریمیئر لیگ کا فائنل انٹیگوا نے جیت لیا، پاکستانی کرکٹرز چھا گئے۔ معاذ صداقت نے شاندار 114 رنز کی اننگز کھیلی، سفیان مقیم نے 4 وکٹیں حاصل کیں۔ شاداب خان کو پلیئر آف دی ٹورنامنٹ کا ایوارڈ ملا۔ آپ کے خیال میں کس کھلاڑی کی کارکردگی سب سے بہترین رہی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #CPL2024 #MaazSadaqat #ShadabKhan #SufiyanMuqeem #PakistanCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#CPL2024",
+        "#MaazSadaqat",
+        "#ShadabKhan",
+        "#SufiyanMuqeem",
+        "#PakistanCricket"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 295,
+      "telegram_file_id": "BQACAgQAAxkDAAIBJ2qxRe3ByvvOySROwLr-1h2ZnjgGAAJZIwACnrGQUQXQf6FW5WDoPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-21T14:57:47.968835+00:00",
+      "updated_at": "2026-09-21T14:57:49.508926+00:00",
       "posted_at": null
     }
   ]
