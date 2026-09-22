@@ -275,7 +275,9 @@
     "380ca697590a4cb2": "2026-09-21T07:48:47.319454+00:00",
     "84fbe5f2ad68fd2b": "2026-09-21T14:57:47.968881+00:00",
     "8cad2fb544ff1c8e": "2026-09-21T20:54:01.605556+00:00",
-    "dcee11f2e8613fc5": "2026-09-21T20:54:37.748117+00:00"
+    "dcee11f2e8613fc5": "2026-09-21T20:54:37.748117+00:00",
+    "a64f4960729f1061": "2026-09-22T07:35:18.323787+00:00",
+    "5eeab360bdd2f977": "2026-09-22T07:35:30.509821+00:00"
   },
   "posts": [
     {
@@ -5131,6 +5133,40 @@
       "error_msg": null,
       "created_at": "2026-09-21T20:54:37.748073+00:00",
       "updated_at": "2026-09-21T20:54:38.813508+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260922T0735Z-a0c707",
+      "url_hash": "5eeab360bdd2f977",
+      "source_url": "https://www.dawn.com/news/2031788/pakistan-women-seal-asian-games-bronze-after-win-over-bangladesh",
+      "source_name": "Dawn",
+      "title_en": "Pakistan women seal Asian Games bronze after win over Bangladesh",
+      "headline_ur": "پاکستان نے ایشین گیمز میں برانز میڈل جیت لیا",
+      "summary_ur": [
+        "فاطمہ ثناء کی 45 رنز اور ام ہانی کی 3 وکٹوں نے فتح دلائی۔",
+        "پاکستان نے بنگلہ دیش کو 31 رنز سے شکست دے کر میڈل حاصل کیا۔",
+        "یہ ایشین گیمز میں پاکستان کا تیسرا میڈل ہے۔"
+      ],
+      "caption_ur": "ایشین گیمز میں قومی ویمنز ٹیم نے برانز میڈل اپنے نام کر لیا! فاطمہ ثناء کی شاندار بیٹنگ اور ام ہانی کی بہترین بالنگ نے ٹیم کو فتح سے ہمکنار کیا۔ پاکستان نے بنگلہ دیش کو 31 رنز سے شکست دی۔ قومی ٹیم کی اس کامیابی پر آپ کتنے خوش ہیں؟",
+      "fb_caption": "ایشین گیمز میں قومی ویمنز ٹیم نے برانز میڈل اپنے نام کر لیا! فاطمہ ثناء کی شاندار بیٹنگ اور ام ہانی کی بہترین بالنگ نے ٹیم کو فتح سے ہمکنار کیا۔ پاکستان نے بنگلہ دیش کو 31 رنز سے شکست دی۔ قومی ٹیم کی اس کامیابی پر آپ کتنے خوش ہیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Pakistan #WomenCricket #FatimaSana #UmmeHani",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Pakistan",
+        "#WomenCricket",
+        "#FatimaSana",
+        "#UmmeHani"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 299,
+      "telegram_file_id": "BQACAgQAAxkDAAIBK2qyL8Oc8PvoWd82whAXxBCWrGUvAAKwJAACnrGYUWtkB95jm4CKPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-22T07:35:30.509777+00:00",
+      "updated_at": "2026-09-22T07:35:32.002871+00:00",
       "posted_at": null
     }
   ]
