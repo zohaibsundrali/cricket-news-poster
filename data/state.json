@@ -280,7 +280,9 @@
     "5eeab360bdd2f977": "2026-09-22T07:35:30.509821+00:00",
     "9ea2f9d9b826b0a4": "2026-09-22T13:14:46.389341+00:00",
     "f3bfe76e7327bbb2": "2026-09-22T13:14:46.426054+00:00",
-    "e84d41a653498492": "2026-09-22T13:14:54.044943+00:00"
+    "e84d41a653498492": "2026-09-22T13:14:54.044943+00:00",
+    "61ab55190775cd15": "2026-09-22T18:01:05.642212+00:00",
+    "b45af43662e4bd45": "2026-09-22T18:01:53.517693+00:00"
   },
   "posts": [
     {
@@ -5204,6 +5206,40 @@
       "error_msg": null,
       "created_at": "2026-09-22T13:14:54.044895+00:00",
       "updated_at": "2026-09-22T13:14:55.472032+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260922T1801Z-59a76a",
+      "url_hash": "b45af43662e4bd45",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "Japan v India: Visitors avoid shock defeat after controversial wide is overturned",
+      "headline_ur": "بھارت نے جاپان کو 2 رنز سے ہرا کر سنسنی خیز فتح حاصل کی",
+      "summary_ur": [
+        "بھارت نے جاپان کو 2 رنز سے شکست دے کر سنسنی خیز مقابلہ جیت لیا۔",
+        "آخری اوور میں متنازع وائیڈ بال کا فیصلہ تبدیل کیا گیا۔",
+        "یہ میچ 5 اوورز فی سائیڈ تک محدود کر دیا گیا تھا۔"
+      ],
+      "caption_ur": "جاپان نے بھارت کو حیران کن شکست دینے کے قریب پہنچ کر سب کو چونکا دیا۔ آخری اوور میں ایک متنازع وائیڈ بال کے فیصلے نے میچ کا رخ موڑ دیا۔ امپائر کے فیصلے کی تبدیلی نے جاپان کی جیت کی امیدوں پر پانی پھیر دیا۔ کیا امپائر کا فیصلہ درست تھا یا نہیں؟",
+      "fb_caption": "جاپان نے بھارت کو حیران کن شکست دینے کے قریب پہنچ کر سب کو چونکا دیا۔ آخری اوور میں ایک متنازع وائیڈ بال کے فیصلے نے میچ کا رخ موڑ دیا۔ امپائر کے فیصلے کی تبدیلی نے جاپان کی جیت کی امیدوں پر پانی پھیر دیا۔ کیا امپائر کا فیصلہ درست تھا یا نہیں؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #India #Japan #T20 #AsianGames #Controversy",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#India",
+        "#Japan",
+        "#T20",
+        "#AsianGames",
+        "#Controversy"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 302,
+      "telegram_file_id": "BQACAgQAAxkDAAIBLmqywpLF78Ni7tAAARmYi1SDKF5VBAACGSYAAp6xmFHU8t0m8RJEWz0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-22T18:01:53.517624+00:00",
+      "updated_at": "2026-09-22T18:01:54.678699+00:00",
       "posted_at": null
     }
   ]
