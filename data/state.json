@@ -286,7 +286,8 @@
     "4c76ad58f61cc104": "2026-09-23T07:33:33.137157+00:00",
     "1486fd234507c4d5": "2026-09-23T07:33:43.184480+00:00",
     "9420ca5a914909b8": "2026-09-23T13:29:17.670344+00:00",
-    "2318c39d02e69f6b": "2026-09-23T13:29:29.535390+00:00"
+    "2318c39d02e69f6b": "2026-09-23T13:29:29.535390+00:00",
+    "e6747401cc295c1c": "2026-09-23T18:19:48.401354+00:00"
   },
   "posts": [
     {
@@ -5312,6 +5313,40 @@
       "error_msg": null,
       "created_at": "2026-09-23T13:29:29.535342+00:00",
       "updated_at": "2026-09-23T13:29:38.966637+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260923T1819Z-efe039",
+      "url_hash": "e6747401cc295c1c",
+      "source_url": "https://www.dawn.com/news/2032131/abrar-ahmed-rises-to-no-1-in-icc-t20i-bowling-rankings",
+      "source_name": "Dawn",
+      "title_en": "Abrar Ahmed rises to No. 1 in ICC T20I bowling rankings",
+      "headline_ur": "ابرار احمد ٹی ٹوئنٹی رینکنگ میں نمبر ون",
+      "summary_ur": [
+        "ابرار احمد آئی سی سی ٹی ٹوئنٹی بالنگ رینکنگ میں پہلے نمبر پر آ گئے ہیں۔",
+        "وہ یہ اعزاز حاصل کرنے والے پانچویں پاکستانی بالر ہیں۔",
+        "انہوں نے راشد خان کا 6 ماہ کا راج ختم کر دیا۔"
+      ],
+      "caption_ur": "پاکستانی اسپنر ابرار احمد نے آئی سی سی ٹی ٹوئنٹی بالنگ رینکنگ میں پہلی پوزیشن حاصل کر لی ہے۔ انہوں نے راشد خان کا 6 ماہ کا راج ختم کیا۔ یہ ان کے کیریئر کا ایک بڑا سنگ میل ہے۔ آپ کو کیا لگتا ہے کہ وہ کب تک نمبر ون رہیں گے؟",
+      "fb_caption": "پاکستانی اسپنر ابرار احمد نے آئی سی سی ٹی ٹوئنٹی بالنگ رینکنگ میں پہلی پوزیشن حاصل کر لی ہے۔ انہوں نے راشد خان کا 6 ماہ کا راج ختم کیا۔ یہ ان کے کیریئر کا ایک بڑا سنگ میل ہے۔ آپ کو کیا لگتا ہے کہ وہ کب تک نمبر ون رہیں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AbrarAhmed #PakistanCricket #T20IRankings #WorldNo1 #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AbrarAhmed",
+        "#PakistanCricket",
+        "#T20IRankings",
+        "#WorldNo1",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 308,
+      "telegram_file_id": "BQACAgQAAxkDAAIBNGq0GEX_Bp-QfU5o5bz1LF5o-g5dAAIRMAACS8yhUcqdgQ8NbSSYPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-23T18:19:48.401308+00:00",
+      "updated_at": "2026-09-23T18:19:49.861904+00:00",
       "posted_at": null
     }
   ]
