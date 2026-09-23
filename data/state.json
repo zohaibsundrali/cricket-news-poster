@@ -282,7 +282,9 @@
     "f3bfe76e7327bbb2": "2026-09-22T13:14:46.426054+00:00",
     "e84d41a653498492": "2026-09-22T13:14:54.044943+00:00",
     "61ab55190775cd15": "2026-09-22T18:01:05.642212+00:00",
-    "b45af43662e4bd45": "2026-09-22T18:01:53.517693+00:00"
+    "b45af43662e4bd45": "2026-09-22T18:01:53.517693+00:00",
+    "4c76ad58f61cc104": "2026-09-23T07:33:33.137157+00:00",
+    "1486fd234507c4d5": "2026-09-23T07:33:43.184480+00:00"
   },
   "posts": [
     {
@@ -5240,6 +5242,40 @@
       "error_msg": null,
       "created_at": "2026-09-22T18:01:53.517624+00:00",
       "updated_at": "2026-09-23T06:27:43.095590+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260923T0733Z-494030",
+      "url_hash": "1486fd234507c4d5",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-want-to-see-him-under-pressure-new-zealand-coach-lays-down-challenge-for-vaibhav-sooryavanshi/articleshow/134427261.cms",
+      "source_name": "The Times of India",
+      "title_en": "âWe want to see him under pressureâ: New Zealand coach lays down challenge for Vaibhav Sooryavanshi",
+      "headline_ur": "نیوزی لینڈ کوچ وائبھو سوریہ ونشی کو چیلنج کرنے کو تیار",
+      "summary_ur": [
+        "نیوزی لینڈ کے کوچ روب والٹر نے وائبھو سوریہ ونشی کو چیلنج کر دیا ہے۔",
+        "وہ تیز اور باؤنسی وکٹوں پر وائبھو کی بیٹنگ دیکھنا چاہتے ہیں۔",
+        "وائبھو نے 2025 اور 2026 کے آئی پی ایل میں شاندار پرفارمنس دی ہے۔"
+      ],
+      "caption_ur": "نیوزی لینڈ کے کوچ روب والٹر نے بھارتی نوجوان بلے باز وائبھو سوریہ ونشی کے لیے چیلنج کا اعلان کیا ہے۔ وہ آنے والی ٹی ٹونٹی سیریز میں وائبھو کو تیز اور باؤنسی وکٹوں پر دباؤ میں دیکھنا چاہتے ہیں۔ وائبھو نے آئی پی ایل اور انڈر 19 ورلڈ کپ میں اپنی صلاحیتوں کا لوہا منوایا ہے۔ کیا وہ نیوزی لینڈ کے حالات میں بھی اپنی پرفارمنس برقرار رکھ پائیں گے؟",
+      "fb_caption": "نیوزی لینڈ کے کوچ روب والٹر نے بھارتی نوجوان بلے باز وائبھو سوریہ ونشی کے لیے چیلنج کا اعلان کیا ہے۔ وہ آنے والی ٹی ٹونٹی سیریز میں وائبھو کو تیز اور باؤنسی وکٹوں پر دباؤ میں دیکھنا چاہتے ہیں۔ وائبھو نے آئی پی ایل اور انڈر 19 ورلڈ کپ میں اپنی صلاحیتوں کا لوہا منوایا ہے۔ کیا وہ نیوزی لینڈ کے حالات میں بھی اپنی پرفارمنس برقرار رکھ پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #VaibhavSooryavanshi #NewZealand #IndiaCricket #T20I #RobWalter",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#VaibhavSooryavanshi",
+        "#NewZealand",
+        "#IndiaCricket",
+        "#T20I",
+        "#RobWalter"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 306,
+      "telegram_file_id": "BQACAgQAAxkDAAIBMmqzgNje22b4QvIoJPTmKR56s2PwAAJCHQACS8yZURMn-Wxc-azGPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-23T07:33:43.184405+00:00",
+      "updated_at": "2026-09-23T07:33:44.307974+00:00",
       "posted_at": null
     }
   ]
