@@ -301,7 +301,10 @@
     "61d5ffcfb6440289": "2026-09-25T07:22:41.068217+00:00",
     "1064d9e051920fdc": "2026-09-25T07:22:41.171131+00:00",
     "bc2811aaccd548e1": "2026-09-25T07:23:04.802818+00:00",
-    "11418aaec74f44f5": "2026-09-25T13:26:22.680293+00:00"
+    "11418aaec74f44f5": "2026-09-25T13:26:22.680293+00:00",
+    "4556f90271a4d7ec": "2026-09-25T18:21:15.742658+00:00",
+    "82b71defb2f06bd9": "2026-09-25T18:21:15.799992+00:00",
+    "e705d8dbe70657fb": "2026-09-25T18:21:26.733776+00:00"
   },
   "posts": [
     {
@@ -5497,6 +5500,40 @@
       "error_msg": null,
       "created_at": "2026-09-25T13:26:22.680242+00:00",
       "updated_at": "2026-09-25T13:26:23.822301+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260925T1821Z-58bb4b",
+      "url_hash": "e705d8dbe70657fb",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cmwyzr7n0kwro?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "County Championship: Middlesex close in on victory against Northants",
+      "headline_ur": "مڈل سیکس فتح کے قریب، نارتھینٹس کی مشکلات برقرار",
+      "summary_ur": [
+        "نارتھینٹس نے دوسری اننگز میں 249 رنز 7 وکٹوں کے نقصان پر بنائے",
+        "سیف زیب نے 83 رنز کی ناقابل شکست اننگز کھیلی",
+        "ظفر گوہر نے 57 رنز دے کر 3 وکٹیں حاصل کیں"
+      ],
+      "caption_ur": "کاؤنٹی چیمپئن شپ میں مڈل سیکس نے نارتھینٹس کے خلاف اپنی گرفت مضبوط کر لی ہے۔ نارتھینٹس نے دوسری اننگز میں 249 رنز 7 وکٹوں کے نقصان پر بنائے اور مڈل سیکس کو 97 رنز کی برتری حاصل ہے۔ کیا مڈل سیکس یہ میچ جیت پائے گا؟",
+      "fb_caption": "کاؤنٹی چیمپئن شپ میں مڈل سیکس نے نارتھینٹس کے خلاف اپنی گرفت مضبوط کر لی ہے۔ نارتھینٹس نے دوسری اننگز میں 249 رنز 7 وکٹوں کے نقصان پر بنائے اور مڈل سیکس کو 97 رنز کی برتری حاصل ہے۔ کیا مڈل سیکس یہ میچ جیت پائے گا؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #CountyChampionship #Middlesex #Northants #ZafarGohar #SaifZaib",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#CountyChampionship",
+        "#Middlesex",
+        "#Northants",
+        "#ZafarGohar",
+        "#SaifZaib"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 319,
+      "telegram_file_id": "BQACAgQAAxkDAAIBP2q2u6fy__ouHMUECK7ixYe-cgpAAAL8HwAC-cC4URUNBmrxTHYiPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-25T18:21:26.733721+00:00",
+      "updated_at": "2026-09-25T18:21:27.803551+00:00",
       "posted_at": null
     }
   ]
