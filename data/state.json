@@ -300,7 +300,8 @@
     "8b8b62485cb4889b": "2026-09-24T18:21:42.647780+00:00",
     "61d5ffcfb6440289": "2026-09-25T07:22:41.068217+00:00",
     "1064d9e051920fdc": "2026-09-25T07:22:41.171131+00:00",
-    "bc2811aaccd548e1": "2026-09-25T07:23:04.802818+00:00"
+    "bc2811aaccd548e1": "2026-09-25T07:23:04.802818+00:00",
+    "11418aaec74f44f5": "2026-09-25T13:26:22.680293+00:00"
   },
   "posts": [
     {
@@ -5462,6 +5463,40 @@
       "error_msg": null,
       "created_at": "2026-09-25T07:23:04.802759+00:00",
       "updated_at": "2026-09-25T07:23:06.023429+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260925T1326Z-d49385",
+      "url_hash": "11418aaec74f44f5",
+      "source_url": "https://www.dawn.com/news/2032570/pakistan-secure-another-asian-games-medal-as-noor-ashab-reach-squash-semis",
+      "source_name": "Dawn",
+      "title_en": "Pakistan secure another Asian Games medal as Noor, Ashab reach squash semis",
+      "headline_ur": "پاکستان کو ایشین گیمز میں ایک اور میڈل یقینی",
+      "summary_ur": [
+        "نور زمان اور محمد اشہب عرفان اسکواش سیمی فائنل میں پہنچ گئے",
+        "دونوں کھلاڑیوں نے ایشین گیمز میں پاکستان کے لیے میڈل یقینی بنا دیا",
+        "2002 کے بعد پہلی بار پاکستان کے دو کھلاڑی سیمی فائنل میں"
+      ],
+      "caption_ur": "ایشین گیمز میں پاکستان کے لیے ایک اور میڈل کنفرم ہو گیا ہے۔ نور زمان اور محمد اشہب عرفان اسکواش کے سیمی فائنل میں پہنچ گئے ہیں۔ دونوں کھلاڑیوں نے اپنی اپنی پرفارمنس سے ملک کا نام روشن کر دیا ہے۔ کیا آپ کو لگتا ہے کہ وہ گولڈ میڈل جیت پائیں گے؟",
+      "fb_caption": "ایشین گیمز میں پاکستان کے لیے ایک اور میڈل کنفرم ہو گیا ہے۔ نور زمان اور محمد اشہب عرفان اسکواش کے سیمی فائنل میں پہنچ گئے ہیں۔ دونوں کھلاڑیوں نے اپنی اپنی پرفارمنس سے ملک کا نام روشن کر دیا ہے۔ کیا آپ کو لگتا ہے کہ وہ گولڈ میڈل جیت پائیں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Squash #Pakistan #NoorZaman #MohammadAshab",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Squash",
+        "#Pakistan",
+        "#NoorZaman",
+        "#MohammadAshab"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 318,
+      "telegram_file_id": "BQACAgQAAxkDAAIBPmq2dn9XF2rsqshSUi5eVNYLlflaAAILIAAC-cCwUU2ZPH56MHl3PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-25T13:26:22.680242+00:00",
+      "updated_at": "2026-09-25T13:26:23.822301+00:00",
       "posted_at": null
     }
   ]
