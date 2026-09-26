@@ -306,7 +306,8 @@
     "82b71defb2f06bd9": "2026-09-25T18:21:15.799992+00:00",
     "e705d8dbe70657fb": "2026-09-25T18:21:26.733776+00:00",
     "6eb26d8073c08a22": "2026-09-26T07:17:53.349639+00:00",
-    "c231093b7465847c": "2026-09-26T07:18:02.320338+00:00"
+    "c231093b7465847c": "2026-09-26T07:18:02.320338+00:00",
+    "b66e5f8ae7560aeb": "2026-09-26T12:51:03.766689+00:00"
   },
   "posts": [
     {
@@ -5570,6 +5571,40 @@
       "error_msg": null,
       "created_at": "2026-09-26T07:18:02.320289+00:00",
       "updated_at": "2026-09-26T07:18:03.554529+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260926T1251Z-1ca479",
+      "url_hash": "b66e5f8ae7560aeb",
+      "source_url": "https://www.dawn.com/news/2032830/pakistan-open-fifa-asean-cup-campaign-with-4-0-defeat-against-thailand",
+      "source_name": "Dawn",
+      "title_en": "Pakistan open FIFA ASEAN Cup campaign with 4-0 defeat against Thailand",
+      "headline_ur": "پاکستان کو فیفا آسیان کپ میں 4-0 سے شکست",
+      "summary_ur": [
+        "قومی ٹیم کو فیفا آسیان کپ کے پہلے میچ میں شکست ہوئی",
+        "تھائی لینڈ نے پاکستان کو 4-0 سے ہرایا",
+        "تیراسک پوئیفیمائی نے 2 گول سکور کیے"
+      ],
+      "caption_ur": "پاکستان نے فیفا آسیان کپ کا آغاز شکست سے کیا۔ تھائی لینڈ نے گرین شرٹس کو 4-0 سے ہرا دیا۔ تیراسک پوئیفیمائی نے دو گول داغے۔ قومی ٹیم کی آئندہ میچز میں کارکردگی کیسی رہے گی؟",
+      "fb_caption": "پاکستان نے فیفا آسیان کپ کا آغاز شکست سے کیا۔ تھائی لینڈ نے گرین شرٹس کو 4-0 سے ہرا دیا۔ تیراسک پوئیفیمائی نے دو گول داغے۔ قومی ٹیم کی آئندہ میچز میں کارکردگی کیسی رہے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanFootball #FIFAASEANCup #Pakistan #Football #GreenShirts",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanFootball",
+        "#FIFAASEANCup",
+        "#Pakistan",
+        "#Football",
+        "#GreenShirts"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 324,
+      "telegram_file_id": "BQACAgQAAxkDAAIBRGq3v7mMneAvh7bjPZhQkDnP-RuaAAI_HgACnUvAUWVgXytfQIEOPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-26T12:51:03.766644+00:00",
+      "updated_at": "2026-09-26T12:51:05.682561+00:00",
       "posted_at": null
     }
   ]
