@@ -307,7 +307,8 @@
     "e705d8dbe70657fb": "2026-09-25T18:21:26.733776+00:00",
     "6eb26d8073c08a22": "2026-09-26T07:17:53.349639+00:00",
     "c231093b7465847c": "2026-09-26T07:18:02.320338+00:00",
-    "b66e5f8ae7560aeb": "2026-09-26T12:51:03.766689+00:00"
+    "b66e5f8ae7560aeb": "2026-09-26T12:51:03.766689+00:00",
+    "579e6f96d73a5142": "2026-09-26T17:40:54.816734+00:00"
   },
   "posts": [
     {
@@ -5605,6 +5606,39 @@
       "error_msg": null,
       "created_at": "2026-09-26T12:51:03.766644+00:00",
       "updated_at": "2026-09-26T12:51:05.682561+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260926T1740Z-f6e1f9",
+      "url_hash": "579e6f96d73a5142",
+      "source_url": "https://www.dawn.com/news/2032856/babar-azam-dismissed-cheaply-on-domestic-return-as-fiery-arshad-iqbal-takes-five",
+      "source_name": "Dawn",
+      "title_en": "Babar Azam dismissed cheaply on domestic return as fiery Arshad Iqbal takes five",
+      "headline_ur": "بابر اعظم سستے میں آؤٹ، ارشد اقبال کی 5 وکٹیں",
+      "summary_ur": [
+        "بابر اعظم ڈومیسٹک کرکٹ میں واپسی پر صرف 12 رنز بنا کر آؤٹ ہو گئے",
+        "کے آر ایل کے ارشد اقبال نے شاندار بالنگ کرتے ہوئے 5 وکٹیں حاصل کیں",
+        "آؤٹ ہونے سے قبل بابر نے 20 گیندوں کا سامنا کیا اور 2 چوکے لگائے"
+      ],
+      "caption_ur": "پاکستان کے ٹیسٹ کپتان بابر اعظم ڈومیسٹک کرکٹ میں واپسی پر سستے میں آؤٹ ہو گئے۔ ارشد اقبال نے تباہ کن بالنگ کرتے ہوئے 5 وکٹیں حاصل کیں۔ کیا قومی ٹیم کے کپتان کو ڈومیسٹک کرکٹ میں مزید وقت گزارنا چاہیے؟",
+      "fb_caption": "پاکستان کے ٹیسٹ کپتان بابر اعظم ڈومیسٹک کرکٹ میں واپسی پر سستے میں آؤٹ ہو گئے۔ ارشد اقبال نے تباہ کن بالنگ کرتے ہوئے 5 وکٹیں حاصل کیں۔ کیا قومی ٹیم کے کپتان کو ڈومیسٹک کرکٹ میں مزید وقت گزارنا چاہیے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #BabarAzam #ArshadIqbal #PresidentsTrophy #PakistanCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#ArshadIqbal",
+        "#PresidentsTrophy",
+        "#PakistanCricket"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 325,
+      "telegram_file_id": "BQACAgQAAxkDAAIBRWq4A6e6UEaKIwi-UF-mHPiFOdAjAAK5HgACnUvAUbVLZhC06_a5PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-26T17:40:54.816693+00:00",
+      "updated_at": "2026-09-26T17:40:56.036057+00:00",
       "posted_at": null
     }
   ]
