@@ -304,7 +304,9 @@
     "11418aaec74f44f5": "2026-09-25T13:26:22.680293+00:00",
     "4556f90271a4d7ec": "2026-09-25T18:21:15.742658+00:00",
     "82b71defb2f06bd9": "2026-09-25T18:21:15.799992+00:00",
-    "e705d8dbe70657fb": "2026-09-25T18:21:26.733776+00:00"
+    "e705d8dbe70657fb": "2026-09-25T18:21:26.733776+00:00",
+    "6eb26d8073c08a22": "2026-09-26T07:17:53.349639+00:00",
+    "c231093b7465847c": "2026-09-26T07:18:02.320338+00:00"
   },
   "posts": [
     {
@@ -5534,6 +5536,40 @@
       "error_msg": null,
       "created_at": "2026-09-25T18:21:26.733721+00:00",
       "updated_at": "2026-09-25T18:21:27.803551+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260926T0718Z-620958",
+      "url_hash": "c231093b7465847c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/ab-tak-band-ho-jati-virat-rohit-retirements-spark-viewership-debate-sehwag-explains-why-cricket-will-survive/articleshow/134498915.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Ab tak band ho jati': Virat-Rohit retirements spark viewership debate; Sehwag explains why cricket will survive",
+      "headline_ur": "ویرات اور روہت کی ریٹائرمنٹ سے کرکٹ کو فرق نہیں پڑے گا",
+      "summary_ur": [
+        "ویریندر سہواگ نے ویرات کوہلی اور روہت شرما کی ریٹائرمنٹ پر بات کی",
+        "سہواگ کے مطابق کرکٹ ستاروں سے بڑی ہے، ہمیشہ زندہ رہے گی",
+        "پہلے بھی سنیل گواسکر، کپل دیو اور سچن کے لیے یہی کہا جاتا تھا"
+      ],
+      "caption_ur": "ویرات کوہلی اور روہت شرما کی ٹی ٹونٹی اور ٹیسٹ سے ریٹائرمنٹ کے بعد ویوورشپ پر بحث چھڑ گئی ہے۔ ویریندر سہواگ کا کہنا ہے کہ کرکٹ کسی ایک کھلاڑی سے نہیں چلتی۔ ان کے مطابق، پہلے بھی بڑے کھلاڑیوں کی ریٹائرمنٹ پر ایسی باتیں ہوتی تھیں، مگر کرکٹ ہمیشہ زندہ رہی ہے۔ آپ کا اس بارے میں کیا خیال ہے؟",
+      "fb_caption": "ویرات کوہلی اور روہت شرما کی ٹی ٹونٹی اور ٹیسٹ سے ریٹائرمنٹ کے بعد ویوورشپ پر بحث چھڑ گئی ہے۔ ویریندر سہواگ کا کہنا ہے کہ کرکٹ کسی ایک کھلاڑی سے نہیں چلتی۔ ان کے مطابق، پہلے بھی بڑے کھلاڑیوں کی ریٹائرمنٹ پر ایسی باتیں ہوتی تھیں، مگر کرکٹ ہمیشہ زندہ رہی ہے۔ آپ کا اس بارے میں کیا خیال ہے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #Sehwag #ViratKohli #RohitSharma #IndianCricket #کرکٹ_فینز",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Sehwag",
+        "#ViratKohli",
+        "#RohitSharma",
+        "#IndianCricket",
+        "#کرکٹ_فینز"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 322,
+      "telegram_file_id": "BQACAgQAAxkDAAIBQmq3catBT1M16np-QbPRW6beCOfCAAKuHQACnUvAUcsGa5NjTJIBPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-26T07:18:02.320289+00:00",
+      "updated_at": "2026-09-26T07:18:03.554529+00:00",
       "posted_at": null
     }
   ]
