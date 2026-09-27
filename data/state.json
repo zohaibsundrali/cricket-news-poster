@@ -309,7 +309,11 @@
     "c231093b7465847c": "2026-09-26T07:18:02.320338+00:00",
     "b66e5f8ae7560aeb": "2026-09-26T12:51:03.766689+00:00",
     "579e6f96d73a5142": "2026-09-26T17:40:54.816734+00:00",
-    "858fd0e4e932ae70": "2026-09-27T07:49:44.529316+00:00"
+    "858fd0e4e932ae70": "2026-09-27T07:49:44.529316+00:00",
+    "54a0faa2a98d24e2": "2026-09-27T13:42:13.373537+00:00",
+    "942b1ad3dd84b301": "2026-09-27T13:42:49.460937+00:00",
+    "af8b9c45be9cec82": "2026-09-27T13:42:49.479575+00:00",
+    "36c85e8aa04b236f": "2026-09-27T13:43:00.966561+00:00"
   },
   "posts": [
     {
@@ -5674,6 +5678,40 @@
       "error_msg": null,
       "created_at": "2026-09-27T07:49:44.529271+00:00",
       "updated_at": "2026-09-27T07:49:45.831369+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260927T1342Z-511510",
+      "url_hash": "36c85e8aa04b236f",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Sport",
+      "title_en": "County Championship: Glamorgan and Essex rained off on final day",
+      "headline_ur": "بارش نے گلیمورگن اور ایسیکس کا میچ ڈرا کر دیا",
+      "summary_ur": [
+        "گلیمورگن اور ایسیکس کا میچ بارش کی وجہ سے ڈرا ہو گیا",
+        "آخری دن صرف 21 بالز کا کھیل ہو سکا",
+        "گلیمورگن کو 13 اور ایسیکس کو 9 پوائنٹس ملے"
+      ],
+      "caption_ur": "کاؤنٹی چیمپئن شپ میں گلیمورگن اور ایسیکس کے درمیان میچ بارش کی نذر ہو گیا۔ آخری دن صرف 21 بالز کا کھیل ممکن ہو سکا۔ ایسیکس اب بھی 25 رنز پیچھے تھی جب بارش دوبارہ شروع ہو گئی۔ آپ کے خیال میں بارش سے متاثرہ میچز کے لیے کیا حل ہونا چاہیے؟",
+      "fb_caption": "کاؤنٹی چیمپئن شپ میں گلیمورگن اور ایسیکس کے درمیان میچ بارش کی نذر ہو گیا۔ آخری دن صرف 21 بالز کا کھیل ممکن ہو سکا۔ ایسیکس اب بھی 25 رنز پیچھے تھی جب بارش دوبارہ شروع ہو گئی۔ آپ کے خیال میں بارش سے متاثرہ میچز کے لیے کیا حل ہونا چاہیے؟\n\nبشکریہ: BBC Sport\n\n#Cricket #کرکٹ #CountyChampionship #Glamorgan #Essex #RainMatch #MatchDraw",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#CountyChampionship",
+        "#Glamorgan",
+        "#Essex",
+        "#RainMatch",
+        "#MatchDraw"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 330,
+      "telegram_file_id": "BQACAgQAAxkDAAIBSmq5HWbwnujHStSR2Qe-z-aBXFPmAAIfIAACnOrIUTa4NAYt-_K8PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-27T13:43:00.966521+00:00",
+      "updated_at": "2026-09-27T13:43:02.600065+00:00",
       "posted_at": null
     }
   ]
