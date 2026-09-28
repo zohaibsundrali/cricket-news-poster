@@ -316,7 +316,12 @@
     "36c85e8aa04b236f": "2026-09-27T13:43:00.966561+00:00",
     "6beade1a49ab847f": "2026-09-27T18:09:16.377746+00:00",
     "e48f557c5d75f067": "2026-09-27T18:09:28.103261+00:00",
-    "a5b280c83758f974": "2026-09-28T08:27:49.028876+00:00"
+    "a5b280c83758f974": "2026-09-28T08:27:49.028876+00:00",
+    "8d16b688c5cf11f6": "2026-09-28T18:33:03.167525+00:00",
+    "2e5a4e15cd5ae388": "2026-09-28T18:33:39.566310+00:00",
+    "f2ab6e4c8ef427f4": "2026-09-28T18:33:39.631573+00:00",
+    "66f4bc5213fcab92": "2026-09-28T18:33:39.669738+00:00",
+    "4bc243639cd788ce": "2026-09-28T18:34:01.305133+00:00"
   },
   "posts": [
     {
@@ -5783,6 +5788,40 @@
       "error_msg": null,
       "created_at": "2026-09-28T08:27:49.028833+00:00",
       "updated_at": "2026-09-28T08:27:50.522246+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260928T1833Z-14d375",
+      "url_hash": "4bc243639cd788ce",
+      "source_url": "https://www.dawn.com/news/2033295/asian-games-arshad-nadeem-finishes-fourth-as-rumesh-pathirage-strikes-javelin-gold-in-rainy-nagoya",
+      "source_name": "Dawn",
+      "title_en": "Asian Games: Arshad Nadeem finishes fourth as Rumesh Pathirage strikes javelin gold in rainy Nagoya",
+      "headline_ur": "ارشد ندیم چوتھے نمبر پر، رُمیش پاتھیرج نے گولڈ جیتا",
+      "summary_ur": [
+        "ارشد ندیم نے 80.29 میٹر تھرو کی، چوتھی پوزیشن حاصل کی",
+        "سری لنکا کے رُمیش پاتھیرج نے 88.55 میٹر کے ساتھ گولڈ میڈل جیتا",
+        "پاکستان کے محمد یاسر 73.50 میٹر کے ساتھ نویں نمبر پر رہے"
+      ],
+      "caption_ur": "ایشین گیمز میں ارشد ندیم نے اپنی بہترین کارکردگی دکھائی لیکن میڈل حاصل نہ کر سکے انہوں نے 80.29 میٹر کا تھرو کیا اور چوتھی پوزیشن پر رہے. سری لنکا کے رُمیش پاتھیرج نے 88.55 میٹر کے ساتھ گولڈ میڈل اپنے نام کیا. آپ کے خیال میں ارشد ندیم کی کارکردگی کیسی تھی؟",
+      "fb_caption": "ایشین گیمز میں ارشد ندیم نے اپنی بہترین کارکردگی دکھائی لیکن میڈل حاصل نہ کر سکے انہوں نے 80.29 میٹر کا تھرو کیا اور چوتھی پوزیشن پر رہے. سری لنکا کے رُمیش پاتھیرج نے 88.55 میٹر کے ساتھ گولڈ میڈل اپنے نام کیا. آپ کے خیال میں ارشد ندیم کی کارکردگی کیسی تھی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #ArshadNadeem #AsianGames #JavelinThrow #Pakistan #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ArshadNadeem",
+        "#AsianGames",
+        "#JavelinThrow",
+        "#Pakistan",
+        "#Sports"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 336,
+      "telegram_file_id": "BQACAgQAAxkDAAIBUGq6sxoAATgScN1DG5ydGTyGvxvXAwAC2SAAApzq2FFIPC0fKl_KGz0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-28T18:34:01.305087+00:00",
+      "updated_at": "2026-09-28T18:34:03.032620+00:00",
       "posted_at": null
     }
   ]
