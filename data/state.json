@@ -315,7 +315,8 @@
     "af8b9c45be9cec82": "2026-09-27T13:42:49.479575+00:00",
     "36c85e8aa04b236f": "2026-09-27T13:43:00.966561+00:00",
     "6beade1a49ab847f": "2026-09-27T18:09:16.377746+00:00",
-    "e48f557c5d75f067": "2026-09-27T18:09:28.103261+00:00"
+    "e48f557c5d75f067": "2026-09-27T18:09:28.103261+00:00",
+    "a5b280c83758f974": "2026-09-28T08:27:49.028876+00:00"
   },
   "posts": [
     {
@@ -5748,6 +5749,40 @@
       "error_msg": null,
       "created_at": "2026-09-27T18:09:28.103214+00:00",
       "updated_at": "2026-09-27T18:09:29.709257+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260928T0827Z-1ffe98",
+      "url_hash": "a5b280c83758f974",
+      "source_url": "https://www.dawn.com/news/2033247/pakistan-advance-to-asian-games-cricket-semi-finals-after-rain-washes-out-hong-kong-clash",
+      "source_name": "Dawn",
+      "title_en": "Pakistan advance to Asian Games cricket semi-finals after rain washes out Hong Kong clash",
+      "headline_ur": "پاکستان ایشین گیمز سیمی فائنل میں، رینکنگ نے بچایا",
+      "summary_ur": [
+        "بارش کے باعث پاکستان اور ہانگ کانگ کا کوارٹر فائنل منسوخ ہو گیا",
+        "اعلیٰ رینکنگ کی بنیاد پر قومی ٹیم سیمی فائنل میں پہنچ گئی",
+        "سیمی فائنل 1 اکتوبر کو کھیلا جائے گا"
+      ],
+      "caption_ur": "ایشین گیمز میں پاکستان کا ہانگ کانگ کے خلاف کوارٹر فائنل بارش کی وجہ سے ایک بھی بال کھیلے بغیر منسوخ ہو گیا۔ تاہم، اپنی اعلیٰ ٹی ٹونٹی رینکنگ کی بدولت قومی ٹیم سیمی فائنل میں جگہ بنانے میں کامیاب ہو گئی۔ اب پاکستان کا مقابلہ بنگلہ دیش یا ملائیشیا سے ہوگا۔ آپ کے خیال میں قومی ٹیم فائنل میں پہنچ پائے گی؟",
+      "fb_caption": "ایشین گیمز میں پاکستان کا ہانگ کانگ کے خلاف کوارٹر فائنل بارش کی وجہ سے ایک بھی بال کھیلے بغیر منسوخ ہو گیا۔ تاہم، اپنی اعلیٰ ٹی ٹونٹی رینکنگ کی بدولت قومی ٹیم سیمی فائنل میں جگہ بنانے میں کامیاب ہو گئی۔ اب پاکستان کا مقابلہ بنگلہ دیش یا ملائیشیا سے ہوگا۔ آپ کے خیال میں قومی ٹیم فائنل میں پہنچ پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Pakistan #PakvsHK #SemiFinal #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Pakistan",
+        "#PakvsHK",
+        "#SemiFinal",
+        "#Sports"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 334,
+      "telegram_file_id": "BQACAgQAAxkDAAIBTmq6JQbtuSsiEGZ6BgvDFdWEQdHIAAIhHgACnOrQURg9x_SjQBiqPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-28T08:27:49.028833+00:00",
+      "updated_at": "2026-09-28T08:27:50.522246+00:00",
       "posted_at": null
     }
   ]
