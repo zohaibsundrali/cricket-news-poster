@@ -5855,11 +5855,11 @@
       "telegram_message_id": 338,
       "telegram_file_id": "BQACAgQAAxkDAAIBUmq7ceeXuTKR3xRbMOfVYI8H8vYvAAIXIAAC7xLZUQ8OwOGQeB9QPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-29T08:08:06.204139+00:00",
-      "updated_at": "2026-09-29T08:08:07.912819+00:00",
+      "updated_at": "2026-09-29T20:32:21.380382+00:00",
       "posted_at": null
     },
     {
