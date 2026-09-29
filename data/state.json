@@ -321,7 +321,10 @@
     "2e5a4e15cd5ae388": "2026-09-28T18:33:39.566310+00:00",
     "f2ab6e4c8ef427f4": "2026-09-28T18:33:39.631573+00:00",
     "66f4bc5213fcab92": "2026-09-28T18:33:39.669738+00:00",
-    "4bc243639cd788ce": "2026-09-28T18:34:01.305133+00:00"
+    "4bc243639cd788ce": "2026-09-28T18:34:01.305133+00:00",
+    "535c0b335272baf2": "2026-09-29T08:07:45.896473+00:00",
+    "d97e1eb375ad6305": "2026-09-29T08:07:45.908711+00:00",
+    "2be9f56ff467c522": "2026-09-29T08:08:06.204194+00:00"
   },
   "posts": [
     {
@@ -5822,6 +5825,40 @@
       "error_msg": null,
       "created_at": "2026-09-28T18:34:01.305087+00:00",
       "updated_at": "2026-09-28T18:34:03.032620+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260929T0808Z-cbf5f4",
+      "url_hash": "2be9f56ff467c522",
+      "source_url": "https://www.dawn.com/news/2033472/bangladesh-sri-lanka-through-to-asiad-semis-after-rain-washes-out-quarter-finals",
+      "source_name": "Dawn",
+      "title_en": "Bangladesh, Sri Lanka through to Asiad semis after rain washes out quarter-finals",
+      "headline_ur": "بارش کی وجہ سے سری لنکا اور بنگلہ دیش سیمی فائنل میں",
+      "summary_ur": [
+        "سری لنکا اور بنگلہ دیش ایشین گیمز کے سیمی فائنل میں پہنچ گئے",
+        "بارش کی وجہ سے کوارٹر فائنل میچز نہیں ہو سکے",
+        "سری لنکا کا مقابلہ بھارت سے اور بنگلہ دیش کا پاکستان سے ہوگا"
+      ],
+      "caption_ur": "ایشین گیمز کرکٹ میں بارش نے رنگ میں بھنگ ڈال دیا ہے۔ سری لنکا اور بنگلہ دیش سیمی فائنل میں پہنچ گئے کیونکہ ان کے کوارٹر فائنل بارش کی نذر ہو گئے۔ اب سری لنکا کا مقابلہ بھارت سے اور بنگلہ دیش کا پاکستان سے ہوگا۔ کیا آپ کو لگتا ہے کہ فائنل میں پاکستان اور بھارت آمنے سامنے ہوں گے؟",
+      "fb_caption": "ایشین گیمز کرکٹ میں بارش نے رنگ میں بھنگ ڈال دیا ہے۔ سری لنکا اور بنگلہ دیش سیمی فائنل میں پہنچ گئے کیونکہ ان کے کوارٹر فائنل بارش کی نذر ہو گئے۔ اب سری لنکا کا مقابلہ بھارت سے اور بنگلہ دیش کا پاکستان سے ہوگا۔ کیا آپ کو لگتا ہے کہ فائنل میں پاکستان اور بھارت آمنے سامنے ہوں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #SriLanka #Bangladesh #Pakistan #India",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#SriLanka",
+        "#Bangladesh",
+        "#Pakistan",
+        "#India"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 338,
+      "telegram_file_id": "BQACAgQAAxkDAAIBUmq7ceeXuTKR3xRbMOfVYI8H8vYvAAIXIAAC7xLZUQ8OwOGQeB9QPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-29T08:08:06.204139+00:00",
+      "updated_at": "2026-09-29T08:08:07.912819+00:00",
       "posted_at": null
     }
   ]
