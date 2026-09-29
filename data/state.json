@@ -324,7 +324,8 @@
     "4bc243639cd788ce": "2026-09-28T18:34:01.305133+00:00",
     "535c0b335272baf2": "2026-09-29T08:07:45.896473+00:00",
     "d97e1eb375ad6305": "2026-09-29T08:07:45.908711+00:00",
-    "2be9f56ff467c522": "2026-09-29T08:08:06.204194+00:00"
+    "2be9f56ff467c522": "2026-09-29T08:08:06.204194+00:00",
+    "7d4a7806b61c5421": "2026-09-29T16:50:38.736231+00:00"
   },
   "posts": [
     {
@@ -5859,6 +5860,40 @@
       "error_msg": null,
       "created_at": "2026-09-29T08:08:06.204139+00:00",
       "updated_at": "2026-09-29T08:08:07.912819+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260929T1650Z-5fe571",
+      "url_hash": "7d4a7806b61c5421",
+      "source_url": "https://www.dawn.com/news/2033523/pakistan-produce-stunning-comeback-to-secure-2-2-draw-against-philippines-in-fifa-asean-cup",
+      "source_name": "Dawn",
+      "title_en": "Pakistan produce stunning comeback to secure 2-2 draw against Philippines in FIFA ASEAN Cup",
+      "headline_ur": "پاکستان نے فلپائن کے خلاف 2-2 سے ڈرا کر لیا",
+      "summary_ur": [
+        "قومی ٹیم نے 2 گول سے پچھڑنے کے بعد شاندار کم بیک کیا",
+        "علی اکبر خان اور عبدالصمد ارشد نے گول اسکور کیے",
+        "فیفا ایونٹ میں پاکستان کا یہ پہلا پوائنٹ ہے"
+      ],
+      "caption_ur": "فیفا ایونٹ میں قومی ٹیم نے شاندار کھیل پیش کرتے ہوئے فلپائن کے خلاف میچ 2-2 سے برابر کر دیا۔ پاکستان نے 2 گول سے پچھڑنے کے بعد مقابلہ برابر کیا۔ یہ قومی ٹیم کا فیفا ایونٹ میں پہلا پوائنٹ ہے۔ کیا آپ کو لگتا ہے کہ قومی ٹیم ویتنام کے خلاف بھی اچھا کھیلے گی؟",
+      "fb_caption": "فیفا ایونٹ میں قومی ٹیم نے شاندار کھیل پیش کرتے ہوئے فلپائن کے خلاف میچ 2-2 سے برابر کر دیا۔ پاکستان نے 2 گول سے پچھڑنے کے بعد مقابلہ برابر کیا۔ یہ قومی ٹیم کا فیفا ایونٹ میں پہلا پوائنٹ ہے۔ کیا آپ کو لگتا ہے کہ قومی ٹیم ویتنام کے خلاف بھی اچھا کھیلے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanFootball #FIFAAseanCup #Football #پاکستان #Comeback",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanFootball",
+        "#FIFAAseanCup",
+        "#Football",
+        "#پاکستان",
+        "#Comeback"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 340,
+      "telegram_file_id": "BQACAgQAAxkDAAIBVGq77F-PwhNJcJjcqDegZRBbJlvSAALVJgAC7xLhUR3KcInKBr0QPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-29T16:50:38.736181+00:00",
+      "updated_at": "2026-09-29T16:50:39.807343+00:00",
       "posted_at": null
     }
   ]
