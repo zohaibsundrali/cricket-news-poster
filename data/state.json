@@ -5820,11 +5820,11 @@
       "telegram_message_id": 336,
       "telegram_file_id": "BQACAgQAAxkDAAIBUGq6sxoAATgScN1DG5ydGTyGvxvXAwAC2SAAApzq2FFIPC0fKl_KGz0E",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-28T18:34:01.305087+00:00",
-      "updated_at": "2026-09-28T18:34:03.032620+00:00",
+      "updated_at": "2026-09-29T09:07:01.995187+00:00",
       "posted_at": null
     },
     {
