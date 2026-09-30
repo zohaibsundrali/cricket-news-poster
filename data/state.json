@@ -334,7 +334,8 @@
     "56790c521797807b": "2026-09-29T21:19:45.504916+00:00",
     "30faaf557fa8de4c": "2026-09-30T08:13:45.698251+00:00",
     "49c12f5da05464f3": "2026-09-30T08:13:45.734462+00:00",
-    "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00"
+    "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00",
+    "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00"
   },
   "posts": [
     {
@@ -5937,6 +5938,40 @@
       "error_msg": null,
       "created_at": "2026-09-30T08:14:44.279635+00:00",
       "updated_at": "2026-09-30T08:14:45.683008+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260930T1645Z-476f8e",
+      "url_hash": "12f9b1b47691ae6d",
+      "source_url": "https://www.dawn.com/news/2033746/the-fightback-in-bandung-and-pakistan-footballs-reality",
+      "source_name": "Dawn",
+      "title_en": "The fightback in Bandung and Pakistan football’s reality",
+      "headline_ur": "پاکستان فٹبال کا تاریخی کم بیک، فلپائن کے خلاف پہلا پوائنٹ",
+      "summary_ur": [
+        "پاکستان نے فیفا مقابلے میں اپنا پہلا پوائنٹ حاصل کر لیا۔",
+        "فلپائن کے خلاف 2-2 کا ڈرا، جو 60 درجے اوپر کی ٹیم ہے۔",
+        "عبدالصمد ارشد اور محمد علی اکبر نے گول کر کے میچ برابر کیا۔"
+      ],
+      "caption_ur": "پاکستان فٹبال ٹیم نے فلپائن کے خلاف شاندار کم بیک کر کے سب کو حیران کر دیا۔ یہ فیفا مقابلے میں پاکستان کا پہلا پوائنٹ تھا، جو 2-2 کے ڈرا کے ساتھ حاصل ہوا۔ ناقص تیاری اور کوچ کی غیر موجودگی کے باوجود ٹیم نے یہ کارنامہ کیسے انجام دیا؟",
+      "fb_caption": "پاکستان فٹبال ٹیم نے فلپائن کے خلاف شاندار کم بیک کر کے سب کو حیران کر دیا۔ یہ فیفا مقابلے میں پاکستان کا پہلا پوائنٹ تھا، جو 2-2 کے ڈرا کے ساتھ حاصل ہوا۔ ناقص تیاری اور کوچ کی غیر موجودگی کے باوجود ٹیم نے یہ کارنامہ کیسے انجام دیا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #PakistanFootball #FIFA #Comeback #Pakistan #Football",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PakistanFootball",
+        "#FIFA",
+        "#Comeback",
+        "#Pakistan",
+        "#Football"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 345,
+      "telegram_file_id": "BQACAgQAAxkDAAIBWWq9PMs3TTHGVGspCgictWZ0_H9aAAKdIgAC8mLxUbNstjtCQXcZPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-30T16:46:02.230105+00:00",
+      "updated_at": "2026-09-30T16:46:03.930689+00:00",
       "posted_at": null
     }
   ]
