@@ -5934,11 +5934,11 @@
       "telegram_message_id": 344,
       "telegram_file_id": "BQACAgQAAxkDAAIBWGq8xPW-js5KBhCz5tXL2D6rXsK2AAKrJwAC7xLhURhPUFnp92SQPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-30T08:14:44.279635+00:00",
-      "updated_at": "2026-09-30T08:14:45.683008+00:00",
+      "updated_at": "2026-09-30T21:20:26.126638+00:00",
       "posted_at": null
     },
     {
