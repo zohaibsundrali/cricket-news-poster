@@ -331,7 +331,10 @@
     "55ad72cc1fe66e20": "2026-09-29T21:19:09.615333+00:00",
     "aad6717b6ed8b9c0": "2026-09-29T21:19:09.667414+00:00",
     "4f423f34850005c9": "2026-09-29T21:19:45.353633+00:00",
-    "56790c521797807b": "2026-09-29T21:19:45.504916+00:00"
+    "56790c521797807b": "2026-09-29T21:19:45.504916+00:00",
+    "30faaf557fa8de4c": "2026-09-30T08:13:45.698251+00:00",
+    "49c12f5da05464f3": "2026-09-30T08:13:45.734462+00:00",
+    "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00"
   },
   "posts": [
     {
@@ -5900,6 +5903,40 @@
       "error_msg": null,
       "created_at": "2026-09-29T16:50:38.736181+00:00",
       "updated_at": "2026-09-30T05:22:17.004326+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260930T0814Z-14106f",
+      "url_hash": "dceae719484b53d1",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/major-posting-for-shoaib-akhtar-mohsin-naqvi-holds-talks-with-former-pakistan-star/articleshow/134580838.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Major posting' for Shoaib Akhtar? Mohsin Naqvi holds talks with former Pakistan star",
+      "headline_ur": "شعیب اختر کو پی سی بی میں اہم عہدہ ملنے کا امکان",
+      "summary_ur": [
+        "سابق فاسٹ بولر شعیب اختر کو پی سی بی میں اہم عہدہ مل سکتا ہے",
+        "چیئرمین محسن نقوی اور شعیب اختر کے درمیان ملاقاتیں ہوئی ہیں",
+        "پی سی بی کرکٹ ڈھانچے میں بڑی تبدیلیاں لانے کی منصوبہ بندی کر رہا ہے"
+      ],
+      "caption_ur": "سابق فاسٹ بولر شعیب اختر کو پاکستان کرکٹ بورڈ میں ایک اہم عہدہ ملنے کی خبریں گرم ہیں۔ چیئرمین محسن نقوی نے بورڈ کے کرکٹ ڈھانچے میں تبدیلیوں کا عندیہ دیا ہے۔ اس سلسلے میں شعیب اختر اور محسن نقوی کے درمیان ملاقاتیں بھی ہوئی ہیں۔ کیا شعیب اختر پاکستان کرکٹ میں نئی روح پھونک پائیں گے؟",
+      "fb_caption": "سابق فاسٹ بولر شعیب اختر کو پاکستان کرکٹ بورڈ میں ایک اہم عہدہ ملنے کی خبریں گرم ہیں۔ چیئرمین محسن نقوی نے بورڈ کے کرکٹ ڈھانچے میں تبدیلیوں کا عندیہ دیا ہے۔ اس سلسلے میں شعیب اختر اور محسن نقوی کے درمیان ملاقاتیں بھی ہوئی ہیں۔ کیا شعیب اختر پاکستان کرکٹ میں نئی روح پھونک پائیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ShoaibAkhtar #PCB #MohsinNaqvi #PakistanCricket #PlayerNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ShoaibAkhtar",
+        "#PCB",
+        "#MohsinNaqvi",
+        "#PakistanCricket",
+        "#PlayerNews"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 344,
+      "telegram_file_id": "BQACAgQAAxkDAAIBWGq8xPW-js5KBhCz5tXL2D6rXsK2AAKrJwAC7xLhURhPUFnp92SQPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-30T08:14:44.279635+00:00",
+      "updated_at": "2026-09-30T08:14:45.683008+00:00",
       "posted_at": null
     }
   ]
