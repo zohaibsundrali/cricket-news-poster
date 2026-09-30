@@ -335,7 +335,8 @@
     "30faaf557fa8de4c": "2026-09-30T08:13:45.698251+00:00",
     "49c12f5da05464f3": "2026-09-30T08:13:45.734462+00:00",
     "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00",
-    "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00"
+    "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00",
+    "39f24dd5f07c99f2": "2026-09-30T21:20:03.704708+00:00"
   },
   "posts": [
     {
@@ -5972,6 +5973,40 @@
       "error_msg": null,
       "created_at": "2026-09-30T16:46:02.230105+00:00",
       "updated_at": "2026-09-30T16:46:03.930689+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20260930T2120Z-86846b",
+      "url_hash": "39f24dd5f07c99f2",
+      "source_url": "https://www.dawn.com/news/2033791/fans-swarm-babar-azam-after-dismissal-as-fourth-round-of-presidents-trophy-begins",
+      "source_name": "Dawn",
+      "title_en": "Fans swarm Babar Azam after dismissal as fourth round of President’s Trophy begins",
+      "headline_ur": "بابر اعظم 21 رنز بنا کر آؤٹ، مداحوں کا ہجوم",
+      "summary_ur": [
+        "پریذیڈنٹ ٹرافی میں بابر اعظم 21 رنز بنا کر پویلین لوٹ گئے۔",
+        "آؤٹ ہونے کے بعد مداحوں نے انہیں گھیر لیا، سیکیورٹی خدشات۔",
+        "او جی ڈی سی ایل کی ٹیم 50 اوورز میں 196 رنز پر آؤٹ ہو گئی۔"
+      ],
+      "caption_ur": "پریذیڈنٹ ٹرافی میں بابر اعظم کی اننگز 21 رنز پر ختم ہو گئی۔ آؤٹ ہو کر پویلین جاتے ہوئے مداحوں نے انہیں گھیر لیا اور سیلفیاں بنوائیں۔ اس واقعے کے بعد کھلاڑیوں کی سیکیورٹی پر سوالات اٹھائے جا رہے ہیں۔ کیا سیکیورٹی کو مزید سخت کرنا چاہیے؟",
+      "fb_caption": "پریذیڈنٹ ٹرافی میں بابر اعظم کی اننگز 21 رنز پر ختم ہو گئی۔ آؤٹ ہو کر پویلین جاتے ہوئے مداحوں نے انہیں گھیر لیا اور سیلفیاں بنوائیں۔ اس واقعے کے بعد کھلاڑیوں کی سیکیورٹی پر سوالات اٹھائے جا رہے ہیں۔ کیا سیکیورٹی کو مزید سخت کرنا چاہیے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #BabarAzam #PresidentTrophy #OGDCL #PakistanCricket #DomesticCricket",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BabarAzam",
+        "#PresidentTrophy",
+        "#OGDCL",
+        "#PakistanCricket",
+        "#DomesticCricket"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 346,
+      "telegram_file_id": "BQACAgQAAxkDAAIBWmq9fQSDKKoZ6yvw7EMs8PFlPtMuAAJPIwAC8mLxUWLqhpaNtp06PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-09-30T21:20:03.704657+00:00",
+      "updated_at": "2026-09-30T21:20:05.036980+00:00",
       "posted_at": null
     }
   ]
