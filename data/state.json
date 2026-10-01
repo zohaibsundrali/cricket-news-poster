@@ -336,7 +336,8 @@
     "49c12f5da05464f3": "2026-09-30T08:13:45.734462+00:00",
     "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00",
     "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00",
-    "39f24dd5f07c99f2": "2026-09-30T21:20:03.704708+00:00"
+    "39f24dd5f07c99f2": "2026-09-30T21:20:03.704708+00:00",
+    "a0c7e66e44d4b196": "2026-10-01T08:35:03.512722+00:00"
   },
   "posts": [
     {
@@ -6007,6 +6008,40 @@
       "error_msg": null,
       "created_at": "2026-09-30T21:20:03.704657+00:00",
       "updated_at": "2026-09-30T21:20:05.036980+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261001T0835Z-0003cb",
+      "url_hash": "a0c7e66e44d4b196",
+      "source_url": "https://www.dawn.com/news/2033958/pakistan-beat-hong-kong-to-seal-asian-games-squash-silver-and-final-spot",
+      "source_name": "Dawn",
+      "title_en": "Pakistan beat Hong Kong to seal Asian Games squash silver and final spot",
+      "headline_ur": "پاکستان ایشین گیمز اسکواش فائنل میں، سلور میڈل یقینی",
+      "summary_ur": [
+        "پاکستان نے ہانگ کانگ کو 2-1 سے ہرا کر فائنل میں جگہ بنا لی۔",
+        "قومی ٹیم نے کم از کم سلور میڈل حاصل کر لیا ہے۔",
+        "فائنل میں گولڈ میڈل کے لیے مقابلہ کرے گی۔"
+      ],
+      "caption_ur": "پاکستان نے ایشین گیمز اسکواش کے سیمی فائنل میں ہانگ کانگ کو شکست دے کر فائنل میں جگہ بنا لی ہے! یہ جیت قومی ٹیم کے لیے کم از کم سلور میڈل کی ضمانت ہے۔ اب ٹیم گولڈ میڈل کے لیے مقابلہ کرے گی۔ کیا آپ کو لگتا ہے کہ قومی ٹیم گولڈ میڈل جیت پائے گی؟",
+      "fb_caption": "پاکستان نے ایشین گیمز اسکواش کے سیمی فائنل میں ہانگ کانگ کو شکست دے کر فائنل میں جگہ بنا لی ہے! یہ جیت قومی ٹیم کے لیے کم از کم سلور میڈل کی ضمانت ہے۔ اب ٹیم گولڈ میڈل کے لیے مقابلہ کرے گی۔ کیا آپ کو لگتا ہے کہ قومی ٹیم گولڈ میڈل جیت پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #Squash #Pakistan #قومی_ٹیم #SilverMedal",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#Squash",
+        "#Pakistan",
+        "#قومی_ٹیم",
+        "#SilverMedal"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 349,
+      "telegram_file_id": "BQACAgQAAxkDAAIBXWq-GzhpFm9GwvU5MGH6cdZS5247AAJaJAAC8mLxUTStBFeEMf4WPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-01T08:35:03.512678+00:00",
+      "updated_at": "2026-10-01T08:35:04.704044+00:00",
       "posted_at": null
     }
   ]
