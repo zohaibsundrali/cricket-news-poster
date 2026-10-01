@@ -337,7 +337,8 @@
     "dceae719484b53d1": "2026-09-30T08:14:44.279687+00:00",
     "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00",
     "39f24dd5f07c99f2": "2026-09-30T21:20:03.704708+00:00",
-    "a0c7e66e44d4b196": "2026-10-01T08:35:03.512722+00:00"
+    "a0c7e66e44d4b196": "2026-10-01T08:35:03.512722+00:00",
+    "a170b319221a378c": "2026-10-01T17:30:14.028604+00:00"
   },
   "posts": [
     {
@@ -6042,6 +6043,39 @@
       "error_msg": null,
       "created_at": "2026-10-01T08:35:03.512678+00:00",
       "updated_at": "2026-10-01T08:35:04.704044+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261001T1730Z-e9728c",
+      "url_hash": "a170b319221a378c",
+      "source_url": "https://www.dawn.com/news/2034017/pakistan-india-and-australia-in-same-2027-cricket-world-cup-group",
+      "source_name": "Dawn",
+      "title_en": "Pakistan, India and Australia in same 2027 Cricket World Cup group",
+      "headline_ur": "پاکستان، بھارت اور آسٹریلیا ایک ہی ورلڈ کپ گروپ میں",
+      "summary_ur": [
+        "2027 ورلڈ کپ میں پاکستان، بھارت اور آسٹریلیا ایک ہی گروپ میں ہیں۔",
+        "بھارت اور آسٹریلیا کا میچ 7 اکتوبر کو کیپ ٹاؤن میں کھیلا جائے گا۔",
+        "بھارت اور پاکستان کا ٹاکرا جوہانسبرگ میں تین دن بعد ہوگا۔"
+      ],
+      "caption_ur": "2027 کرکٹ ورلڈ کپ کا شیڈول جاری کر دیا گیا ہے۔ پاکستان، بھارت اور آسٹریلیا ایک ہی گروپ میں شامل ہیں۔ کیا آپ اس ٹورنامنٹ کے لیے پرجوش ہیں؟",
+      "fb_caption": "2027 کرکٹ ورلڈ کپ کا شیڈول جاری کر دیا گیا ہے۔ پاکستان، بھارت اور آسٹریلیا ایک ہی گروپ میں شامل ہیں۔ کیا آپ اس ٹورنامنٹ کے لیے پرجوش ہیں؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #WorldCup2027 #PakistanCricket #IndiaVsPakistan #ICC",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#WorldCup2027",
+        "#PakistanCricket",
+        "#IndiaVsPakistan",
+        "#ICC"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 351,
+      "telegram_file_id": "BQACAgQAAxkDAAIBX2q-mKbGtkeC9IKY9Teh3OlmsCTCAAKmHwAC8mL5UZlJctVqyYgWPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-01T17:30:14.028554+00:00",
+      "updated_at": "2026-10-01T17:30:15.115246+00:00",
       "posted_at": null
     }
   ]
