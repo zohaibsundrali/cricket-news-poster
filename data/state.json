@@ -6003,11 +6003,11 @@
       "telegram_message_id": 346,
       "telegram_file_id": "BQACAgQAAxkDAAIBWmq9fQSDKKoZ6yvw7EMs8PFlPtMuAAJPIwAC8mLxUWLqhpaNtp06PQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-09-30T21:20:03.704657+00:00",
-      "updated_at": "2026-09-30T21:20:05.036980+00:00",
+      "updated_at": "2026-10-01T13:55:47.372392+00:00",
       "posted_at": null
     },
     {
