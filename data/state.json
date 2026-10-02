@@ -338,7 +338,9 @@
     "12f9b1b47691ae6d": "2026-09-30T16:46:02.230154+00:00",
     "39f24dd5f07c99f2": "2026-09-30T21:20:03.704708+00:00",
     "a0c7e66e44d4b196": "2026-10-01T08:35:03.512722+00:00",
-    "a170b319221a378c": "2026-10-01T17:30:14.028604+00:00"
+    "a170b319221a378c": "2026-10-01T17:30:14.028604+00:00",
+    "6fad022e1e70e027": "2026-10-02T08:10:24.549583+00:00",
+    "234af2c13b5deaef": "2026-10-02T08:10:33.591876+00:00"
   },
   "posts": [
     {
@@ -6076,6 +6078,40 @@
       "error_msg": null,
       "created_at": "2026-10-01T17:30:14.028554+00:00",
       "updated_at": "2026-10-01T17:30:15.115246+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261002T0810Z-848b85",
+      "url_hash": "234af2c13b5deaef",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-final-what-happens-if-rain-washes-out-asian-games-gold-medal-clash/articleshow/134634282.cms",
+      "source_name": "The Times of India",
+      "title_en": "India vs Pakistan final: What happens if rain washes out Asian Games gold medal clash?",
+      "headline_ur": "بھارت اور پاکستان فائنل، بارش کی صورت میں کیا ہوگا؟",
+      "summary_ur": [
+        "ایشین گیمز 2026 میں بھارت اور پاکستان کا گولڈ میڈل فائنل۔",
+        "بارش کے باعث میچ نہ ہونے پر گولڈ میڈل شیئر کیا جائے گا۔",
+        "یہ اصول 2023 کے ایشین گیمز سے مختلف ہے۔"
+      ],
+      "caption_ur": "ایشین گیمز 2026 میں کرکٹ کا فائنل بھارت اور پاکستان کے درمیان کھیلا جائے گا۔ تاہم بارش کی صورت میں میچ کا نتیجہ نہ نکلنے کا امکان ہے۔ نئے قوانین کے مطابق، اگر فائنل بارش کی وجہ سے منسوخ ہوا تو دونوں ٹیموں کو مشترکہ گولڈ میڈل دیا جائے گا۔ آپ کے خیال میں کون سی ٹیم گولڈ میڈل جیتے گی؟",
+      "fb_caption": "ایشین گیمز 2026 میں کرکٹ کا فائنل بھارت اور پاکستان کے درمیان کھیلا جائے گا۔ تاہم بارش کی صورت میں میچ کا نتیجہ نہ نکلنے کا امکان ہے۔ نئے قوانین کے مطابق، اگر فائنل بارش کی وجہ سے منسوخ ہوا تو دونوں ٹیموں کو مشترکہ گولڈ میڈل دیا جائے گا۔ آپ کے خیال میں کون سی ٹیم گولڈ میڈل جیتے گی؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AsianGames2026 #IndVsPak #GoldMedal #پاکستان #بھارت",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames2026",
+        "#IndVsPak",
+        "#GoldMedal",
+        "#پاکستان",
+        "#بھارت"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 353,
+      "telegram_file_id": "BQACAgQAAxkDAAIBYWq_ZvtYzfAldbe46D-xpHwxzTcdAALjHgACuzD4URNTysZa1NrNPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-02T08:10:33.591833+00:00",
+      "updated_at": "2026-10-02T08:10:35.298139+00:00",
       "posted_at": null
     }
   ]
