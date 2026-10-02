@@ -341,7 +341,9 @@
     "a170b319221a378c": "2026-10-01T17:30:14.028604+00:00",
     "6fad022e1e70e027": "2026-10-02T08:10:24.549583+00:00",
     "234af2c13b5deaef": "2026-10-02T08:10:33.591876+00:00",
-    "943d1bef744be33d": "2026-10-02T16:34:15.575104+00:00"
+    "943d1bef744be33d": "2026-10-02T16:34:15.575104+00:00",
+    "4aeac6b6bab3eb27": "2026-10-02T21:14:35.486221+00:00",
+    "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00"
   },
   "posts": [
     {
@@ -6147,6 +6149,40 @@
       "error_msg": null,
       "created_at": "2026-10-02T16:34:15.575060+00:00",
       "updated_at": "2026-10-02T16:34:16.742451+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261002T2114Z-95217c",
+      "url_hash": "c6bfe6fd892d5361",
+      "source_url": "https://www.dawn.com/news/2034306/south-africas-pretorius-smashes-highest-ever-score-in-t20-cricket",
+      "source_name": "Dawn",
+      "title_en": "South Africa's Pretorius smashes highest ever score in T20 cricket",
+      "headline_ur": "پریٹوریئس نے ٹی ٹونٹی میں سب سے بڑا انفرادی سکور بنا دیا",
+      "summary_ur": [
+        "لہواندرے پریٹوریئس نے ٹی ٹونٹی میں 188 رنز کی اننگز کھیلی۔",
+        "انہوں نے یہ سکور صرف 79 بالز پر بنایا، جو ایک نیا ریکارڈ ہے۔",
+        "پریٹوریئس نے کرس گیل کا 175 رنز کا ریکارڈ توڑ دیا۔"
+      ],
+      "caption_ur": "جنوبی افریقہ کے لہواندرے پریٹوریئس نے ٹی ٹونٹی کرکٹ کی تاریخ کا سب سے بڑا انفرادی سکور بنا کر سب کو حیران کر دیا۔ انہوں نے صرف 79 بالز پر 188 رنز کی دھواں دار اننگز کھیلی جس میں 13 چھکے اور 15 چوکے شامل تھے۔ اس سے پہلے یہ ریکارڈ کرس گیل کے 175 رنز کا تھا۔ کیا آپ کے خیال میں یہ ریکارڈ جلد ٹوٹ پائے گا؟",
+      "fb_caption": "جنوبی افریقہ کے لہواندرے پریٹوریئس نے ٹی ٹونٹی کرکٹ کی تاریخ کا سب سے بڑا انفرادی سکور بنا کر سب کو حیران کر دیا۔ انہوں نے صرف 79 بالز پر 188 رنز کی دھواں دار اننگز کھیلی جس میں 13 چھکے اور 15 چوکے شامل تھے۔ اس سے پہلے یہ ریکارڈ کرس گیل کے 175 رنز کا تھا۔ کیا آپ کے خیال میں یہ ریکارڈ جلد ٹوٹ پائے گا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #T20Record #Pretorius #SouthAfrica #Titans #HighestScore",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#T20Record",
+        "#Pretorius",
+        "#SouthAfrica",
+        "#Titans",
+        "#HighestScore"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 356,
+      "telegram_file_id": "BQACAgQAAxkDAAIBZGrAHsVydUqkTfYbm0vshAop8JtWAAIwIgACuzAAAVLrW3BmKuMR-z0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-02T21:14:44.668736+00:00",
+      "updated_at": "2026-10-02T21:14:45.796418+00:00",
       "posted_at": null
     }
   ]
