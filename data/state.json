@@ -6215,11 +6215,11 @@
       "telegram_message_id": 358,
       "telegram_file_id": "BQACAgQAAxkDAAIBZmrAs3R5LiCkLQ3WV8Izsup589myAALDHwACuzAIUglb6tikFLdWPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-03T07:49:06.920283+00:00",
-      "updated_at": "2026-10-03T07:49:08.235998+00:00",
+      "updated_at": "2026-10-03T21:39:34.145680+00:00",
       "posted_at": null
     },
     {
