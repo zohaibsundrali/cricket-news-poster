@@ -345,7 +345,8 @@
     "4aeac6b6bab3eb27": "2026-10-02T21:14:35.486221+00:00",
     "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00",
     "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00",
-    "4a2932472fc6ea85": "2026-10-03T13:11:01.988305+00:00"
+    "4a2932472fc6ea85": "2026-10-03T13:11:01.988305+00:00",
+    "d1efedd38723b4a3": "2026-10-03T17:51:32.539546+00:00"
   },
   "posts": [
     {
@@ -6252,6 +6253,40 @@
       "error_msg": null,
       "created_at": "2026-10-03T13:11:01.988257+00:00",
       "updated_at": "2026-10-03T13:11:03.627145+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261003T1751Z-edf15f",
+      "url_hash": "d1efedd38723b4a3",
+      "source_url": "https://www.dawn.com/news/2034438/hasan-nawazs-fighting-96-against-india-in-vain-as-pakistan-settle-for-asian-games-cricket-silver",
+      "source_name": "Dawn",
+      "title_en": "Hasan Nawaz's fighting 96 against India in vain as Pakistan settle for Asian Games cricket silver",
+      "headline_ur": "حسن نواز کی 96 رنز کی اننگز، پاکستان کو ایشین گیمز میں چاندی",
+      "summary_ur": [
+        "ایشین گیمز کرکٹ فائنل میں پاکستان کو بھارت سے 19 رنز سے شکست ہوئی۔",
+        "حسن نواز نے شاندار 96 رنز بنائے لیکن ٹیم کو فتح نہ دلا سکے",
+        "قومی ٹیم نے ایشین گیمز میں چاندی کا تمغہ حاصل کیا"
+      ],
+      "caption_ur": "ایشین گیمز کرکٹ فائنل میں پاکستان نے بھارت کے خلاف شاندار مقابلہ کیا۔ حسن نواز نے 96 رنز کی دلیرانہ اننگز کھیلی مگر بدقسمتی سے ٹیم کو گولڈ میڈل نہ مل سکا۔ قومی ٹیم نے چاندی کا تمغہ جیت کر ملک کا نام روشن کیا۔ آپ کے خیال میں پاکستان کی کارکردگی کیسی رہی؟",
+      "fb_caption": "ایشین گیمز کرکٹ فائنل میں پاکستان نے بھارت کے خلاف شاندار مقابلہ کیا۔ حسن نواز نے 96 رنز کی دلیرانہ اننگز کھیلی مگر بدقسمتی سے ٹیم کو گولڈ میڈل نہ مل سکا۔ قومی ٹیم نے چاندی کا تمغہ جیت کر ملک کا نام روشن کیا۔ آپ کے خیال میں پاکستان کی کارکردگی کیسی رہی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #PakistanCricket #HasanNawaz #SilverMedal #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#PakistanCricket",
+        "#HasanNawaz",
+        "#SilverMedal",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 362,
+      "telegram_file_id": "BQACAgQAAxkDAAIBamrBQKZSXylpS4hpaAafziUNN-r8AAKlJAACDTgJUugIyaIOr_C8PQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-03T17:51:32.539459+00:00",
+      "updated_at": "2026-10-03T17:51:34.493470+00:00",
       "posted_at": null
     }
   ]
