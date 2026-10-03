@@ -343,7 +343,8 @@
     "234af2c13b5deaef": "2026-10-02T08:10:33.591876+00:00",
     "943d1bef744be33d": "2026-10-02T16:34:15.575104+00:00",
     "4aeac6b6bab3eb27": "2026-10-02T21:14:35.486221+00:00",
-    "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00"
+    "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00",
+    "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00"
   },
   "posts": [
     {
@@ -6183,6 +6184,40 @@
       "error_msg": null,
       "created_at": "2026-10-02T21:14:44.668736+00:00",
       "updated_at": "2026-10-02T21:14:45.796418+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261003T0749Z-54b225",
+      "url_hash": "48c3ce6222d77c8a",
+      "source_url": "https://www.dawn.com/news/2034438/asian-games-final-pakistan-reach-76-3-at-halfway-stage-as-india-bowlers-dominate",
+      "source_name": "Dawn",
+      "title_en": "Asian Games final: Pakistan reach 76-3 at halfway stage as India bowlers dominate",
+      "headline_ur": "ایشین گیمز فائنل: پاکستان 10 اوورز میں 76 رنز",
+      "summary_ur": [
+        "بھارت نے پہلے بیٹنگ کرتے ہوئے 211 رنز 6 وکٹوں کے نقصان پر بنائے",
+        "پاکستان نے 10 اوورز میں 3 وکٹوں کے نقصان پر 76 رنز بنائے",
+        "پاکستان کو جیت کے لیے آخری 10 اوورز میں 136 رنز درکار ہیں"
+      ],
+      "caption_ur": "ایشین گیمز کے فائنل میں بھارت نے پاکستان کو 212 رنز کا ہدف دیا۔ پاکستان نے 10 اوورز میں 76 رنز بنائے، حسن نواز اور صائم ایوب کریز پر موجود ہیں۔ کیا قومی ٹیم یہ ہدف حاصل کر پائے گی؟",
+      "fb_caption": "ایشین گیمز کے فائنل میں بھارت نے پاکستان کو 212 رنز کا ہدف دیا۔ پاکستان نے 10 اوورز میں 76 رنز بنائے، حسن نواز اور صائم ایوب کریز پر موجود ہیں۔ کیا قومی ٹیم یہ ہدف حاصل کر پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianGames #PakistanCricket #INDvsPAK #Final #GoldMedal",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#PakistanCricket",
+        "#INDvsPAK",
+        "#Final",
+        "#GoldMedal"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 358,
+      "telegram_file_id": "BQACAgQAAxkDAAIBZmrAs3R5LiCkLQ3WV8Izsup589myAALDHwACuzAIUglb6tikFLdWPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-03T07:49:06.920283+00:00",
+      "updated_at": "2026-10-03T07:49:08.235998+00:00",
       "posted_at": null
     }
   ]
