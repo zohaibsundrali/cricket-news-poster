@@ -344,7 +344,8 @@
     "943d1bef744be33d": "2026-10-02T16:34:15.575104+00:00",
     "4aeac6b6bab3eb27": "2026-10-02T21:14:35.486221+00:00",
     "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00",
-    "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00"
+    "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00",
+    "4a2932472fc6ea85": "2026-10-03T13:11:01.988305+00:00"
   },
   "posts": [
     {
@@ -6218,6 +6219,39 @@
       "error_msg": null,
       "created_at": "2026-10-03T07:49:06.920283+00:00",
       "updated_at": "2026-10-03T07:49:08.235998+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261003T1311Z-aa5e43",
+      "url_hash": "4a2932472fc6ea85",
+      "source_url": "https://www.dawn.com/news/2034474/asian-games-pakistan-hockey-claim-comeback-bronze-as-volleyball-end-64-year-wait",
+      "source_name": "Dawn",
+      "title_en": "Asian Games: Pakistan hockey claim comeback bronze as volleyball end 64-year wait",
+      "headline_ur": "ایشین گیمز میں پاکستان کے دو برانز میڈل",
+      "summary_ur": [
+        "قومی ہاکی ٹیم نے جنوبی کوریا کو 5-3 سے شکست دے کر برانز میڈل جیتا۔",
+        "والی بال ٹیم نے چین کو 3-0 سے ہرا کر 64 سال بعد میڈل حاصل کیا۔"
+      ],
+      "caption_ur": "ایشین گیمز میں پاکستان نے شاندار کارکردگی دکھاتے ہوئے دو برانز میڈل جیت لیے۔ قومی ہاکی ٹیم نے جنوبی کوریا کو سنسنی خیز مقابلے کے بعد 5-3 سے ہرایا۔ والی بال ٹیم نے بھی چین کو 3-0 سے شکست دے کر 64 سال بعد میڈل حاصل کیا۔ آپ کو کون سی ٹیم کی کارکردگی زیادہ پسند آئی؟",
+      "fb_caption": "ایشین گیمز میں پاکستان نے شاندار کارکردگی دکھاتے ہوئے دو برانز میڈل جیت لیے۔ قومی ہاکی ٹیم نے جنوبی کوریا کو سنسنی خیز مقابلے کے بعد 5-3 سے ہرایا۔ والی بال ٹیم نے بھی چین کو 3-0 سے شکست دے کر 64 سال بعد میڈل حاصل کیا۔ آپ کو کون سی ٹیم کی کارکردگی زیادہ پسند آئی؟\n\nبشکریہ: Dawn\n\n#AsianGames #Pakistan #PakistanHockey #PakistanVolleyball #BronzeMedal #کرکٹ #Cricket",
+      "hashtags": [
+        "#AsianGames",
+        "#Pakistan",
+        "#PakistanHockey",
+        "#PakistanVolleyball",
+        "#BronzeMedal",
+        "#کرکٹ",
+        "#Cricket"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 361,
+      "telegram_file_id": "BQACAgQAAxkDAAIBaWrA_ucLqJDwyNkiIn9Rh2T6_N6yAAJZIwACDTgJUgE4-hGboBkmPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-03T13:11:01.988257+00:00",
+      "updated_at": "2026-10-03T13:11:03.627145+00:00",
       "posted_at": null
     }
   ]
