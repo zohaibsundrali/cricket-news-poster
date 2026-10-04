@@ -346,7 +346,8 @@
     "c6bfe6fd892d5361": "2026-10-02T21:14:44.668781+00:00",
     "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00",
     "4a2932472fc6ea85": "2026-10-03T13:11:01.988305+00:00",
-    "d1efedd38723b4a3": "2026-10-03T17:51:32.539546+00:00"
+    "d1efedd38723b4a3": "2026-10-03T17:51:32.539546+00:00",
+    "abc48d04a5729f4b": "2026-10-04T07:57:18.913082+00:00"
   },
   "posts": [
     {
@@ -6287,6 +6288,40 @@
       "error_msg": null,
       "created_at": "2026-10-03T17:51:32.539459+00:00",
       "updated_at": "2026-10-04T05:56:14.926739+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261004T0757Z-85a210",
+      "url_hash": "abc48d04a5729f4b",
+      "source_url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pakistan-dont-offer-much-competition-bcci-takes-swipe-after-asian-games-final/articleshow/134670245.cms",
+      "source_name": "The Times of India",
+      "title_en": "âPakistan donât offer much competitionâ: BCCI takes swipe after Asian Games final",
+      "headline_ur": "بی سی سی آئی صدر کا طنز: پاکستان اب مقابلہ نہیں کرتا",
+      "summary_ur": [
+        "بی سی سی آئی صدر نے ایشین گیمز فائنل میں پاکستان پر طنز کیا",
+        "بھارت نے فائنل میں پاکستان کو 19 رنز سے شکست دی",
+        "ان کے مطابق پاکستان اب زیادہ مقابلہ پیش نہیں کرتا"
+      ],
+      "caption_ur": "بی سی سی آئی صدر متھن منہاس نے ایشین گیمز فائنل میں پاکستان پر طنز کیا ہے۔ بھارت نے پاکستان کو 19 رنز سے ہرا کر گولڈ میڈل جیتا۔ ان کا کہنا ہے کہ پاکستان اب زیادہ مقابلہ پیش نہیں کرتا۔ کیا آپ ان کے اس بیان سے متفق ہیں؟",
+      "fb_caption": "بی سی سی آئی صدر متھن منہاس نے ایشین گیمز فائنل میں پاکستان پر طنز کیا ہے۔ بھارت نے پاکستان کو 19 رنز سے ہرا کر گولڈ میڈل جیتا۔ ان کا کہنا ہے کہ پاکستان اب زیادہ مقابلہ پیش نہیں کرتا۔ کیا آپ ان کے اس بیان سے متفق ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BCCI #PakistanCricket #AsianGames #IndVsPak #MithunManhas",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BCCI",
+        "#PakistanCricket",
+        "#AsianGames",
+        "#IndVsPak",
+        "#MithunManhas"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 366,
+      "telegram_file_id": "BQACAgQAAxkDAAIBbmrCBt8lT7XH8d_xKo_zeudxetGqAAIgHwACDTgRUjK9NFpWi5SaPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-04T07:57:18.913039+00:00",
+      "updated_at": "2026-10-04T07:57:19.995884+00:00",
       "posted_at": null
     }
   ]
