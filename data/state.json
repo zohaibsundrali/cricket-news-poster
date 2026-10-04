@@ -6320,11 +6320,11 @@
       "telegram_message_id": 366,
       "telegram_file_id": "BQACAgQAAxkDAAIBbmrCBt8lT7XH8d_xKo_zeudxetGqAAIgHwACDTgRUjK9NFpWi5SaPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-04T07:57:18.913039+00:00",
-      "updated_at": "2026-10-04T07:57:19.995884+00:00",
+      "updated_at": "2026-10-04T22:59:15.550434+00:00",
       "posted_at": null
     },
     {
