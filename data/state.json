@@ -347,7 +347,8 @@
     "48c3ce6222d77c8a": "2026-10-03T07:49:06.920324+00:00",
     "4a2932472fc6ea85": "2026-10-03T13:11:01.988305+00:00",
     "d1efedd38723b4a3": "2026-10-03T17:51:32.539546+00:00",
-    "abc48d04a5729f4b": "2026-10-04T07:57:18.913082+00:00"
+    "abc48d04a5729f4b": "2026-10-04T07:57:18.913082+00:00",
+    "1bedc2236246c81c": "2026-10-04T13:53:05.742656+00:00"
   },
   "posts": [
     {
@@ -6322,6 +6323,40 @@
       "error_msg": null,
       "created_at": "2026-10-04T07:57:18.913039+00:00",
       "updated_at": "2026-10-04T07:57:19.995884+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261004T1353Z-ca70ee",
+      "url_hash": "1bedc2236246c81c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-did-not-get-the-gold-on-a-platter-sanju-samson-on-indias-hard-fought-win-over-pakistan/articleshow/134671971.cms",
+      "source_name": "The Times of India",
+      "title_en": "âWe did not get the gold on a platterâ: Sanju Samson on Indiaâs hard-fought win over Pakistan",
+      "headline_ur": "سنجو سیمسن: پاکستان کے خلاف گولڈ میڈل آسانی سے نہیں ملا",
+      "summary_ur": [
+        "بھارت نے پاکستان کو 19 رنز سے ہرا کر ایشین گیمز گولڈ میڈل جیتا۔",
+        "سنجو سیمسن نے کہا گولڈ میڈل آسانی سے نہیں ملا، بہت محنت کرنی پڑی۔",
+        "بھارتی ٹیم نے 211 رنز بنائے جبکہ پاکستان 192 رنز بنا سکا۔"
+      ],
+      "caption_ur": "ایشین گیمز میں پاکستان کے خلاف گولڈ میڈل جیتنے کے بعد سنجو سیمسن کا کہنا ہے کہ یہ گولڈ میڈل آسانی سے نہیں ملا۔ انہوں نے کہا کہ بھارتی ٹیم کو اس کے لیے بہت محنت کرنی پڑی اور تجربہ کار کھلاڑیوں کی موجودگی نے بہت مدد کی۔ فائنل میں بھارت نے 211 رنز بنائے جبکہ پاکستان 192 رنز تک محدود رہا۔ آپ کے خیال میں یہ میچ کتنا سنسنی خیز تھا؟",
+      "fb_caption": "ایشین گیمز میں پاکستان کے خلاف گولڈ میڈل جیتنے کے بعد سنجو سیمسن کا کہنا ہے کہ یہ گولڈ میڈل آسانی سے نہیں ملا۔ انہوں نے کہا کہ بھارتی ٹیم کو اس کے لیے بہت محنت کرنی پڑی اور تجربہ کار کھلاڑیوں کی موجودگی نے بہت مدد کی۔ فائنل میں بھارت نے 211 رنز بنائے جبکہ پاکستان 192 رنز تک محدود رہا۔ آپ کے خیال میں یہ میچ کتنا سنسنی خیز تھا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #AsianGames #SanjuSamson #IndiaPakistan #GoldMedal #Sports",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianGames",
+        "#SanjuSamson",
+        "#IndiaPakistan",
+        "#GoldMedal",
+        "#Sports"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 367,
+      "telegram_file_id": "BQACAgQAAxkDAAIBb2rCWkK5aV56mJaJtEHVz1XTyJKUAAJCIAACDTgRUlXnnE-BgrcCPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-04T13:53:05.742608+00:00",
+      "updated_at": "2026-10-04T13:53:06.867948+00:00",
       "posted_at": null
     }
   ]
