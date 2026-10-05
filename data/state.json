@@ -6354,11 +6354,11 @@
       "telegram_message_id": 367,
       "telegram_file_id": "BQACAgQAAxkDAAIBb2rCWkK5aV56mJaJtEHVz1XTyJKUAAJCIAACDTgRUlXnnE-BgrcCPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-04T13:53:05.742608+00:00",
-      "updated_at": "2026-10-04T13:53:06.867948+00:00",
+      "updated_at": "2026-10-05T08:39:29.492561+00:00",
       "posted_at": null
     },
     {
@@ -6387,11 +6387,11 @@
       "telegram_message_id": 368,
       "telegram_file_id": "BQACAgQAAxkDAAIBcGrClQ-hWsOOgJR6P5fYDHebkDl-AAIkIAACDTgZUuh1wwh2EezYPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-04T18:03:58.382848+00:00",
-      "updated_at": "2026-10-04T18:03:59.616357+00:00",
+      "updated_at": "2026-10-05T08:39:29.643875+00:00",
       "posted_at": null
     }
   ]
