@@ -350,7 +350,8 @@
     "abc48d04a5729f4b": "2026-10-04T07:57:18.913082+00:00",
     "1bedc2236246c81c": "2026-10-04T13:53:05.742656+00:00",
     "42749ea6556694c6": "2026-10-04T18:03:38.288607+00:00",
-    "de4d8ef6952f8872": "2026-10-04T18:03:58.382897+00:00"
+    "de4d8ef6952f8872": "2026-10-04T18:03:58.382897+00:00",
+    "0acb8f47e2f6ed22": "2026-10-05T08:40:58.099120+00:00"
   },
   "posts": [
     {
@@ -6392,6 +6393,40 @@
       "error_msg": null,
       "created_at": "2026-10-04T18:03:58.382848+00:00",
       "updated_at": "2026-10-05T08:39:29.643875+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261005T0840Z-9cada3",
+      "url_hash": "0acb8f47e2f6ed22",
+      "source_url": "https://www.dawn.com/news/2034830/sl-name-squad-for-pakistan-odi-tri-series",
+      "source_name": "Dawn",
+      "title_en": "SL name squad for Pakistan ODI tri-series",
+      "headline_ur": "سری لنکا کا پاکستان ٹرائی سیریز کے لیے 16 رکنی اسکواڈ کا اعلان",
+      "summary_ur": [
+        "سری لنکا نے پاکستان میں ہونے والی ون ڈے ٹرائی سیریز کے لیے اسکواڈ کا اعلان کر دیا ہے۔",
+        "کوسل مینڈس 16 رکنی ٹیم کی قیادت کریں گے۔",
+        "ٹرائی سیریز کا آغاز 18 اکتوبر سے ہوگا۔"
+      ],
+      "caption_ur": "سری لنکا کرکٹ نے پاکستان میں ہونے والی ون ڈے ٹرائی سیریز کے لیے 16 رکنی اسکواڈ کا اعلان کر دیا ہے۔ کوسل مینڈس ٹیم کی قیادت کریں گے جبکہ پاتھم نسانکا کی شرکت مشروط ہے۔ کیا سری لنکا کی یہ ٹیم ورلڈ کپ 2027 کی تیاریوں میں کامیاب ہو پائے گی؟",
+      "fb_caption": "سری لنکا کرکٹ نے پاکستان میں ہونے والی ون ڈے ٹرائی سیریز کے لیے 16 رکنی اسکواڈ کا اعلان کر دیا ہے۔ کوسل مینڈس ٹیم کی قیادت کریں گے جبکہ پاتھم نسانکا کی شرکت مشروط ہے۔ کیا سری لنکا کی یہ ٹیم ورلڈ کپ 2027 کی تیاریوں میں کامیاب ہو پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #SriLanka #Pakistan #ODITriSeries #KusalMendis #WorldCup2027",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#SriLanka",
+        "#Pakistan",
+        "#ODITriSeries",
+        "#KusalMendis",
+        "#WorldCup2027"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 372,
+      "telegram_file_id": "BQACAgQAAxkDAAIBdGrDYptGamnRRYMcghUAAc7N4PdyzAACIiAAAtX3GFK7kV88j0-sQj0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-05T08:40:58.099075+00:00",
+      "updated_at": "2026-10-05T08:40:59.378538+00:00",
       "posted_at": null
     }
   ]
