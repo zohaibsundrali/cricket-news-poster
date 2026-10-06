@@ -6462,11 +6462,11 @@
       "telegram_message_id": 374,
       "telegram_file_id": "BQACAgQAAxkDAAIBdmrEtTrVTMmgzG2iaWftMOaY_q44AAK-HQAC1fcoUn8zRaiumC7UPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-06T08:45:45.124087+00:00",
-      "updated_at": "2026-10-06T08:45:46.558301+00:00",
+      "updated_at": "2026-10-06T21:28:39.714109+00:00",
       "posted_at": null
     },
     {
