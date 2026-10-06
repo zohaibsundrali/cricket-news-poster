@@ -351,7 +351,8 @@
     "1bedc2236246c81c": "2026-10-04T13:53:05.742656+00:00",
     "42749ea6556694c6": "2026-10-04T18:03:38.288607+00:00",
     "de4d8ef6952f8872": "2026-10-04T18:03:58.382897+00:00",
-    "0acb8f47e2f6ed22": "2026-10-05T08:40:58.099120+00:00"
+    "0acb8f47e2f6ed22": "2026-10-05T08:40:58.099120+00:00",
+    "5a3ab045fb47e76c": "2026-10-06T08:45:45.124129+00:00"
   },
   "posts": [
     {
@@ -6427,6 +6428,40 @@
       "error_msg": null,
       "created_at": "2026-10-05T08:40:58.099075+00:00",
       "updated_at": "2026-10-05T23:17:45.132392+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261006T0845Z-d7040f",
+      "url_hash": "5a3ab045fb47e76c",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-is-the-vice-captain-basit-ali-questions-pakistan-cricket-selector-aaqib-javed/articleshow/134728523.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Who is the vice-captain?': Basit Ali questions Pakistan cricket selector Aaqib Javed",
+      "headline_ur": "باسط علی نے نائب کپتان کے معاملے پر سوال اٹھا دیا",
+      "summary_ur": [
+        "باسط علی نے عاقب جاوید سے نائب کپتان کے بارے میں پوچھا",
+        "ٹی ٹونٹی اور ون ڈے ٹیموں میں نائب کپتان کا اعلان نہیں ہوا",
+        "صاحبزادہ فرحان ٹی ٹونٹی اور شاہین آفریدی ون ڈے کے کپتان ہیں"
+      ],
+      "caption_ur": "سابق کرکٹر باسط علی نے قومی ٹیم میں نائب کپتان کے معاملے پر سوال اٹھا دیا ہے۔ انہوں نے پی سی بی سلیکٹر عاقب جاوید سے براہ راست پوچھا ہے کہ ٹی ٹونٹی اور ون ڈے ٹیموں میں نائب کپتان کون ہے۔ وائٹ بال کرکٹ میں قیادت میں تبدیلیوں کے باوجود نائب کپتان کا اعلان کیوں نہیں کیا گیا؟",
+      "fb_caption": "سابق کرکٹر باسط علی نے قومی ٹیم میں نائب کپتان کے معاملے پر سوال اٹھا دیا ہے۔ انہوں نے پی سی بی سلیکٹر عاقب جاوید سے براہ راست پوچھا ہے کہ ٹی ٹونٹی اور ون ڈے ٹیموں میں نائب کپتان کون ہے۔ وائٹ بال کرکٹ میں قیادت میں تبدیلیوں کے باوجود نائب کپتان کا اعلان کیوں نہیں کیا گیا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BasitAli #AaqibJaved #PakistanCricket #ViceCaptain #قومی_ٹیم",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BasitAli",
+        "#AaqibJaved",
+        "#PakistanCricket",
+        "#ViceCaptain",
+        "#قومی_ٹیم"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 374,
+      "telegram_file_id": "BQACAgQAAxkDAAIBdmrEtTrVTMmgzG2iaWftMOaY_q44AAK-HQAC1fcoUn8zRaiumC7UPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-06T08:45:45.124087+00:00",
+      "updated_at": "2026-10-06T08:45:46.558301+00:00",
       "posted_at": null
     }
   ]
