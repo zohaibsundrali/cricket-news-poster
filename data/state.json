@@ -352,7 +352,12 @@
     "42749ea6556694c6": "2026-10-04T18:03:38.288607+00:00",
     "de4d8ef6952f8872": "2026-10-04T18:03:58.382897+00:00",
     "0acb8f47e2f6ed22": "2026-10-05T08:40:58.099120+00:00",
-    "5a3ab045fb47e76c": "2026-10-06T08:45:45.124129+00:00"
+    "5a3ab045fb47e76c": "2026-10-06T08:45:45.124129+00:00",
+    "9abcec5027150bf6": "2026-10-06T17:05:49.145271+00:00",
+    "b3af4746fba6de9c": "2026-10-06T17:05:49.199839+00:00",
+    "1752d7f95a202015": "2026-10-06T17:05:49.270844+00:00",
+    "aaa2898aa40f0040": "2026-10-06T17:05:49.337523+00:00",
+    "580a9041b5f3b8df": "2026-10-06T17:08:10.721807+00:00"
   },
   "posts": [
     {
@@ -6462,6 +6467,40 @@
       "error_msg": null,
       "created_at": "2026-10-06T08:45:45.124087+00:00",
       "updated_at": "2026-10-06T08:45:46.558301+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261006T1708Z-71e65b",
+      "url_hash": "580a9041b5f3b8df",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-clash-fuels-odi-world-cup-2027-ticket-frenzy-as-demand-crosses-1-1-million/articleshow/134741885.cms",
+      "source_name": "The Times of India",
+      "title_en": "India vs Pakistan clash fuels ODI World Cup 2027 ticket frenzy as demand crosses 1.1 million",
+      "headline_ur": "ورلڈ کپ 2027: پاک بھارت میچ کے ٹکٹوں کی ریکارڈ ڈیمانڈ",
+      "summary_ur": [
+        "ورلڈ کپ 2027 کے لیے 1.1 ملین سے زائد ٹکٹ درخواستیں موصول ہوئیں",
+        "پاک بھارت میچ کے لیے 110,000 سے زائد درخواستیں سب سے زیادہ ہیں",
+        "ٹکٹوں کی بالٹنگ 21 نومبر تک جاری رہے گی"
+      ],
+      "caption_ur": "آئی سی سی ورلڈ کپ 2027 کے ٹکٹوں کی ڈیمانڈ آسمان چھو رہی ہے۔ اب تک 1.1 ملین سے زائد درخواستیں موصول ہو چکی ہیں، جن میں پاک بھارت میچ سب سے زیادہ مقبول ہے۔ کیا آپ کو لگتا ہے کہ یہ ورلڈ کپ تاریخ کا سب سے بڑا ایونٹ ہوگا؟",
+      "fb_caption": "آئی سی سی ورلڈ کپ 2027 کے ٹکٹوں کی ڈیمانڈ آسمان چھو رہی ہے۔ اب تک 1.1 ملین سے زائد درخواستیں موصول ہو چکی ہیں، جن میں پاک بھارت میچ سب سے زیادہ مقبول ہے۔ کیا آپ کو لگتا ہے کہ یہ ورلڈ کپ تاریخ کا سب سے بڑا ایونٹ ہوگا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #ODIWorldCup2027 #IndVsPak #WorldCupTickets #کرکٹ_ورلڈکپ #ICC",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#ODIWorldCup2027",
+        "#IndVsPak",
+        "#WorldCupTickets",
+        "#کرکٹ_ورلڈکپ",
+        "#ICC"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 375,
+      "telegram_file_id": "BQACAgQAAxkDAAIBd2rFKvxZc-7TqyJ9TJXrSNttH-_gAAKJIAACsCUxUhSQtlYxIjTTPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-06T17:08:10.721766+00:00",
+      "updated_at": "2026-10-06T17:08:12.577376+00:00",
       "posted_at": null
     }
   ]
