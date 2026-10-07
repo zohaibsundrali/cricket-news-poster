@@ -6496,11 +6496,11 @@
       "telegram_message_id": 375,
       "telegram_file_id": "BQACAgQAAxkDAAIBd2rFKvxZc-7TqyJ9TJXrSNttH-_gAAKJIAACsCUxUhSQtlYxIjTTPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-06T17:08:10.721766+00:00",
-      "updated_at": "2026-10-06T17:08:12.577376+00:00",
+      "updated_at": "2026-10-07T07:07:49.614835+00:00",
       "posted_at": null
     }
   ]
