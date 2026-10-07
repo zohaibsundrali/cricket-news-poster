@@ -358,7 +358,9 @@
     "1752d7f95a202015": "2026-10-06T17:05:49.270844+00:00",
     "aaa2898aa40f0040": "2026-10-06T17:05:49.337523+00:00",
     "580a9041b5f3b8df": "2026-10-06T17:08:10.721807+00:00",
-    "f2aeb8fa871f0013": "2026-10-07T08:20:37.121966+00:00"
+    "f2aeb8fa871f0013": "2026-10-07T08:20:37.121966+00:00",
+    "01bf91b3163be7cf": "2026-10-07T17:43:08.501563+00:00",
+    "afc8dae20bb65770": "2026-10-07T17:43:53.670483+00:00"
   },
   "posts": [
     {
@@ -6536,6 +6538,40 @@
       "error_msg": null,
       "created_at": "2026-10-07T08:20:37.121911+00:00",
       "updated_at": "2026-10-07T08:20:38.793065+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261007T1743Z-d977cd",
+      "url_hash": "afc8dae20bb65770",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nobody-can-stop-bumrah-and-bhuvneshwar-ashwins-bold-prediction-as-pacer-makes-india-return-after-four-years/articleshow/134771489.cms",
+      "source_name": "The Times of India",
+      "title_en": "âNobody can stop Bumrah and Bhuvneshwarâ: Ashwinâs bold prediction as pacer makes India return after four years",
+      "headline_ur": "اشون کی بڑی پیش گوئی: بھونیشور ورلڈ کپ میں ہوں گے؟",
+      "summary_ur": [
+        "بھونیشور کمار 4 سال بعد انٹرنیشنل کرکٹ میں واپس آ گئے ہیں",
+        "اشون کا خیال ہے وہ اگلے سال 50 اوورز کے ورلڈ کپ میں شامل ہو سکتے ہیں",
+        "انہوں نے آخری ون ڈے 2022 میں جنوبی افریقہ کے خلاف کھیلا تھا"
+      ],
+      "caption_ur": "بھونیشور کمار کی انٹرنیشنل کرکٹ میں واپسی ہو گئی ہے۔ روی چندرن اشون کا کہنا ہے کہ اگر وہ اچھی کارکردگی دکھاتے ہیں تو اگلے سال ورلڈ کپ میں بھی شامل ہو سکتے ہیں۔ اشون کے مطابق بمراہ اور بھونیشور کی جوڑی کو کوئی نہیں روک سکتا۔ کیا آپ بھی اس جوڑی کو ورلڈ کپ میں دیکھنا چاہتے ہیں؟",
+      "fb_caption": "بھونیشور کمار کی انٹرنیشنل کرکٹ میں واپسی ہو گئی ہے۔ روی چندرن اشون کا کہنا ہے کہ اگر وہ اچھی کارکردگی دکھاتے ہیں تو اگلے سال ورلڈ کپ میں بھی شامل ہو سکتے ہیں۔ اشون کے مطابق بمراہ اور بھونیشور کی جوڑی کو کوئی نہیں روک سکتا۔ کیا آپ بھی اس جوڑی کو ورلڈ کپ میں دیکھنا چاہتے ہیں؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #BhuvneshwarKumar #Ashwin #WorldCup #ODI #بھونیشورکمار",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#BhuvneshwarKumar",
+        "#Ashwin",
+        "#WorldCup",
+        "#ODI",
+        "#بھونیشورکمار"
+      ],
+      "category_ur": "تبصرہ",
+      "telegram_message_id": 379,
+      "telegram_file_id": "BQACAgQAAxkDAAIBe2rGhNv0e8RM2nbrQF_6NExJZqNcAAI9IAACsCU5UrtyMmUUAx7GPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-07T17:43:53.670436+00:00",
+      "updated_at": "2026-10-07T17:43:55.826628+00:00",
       "posted_at": null
     }
   ]
