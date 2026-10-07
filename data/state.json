@@ -357,7 +357,8 @@
     "b3af4746fba6de9c": "2026-10-06T17:05:49.199839+00:00",
     "1752d7f95a202015": "2026-10-06T17:05:49.270844+00:00",
     "aaa2898aa40f0040": "2026-10-06T17:05:49.337523+00:00",
-    "580a9041b5f3b8df": "2026-10-06T17:08:10.721807+00:00"
+    "580a9041b5f3b8df": "2026-10-06T17:08:10.721807+00:00",
+    "f2aeb8fa871f0013": "2026-10-07T08:20:37.121966+00:00"
   },
   "posts": [
     {
@@ -6501,6 +6502,40 @@
       "error_msg": null,
       "created_at": "2026-10-06T17:08:10.721766+00:00",
       "updated_at": "2026-10-07T07:07:49.614835+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261007T0820Z-aae85e",
+      "url_hash": "f2aeb8fa871f0013",
+      "source_url": "https://www.dawn.com/news/2035366/former-pakistan-u-19-captain-hassan-khan-handed-maiden-usa-call-up",
+      "source_name": "Dawn",
+      "title_en": "Former Pakistan U-19 captain Hassan Khan handed maiden USA call-up",
+      "headline_ur": "حسن خان کو امریکہ کی قومی ٹیم میں شامل کر لیا گیا",
+      "summary_ur": [
+        "پاکستان کے سابق انڈر 19 کپتان حسن خان کو امریکی ٹیم میں شامل کیا گیا۔",
+        "وہ علی خان کی جگہ لیں گے جو ہیمسٹرنگ انجری کی وجہ سے باہر ہو گئے ہیں۔",
+        "حسن خان نے میجر لیگ کرکٹ میں شاندار کارکردگی دکھائی ہے۔"
+      ],
+      "caption_ur": "پاکستان کے سابق انڈر 19 کپتان حسن خان کو امریکہ کی قومی ٹیم میں شامل کر لیا گیا ہے۔ وہ آئی سی سی کرکٹ ورلڈ کپ لیگ 2 کے لیے امریکی اسکواڈ کا حصہ بنیں گے۔ حسن خان نے میجر لیگ کرکٹ میں اپنی بہترین کارکردگی سے سب کو متاثر کیا ہے۔ کیا آپ کو لگتا ہے کہ وہ امریکی ٹیم کے لیے اہم ثابت ہوں گے؟",
+      "fb_caption": "پاکستان کے سابق انڈر 19 کپتان حسن خان کو امریکہ کی قومی ٹیم میں شامل کر لیا گیا ہے۔ وہ آئی سی سی کرکٹ ورلڈ کپ لیگ 2 کے لیے امریکی اسکواڈ کا حصہ بنیں گے۔ حسن خان نے میجر لیگ کرکٹ میں اپنی بہترین کارکردگی سے سب کو متاثر کیا ہے۔ کیا آپ کو لگتا ہے کہ وہ امریکی ٹیم کے لیے اہم ثابت ہوں گے؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #HassanKhan #USACricket #MLC #PakistanCricket #PlayerNews",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#HassanKhan",
+        "#USACricket",
+        "#MLC",
+        "#PakistanCricket",
+        "#PlayerNews"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 378,
+      "telegram_file_id": "BQACAgQAAxkDAAIBemrGAAHWj8ODEE0YFzlk7L6rsi9R_QACgiEAArAlMVJOhUv2kbsd6T0E",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-07T08:20:37.121911+00:00",
+      "updated_at": "2026-10-07T08:20:38.793065+00:00",
       "posted_at": null
     }
   ]
