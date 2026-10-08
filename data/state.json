@@ -363,7 +363,9 @@
     "afc8dae20bb65770": "2026-10-07T17:43:53.670483+00:00",
     "e19b8ee44a45bfa9": "2026-10-08T08:35:56.784211+00:00",
     "c78d3e6a59adad83": "2026-10-08T08:35:56.832854+00:00",
-    "e0017c076d25ccb4": "2026-10-08T08:36:07.173838+00:00"
+    "e0017c076d25ccb4": "2026-10-08T08:36:07.173838+00:00",
+    "cbc9f96182223408": "2026-10-08T17:48:09.862755+00:00",
+    "575314130755a39a": "2026-10-08T17:48:21.416790+00:00"
   },
   "posts": [
     {
@@ -6608,6 +6610,40 @@
       "error_msg": null,
       "created_at": "2026-10-08T08:36:07.173787+00:00",
       "updated_at": "2026-10-08T08:36:08.314540+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261008T1748Z-560d2f",
+      "url_hash": "575314130755a39a",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-2027-to-clash-with-ipl-again-as-pcb-locks-dates-bcci-also-eyes-early-march-start/articleshow/134794371.cms",
+      "source_name": "The Times of India",
+      "title_en": "PSL 2027 to clash with IPL again as PCB locks dates; BCCI also eyes early-March start",
+      "headline_ur": "پی ایس ایل 2027 اور آئی پی ایل کا پھر ٹکراؤ",
+      "summary_ur": [
+        "پی سی بی نے پی ایس ایل 12 کی تاریخیں 18 مارچ سے 2 مئی 2027 تک فائنل کر دیں۔",
+        "آئی پی ایل 2027 بھی مارچ کے وسط میں شروع ہونے کا امکان ہے۔",
+        "دونوں بڑی لیگز کے درمیان کھلاڑیوں اور ناظرین کے لیے مقابلہ ہوگا۔"
+      ],
+      "caption_ur": "پاکستان سپر لیگ 2027 اور انڈین پریمیئر لیگ کا شیڈول ایک بار پھر ٹکرا رہا ہے۔ پی سی بی نے پی ایس ایل 12 کی تاریخیں 18 مارچ سے 2 مئی 2027 تک طے کر دی ہیں۔ آئی پی ایل بھی مارچ کے وسط میں شروع ہونے کا ارادہ رکھتی ہے تاکہ مئی کے وسط تک ختم ہو سکے۔ اس ٹکراؤ سے کھلاڑیوں اور شائقین پر کیا اثر پڑے گا؟",
+      "fb_caption": "پاکستان سپر لیگ 2027 اور انڈین پریمیئر لیگ کا شیڈول ایک بار پھر ٹکرا رہا ہے۔ پی سی بی نے پی ایس ایل 12 کی تاریخیں 18 مارچ سے 2 مئی 2027 تک طے کر دی ہیں۔ آئی پی ایل بھی مارچ کے وسط میں شروع ہونے کا ارادہ رکھتی ہے تاکہ مئی کے وسط تک ختم ہو سکے۔ اس ٹکراؤ سے کھلاڑیوں اور شائقین پر کیا اثر پڑے گا؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #PSL2027 #IPL2027 #CricketNews #پاکستان #T20League",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#PSL2027",
+        "#IPL2027",
+        "#CricketNews",
+        "#پاکستان",
+        "#T20League"
+      ],
+      "category_ur": "کرکٹ خبر",
+      "telegram_message_id": 383,
+      "telegram_file_id": "BQACAgQAAxkDAAIBf2rH12a0toQntq5j3fza_vqJfnqGAAJOJAACEV45UkTHOwYy5xRwPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-08T17:48:21.416748+00:00",
+      "updated_at": "2026-10-08T17:48:22.674626+00:00",
       "posted_at": null
     }
   ]
