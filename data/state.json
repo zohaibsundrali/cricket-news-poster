@@ -6567,11 +6567,11 @@
       "telegram_message_id": 379,
       "telegram_file_id": "BQACAgQAAxkDAAIBe2rGhNv0e8RM2nbrQF_6NExJZqNcAAI9IAACsCU5UrtyMmUUAx7GPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-07T17:43:53.670436+00:00",
-      "updated_at": "2026-10-07T17:43:55.826628+00:00",
+      "updated_at": "2026-10-08T06:16:07.065171+00:00",
       "posted_at": null
     }
   ]
