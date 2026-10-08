@@ -6533,11 +6533,11 @@
       "telegram_message_id": 378,
       "telegram_file_id": "BQACAgQAAxkDAAIBemrGAAHWj8ODEE0YFzlk7L6rsi9R_QACgiEAArAlMVJOhUv2kbsd6T0E",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-07T08:20:37.121911+00:00",
-      "updated_at": "2026-10-07T08:20:38.793065+00:00",
+      "updated_at": "2026-10-08T00:13:34.022372+00:00",
       "posted_at": null
     },
     {
