@@ -365,7 +365,11 @@
     "c78d3e6a59adad83": "2026-10-08T08:35:56.832854+00:00",
     "e0017c076d25ccb4": "2026-10-08T08:36:07.173838+00:00",
     "cbc9f96182223408": "2026-10-08T17:48:09.862755+00:00",
-    "575314130755a39a": "2026-10-08T17:48:21.416790+00:00"
+    "575314130755a39a": "2026-10-08T17:48:21.416790+00:00",
+    "52efe9108aa2fda0": "2026-10-09T08:42:08.716217+00:00",
+    "6130184c238d3b84": "2026-10-09T08:42:08.805283+00:00",
+    "345a5f8a08885c5e": "2026-10-09T08:42:08.864249+00:00",
+    "4bc808ccb379f433": "2026-10-09T08:42:19.488527+00:00"
   },
   "posts": [
     {
@@ -6644,6 +6648,40 @@
       "error_msg": null,
       "created_at": "2026-10-08T17:48:21.416748+00:00",
       "updated_at": "2026-10-09T05:56:11.795784+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261009T0842Z-1a2f26",
+      "url_hash": "4bc808ccb379f433",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bas-lage-rhna-hai-back-in-rhythm-mukesh-kumar-pushes-for-india-comeback-exclusive/articleshow/134819481.cms",
+      "source_name": "The Times of India",
+      "title_en": "'Bas lage rhna hai': Back in rhythm, Mukesh Kumar pushes for India comeback | EXCLUSIVE",
+      "headline_ur": "مکیش کمار فارم میں واپس، قومی ٹیم میں واپسی کے لیے پرعزم",
+      "summary_ur": [
+        "مکیش کمار دو سال سے زائد عرصے بعد انڈیا اے اسکواڈ میں شامل۔",
+        "انہوں نے حالیہ سیزن میں 12 اور 8 وکٹیں حاصل کیں۔",
+        "فٹنس اور ردھم میں بہترین محسوس کر رہے ہیں۔"
+      ],
+      "caption_ur": "فاسٹ بولر مکیش کمار دو سال بعد قومی ٹیم میں واپسی کے لیے پر امید ہیں۔ وہ انڈیا اے اسکواڈ میں شامل ہو گئے ہیں اور نیوزی لینڈ کا دورہ کریں گے۔ مکیش نے حالیہ سیزن میں شاندار کارکردگی دکھائی ہے اور اپنی فٹنس پر بھی بہت کام کیا ہے۔ کیا آپ کو لگتا ہے کہ وہ جلد ہی انڈیا کے لیے دوبارہ کھیلیں گے؟",
+      "fb_caption": "فاسٹ بولر مکیش کمار دو سال بعد قومی ٹیم میں واپسی کے لیے پر امید ہیں۔ وہ انڈیا اے اسکواڈ میں شامل ہو گئے ہیں اور نیوزی لینڈ کا دورہ کریں گے۔ مکیش نے حالیہ سیزن میں شاندار کارکردگی دکھائی ہے اور اپنی فٹنس پر بھی بہت کام کیا ہے۔ کیا آپ کو لگتا ہے کہ وہ جلد ہی انڈیا کے لیے دوبارہ کھیلیں گے؟\n\nبشکریہ: The Times of India\n\n#Cricket #کرکٹ #MukeshKumar #IndiaCricket #FastBowler #Comeback #کھلاڑیخبر",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MukeshKumar",
+        "#IndiaCricket",
+        "#FastBowler",
+        "#Comeback",
+        "#کھلاڑیخبر"
+      ],
+      "category_ur": "کھلاڑی خبر",
+      "telegram_message_id": 386,
+      "telegram_file_id": "BQACAgQAAxkDAAIBgmrIqOx_gAHEaxqsxqhcmG7ktJXbAAL2HwACEV5BUglx2VMp-VmBPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-09T08:42:19.488458+00:00",
+      "updated_at": "2026-10-09T08:42:21.200123+00:00",
       "posted_at": null
     }
   ]
