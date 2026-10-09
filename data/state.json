@@ -369,7 +369,8 @@
     "52efe9108aa2fda0": "2026-10-09T08:42:08.716217+00:00",
     "6130184c238d3b84": "2026-10-09T08:42:08.805283+00:00",
     "345a5f8a08885c5e": "2026-10-09T08:42:08.864249+00:00",
-    "4bc808ccb379f433": "2026-10-09T08:42:19.488527+00:00"
+    "4bc808ccb379f433": "2026-10-09T08:42:19.488527+00:00",
+    "b155482ba02c11e4": "2026-10-09T17:23:37.874367+00:00"
   },
   "posts": [
     {
@@ -6682,6 +6683,40 @@
       "error_msg": null,
       "created_at": "2026-10-09T08:42:19.488458+00:00",
       "updated_at": "2026-10-09T08:42:21.200123+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261009T1723Z-0f44d0",
+      "url_hash": "b155482ba02c11e4",
+      "source_url": "https://www.dawn.com/news/2035925/sahibzada-farhan-hits-dazzling-89-as-pakistan-down-sri-lanka-in-first-t20i",
+      "source_name": "Dawn",
+      "title_en": "Sahibzada Farhan hits dazzling 89 as Pakistan down Sri Lanka in first T20I",
+      "headline_ur": "صاحبزادہ فرحان کی 89 رنز کی اننگز، پاکستان کی سری لنکا کو شکست",
+      "summary_ur": [
+        "صاحبزادہ فرحان کی شاندار 89 رنز کی اننگز",
+        "پاکستان نے سری لنکا کو 4 وکٹوں سے شکست دی",
+        "معاذ صداقت نے اپنی پہلی ٹی ٹونٹی ففٹی بنائی"
+      ],
+      "caption_ur": "پاکستان نے سری لنکا کو پہلے ٹی ٹونٹی میں شکست دے دی! صاحبزادہ فرحان نے کپتانی اننگز کھیلتے ہوئے 89 رنز بنائے۔ معاذ صداقت نے بھی شاندار ففٹی سکور کی۔ قومی ٹیم کی یہ کارکردگی آپ کو کیسی لگی؟",
+      "fb_caption": "پاکستان نے سری لنکا کو پہلے ٹی ٹونٹی میں شکست دے دی! صاحبزادہ فرحان نے کپتانی اننگز کھیلتے ہوئے 89 رنز بنائے۔ معاذ صداقت نے بھی شاندار ففٹی سکور کی۔ قومی ٹیم کی یہ کارکردگی آپ کو کیسی لگی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #Pakistan #SriLanka #T20I #SahibzadaFarhan #MaazSadaqat",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#Pakistan",
+        "#SriLanka",
+        "#T20I",
+        "#SahibzadaFarhan",
+        "#MaazSadaqat"
+      ],
+      "category_ur": "میچ رپورٹ",
+      "telegram_message_id": 387,
+      "telegram_file_id": "BQACAgQAAxkDAAIBg2rJIxo1mp3ZetHJxE-cybID7wHfAAInIwACINVIUjV1M02UvVMyPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-09T17:23:37.874314+00:00",
+      "updated_at": "2026-10-09T17:23:39.047252+00:00",
       "posted_at": null
     }
   ]
