@@ -375,7 +375,10 @@
     "d016f766d5ccc01a": "2026-10-10T16:09:18.376798+00:00",
     "d33742f4ef1b4a6f": "2026-10-10T16:09:53.301162+00:00",
     "93922c27419e96f9": "2026-10-10T16:09:53.315486+00:00",
-    "a79b5ad8c5e20676": "2026-10-10T16:10:03.364424+00:00"
+    "a79b5ad8c5e20676": "2026-10-10T16:10:03.364424+00:00",
+    "482e0f051fb7d9f9": "2026-10-10T20:32:50.730728+00:00",
+    "de2d5f53464ff4f5": "2026-10-10T20:33:26.629992+00:00",
+    "eb7c32ba06baa553": "2026-10-10T20:33:37.546073+00:00"
   },
   "posts": [
     {
@@ -6790,6 +6793,40 @@
       "error_msg": null,
       "created_at": "2026-10-10T16:10:03.364381+00:00",
       "updated_at": "2026-10-10T16:10:05.046792+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261010T2033Z-2a9bdc",
+      "url_hash": "eb7c32ba06baa553",
+      "source_url": "https://www.dawn.com/news/2036196/record-breaking-renshaw-puts-australia-on-top-in-durban",
+      "source_name": "Dawn",
+      "title_en": "Record-breaking Renshaw puts Australia on top in Durban",
+      "headline_ur": "رینشا کی ریکارڈ ساز اننگز، آسٹریلیا کی پوزیشن مضبوط",
+      "summary_ur": [
+        "میٹ رینشا نے 190 رنز کی شاندار اننگز کھیلی",
+        "آسٹریلیا نے پہلی اننگز میں 390 رنز بنا کر آل آؤٹ ہوئی",
+        "رینشا اور لیون کی 134 رنز کی ریکارڈ نویں وکٹ کی شراکت"
+      ],
+      "caption_ur": "جنوبی افریقہ کے خلاف پہلے ٹیسٹ میں میٹ رینشا نے کمال کر دکھایا۔ انہوں نے 190 رنز کی یادگار اننگز کھیل کر آسٹریلیا کو مضبوط پوزیشن پر لا کھڑا کیا۔ رینشا اور لیون نے نویں وکٹ کے لیے 134 رنز کی ریکارڈ شراکت قائم کی۔ آپ کے خیال میں یہ اننگز آسٹریلیا کو میچ جتوا پائے گی؟",
+      "fb_caption": "جنوبی افریقہ کے خلاف پہلے ٹیسٹ میں میٹ رینشا نے کمال کر دکھایا۔ انہوں نے 190 رنز کی یادگار اننگز کھیل کر آسٹریلیا کو مضبوط پوزیشن پر لا کھڑا کیا۔ رینشا اور لیون نے نویں وکٹ کے لیے 134 رنز کی ریکارڈ شراکت قائم کی۔ آپ کے خیال میں یہ اننگز آسٹریلیا کو میچ جتوا پائے گی؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #MattRenshaw #TestCricket #Australia #SouthAfrica #ریکارڈ",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#MattRenshaw",
+        "#TestCricket",
+        "#Australia",
+        "#SouthAfrica",
+        "#ریکارڈ"
+      ],
+      "category_ur": "ریکارڈ",
+      "telegram_message_id": 392,
+      "telegram_file_id": "BQACAgQAAxkDAAIBiGrKoShqeslescMauhq1cUoHhxiiAAJoJQACINVQUqFxWoFWNGnxPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-10T20:33:37.546031+00:00",
+      "updated_at": "2026-10-10T20:33:45.121360+00:00",
       "posted_at": null
     }
   ]
