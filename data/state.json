@@ -370,7 +370,8 @@
     "6130184c238d3b84": "2026-10-09T08:42:08.805283+00:00",
     "345a5f8a08885c5e": "2026-10-09T08:42:08.864249+00:00",
     "4bc808ccb379f433": "2026-10-09T08:42:19.488527+00:00",
-    "b155482ba02c11e4": "2026-10-09T17:23:37.874367+00:00"
+    "b155482ba02c11e4": "2026-10-09T17:23:37.874367+00:00",
+    "1c2e0987d3cb6f08": "2026-10-10T08:15:37.874534+00:00"
   },
   "posts": [
     {
@@ -6717,6 +6718,40 @@
       "error_msg": null,
       "created_at": "2026-10-09T17:23:37.874314+00:00",
       "updated_at": "2026-10-09T17:23:39.047252+00:00",
+      "posted_at": null
+    },
+    {
+      "id": "20261010T0815Z-764309",
+      "url_hash": "1c2e0987d3cb6f08",
+      "source_url": "https://www.dawn.com/news/2035937/bangladesh-to-replace-pakistan-in-asian-hockey-champions-trophy",
+      "source_name": "Dawn",
+      "title_en": "Bangladesh to replace Pakistan in Asian Hockey Champions Trophy",
+      "headline_ur": "پاکستان ایشین ہاکی چیمپئنز ٹرافی سے دستبردار، بنگلہ دیش شامل",
+      "summary_ur": [
+        "پاکستان نے ایشین ہاکی چیمپئنز ٹرافی 2026 سے دستبرداری اختیار کر لی۔",
+        "بنگلہ دیش نے پاکستان کی جگہ ٹورنامنٹ میں شمولیت اختیار کر لی ہے۔",
+        "یہ ٹورنامنٹ 27 اکتوبر سے 5 نومبر تک بھارت میں کھیلا جائے گا۔"
+      ],
+      "caption_ur": "پاکستان نے ایشین ہاکی چیمپئنز ٹرافی 2026 سے دستبرداری کا اعلان کر دیا ہے۔ بھارت میں ہونے والے اس ٹورنامنٹ کے لیے پاکستان کی جگہ بنگلہ دیش کو شامل کیا گیا ہے۔ پاکستان نے نیوٹرل وینیو کی درخواست مسترد ہونے پر یہ فیصلہ کیا۔ کیا آپ کے خیال میں یہ فیصلہ درست تھا؟",
+      "fb_caption": "پاکستان نے ایشین ہاکی چیمپئنز ٹرافی 2026 سے دستبرداری کا اعلان کر دیا ہے۔ بھارت میں ہونے والے اس ٹورنامنٹ کے لیے پاکستان کی جگہ بنگلہ دیش کو شامل کیا گیا ہے۔ پاکستان نے نیوٹرل وینیو کی درخواست مسترد ہونے پر یہ فیصلہ کیا۔ کیا آپ کے خیال میں یہ فیصلہ درست تھا؟\n\nبشکریہ: Dawn\n\n#Cricket #کرکٹ #AsianChampionsTrophy #Hockey #PakistanHockey #BangladeshHockey #India",
+      "hashtags": [
+        "#Cricket",
+        "#کرکٹ",
+        "#AsianChampionsTrophy",
+        "#Hockey",
+        "#PakistanHockey",
+        "#BangladeshHockey",
+        "#India"
+      ],
+      "category_ur": "ٹیم نیوز",
+      "telegram_message_id": 389,
+      "telegram_file_id": "BQACAgQAAxkDAAIBhWrJ9CtkV3ZmCygg-xkcJpQQuCMTAAIfJAACINVQUo1c9PCfIyjqPQQ",
+      "fb_post_id": null,
+      "status": "pending_approval",
+      "error_stage": null,
+      "error_msg": null,
+      "created_at": "2026-10-10T08:15:37.874492+00:00",
+      "updated_at": "2026-10-10T08:15:39.362238+00:00",
       "posted_at": null
     }
   ]
