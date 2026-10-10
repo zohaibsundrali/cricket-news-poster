@@ -6713,11 +6713,11 @@
       "telegram_message_id": 387,
       "telegram_file_id": "BQACAgQAAxkDAAIBg2rJIxo1mp3ZetHJxE-cybID7wHfAAInIwACINVIUjV1M02UvVMyPQQ",
       "fb_post_id": null,
-      "status": "pending_approval",
+      "status": "expired",
       "error_stage": null,
       "error_msg": null,
       "created_at": "2026-10-09T17:23:37.874314+00:00",
-      "updated_at": "2026-10-09T17:23:39.047252+00:00",
+      "updated_at": "2026-10-10T08:34:53.011644+00:00",
       "posted_at": null
     },
     {
